@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_69_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 69. Trách nhiệm tổ chức lập quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "69",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 69.\n\nTrách nhiệm tổ chức lập quy hoạch, kế hoạch sử dụng đất\n1. Chính phủ tổ chức lập quy hoạch, kế hoạch sử dụng đất quốc gia.\nBộ Tài nguyên và Môi trường có trách nhiệm chủ trì giúp Chính phủ lập quy hoạch, kế hoạch sử dụng\nđất quốc gia.\n2. Ủy ban nhân dân cấp tỉnh tổ chức lập quy hoạch, kế hoạch sử dụng đất cấp tỉnh.\nCơ quan có chức năng quản lý đất đai cấp tỉnh có trách nhiệm chủ trì giúp Ủy ban nhân dân cấp tỉnh lập\nquy hoạch, kế hoạch sử dụng đất cấp tỉnh.\n3. Ủy ban nhân dân cấp huyện tổ chức lập quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất\nhằng năm cấp huyện.\nCơ quan có chức năng quản lý đất đai cấp huyện có trách nhiệm chủ trì giúp Ủy ban nhân dân cấp\nhuyện lập quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện.\n4. Quy hoạch sử dụng đất được phê duyệt trong năm đầu tiên của kỳ quy hoạch.\n5. Quy hoạch, kế hoạch sử dụng đất của các địa phương có biển được lập bao gồm cả khu vực lấn biển."
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochuclapquydatquocgia",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tổ chức lập quy hoạch, kế hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochuclapquydatcaptinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tổ chức lập quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochuclapquydatcaphuyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tổ chức lập quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_69_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_69_2024",
+      "target_id": "hanhviphaply_tochuclapquydatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_69_2024",
+      "target_id": "chuthe_botainguyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_69_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_69_2024",
+      "target_id": "hanhviphaply_tochuclapquydatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_69_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_69_2024",
+      "target_id": "hanhviphaply_tochuclapquydatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

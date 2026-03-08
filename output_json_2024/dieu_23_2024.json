@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_23_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 23. Quyền của công dân đối với đất đai",
+        "ma_dieu": "23",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 23.\n\nQuyền của công dân đối với đất đai\n1. Tham gia xây dựng, góp ý, giám sát trong việc hoàn thiện và tổ chức thực hiện chính sách, pháp luật\nvề đất đai.\n2. Tham gia quản lý nhà nước, góp ý, thảo luận và kiến nghị, phản ánh với cơ quan nhà nước về công\ntác quản lý, sử dụng đất đai.\n ẳ ẳ about:blank\n. Quyền về bình đẳng, bình đẳng giới trong quản lý, sử dụng đất đai.\n4. Tham gia đấu giá quyền sử dụng đất, đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất\ntheo quy định của pháp luật; đề nghị Nhà nước giao đất, cho thuê đất không đấu giá quyền sử dụng\nđất, không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất theo quy định của pháp luật.\n5. Nhận chuyển nhượng, nhận tặng cho, nhận thừa kế, nhận góp vốn, thuê quyền sử dụng đất; mua,\nbán, nhận chuyển nhượng cổ phần, phần vốn góp là giá trị quyền sử dụng đất theo quy định của pháp\nluật.\n6. Thực hiện các quyền của người sử dụng đất theo quy định của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_quyencongdan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền của công dân"
+      }
+    },
+    {
+      "id": "khainiem_datdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_thamgi xay dựng góp ý giám sát",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tham gia xây dựng, góp ý, giám sát"
+      }
+    },
+    {
+      "id": "hanhviphaply_thamgiaquanlynhanuoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tham gia quản lý nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_thamgiadaugiaquyensdd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tham gia đấu giá quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển nhượng"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhantangcho",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận tặng cho"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanthuake",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận thừa kế"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhangopvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận góp vốn"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuequyensdd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_muabannhanchuyennhuongcophan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Mua, bán, nhận chuyển nhượng cổ phần"
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "khainiem_quyencongdan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "khainiem_datdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "hanhviphaply_thamgi xay dựng góp ý giám sát",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "hanhviphaply_thamgiaquanlynhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "hanhviphaply_thamgiadaugiaquyensdd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "hanhviphaply_nhanchuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "hanhviphaply_nhantangcho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "hanhviphaply_nhanthuake",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "hanhviphaply_nhangopvon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "hanhviphaply_thuequyensdd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "hanhviphaply_muabannhanchuyennhuongcophan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_23_2024",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

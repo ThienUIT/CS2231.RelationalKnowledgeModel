@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_149_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 149. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là công trình xây dựng không phải là nhà ở",
+        "ma_dieu": "149",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 149.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là công trình xây dựng không phải là nhà ở\n1. Hộ gia đình, cá nhân, cộng đồng dân cư sở hữu công trình xây dựng được cấp Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có một trong các loại giấy tờ sau đây:\na) Giấy phép xây dựng công trình hoặc giấy phép xây dựng công trình có thời hạn đối với trường hợp\nphải xin cấp giấy phép xây dựng theo quy định của pháp luật về xây dựng;\nb) Giấy tờ về sở hữu công trình xây dựng do cơ quan có thẩm quyền cấp qua các thời kỳ, trừ trường\nhợp Nhà nước đã quản lý, bố trí sử dụng;\nc) Giấy tờ về mua bán hoặc tặng cho hoặc thừa kế công trình xây dựng theo quy định của pháp luật;\nd) Bản án hoặc quyết định của Tòa án hoặc giấy tờ của cơ quan nhà nước có thẩm quyền đã có hiệu lực\npháp luật mà có xác định quyền sở hữu công trình xây dựng;\nđ) Một trong những giấy tờ quy định tại các điểm a, b, c và d khoản này mà trên giấy tờ đó ghi tên\nngười khác và đang không có tranh chấp.\n2. Trường hợp hộ gia đình, cá nhân, cộng đồng dân cư sở hữu công trình xây dựng trước ngày 01 tháng\n7 năm 2004 mà không có giấy tờ quy định tại khoản 1 Điều này đang không có tranh chấp thì được cấp\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n3. Trường hợp hộ gia đình, cá nhân, cộng đồng dân cư sở hữu công trình xây dựng không thuộc quy\nđịnh tại khoản 1 và khoản 2 Điều này mà thuộc trường hợp không phải xin giấy phép xây dựng thì\nđược cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; đối với trường\nhợp phải xin phép xây dựng thì phải có giấy xác nhận của cơ quan có chức năng quản lý về xây dựng\ncấp huyện đủ điều kiện tồn tại công trình xây dựng đó theo quy định của pháp luật về xây dựng.\n4. Tổ chức trong nước, tổ chức kinh tế có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng\nnx.about:blank\nlập công trình xây dựng mà có giấy tờ phù hợp với quy định của pháp luật về xây dựng thì được cấp\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\nTrường hợp mua, nhận tặng cho, nhận thừa kế công trình xây dựng hoặc được sở hữu công trình xây\ndựng thông qua hình thức khác theo quy định của pháp luật thì phải có giấy tờ về giao dịch đó theo quy\nđịnh của pháp luật.\n5. Trường hợp chủ sở hữu công trình xây dựng không có quyền sử dụng đất đối với thửa đất đó thì\nphải có giấy tờ chứng minh về quyền sở hữu công trình xây dựng theo quy định tại Điều này và hợp\nđồng thuê đất hoặc hợp đồng góp vốn hoặc hợp đồng hợp tác kinh doanh hoặc văn bản chấp thuận của\nngười sử dụng đất đồng ý cho xây dựng công trình đã được công chứng hoặc chứng thực theo quy định\ncủa pháp luật thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n6. Dự án có nhiều hạng mục công trình thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở\nhữu tài sản gắn liền với đất cho từng hạng mục công trình hoặc từng phần diện tích của hạng mục công\ntrình đó."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_tochucvondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiaotructhuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo trực thuộc"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuctrongnuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức trong nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_149_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_149_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_149_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_149_2024",
+      "target_id": "chuthe_tochuctrongnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_149_2024",
+      "target_id": "chuthe_tochucvondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_149_2024",
+      "target_id": "chuthe_tochucnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_149_2024",
+      "target_id": "chuthe_tochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_149_2024",
+      "target_id": "chuthe_tochuctongiaotructhuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_149_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

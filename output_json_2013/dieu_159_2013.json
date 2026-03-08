@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "id": "dieu_159_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 159. Đất cơ sở tôn giáo",
+        "ma_dieu": "159",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 159.\n\nĐất cơ sở tôn giáo\n1. Đất cơ sở tôn giáo gồm đất thuộc chùa, nhà thờ, nhà nguyện, thánh thất, thánh đường, niệm phật\nđường, tu viện, trường đào tạo riêng của tôn giáo, trụ sở của tổ chức tôn giáo, các cơ sở khác của tôn\ngiáo được Nhà nước cho phép hoạt động.\n2. Ủy ban nhân dân cấp tỉnh căn cứ vào chính sách tôn giáo của Nhà nước, quy hoạch, kế hoạch sử\ndụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt quyết định diện tích đất giao cho cơ sở\ntôn giáo."
+      }
+    },
+    {
+      "id": "khainiem_datcosotongiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_chua",
+      "label": "ChuThe",
+      "properties": {
+        "name": "chùa"
+      }
+    },
+    {
+      "id": "chuthe_nhatho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "nhà thờ"
+      }
+    },
+    {
+      "id": "chuthe_nhanguyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "nhà nguyện"
+      }
+    },
+    {
+      "id": "chuthe_thanhthat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "thánh thất"
+      }
+    },
+    {
+      "id": "chuthe_thanhduong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "thánh đường"
+      }
+    },
+    {
+      "id": "chuthe_niemphatduong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "niệm phật đường"
+      }
+    },
+    {
+      "id": "chuthe_tuvien",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tu viện"
+      }
+    },
+    {
+      "id": "chuthe_truongdaotaoriengcuatongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "trường đào tạo riêng của tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_trusocuatochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "trụ sở của tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_caccosokhaccuatongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "các cơ sở khác của tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "khainiem_datcosotongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_chua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_nhatho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_nhanguyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_thanhthat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_thanhduong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_niemphatduong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_tuvien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_truongdaotaoriengcuatongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_trusocuatochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_caccosokhaccuatongiao",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_146_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 146. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu",
+        "ma_dieu": "146",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 146.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu\n1. Thửa đất đang sử dụng được hình thành trước ngày văn bản quy định của Ủy ban nhân dân cấp tỉnh\nvề diện tích tối thiểu được tách thửa có hiệu lực thi hành mà diện tích thửa đất nhỏ hơn diện tích tối\nthiểu theo quy định của Ủy ban nhân dân cấp tỉnh nhưng có đủ điều kiện cấp Giấy chứng nhận quyền\nsử dụng đất, quyền sở hữu tài sản gắn liền với đất thì người đang sử dụng đất được cấp Giấy chứng\nnhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n2. Không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với\ntrường hợp tự chia, tách thửa đất đã đăng ký, đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc\nGiấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng\nđất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu tài sản gắn liền với đất thành 02 hoặc nhiều thửa đất mà trong đó có ít nhất 01 thửa đất\ncó diện tích nhỏ hơn diện tích tối thiểu được tách thửa theo quy định tại Điều 220 của Luật này .\n3. Trường hợp thửa đất đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận\nquyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu\nnhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản\ngắn liền với đất mà người sử dụng đất có nhu cầu tách thửa, hợp thửa nếu đáp ứng đủ điều kiện theo\nquy định tại Điều 220 của Luật này  thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài\nsản gắn liền với đất cho từng thửa đất sau khi tách thửa, hợp thửa. about:blank"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyensohuutaisanganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_thuadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thửa đất"
+      }
+    },
+    {
+      "id": "khainiem_dientichtoithieu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "diện tích tối thiểu"
+      }
+    },
+    {
+      "id": "chuthe_uybanndancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_nguoidangsudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người đang sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_dudieukien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "có đủ điều kiện"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_146_2024",
+      "target_id": "khainiem_giaychungnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2024",
+      "target_id": "khainiem_quyensohuutaisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2024",
+      "target_id": "khainiem_thuadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2024",
+      "target_id": "khainiem_dientichtoithieu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2024",
+      "target_id": "chuthe_uybanndancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2024",
+      "target_id": "chuthe_nguoidangsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2024",
+      "target_id": "dieukien_dudieukien",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

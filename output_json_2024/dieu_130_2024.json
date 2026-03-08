@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_130_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 130. Trách nhiệm lập, chỉnh lý, cập nhật, quản lý, khai thác hồ sơ địa chính",
+        "ma_dieu": "130",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 130.\n\nTrách nhiệm lập, chỉnh lý, cập nhật, quản lý, khai thác hồ sơ địa chính\n1. Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc lập hồ sơ địa chính tại địa phương và bố trí\nkinh phí để tổ chức thực hiện.\n2. Cơ quan có chức năng quản lý đất đai có trách nhiệm tổ chức thực hiện việc lập hồ sơ địa chính;\nkiểm tra, giám sát việc chỉnh lý, cập nhật hồ sơ địa chính thường xuyên tại địa phương.\n3. Tổ chức đăng ký đất đai có trách nhiệm thực hiện việc lập, chỉnh lý hồ sơ địa chính, cập nhật biến\nđộng vào hồ sơ địa chính.\nĐối với những địa phương chưa xây dựng cơ sở dữ liệu đất đai thì tổ chức đăng ký đất đai có trách\nnhiệm cung cấp bản sao hồ sơ địa chính cho Ủy ban nhân dân cấp xã để sử dụng.\n4. Công chức làm nhiệm vụ địa chính cấp xã có trách nhiệm quản lý, sử dụng thông tin từ hồ sơ địa\nchính phục vụ cho yêu cầu quản lý nhà nước về đất đai tại địa phương và theo yêu cầu của công dân;\ncập nhật biến động đất đai đối với những trường hợp biến động thuộc thẩm quyền và phản ánh tình\nhình vi phạm trong quản lý, sử dụng đất vào hồ sơ địa chính.\n5. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về hồ sơ địa chính, hướng dẫn việc lập, chỉnh lý,\ncập nhật, quản lý hồ sơ địa chính, việc khai thác, sử dụng và kiểm tra, giám sát đối với hồ sơ địa chính.\nMục 2. ĐĂNG KÝ ĐẤT  ĐAI, TÀI SẢN GẮN LIỀN VỚI ĐẤT"
+      }
+    },
+    {
+      "id": "chuthe_ubndcadtinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_chidaovielaphosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chỉ đạo việc lập hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "khainiem_hosodiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "chuthe_coquancochucnangquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có chức năng quản lý đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochucthuchienvieclaphosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tổ chức thực hiện việc lập hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "chuthe_tochucdangkydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức đăng ký đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchiencapnhatbiendongvaohosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thực hiện việc lập, chỉnh lý hồ sơ địa chính, cập nhật biến động vào hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_congchucdiaoccapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công chức làm nhiệm vụ địa chính cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_ubndcadtinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "hanhviphaply_chidaovielaphosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "khainiem_hosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_coquancochucnangquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "hanhviphaply_tochucthuchienvieclaphosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_tochucdangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "hanhviphaply_thuchiencapnhatbiendongvaohosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_congchucdiaoccapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_botruongbotnmt",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

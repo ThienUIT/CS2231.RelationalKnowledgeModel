@@ -1,0 +1,208 @@
+{
+  "entities": [
+    {
+      "id": "dieu_167_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 167. Quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, thế chấp, góp vốn quyền sử dụng đất",
+        "ma_dieu": "167",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 167.\n\nQuyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, thế chấp, góp vốn quyền sử dụng đất\n1. Người sử dụng đất được thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại,\nthừa kế, tặng cho, thế chấp, góp vốn quyền sử dụng đất theo quy định của Luật này .\n2. Nhóm người sử dụng đất mà có chung quyền sử dụng đất thì có các quyền và nghĩa vụ như sau:\na) Nhóm người sử dụng đất gồm hộ gia đình, cá nhân thì có quyền và nghĩa vụ như quyền và nghĩa vụ\ncủa hộ gia đình, cá nhân theo quy định của Luật này .\nTrường hợp trong nhóm người sử dụng đất có thành viên là tổ chức kinh tế thì có quyền và nghĩa vụ\nnhư quyền và nghĩa vụ của tổ chức kinh tế theo quy định của Luật này;\nb) Trường hợp nhóm người sử dụng đất mà quyền sử dụng đất phân chia được theo phần cho từng\nthành viên trong nhóm, nếu từng thành viên của nhóm muốn thực hiện quyền đối với phần quyền sử\ndụng đất của mình thì phải thực hiện thủ tục tách thửa theo quy định, làm thủ tục cấp Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất và được thực hiện quyền và\nnghĩa vụ của người sử dụng đất theo quy định của Luật này .\nTrường hợp quyền sử dụng đất của nhóm người sử dụng đất không phân chia được theo phần thì ủy\nquyền cho người đại diện để thực hiện quyền và nghĩa vụ của nhóm người sử dụng đất.\n3. Việc công chứng, chứng thực hợp đồng, văn bản thực hiện các quyền của người sử dụng đất được\nthực hiện như sau:\na) Hợp đồng chuyển nhượng, tặng cho, thế chấp, góp vốn bằng quyền sử dụng đất, quyền sử dụng đất\nvà tài sản gắn liền với đất phải được công chứng hoặc chứng thực, trừ trường hợp kinh doanh bất động\nsản quy định tại điểm b khoản này;\nb) Hợp đồng cho thuê, cho thuê lại quyền sử dụng đất, quyền sử dụng đất và tài sản gắn liền với đất,\nhợp đồng chuyển đổi quyền sử dụng đất nông nghiệp; hợp đồng chuyển nhượng quyền sử dụng đất,\nquyền sử dụng đất và tài sản gắn liền với đất, tài sản gắn liền với đất mà một bên hoặc các bên tham\ngia giao dịch là tổ chức hoạt động kinh doanh bất động sản được công chứng hoặc chứng thực theo yêu\ncầu của các bên;\nc) Văn bản về thừa kế quyền sử dụng đất, quyền sử dụng đất và tài sản gắn liền với đất được công\nchứng hoặc chứng thực theo quy định của pháp luật về dân sự;\nd) Việc công chứng thực hiện tại các tổ chức hành nghề công chứng, việc chứng thực thực hiện tại Ủy\nban nhân dân cấp xã."
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyendoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển đổi"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển nhượng"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuelai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê lại"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuaKe",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thừa kế"
+      }
+    },
+    {
+      "id": "hanhviphaply_tangcho",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tặng cho"
+      }
+    },
+    {
+      "id": "hanhviphaply_thechap",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thế chấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_gopvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "góp vốn"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_tochucKT",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_nhomnguoisdd",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhóm người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochucKDbatdongsan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức hoạt động kinh doanh bất động sản"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_tochuchnghecongchung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức hành nghề công chứng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "hanhviphaply_chuyendoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "hanhviphaply_chuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "hanhviphaply_chothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "hanhviphaply_chothuelai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "hanhviphaply_thuaKe",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "hanhviphaply_tangcho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "hanhviphaply_thechap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "hanhviphaply_gopvon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "chuthe_tochucKT",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "chuthe_nhomnguoisdd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "chuthe_tochucKDbatdongsan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2013",
+      "target_id": "chuthe_tochuchnghecongchung",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

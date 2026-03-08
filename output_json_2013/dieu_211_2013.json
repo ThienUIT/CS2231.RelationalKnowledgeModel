@@ -1,0 +1,109 @@
+{
+  "entities": [
+    {
+      "id": "dieu_211_2013",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khainiem_hieulucthihanh",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "dieukien_ngay01thang7nam2014",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieuluat_luatdatdaiso132003qh11",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "dieuluat_nghiquyetso492013qh13",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "hanhviphaply_hethieuluc",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieuluat_luathangkhongdandungvietnamso662006qh11",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "dieuluat_luatso342009qh12",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "dieuluat_luatso382009qh12",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "dieuluat_luattotunghanhchinhso642010qh12",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "dieuluat_luattrungmuatrungdungtaisan",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "hanhviphaply_baibo",
+      "label": "HànhViPhápLý"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_211_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hieulucthihanh"
+    },
+    {
+      "source_id": "dieu_211_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_ngay01thang7nam2014"
+    },
+    {
+      "source_id": "dieu_211_2013",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_hethieuluc"
+    },
+    {
+      "source_id": "hanhviphaply_hethieuluc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieuluat_luatdatdaiso132003qh11"
+    },
+    {
+      "source_id": "hanhviphaply_hethieuluc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieuluat_nghiquyetso492013qh13"
+    },
+    {
+      "source_id": "dieu_211_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_baibo"
+    },
+    {
+      "source_id": "hanhviphaply_baibo",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieuluat_luathangkhongdandungvietnamso662006qh11"
+    },
+    {
+      "source_id": "hanhviphaply_baibo",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieuluat_luatso342009qh12"
+    },
+    {
+      "source_id": "hanhviphaply_baibo",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieuluat_luatso382009qh12"
+    },
+    {
+      "source_id": "hanhviphaply_baibo",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieuluat_luattotunghanhchinhso642010qh12"
+    },
+    {
+      "source_id": "hanhviphaply_baibo",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieuluat_luattrungmuatrungdungtaisan"
+    }
+  ]
+}

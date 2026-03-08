@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_57_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 57. Phạm vi, đối tượng thống kê, kiểm kê đất đai",
+        "ma_dieu": "57",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 57.\n\nPhạm vi, đối tượng thống kê, kiểm kê đất đai\n1. Thống kê, kiểm kê đất đai được thực hiện trên phạm vi đơn vị hành chính cấp xã, cấp huyện, cấp\ntỉnh và phạm vi cả nước.\n2. Thời gian thực hiện thống kê, kiểm kê đất đai như sau:\na) Thống kê đất đai được thực hiện hằng năm, tính đến hết ngày 31 tháng 12 của năm thống kê, trừ\nnăm thực hiện kiểm kê đất đai;\nb) Kiểm kê đất đai được thực hiện 05 năm một lần, tính đến hết ngày 31 tháng 12 của năm có chữ số\ncuối là 4 hoặc 9.\n3. Kiểm kê đất đai chuyên đề được thực hiện theo yêu cầu của quản lý nhà nước về đất đai trong từng\nthời kỳ do Bộ trưởng Bộ Tài nguyên và Môi trường, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định."
+      }
+    },
+    {
+      "id": "khainiem_thongkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thống kê đất đai"
+      }
+    },
+    {
+      "id": "khainiem_kiemkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "chuthe_donvihanhchinhcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_donvihanhchinhcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_donvihanhchinhcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotainuyenvamoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_57_2024",
+      "target_id": "khainiem_thongkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_57_2024",
+      "target_id": "khainiem_kiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_57_2024",
+      "target_id": "chuthe_donvihanhchinhcapxa",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_57_2024",
+      "target_id": "chuthe_donvihanhchinhcaphuyen",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_57_2024",
+      "target_id": "chuthe_donvihanhchinhcaptinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_57_2024",
+      "target_id": "chuthe_botruongbotainuyenvamoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_57_2024",
+      "target_id": "chuthe_chutichubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

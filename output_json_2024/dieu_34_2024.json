@@ -1,0 +1,143 @@
+{
+  "entities": [
+    {
+      "id": "dieu_34_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 34. Quyền và nghĩa vụ của tổ chức kinh tế, đơn vị sự nghiệp công lập, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc sử dụng đất do Nhà nước cho thuê đất thu tiền hằng năm",
+        "ma_dieu": "34",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 34.\n\nQuyền và nghĩa vụ của tổ chức kinh tế, đơn vị sự nghiệp công lập, tổ chức tôn giáo, tổ\nchức tôn giáo trực thuộc sử dụng đất do Nhà nước cho thuê đất thu tiền hằng năm\n1. Tổ chức kinh tế, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước cho thuê đất thu tiền\nthuê đất hằng năm có các quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này ;\nb) Thế chấp tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt\nđộng tại Việt Nam, tại tổ chức kinh tế khác hoặc cá nhân theo quy định của pháp luật;\nc) Bán tài sản thuộc sở hữu của mình gắn liền với đất, bán tài sản thuộc sở hữu của mình gắn liền với\nđất và quyền thuê trong hợp đồng thuê đất khi đáp ứng điều kiện quy định tại Điều 46 của Luật này .\nNgười mua  tài sản gắn liền với đất và quyền thuê trong hợp đồng thuê đất được tiếp tục thuê đất theo\nmục đích đã được xác định và thời hạn sử dụng đất còn lại, được kế thừa các quyền và nghĩa vụ của\nngười sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan;\nd) Góp vốn bằng tài sản thuộc sở hữu của mình gắn liền với đất trong thời hạn thuê đất; người nhận\ngóp vốn bằng tài sản được Nhà nước tiếp tục cho thuê đất theo mục đích đã được xác định trong thời\nhạn còn lại;\nđ) Cho thuê tài sản thuộc sở hữu của mình gắn liền với đất và quyền thuê trong hợp đồng thuê đất;\ne) Cho thuê lại quyền sử dụng đất theo hình thức trả tiền thuê đất hằng năm đối với đất đã được xây\ndựng xong kết cấu hạ tầng trong trường hợp được phép đầu tư xây dựng kinh doanh kết cấu hạ tầng\nđối với đất khu công nghiệp, cụm công nghiệp, khu công nghệ cao; người thuê lại quyền sử dụng đất\nphải sử dụng đất đúng mục đích và thực hiện nghĩa vụ tài chính theo quy định của pháp luật.\n2. Đơn vị sự nghiệp công lập được Nhà nước cho thuê đất thu tiền thuê đất hằng năm không thuộc\ntrường hợp sử dụng đất để đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghiệp, cụm công\nnghiệp quy định tại khoản 2 Điều 202 của Luật này  thì có quyền và nghĩa vụ quy định tại khoản 1 Điều\nnày, trừ quyền bán, quyền thế chấp và quyền góp vốn bằng tài sản gắn liền với đất và quyền thuê trong\nhợp đồng thuê đất. Việc khai thác, sử dụng quỹ đất đã được Nhà nước cho thuê đất kết hợp vào mục\nđích khác thực hiện theo quy định sau đây:\na) Đối với đất đơn vị sự nghiệp công lập được Nhà nước cho thuê đất thì được phép chủ động khai\nthác, sử dụng kết hợp đa mục đích theo phương án được cơ quan chủ quản phê duyệt phù hợp với quy\nđịnh của Luật này và pháp luật có liên quan; trường hợp có đầu tư xây dựng công trình trên đất phải\nphù hợp với pháp luật về xây dựng. Việc khai thác, sử dụng đất kết hợp đa mục đích phải được hạch\ntoán theo quy định của pháp luật;\nb) Đối với đất do đơn vị sự nghiệp công lập đang sử dụng mà có nhu cầu cho thuê, liên doanh, liên kết\nvới tổ chức kinh tế thì phải có đề án sử dụng tài sản công vào mục đích cho thuê, liên doanh, liên kết\nđược cấp có thẩm quyền phê duyệt theo quy định của pháp luật về quản lý, sử dụng tài sản công.\n3. Tổ chức kinh tế, đơn vị sự nghiệp công lập sử dụng đất thuê của tổ chức, cá nhân ngoài khu công\nnghiệp, cụm công nghiệp, khu công nghệ cao thì có các quyền và nghĩa vụ theo quy định của pháp luật\nvề dân sự."
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_donvisungnghiepclap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiaotructhuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo trực thuộc"
+      }
+    },
+    {
+      "id": "khainiem_datdothuenhanuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất do Nhà nước cho thuê đất thu tiền hằng năm"
+      }
+    },
+    {
+      "id": "hanhviphaply_thechapsan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thế chấp tài sản"
+      }
+    },
+    {
+      "id": "hanhviphaply_bants",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bán tài sản"
+      }
+    },
+    {
+      "id": "hanhviphaply_gopvonts",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Góp vốn bằng tài sản"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuets",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê tài sản"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuelaidsd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê lại quyền sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "chuthe_donvisungnghiepclap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "chuthe_tochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "chuthe_tochuctongiaotructhuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "khainiem_datdothuenhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "hanhviphaply_thechapsan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "hanhviphaply_bants",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "hanhviphaply_gopvonts",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "hanhviphaply_chothuets",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_34_2024",
+      "target_id": "hanhviphaply_chothuelaidsd",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

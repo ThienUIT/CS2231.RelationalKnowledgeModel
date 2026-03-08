@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_187_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 187. Đất làm muối",
+        "ma_dieu": "187",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 187.\n\nĐất làm muối\n1. Đất làm muối được Nhà nước giao cho cá nhân trong hạn mức giao đất quy định tại Điều 176 của\nLuật này  tại địa phương để sản xuất muối. Trường hợp người đang sử dụng đất sử dụng vượt hạn mức\ngiao đất thì phần vượt hạn mức giao đất phải chuyển sang thuê đất.\nĐất làm muối được Nhà nước cho thuê đối với tổ chức kinh tế, người gốc Việt Nam định cư ở nước\nngoài, tổ chức kinh tế có vốn đầu tư nước ngoài để thực hiện dự án đầu tư sản xuất muối.\n2. Những vùng đất làm muối có năng suất, chất lượng cao phải được bảo vệ và ưu tiên cho việc sản\nxuất muối.\n3. Nhà nước khuyến khích việc sử dụng những vùng đất có khả năng làm muối để sản xuất muối phục\nvụ cho nhu cầu công nghiệp và đời sống."
+      }
+    },
+    {
+      "id": "khainiem_datlammuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất làm muối"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "dieukien_hanmucgiaodat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "hạn mức giao đất quy định tại Điều 176 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_nguoidangsudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người đang sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyensangthuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển sang thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchienduan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thực hiện dự án"
+      }
+    },
+    {
+      "id": "khainiem_vungdatlammuoicongsuatcaochatluongcao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "vùng đất làm muối có năng suất, chất lượng cao"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "khainiem_datlammuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "dieukien_hanmucgiaodat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "chuthe_nguoidangsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "hanhviphaply_chuyensangthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "chuthe_tochuc_kinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "hanhviphaply_thuchienduan",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_187_2024",
+      "target_id": "khainiem_vungdatlammuoicongsuatcaochatluongcao",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

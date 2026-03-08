@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_72_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 72. Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "72",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 72.\n\nThẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất\n1. Thẩm quyền quyết định, phê duyệt quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc\nphòng, quy hoạch sử dụng đất an ninh thực hiện theo quy định của Luật Quy hoạch .\n2. Chính phủ phê duyệt kế hoạch sử dụng đất quốc gia.\n3. Thủ tướng Chính phủ phê duyệt quy hoạch sử dụng đất cấp tỉnh, kế hoạch sử dụng đất cấp tỉnh đối\nvới thành phố trực thuộc Trung ương không phải lập quy hoạch sử dụng đất cấp tỉnh.\n4. Ủy ban nhân dân cấp tỉnh phê duyệt quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng\nnăm cấp huyện.\n5. Trước khi phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện, Ủy ban nhân dân cấp tỉnh trình Hội\nđồng nhân dân cấp tỉnh thông qua danh mục công trình, dự án phải thu hồi đất, trong đó có dự án thu\nhồi đất để đấu giá quyền sử dụng đất, đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất; dự\nán phải chuyển mục đích sử dụng đất mà có diện tích đất trồng lúa, đất rừng đặc dụng, đất rừng phòng\nhộ, đất rừng sản xuất theo quy hoạch, trừ các trường hợp quy định tại khoản 4 Điều 67 của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_thamquyenquyetdinhpheduyetquyhoach",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thẩm quyền quyết định, phê duyệt quy hoạch"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_hoidongndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_72_2024",
+      "target_id": "khainiem_thamquyenquyetdinhpheduyetquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_72_2024",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_72_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_72_2024",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_72_2024",
+      "target_id": "chuthe_uybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_72_2024",
+      "target_id": "chuthe_hoidongndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

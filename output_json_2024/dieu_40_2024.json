@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_40_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 40. Quyền và nghĩa vụ của tổ chức nước ngoài có chức năng ngoại giao",
+        "ma_dieu": "40",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 40.\n\nQuyền và nghĩa vụ của tổ chức nước ngoài có chức năng ngoại giao\n1. Tổ chức nước ngoài có chức năng ngoại giao sử dụng đất tại Việt Nam có các quyền và nghĩa vụ sau\nđây:\na) Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này ;\nb) Xây dựng các công trình trên đất theo giấy phép của cơ quan nhà nước Việt Nam có thẩm quyền;\nc) Sở hữu công trình do mình xây dựng trên đất thuê trong thời hạn thuê đất; about:blank\nd) Việc trả lại đất, chuyển quyền sử dụng đất của tổ chức nước ngoài có chức năng ngoại giao khi\nkhông còn nhu cầu sử dụng vào mục đích đã được thuê đất thì thực hiện theo điều ước quốc tế, thỏa\nthuận quốc tế và quy định của pháp luật.\n2. Trường hợp điều ước quốc tế mà nước  Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy\nđịnh khác thì tổ chức nước ngoài có chức năng ngoại giao có quyền và nghĩa vụ theo điều ước quốc tế\nđó."
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaicochucnangngoaidiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "khainiem_quyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền"
+      }
+    },
+    {
+      "id": "khainiem_nghiavu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nghĩa vụ"
+      }
+    },
+    {
+      "id": "dieuluat_26_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 26 của Luật này"
+      }
+    },
+    {
+      "id": "dieuluat_31_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 31 của Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_40_2024",
+      "target_id": "chuthe_tochucnuocngoaicochucnangngoaidiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_40_2024",
+      "target_id": "khainiem_quyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_40_2024",
+      "target_id": "khainiem_nghiavu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_40_2024",
+      "target_id": "dieuluat_26_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_40_2024",
+      "target_id": "dieuluat_31_2024",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

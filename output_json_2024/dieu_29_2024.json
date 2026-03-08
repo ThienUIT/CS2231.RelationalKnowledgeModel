@@ -1,0 +1,146 @@
+{
+  "entities": [
+    {
+      "id": "dieu_29_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 29. Quyền đối với thửa đất liền kề",
+        "ma_dieu": "29",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 29.\n\nQuyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu\nnước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác\ntheo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của\npháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này  đối với\ntrường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác."
+      }
+    },
+    {
+      "id": "khainiem_quyendoivoithuadatlienkề",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền đối với thửa đất liền kề"
+      }
+    },
+    {
+      "id": "khainiem_quyendiloidi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền về lối đi"
+      }
+    },
+    {
+      "id": "khainiem_capnuocthoatnuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cấp nước, thoát nước"
+      }
+    },
+    {
+      "id": "khainiem_tuoinuoctieunuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tưới nước, tiêu nước trong canh tác"
+      }
+    },
+    {
+      "id": "khainiem_capkhiga",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cấp khí ga"
+      }
+    },
+    {
+      "id": "khainiem_lapduongdaytaidien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Lắp đường dây tải điện, thông tin liên lạc"
+      }
+    },
+    {
+      "id": "hanhviphaply_xaclapquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xác lập quyền đối với thửa đất liền kề"
+      }
+    },
+    {
+      "id": "hanhviphaply_thaydoiquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thay đổi quyền đối với thửa đất liền kề"
+      }
+    },
+    {
+      "id": "hanhviphaply_chamdutquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chấm dứt quyền đối với thửa đất liền kề"
+      }
+    },
+    {
+      "id": "dieukien_dangkydatdai",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Thực hiện đăng ký theo quy định tại Điều 133 của Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_29_2024",
+      "target_id": "khainiem_quyendoivoithuadatlienkề",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2024",
+      "target_id": "khainiem_quyendiloidi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2024",
+      "target_id": "khainiem_capnuocthoatnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2024",
+      "target_id": "khainiem_tuoinuoctieunuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2024",
+      "target_id": "khainiem_capkhiga",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2024",
+      "target_id": "khainiem_lapduongdaytaidien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2024",
+      "target_id": "hanhviphaply_xaclapquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2024",
+      "target_id": "hanhviphaply_thaydoiquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2024",
+      "target_id": "hanhviphaply_chamdutquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_xaclapquyen",
+      "target_id": "dieukien_dangkydatdai",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_thaydoiquyen",
+      "target_id": "dieukien_dangkydatdai",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_chamdutquyen",
+      "target_id": "dieukien_dangkydatdai",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

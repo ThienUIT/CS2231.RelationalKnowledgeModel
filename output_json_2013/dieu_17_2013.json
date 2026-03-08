@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_17_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 17. Nhà nước trao quyền sử dụng đất cho người sử dụng đất",
+        "ma_dieu": "17",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 17.\n\nNhà nước trao quyền sử dụng đất cho người sử dụng đất\nNhà nước trao quyền sử dụng đất cho người sử dụng đất thông qua các hình thức sau đây:\n1. Quyết định giao đất không thu tiền sử dụng đất, giao đất có thu tiền sử dụng đất;\n2. Quyết định cho thuê đất thu tiền thuê đất hàng năm, cho thuê đất thu tiền thuê đất một lần cho cả\nthời gian thuê;\n3. Công nhận quyền sử dụng đất."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_quyennguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "công nhận quyền sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_17_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_17_2013",
+      "target_id": "khainiem_quyennguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_17_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_17_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_17_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_17_2013",
+      "target_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

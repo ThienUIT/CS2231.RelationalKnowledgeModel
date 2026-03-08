@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_60_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "60",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 60.\n\nNguyên tắc lập quy hoạch, kế hoạch sử dụng đất about:blank\n. Việc lập quy hoạch sử dụng đất các cấp phải tuân thủ nguyên tắc và mối quan hệ giữa các loại quy\nhoạch theo quy định của Luật Quy hoạch .\nQuy hoạch sử dụng đất các cấp phải tổng hợp, cân đối nhu cầu sử dụng đất của các ngành, lĩnh vực có\nsử dụng đất.\n2. Quy hoạch sử dụng đất quốc gia phải bảo đảm tính đặc thù, liên kết vùng; bảo đảm sự cân bằng giữa\nnhu cầu sử dụng đất của các ngành, lĩnh vực, địa phương và phù hợp với tiềm năng đất đai của quốc\ngia nhằm sử dụng đất tiết kiệm, hiệu quả.\n3. Quy hoạch, kế hoạch sử dụng đất được lập ở cấp quốc gia, cấp tỉnh và cấp huyện phải đáp ứng yêu\ncầu thực hiện chiến lược phát triển kinh tế - xã hội nhanh, bền vững; bảo đảm quốc phòng, an ninh.\n4. Bảo đảm tính thống nhất, đồng bộ; quy hoạch sử dụng đất của cấp trên bảo đảm nhu cầu sử dụng đất\ncủa cấp dưới; quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp\ntrên; quy hoạch sử dụng đất cấp huyện phải xác định được nội dung sử dụng đất đến cấp xã; kế hoạch\nsử dụng đất phải phù hợp với quy hoạch sử dụng đất cùng cấp đã được cơ quan có thẩm quyền quyết\nđịnh, phê duyệt.\n5. Nội dung quy hoạch sử dụng đất phải kết hợp giữa chỉ tiêu sử dụng đất gắn với không gian, phân\nvùng sử dụng đất, hệ sinh thái tự nhiên.\n6. Sử dụng đất tiết kiệm và có hiệu quả; khai thác hợp lý tài nguyên thiên nhiên và bảo vệ môi trường;\nthích ứng với biến đổi khí hậu; bảo đảm an ninh lương thực quốc gia, độ che phủ rừng; bảo tồn, tôn tạo\nvà phát huy giá trị di tích lịch sử - văn hóa, danh lam thắng cảnh.\n7. Bảo đảm tính liên tục, kế thừa, ổn định, đặc thù, liên kết của các vùng kinh tế - xã hội; cân đối hài\nhòa giữa các ngành, lĩnh vực, địa phương, giữa các thế hệ; phù hợp với điều kiện, tiềm năng đất đai.\n8. Việc lập quy hoạch, kế hoạch sử dụng đất các cấp phải bảo đảm sự tham gia của tổ chức chính trị - xã\nhội, cộng đồng, cá nhân; bảo đảm công khai, minh bạch.\n9. Quy hoạch sử dụng đất các cấp được lập đồng thời; quy hoạch sử dụng đất cấp cao hơn phải được\nquyết định, phê duyệt trước quy hoạch sử dụng đất cấp thấp hơn. Khi kết thúc thời kỳ quy hoạch sử\ndụng đất mà quy hoạch sử dụng đất thời kỳ tiếp theo chưa được cấp có thẩm quyền quyết định, phê\nduyệt thì các chỉ tiêu sử dụng đất chưa thực hiện hết được tiếp tục thực hiện đến khi quy hoạch sử dụng\nđất thời kỳ tiếp theo được cơ quan nhà nước có thẩm quyền quyết định, phê duyệt.\n10. Kế hoạch sử dụng đất được lập đồng thời với lập, điều chỉnh quy hoạch sử dụng đất cùng cấp. Kế\nhoạch sử dụng đất năm đầu của quy hoạch sử dụng cấp huyện được lập đồng thời với lập quy hoạch sử\ndụng đất cấp huyện."
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochucchinh trixahoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức chính trị - xã hội"
+      }
+    },
+    {
+      "id": "chuthe_congdong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_60_2024",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_60_2024",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_60_2024",
+      "target_id": "chuthe_tochucchinh trixahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_60_2024",
+      "target_id": "chuthe_congdong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_60_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

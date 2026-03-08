@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_183_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 183. Đất chăn nuôi tập trung",
+        "ma_dieu": "183",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 183.\n\nĐất chăn nuôi tập trung\n1. Đất chăn nuôi tập trung là đất xây dựng trang trại chăn nuôi tại khu vực riêng biệt theo quy định của\npháp luật về chăn nuôi.\n2. Việc sử dụng đất chăn nuôi tập trung phải tuân thủ các quy định sau đây:\na) Thực hiện các biện pháp bảo vệ môi trường, quản lý chất thải và biện pháp khác để không ảnh hưởng\nđến người sử dụng đất trong khu vực và xung quanh;\nb) Trường hợp sử dụng đất chăn nuôi tập trung mà có xây dựng công trình gắn liền với đất thì phải tuân\nthủ các quy định của pháp luật về đầu tư, pháp luật về xây dựng.\n3. Tổ chức kinh tế, cá nhân được Nhà nước giao đất, cho thuê đất, được nhận chuyển nhượng, thuê\nquyền sử dụng đất, nhận góp vốn bằng quyền sử dụng đất để thực hiện dự án đầu tư chăn nuôi tập\ntrung.\n4. Người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài được Nhà\nnước cho thuê đất, nhận góp vốn bằng quyền sử dụng đất của tổ chức kinh tế theo quy định của pháp\nluật để thực hiện dự án chăn nuôi tập trung."
+      }
+    },
+    {
+      "id": "khainiem_datchannuoitaptrung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất chăn nuôi tập trung"
+      }
+    },
+    {
+      "id": "chuthe_tochucconomi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochucconomicovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "dieukien_thuchiencacbienphapbaovemoitruong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Thực hiện các biện pháp bảo vệ môi trường, quản lý chất thải"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_183_2024",
+      "target_id": "khainiem_datchannuoitaptrung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_183_2024",
+      "target_id": "chuthe_tochucconomi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_183_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_183_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_183_2024",
+      "target_id": "chuthe_tochucconomicovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_183_2024",
+      "target_id": "dieukien_thuchiencacbienphapbaovemoitruong",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

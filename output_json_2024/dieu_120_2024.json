@@ -1,0 +1,196 @@
+{
+  "entities": [
+    {
+      "id": "dieu_120_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 120",
+        "ma_dieu": "120",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 120.\n\nCho thuê đất about:blank\n. Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê hoặc thu tiền thuê đất hằng\nnăm đối với các trường hợp không thuộc trường hợp quy định tại Điều 1 18 và Điều 1 19 của Luật này .\n2. Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê trong các trường hợp sau đây:\na) Sử dụng đất để thực hiện dự án đầu tư sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm\nmuối;\nb) Sử dụng đất khu công nghiệp, cụm công nghiệp, khu công nghệ cao, nhà lưu trú công nhân trong khu\ncông nghiệp; đất sử dụng vào mục đích công cộng có mục đích kinh doanh ; sử dụng đất thương mại,\ndịch vụ để hoạt động du lịch, kinh doanh văn phòng;\nc) Sử dụng đất để xây dựng nhà ở xã hội cho thuê theo quy định của pháp luật về nhà ở.\n3. Nhà nước cho thuê đất thu tiền thuê đất hằng năm trong các trường hợp sau đây:\na) Các trường hợp không thuộc quy định tại khoản 2 Điều này;\nb) Các trường hợp quy định tại khoản 2 Điều này mà có nhu cầu trả tiền thuê đất hằng năm;\nc) Đơn vị sự nghiệp công lập lựa chọn hình thức thuê đất theo quy định tại  khoản 3 Điều 30 của Luật\nnày.\n4. Việc cho thuê đất quy định tại Điều này được thực hiện theo quy định tại các điều 124, 125 và 126\ncủa Luật này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_dautusanxuatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "dự án đầu tư sản xuất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_dautusanxuatlamnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "dự án đầu tư sản xuất lâm nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_nuoitrongthuysan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nuôi trồng thủy sản"
+      }
+    },
+    {
+      "id": "khainiem_lammuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "làm muối"
+      }
+    },
+    {
+      "id": "khainiem_khucongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu công nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_cumcongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cụm công nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_khucongnghecao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu công nghệ cao"
+      }
+    },
+    {
+      "id": "khainiem_nhaluutrucongnhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà lưu trú công nhân"
+      }
+    },
+    {
+      "id": "khainiem_datcongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất sử dụng vào mục đích công cộng"
+      }
+    },
+    {
+      "id": "khainiem_datthuongmaidichvu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất thương mại, dịch vụ"
+      }
+    },
+    {
+      "id": "khainiem_hoatdongdulich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hoạt động du lịch"
+      }
+    },
+    {
+      "id": "khainiem_kinhdoanhvanphong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kinh doanh văn phòng"
+      }
+    },
+    {
+      "id": "khainiem_nhaoxahoichothue",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà ở xã hội cho thuê"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_dautusanxuatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_dautusanxuatlamnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_nuoitrongthuysan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_lammuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_khucongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_cumcongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_khucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_nhaluutrucongnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_datcongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_datthuongmaidichvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_hoatdongdulich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_kinhdoanhvanphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2024",
+      "target_id": "khainiem_nhaoxahoichothue",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

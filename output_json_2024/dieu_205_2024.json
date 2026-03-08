@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_205_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 205. Đất sử dụng cho hoạt động khoáng sản",
+        "ma_dieu": "205",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 205.\n\nĐất sử dụng cho hoạt động khoáng sản\n1. Đất sử dụng cho hoạt động khoáng sản bao gồm đất để thăm dò, khai thác khoáng sản và khu vực các\ncông trình phụ trợ cho hoạt động khoáng sản.\n2. Việc sử dụng đất cho hoạt động khoáng sản thực hiện theo các quy định sau đây:\na) Có giấy phép thăm dò, khai thác khoáng sản theo quy định của pháp luật về khoáng sản;\nb) Có quyết định cho thuê đất của cơ quan nhà nước có thẩm quyền để khai thác khoáng sản hoặc sử\ndụng cho các công trình phụ trợ phục vụ hoạt động khai thác, chế biến khoáng sản. Trường hợp khai\nthác khoáng sản mà không sử dụng lớp đất mặt, không ảnh hưởng đến việc sử dụng mặt đất thì không\nphải thuê đất;\nc) Áp dụng biện pháp công nghệ thích hợp để khai thác, sử dụng đất hợp lý, tiết kiệm trong quá trình sử\ndụng đất để thăm dò, khai thác khoáng sản. Thực hiện các biện pháp bảo vệ môi trường, xử lý chất thải\nvà biện pháp khác để không gây thiệt hại cho người sử dụng đất trong khu vực và xung quanh;\nd) Sử dụng đất phù hợp với tiến độ dự án khai thác khoáng sản, giấy phép khai thác khoáng sản đã\nđược cơ quan có thẩm quyền phê duyệt. Người sử dụng đất có trách nhiệm trả lại đất đúng với tiến độ\nkhai thác khoáng sản và trạng thái lớp đất mặt được quy định trong hợp đồng thuê đất.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm xem xét, bố trí quỹ đất, giao đất để lực lượng Công an\nnhân dân bảo đảm an ninh, trật tự đối với khu vực hoạt động khoáng sản khi có yêu cầu."
+      }
+    },
+    {
+      "id": "khainiem_datsudungchohoatdongkhoangsan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho hoạt động khoáng sản"
+      }
+    },
+    {
+      "id": "hanhviphaply_thamdokhaithackhoangsan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thăm dò, khai thác khoáng sản"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_lucluongcongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "lực lượng Công an nhân dân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_205_2024",
+      "target_id": "khainiem_datsudungchohoatdongkhoangsan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_205_2024",
+      "target_id": "hanhviphaply_thamdokhaithackhoangsan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_205_2024",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_205_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_205_2024",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_205_2024",
+      "target_id": "chuthe_lucluongcongan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

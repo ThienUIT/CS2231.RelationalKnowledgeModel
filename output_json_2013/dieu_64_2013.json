@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_64_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 64.",
+        "ma_dieu": "64",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 64.\n\nThu hồi đất do vi phạm pháp luật về đất đai\n1. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai bao gồm:\na) Sử dụng đất không đúng mục đích đã được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất\nvà đã bị xử phạt vi phạm hành chính về hành vi sử dụng đất không đúng mục đích mà tiếp tục vi phạm;\nb) Người sử dụng đất cố ý hủy hoại đất;\nc) Đất được giao, cho thuê không đúng đối tượng hoặc không đúng thẩm quyền;\nd) Đất không được chuyển nhượng, tặng cho theo quy định của Luật này mà nhận chuyển nhượng, nhận\ntặng cho;\nđ) Đất được Nhà nước giao để quản lý mà để bị lấn, chiếm;\ne) Đất không được chuyển quyền sử dụng đất theo quy định của Luật này mà người sử dụng đất do\nthiếu trách nhiệm để bị lấn, chiếm;\ng) Người sử dụng đất không thực hiện nghĩa vụ đối với Nhà nước và đã bị xử phạt vi phạm hành chính\nmà không chấp hành;\nh) Đất trồng cây hàng năm không được sử dụng trong thời hạn 12 tháng liên tục; đất trồng cây lâu năm\nkhông được sử dụng trong thời hạn 18 tháng liên tục; đất trồng rừng không được sử dụng trong thời\nhạn 24 tháng liên tục;\ni) Đất được Nhà nước giao, cho thuê để thực hiện dự án đầu tư mà không được sử dụng trong thời hạn\n12 tháng liên tục hoặc tiến độ sử dụng đất chậm 24 tháng so với tiến độ ghi trong dự án đầu tư kể từ khi\nnhận bàn giao đất trên thực địa phải đưa đất vào sử dụng; trường hợp không đưa đất vào sử dụng thì\nchủ đầu tư được gia hạn sử dụng 24 tháng và phải nộp cho Nhà nước khoản tiền tương ứng với mức\ntiền sử dụng đất, tiền thuê đất đối với thời gian chậm tiến độ thực hiện dự án trong thời gian này; hết\nthời hạn được gia hạn mà chủ đầu tư vẫn chưa đưa đất vào sử dụng thì Nhà nước thu hồi đất mà không\nbồi thường về đất và tài sản gắn liền với đất, trừ trường hợp do bất khả kháng.\n2. Việc thu hồi đất do vi phạm pháp luật về đất đai phải căn cứ vào văn bản, quyết định của cơ quan\nnhà nước có thẩm quyền xác định hành vi vi phạm pháp luật về đất đai.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_vidphamphapluatvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_sddkhongdungmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất không đúng mục đích"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_huyhoaidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hủy hoại đất"
+      }
+    },
+    {
+      "id": "dieukien_datkhongduocchuyennhuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất không được chuyển nhượng, tặng cho theo quy định của Luật này"
+      }
+    },
+    {
+      "id": "dieukien_datnhanu",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất nhận chuyển nhượng, nhận tặng cho"
+      }
+    },
+    {
+      "id": "dieukien_datbilanchiem",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất bị lấn, chiếm"
+      }
+    },
+    {
+      "id": "dieukien_datkhongthuchiennghiavu",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Người sử dụng đất không thực hiện nghĩa vụ đối với Nhà nước"
+      }
+    },
+    {
+      "id": "dieukien_dattrongcayhangnamkhongduocsd",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất trồng cây hàng năm không được sử dụng trong thời hạn 12 tháng liên tục"
+      }
+    },
+    {
+      "id": "dieukien_dattrongcaylaukhongduocsd",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất trồng cây lâu năm không được sử dụng trong thời hạn 18 tháng liên tục"
+      }
+    },
+    {
+      "id": "dieukien_dattrongrungkhongduocsd",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất trồng rừng không được sử dụng trong thời hạn 24 tháng liên tục"
+      }
+    },
+    {
+      "id": "dieukien_datkhongduocsdduan",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất được Nhà nước giao, cho thuê để thực hiện dự án đầu tư mà không được sử dụng trong thời hạn 12 tháng liên tục hoặc tiến độ sử dụng đất chậm 24 tháng so với tiến độ ghi trong dự án đầu tư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "khainiem_vidphamphapluatvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "hanhviphaply_sddkhongdungmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "hanhviphaply_huyhoaidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "dieukien_datkhongduocchuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "dieukien_datnhanu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "dieukien_datbilanchiem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "dieukien_datkhongthuchiennghiavu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "dieukien_dattrongcayhangnamkhongduocsd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "dieukien_dattrongcaylaukhongduocsd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "dieukien_dattrongrungkhongduocsd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2013",
+      "target_id": "dieukien_datkhongduocsdduan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

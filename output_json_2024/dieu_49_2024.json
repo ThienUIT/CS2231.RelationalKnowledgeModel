@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_49_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Địa giới đơn vị hành chính",
+        "ma_dieu": "49",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 49.\n\nĐịa giới đơn vị hành chính\n1. Địa giới đơn vị hành chính được lập theo đơn vị hành chính cấp xã, cấp huyện, cấp tỉnh. Hồ sơ địa\ngiới đơn vị hành chính thể hiện thông tin về việc thành lập, nhập, chia, điều chỉnh địa giới đơn vị hành\nchính và các mốc địa giới, đường địa giới của đơn vị hành chính đó.\n2. Bộ Nội vụ hướng dẫn Ủy ban nhân dân cấp tỉnh có liên quan xác định địa giới đơn vị hành chính cấp\ntỉnh; Ủy ban nhân dân cấp trên trực tiếp chỉ đạo, hướng dẫn Ủy ban nhân dân cấp dưới có liên quan xác\nđịnh địa giới đơn vị hành chính trên thực địa và lập hồ sơ về địa giới đơn vị hành chính trong phạm vi\nđịa phương.\n3. Phạm vi quản lý đất đai trên đất liền được xác định theo đường địa giới đơn vị hành chính của từng\nđơn vị hành chính theo quy định của pháp luật.\n4. Trường hợp phạm vi quản lý đất đai cấp tỉnh chưa xác định được do chưa xác định được địa giới\nđơn vị hành chính thì Bộ Nội vụ chủ trì phối hợp với Bộ Tài nguyên và Môi trường và các địa phương\ncó liên quan lập hồ sơ trình Chính phủ.\n5. Trường hợp phạm vi quản lý đất đai cấp huyện, cấp xã chưa xác định được do chưa xác định được\nđịa giới đơn vị hành chính cấp huyện, cấp xã thì Ủy ban nhân dân cấp trên trực tiếp chỉ đạo Ủy ban\nnhân dân cấp dưới có liên quan phối hợp giải quyết; trong thời gian chưa có quyết định về xác định địa\ngiới đơn vị hành chính cấp huyện, cấp xã thì Ủy ban nhân dân cấp trên trực tiếp thực hiện các nội dung about:blank\nquản lý nhà nước về đất đai đối với khu vực chưa thống nhất. Trường hợp không thống nhất được\nphương án giải quyết thì Ủy ban nhân dân cấp tỉnh lập hồ sơ trình Chính phủ.\n6. Chính phủ có trách nhiệm hướng dẫn việc giải quyết trường hợp chưa thống nhất về địa giới đơn vị\nhành chính; tổ chức giải quyết việc chưa thống nhất về địa giới đơn vị hành chính quy định tại khoản 4\nvà khoản 5 Điều này .\n7. Bộ Nội vụ quy định về việc lập, quản lý hồ sơ địa giới đơn vị hành chính."
+      }
+    },
+    {
+      "id": "khainiem_diagioi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Địa giới đơn vị hành chính"
+      }
+    },
+    {
+      "id": "chuthe_donvihanhchinhcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_donvihanhchinhcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_donvihanhchinhcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_bonoivu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Nội vụ"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapduoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp dưới"
+      }
+    },
+    {
+      "id": "chuthe_botnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapthientieptruc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp trên trực tiếp"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "khainiem_diagioi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_donvihanhchinhcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_donvihanhchinhcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_donvihanhchinhcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_bonoivu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_ubndcapduoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_botnmt",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_ubndcapthientieptruc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

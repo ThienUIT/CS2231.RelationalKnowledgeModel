@@ -1,0 +1,90 @@
+{
+  "entities": [
+    {
+      "id": "dieu_11_2013",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "kha niệm_xac_dinh_loai_dat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "dieu_100",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể"
+    },
+    {
+      "id": "kha niệm_giay_chung_nhan_quyen_su_dung_dat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "kha niệm_giay_chung_nhan_quyen_so_huu_nha_o",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "kha niệm_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "hanhviphaply_giao_dat",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_dat",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_chuyen_muc_dich_su_dung_dat",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_11_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "kha niệm_xac_dinh_loai_dat"
+    },
+    {
+      "source_id": "dieu_11_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "kha niệm_giay_chung_nhan_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_11_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "kha niệm_giay_chung_nhan_quyen_so_huu_nha_o"
+    },
+    {
+      "source_id": "dieu_11_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "kha niệm_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "dieu_11_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giao_dat"
+    },
+    {
+      "source_id": "dieu_11_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cho_thue_dat"
+    },
+    {
+      "source_id": "dieu_11_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_11_2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_100"
+    }
+  ]
+}

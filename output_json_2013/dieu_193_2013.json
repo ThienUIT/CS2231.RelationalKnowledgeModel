@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_193_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 193. Điều kiện nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để thực hiện dự án đầu tư sản xuất, kinh doanh phi nông nghiệp",
+        "ma_dieu": "193",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 193.\n\nĐiều kiện nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để\nthực hiện dự án đầu tư sản xuất, kinh doanh phi nông nghiệp\nTổ chức kinh tế, hộ gia đình, cá nhân được nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng\nđất nông nghiệp để thực hiện dự án đầu tư sản xuất, kinh doanh phi nông nghiệp khi có đủ các điều\nkiện sau đây:\n1. Có văn bản chấp thuận của cơ quan nhà nước có thẩm quyền đối với tổ chức kinh tế nhận chuyển\nnhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để thực hiện dự án;\n2. Mục đích sử dụng đối với diện tích đất nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất\nphải phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê\nduyệt;\n3. Đối với đất chuyên trồng lúa nước thì phải thực hiện theo quy định tại  khoản 3 Điều 134 của Luật\nnày."
+      }
+    },
+    {
+      "id": "dieukien_nhanchuyennhuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để thực hiện dự án đầu tư sản xuất, kinh doanh phi nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển nhượng"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhangopvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận góp vốn"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuequyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_vanchapthuan",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có văn bản chấp thuận của cơ quan nhà nước có thẩm quyền đối với tổ chức kinh tế nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để thực hiện dự án"
+      }
+    },
+    {
+      "id": "dieukien_phuhopquyhoach",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Mục đích sử dụng đối với diện tích đất nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất phải phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      }
+    },
+    {
+      "id": "dieukien_datlua",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đối với đất chuyên trồng lúa nước thì phải thực hiện theo quy định tại khoản 3 Điều 134 của Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "dieukien_nhanchuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "hanhviphaply_nhanchuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "hanhviphaply_nhangopvon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "hanhviphaply_thuequyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "dieukien_vanchapthuan",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "dieukien_phuhopquyhoach",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_193_2013",
+      "target_id": "dieukien_datlua",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

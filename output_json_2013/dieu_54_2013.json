@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_54_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 54. Giao đất không thu tiền sử dụng đất",
+        "ma_dieu": "54",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 54.\n\nGiao đất không thu tiền sử dụng đất\nNhà nước giao đất không thu tiền sử dụng đất trong các trường hợp sau đây:\n1. Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối được\ngiao đất nông nghiệp trong hạn mức quy định tại  Điều 129 của Luật này;\n2. Người sử dụng đất rừng phòng hộ, đất rừng đặc dụng, đất rừng sản xuất là rừng tự nhiên, đất xây\ndựng trụ sở cơ quan, đất sử dụng vào mục đích quốc phòng, an ninh; đất sử dụng vào mục đích công\ncộng không nhằm mục đích kinh doanh; đất làm nghĩa trang, nghĩa địa không thuộc trường hợp quy\nđịnh tại  khoản 4 Điều 55 của Luật này;\n3. Tổ chức sự nghiệp công lập chưa tự chủ tài chính sử dụng đất xây dựng công trình sự nghiệp;\n4. Tổ chức sử dụng đất để xây dựng nhà ở phục vụ tái định cư theo dự án của Nhà nước;\n5. Cộng đồng dân cư sử dụng đất nông nghiệp; cơ sở tôn giáo sử dụng đất phi nông nghiệp quy định tại\nkhoản 1 Điều 159 của Luật này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodatkhongthutien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất không thu tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdatrungphongho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdatrungdacdung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdatrungsanxuat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "chuthe_tochucsunghiepconglap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_tochucsudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_cosotongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ sở tôn giáo"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "hanhviphaply_giaodatkhongthutien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "chuthe_nguoisudungdatrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "chuthe_nguoisudungdatrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "chuthe_nguoisudungdatrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "chuthe_tochucsunghiepconglap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "chuthe_tochucsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_54_2013",
+      "target_id": "chuthe_cosotongiao",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

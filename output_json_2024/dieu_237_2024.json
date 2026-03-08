@@ -1,0 +1,114 @@
+{
+  "entities": [
+    {
+      "id": "dieu_237_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 237. Giải quyết khiếu nại, khởi kiện về quản lý đất đai",
+        "ma_dieu": "237",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 237.\n\nGiải quyết khiếu nại, khởi kiện về quản lý đất đai\n1. Người sử dụng đất, người có quyền và nghĩa vụ liên quan đến sử dụng đất có quyền khiếu nại, khởi\nkiện quyết định hành chính, hành vi hành chính về quản lý đất đai.\n2. Trình tự, thủ tục giải quyết khiếu nại quyết định hành chính, hành vi hành chính về quản lý đất đai\nthực hiện theo quy định của pháp luật về khiếu nại. Trình tự, thủ tục khởi kiện quyết định hành chính,\nhành vi hành chính về quản lý đất đai thực hiện theo quy định của pháp luật về tố tụng hành chính.\n3. Việc thu thập, bảo quản, sử dụng và lưu trữ hồ sơ, tài liệu liên quan đến giải quyết khiếu nại về quản\nlý đất đai thực hiện theo quy định của pháp luật về khiếu nại."
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoicoquyenvanghiavuliênquanđensudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có quyền và nghĩa vụ liên quan đến sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_khieunai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khiếu nại"
+      }
+    },
+    {
+      "id": "hanhviphaply_khoikien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khởi kiện"
+      }
+    },
+    {
+      "id": "khainiem_quyetdinhhanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyết định hành chính"
+      }
+    },
+    {
+      "id": "khainiem_hanhvihanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hành vi hành chính"
+      }
+    },
+    {
+      "id": "khainiem_quanlydatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quản lý đất đai"
+      }
+    },
+    {
+      "id": "khainiem_phapluatvekhieunai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Pháp luật về khiếu nại"
+      }
+    },
+    {
+      "id": "khainiem_phapluatvetotunghanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Pháp luật về tố tụng hành chính"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_237_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_237_2024",
+      "target_id": "chuthe_nguoicoquyenvanghiavuliênquanđensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_237_2024",
+      "target_id": "hanhviphaply_khieunai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_237_2024",
+      "target_id": "hanhviphaply_khoikien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_237_2024",
+      "target_id": "khainiem_quyetdinhhanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_237_2024",
+      "target_id": "khainiem_hanhvihanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_237_2024",
+      "target_id": "khainiem_quanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

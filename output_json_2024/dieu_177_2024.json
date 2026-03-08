@@ -1,0 +1,102 @@
+{
+  "entities": [
+    {
+      "id": "dieu_177_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 177. Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân",
+        "ma_dieu": "177",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 177.\n\nHạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân\n1. Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân không quá 15 lần hạn mức giao\nđất nông nghiệp của cá nhân đối với mỗi loại đất quy định tại các khoản 1, 2 và 3 Điều 176 của Luật\nnày.\n2. Việc xác định hạn mức nhận chuyển quyền sử dụng đất nông nghiệp quy định tại khoản 1 Điều này\nphải căn cứ vào các yếu tố sau đây:\na) Điều kiện về đất đai và công nghệ sản xuất;\nb) Chuyển dịch lực lượng lao động, cơ cấu kinh tế; quá trình đô thị hóa.\n3. Ủy ban nhân dân cấp tỉnh, căn cứ quy định tại khoản 1 và khoản 2 Điều này , quy định hạn mức nhận\nchuyển quyền sử dụng đất nông nghiệp của cá nhân phù hợp với điều kiện cụ thể của địa phương."
+      }
+    },
+    {
+      "id": "khainiem_hanmucnhanchuyenquyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyenquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển quyền sử dụng đất nông nghiệp"
+      }
+    },
+    {
+      "id": "dieuluat_176_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 176",
+        "ma_dieu": "176",
+        "phien_ban": 2024
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "dieukien_dieukienvedatdai",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện về đất đai và công nghệ sản xuất"
+      }
+    },
+    {
+      "id": "dieukien_chuyendichlaodong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Chuyển dịch lực lượng lao động, cơ cấu kinh tế; quá trình đô thị hóa"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_177_2024",
+      "target_id": "khainiem_hanmucnhanchuyenquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_177_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_177_2024",
+      "target_id": "hanhviphaply_nhanchuyenquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_177_2024",
+      "target_id": "dieuluat_176_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_177_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_177_2024",
+      "target_id": "dieukien_dieukienvedatdai",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_177_2024",
+      "target_id": "dieukien_chuyendichlaodong",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

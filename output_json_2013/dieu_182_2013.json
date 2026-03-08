@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "id": "dieu_182_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 182. Quyền và nghĩa vụ của tổ chức nước ngoài có chức năng ngoại giao",
+        "ma_dieu": "182",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 182.\n\nQuyền và nghĩa vụ của tổ chức nước ngoài có chức năng ngoại giao\n1. Tổ chức nước ngoài có chức năng ngoại giao sử dụng đất tại Việt Nam có các quyền và nghĩa vụ sau\nđây:\na) Quyền và nghĩa vụ chung quy định tại  Điều 166 và Điều 170 của Luật này ;\nb) Xây dựng các công trình trên đất theo giấy phép của cơ quan nhà nước Việt Nam có thẩm quyền;\nc) Sở hữu công trình do mình xây dựng trên đất thuê trong thời hạn thuê đất.\n2. Trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định\nkhác thì tổ chức nước ngoài có chức năng ngoại giao có quyền và nghĩa vụ theo điều ước quốc tế đó."
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaicochucnangngoaidiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "hanhviphaply_sodungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất"
+      }
+    },
+    {
+      "id": "dieuluat_166_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 166",
+        "ma_dieu": "166",
+        "phien_ban": 2013
+      }
+    },
+    {
+      "id": "dieuluat_170_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 170",
+        "ma_dieu": "170",
+        "phien_ban": 2013
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydungcongbrentrendat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng các công trình trên đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_soduhuucongtrinhxaydung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sở hữu công trình do mình xây dựng"
+      }
+    },
+    {
+      "id": "khainiem_dieuuocquocte",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Điều ước quốc tế"
+      }
+    },
+    {
+      "id": "chuthe_conghoaxahoichunghiavietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_182_2013",
+      "target_id": "chuthe_tochucnuocngoaicochucnangngoaidiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_tochucnuocngoaicochucnangngoaidiao",
+      "target_id": "hanhviphaply_sodungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_182_2013",
+      "target_id": "dieuluat_166_2013",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_182_2013",
+      "target_id": "dieuluat_170_2013",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "chuthe_tochucnuocngoaicochucnangngoaidiao",
+      "target_id": "hanhviphaply_xaydungcongbrentrendat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_tochucnuocngoaicochucnangngoaidiao",
+      "target_id": "hanhviphaply_soduhuucongtrinhxaydung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_182_2013",
+      "target_id": "khainiem_dieuuocquocte",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

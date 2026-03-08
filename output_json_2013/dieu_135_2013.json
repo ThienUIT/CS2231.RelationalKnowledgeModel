@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_135_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 135. Đất rừng sản xuất",
+        "ma_dieu": "135",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 135.\n\nĐất rừng sản xuất\n1. Nhà nước giao đất rừng sản xuất là rừng tự nhiên cho tổ chức quản lý rừng để quản lý, bảo vệ và\nphát triển rừng.\n2. Nhà nước giao đất, cho thuê đất rừng sản xuất là rừng trồng theo quy định sau đây:\na) Giao đất cho hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp theo hạn mức quy định tại  điểm b\nkhoản 3 Điều 129 của Luật này  để sử dụng vào mục đích sản xuất lâm nghiệp. Đối với diện tích đất\nrừng sản xuất do hộ gia đình, cá nhân sử dụng vượt hạn mức thì phải chuyển sang thuê đất ;\nb) Cho thuê đất đối với tổ chức kinh tế, hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài,\ndoanh nghiệp có vốn đầu tư nước ngoài để thực hiện dự án đầu tư trồng rừng;\nc) Tổ chức kinh tế, hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn\nđầu tư nước ngoài được Nhà nước giao đất, cho thuê đất rừng sản xuất theo quy định tại điểm a và\nđiểm b khoản này thì được sử dụng diện tích đất chưa có rừng để trồng rừng hoặc trồng cây lâu năm.\n3. Tổ chức kinh tế, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài sử\ndụng đất rừng sản xuất được kết hợp kinh doanh cảnh quan, du lịch sinh thái - môi trường dưới tán\nrừng.\n4. Đất rừng sản xuất tập trung ở những nơi xa khu dân cư không thể giao trực tiếp cho hộ gia đình, cá\nnhân thì được Nhà nước giao cho tổ chức để bảo vệ và phát triển rừng kết hợp với sản xuất nông\nnghiệp, lâm nghiệp, nuôi trồng thủy sản."
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochucquanlyrung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức quản lý rừng"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_tochucyte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "chuthe_tochucquanlyrung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "chuthe_tochucyte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_135_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

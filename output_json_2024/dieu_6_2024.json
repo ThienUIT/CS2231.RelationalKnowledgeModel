@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_6_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 6. Người chịu trách nhiệm trước Nhà nước đối với việc sử dụng đất",
+        "ma_dieu": "6",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 6.\n\nNgười chịu trách nhiệm trước Nhà nước đối với việc sử dụng đất\n1. Người đại diện theo pháp luật của tổ chức trong nước, tổ chức kinh tế có vốn đầu tư nước ngoài;\nngười đứng đầu của tổ chức nước ngoài có chức năng ngoại giao đối với việc sử dụng đất của tổ chức\nmình.\n2. Chủ tịch Ủy ban nhân dân cấp xã đối với việc sử dụng đất nông nghiệp vào mục đích công ích; đất\nphi nông nghiệp đã giao cho Ủy ban nhân dân cấp xã để sử dụng vào mục đích xây dựng trụ sở Ủy ban\nnhân dân, các công trình công cộng phục vụ hoạt động văn hóa, giáo dục, y tế, thể dục, thể thao, vui\nchơi, giải trí, chợ, nghĩa trang và công trình công cộng khác của xã, phường, thị trấn; đất tôn giáo, đất\ntín ngưỡng chưa giao quản lý, sử dụng.\n3. Người đại diện cho cộng đồng dân cư là trưởng thôn, làng, ấp, bản, bon, buôn, phum, sóc, tổ dân phố\nvà điểm dân cư tương tự hoặc người được cộng đồng dân cư thỏa thuận cử ra.\n4. Người đại diện tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đối với việc sử dụng đất của tổ chức tôn\ngiáo, tổ chức tôn giáo trực thuộc .\n5. Cá nhân, người gốc Việt Nam định cư ở nước ngoài đối với việc sử dụng đất của mình.\n6. Người có chung quyền sử dụng đất hoặc người đại diện cho nhóm người có chung quyền sử dụng\nđất đối với việc sử dụng đất đó."
+      }
+    },
+    {
+      "id": "chuthe_nguoidaidientheophapluattocchuctrongnuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đại diện theo pháp luật của tổ chức trong nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_nguoidungdautochucnuocngoaicochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đứng đầu của tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_nguoidaidienchocongdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đại diện cho cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_nguoidaientochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đại diện tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiaotructhuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo trực thuộc"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_nguoicochungquyensudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có chung quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoidaidienchonguoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đại diện cho nhóm người"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_nguoidaidientheophapluattocchuctrongnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_nguoidungdautochucnuocngoaicochucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_chutichubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_nguoidaidienchocongdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_nguoidaientochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_tochuctongiaotructhuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_nguoicochungquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2024",
+      "target_id": "chuthe_nguoidaidienchonguoi",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

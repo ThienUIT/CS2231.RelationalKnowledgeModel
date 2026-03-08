@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_20_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 20",
+        "ma_dieu": "20",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 20.\n\nThẩm quyền quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích\nkhác\nHội đồng nhân dân cấp tỉnh quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích khác,\ntrừ trường hợp thực hiện dự án thuộc thẩm quyền của Quốc hội, Thủ tướng Chính phủ, Hội đồng nhân\ndân cấp tỉnh chấp thuận, quyết định chủ trương đầu tư theo quy định của Luật Đầu tư , Luật đầu tư\ncông , Luật Đầu tư theo phương thức đối tác công tư , Luật Dầu khí .”.\n6. Sửa đổi, bổ sung một số khoản của  Điều 23  như sau:\na) Sửa đổi, bổ sung  điểm a khoản 1  như sau:\n“a) Giao rừng, cho thuê rừng, chuyển mục đích sử dụng rừng sang mục đích khác, thu hồi rừng đối với\ntổ chức, trừ trường hợp quy định tại điểm c khoản 2 Điều này;”;\nb) Sửa đổi, bổ sung  khoản 2  như sau:\n“2. Thẩm quyền của Ủy ban nhân dân cấp huyện được quy định như sau:\na) Giao rừng, cho thuê rừng, chuyển mục đích sử dụng rừng sang mục đích khác đối với hộ gia đình, cá\nnhân;\nb) Giao rừng, chuyển mục đích sử dụng rừng sang mục đích khác đối với cộng đồng dân cư;\nc) Thu hồi rừng đối với trường hợp thu hồi đất có rừng thuộc thẩm quyền của Ủy ban nhân cấp huyện\ntheo quy định của Luật Đất đai.”.\n7. Sửa đổi, bổ sung tên điều,  khoản 5  và bổ sung khoản 6 vào sau  khoản 5 Điều 53  như sau:\na) Sửa đổi, bổ sung tên  Điều 53  như sau:\n“"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungrung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển mục đích sử dụng rừng"
+      }
+    },
+    {
+      "id": "chuthe_hoidongnhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaorung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao rừng"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuerung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê rừng"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhroirung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi rừng"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "hanhviphaply_chuyenmucdichsudungrung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "chuthe_hoidongnhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "hanhviphaply_giaorung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "hanhviphaply_chothuerung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "hanhviphaply_thuhroirung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

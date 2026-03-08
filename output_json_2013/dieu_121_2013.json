@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_121_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 121. Cơ sở dữ liệu đất đai quốc gia",
+        "ma_dieu": "121",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 121.\n\nCơ sở dữ liệu đất đai quốc gia\n1. Cơ sở dữ liệu đất đai quốc gia được xây dựng thống nhất trong phạm vi cả nước.\n2. Cơ sở dữ liệu đất đai quốc gia gồm các thành phần:\na) Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai;\nb) Cơ sở dữ liệu địa chính;\nc) Cơ sở dữ liệu điều tra cơ bản về đất đai;\nd) Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất;\nđ) Cơ sở dữ liệu giá đất;\ne) Cơ sở dữ liệu thống kê, kiểm kê đất đai;\ng) Cơ sở dữ liệu về thanh tra, kiểm tra, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai;\nh) Cơ sở dữ liệu khác liên quan đến đất đai.\n3. Nội dung, cấu trúc và kiểu thông tin cơ sở dữ liệu đất đai được thực hiện theo quy định của Bộ\ntrưởng Bộ Tài nguyên và Môi trường."
+      }
+    },
+    {
+      "id": "khainiem_cosodulieudatdaiquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu đất đai quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_vanbanquiphamphapluatvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Văn bản quy phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieudiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu địa chính"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieudieutracobanvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu điều tra cơ bản về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieuquyhoachkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieugiadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu giá đất"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieuthongkekiemkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu thống kê, kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "khainiem_thanhtrakiemtragiaiquyettranhchapkhieunaitocao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thanh tra, kiểm tra, giải quyết tranh chấp, khiếu nại, tố cáo"
+      }
+    },
+    {
+      "id": "khainiem_botruongbotainuyenvmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_121_2013",
+      "target_id": "khainiem_cosodulieudatdaiquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_121_2013",
+      "target_id": "khainiem_vanbanquiphamphapluatvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_121_2013",
+      "target_id": "khainiem_cosodulieudiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_121_2013",
+      "target_id": "khainiem_cosodulieudieutracobanvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_121_2013",
+      "target_id": "khainiem_cosodulieuquyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_121_2013",
+      "target_id": "khainiem_cosodulieugiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_121_2013",
+      "target_id": "khainiem_cosodulieuthongkekiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_121_2013",
+      "target_id": "khainiem_thanhtrakiemtragiaiquyettranhchapkhieunaitocao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_121_2013",
+      "target_id": "khainiem_botruongbotainuyenvmt",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

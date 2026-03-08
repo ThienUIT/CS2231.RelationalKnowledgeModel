@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_79_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 79. Bồi thường về đất khi Nhà nước thu hồi đất ở",
+        "ma_dieu": "79",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 79.\n\nBồi thường về đất khi Nhà nước thu hồi đất ở about:blank\n. Hộ gia đình, cá nhân đang sử dụng đất ở, người Việt Nam định cư ở nước ngoài đang sở hữu nhà ở\ngắn liền với quyền sử dụng đất tại Việt Nam mà có đủ điều kiện được bồi thường quy định tại  Điều 75\ncủa Luật này  khi Nhà nước thu hồi đất thì được bồi thường như sau:\na) Trường hợp không còn đất ở, nhà ở nào khác trong địa bàn xã, phường, thị trấn nơi có đất thu hồi\nthì được bồi thường bằng đất ở hoặc nhà ở; trường hợp không có nhu cầu bồi thường bằng đất ở hoặc\nnhà ở thì Nhà nước bồi thường bằng tiền;\nb) Trường hợp còn đất ở, nhà ở trong địa bàn xã, phường, thị trấn nơi có đất thu hồi thì được bồi\nthường bằng tiền. Đối với địa phương có điều kiện về quỹ đất ở thì được xem xét để bồi thường bằng\nđất ở.\n2. Hộ gia đình, cá nhân khi Nhà nước thu hồi đất gắn liền với nhà ở phải di chuyển chỗ ở mà không đủ\nđiều kiện được bồi thường về đất ở, nếu không có chỗ ở nào khác thì được Nhà nước bán, cho thuê,\ncho thuê mua nhà ở hoặc giao đất ở có thu tiền sử dụng đất.\n3. Tổ chức kinh tế, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài\nđang sử dụng đất để thực hiện dự án xây dựng nhà ở khi Nhà nước thu hồi đất, nếu có đủ điều kiện\nđược bồi thường quy định tại  Điều 75 của Luật này  thì được bồi thường về đất.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "dieukien_dudieukienboiduong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có đủ điều kiện được bồi thường quy định tại Điều 75 của Luật này"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_79_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_79_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_79_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_79_2013",
+      "target_id": "dieukien_dudieukienboiduong",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_79_2013",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_79_2013",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_79_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_79_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

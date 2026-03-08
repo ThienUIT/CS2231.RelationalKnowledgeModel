@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_89_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 89. Bồi thường thiệt hại về nhà, công trình xây dựng trên đất khi Nhà nước thu hồi đất",
+        "ma_dieu": "89",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 89.\n\nBồi thường thiệt hại về nhà, công trình xây dựng trên đất khi Nhà nước thu hồi đất\n1. Đối với nhà ở, công trình phục vụ sinh hoạt gắn liền với đất của hộ gia đình, cá nhân, người Việt\nNam định cư ở nước ngoài khi Nhà nước thu hồi đất phải tháo dỡ toàn bộ hoặc một phần mà phần còn\nlại không bảo đảm tiêu chuẩn kỹ thuật theo quy định của pháp luật thì chủ sở hữu nhà ở, công trình đó\nđược bồi thường bằng giá trị xây dựng mới của nhà ở, công trình có tiêu chuẩn kỹ thuật tương đương.\nTrường hợp phần còn lại của nhà ở, công trình vẫn bảo đảm tiêu chuẩn kỹ thuật theo quy định của pháp\nluật thì bồi thường theo thiệt hại thực tế.\n2. Đối với nhà, công trình xây dựng khác gắn liền với đất không thuộc trường hợp quy định tại khoản 1\nĐiều này , khi Nhà nước thu hồi đất mà bị tháo dỡ toàn bộ hoặc một phần mà phần còn lại không bảo\nđảm tiêu chuẩn kỹ thuật theo quy định của pháp luật thì được bồi thường thiệt hại theo quy định của\nChính phủ.\n3. Đối với công trình hạ tầng kỹ thuật, hạ tầng xã hội gắn liền với đất đang sử dụng không thuộc\ntrường hợp quy định tại khoản 1 và khoản 2 Điều này thì mức bồi thường tính bằng giá trị xây dựng\nmới của công trình có tiêu chuẩn kỹ thuật tương đương theo quy định của pháp luật chuyên ngành."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_89_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_89_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_89_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_89_2013",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

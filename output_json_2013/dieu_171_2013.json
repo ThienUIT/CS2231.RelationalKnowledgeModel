@@ -1,0 +1,107 @@
+{
+  "entities": [
+    {
+      "id": "dieu_171_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 171. Quyền sử dụng hạn chế đối với thửa đất liền kề",
+        "ma_dieu": "171",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 171.\n\nQuyền sử dụng hạn chế đối với thửa đất liền kề\n1. Quyền sử dụng hạn chế đối với thửa đất liền kề bao gồm quyền về lối đi; cấp, thoát nước; tưới\nnước, tiêu nước trong canh tác; cấp khí ga; đường dây tải điện, thông tin liên lạc và các nhu cầu cần\nthiết khác một cách hợp lý trên thửa đất liền kề.\n2. Việc xác lập quyền sử dụng hạn chế đối với thửa đất liền kề thực hiện theo quy định của pháp luật\ndân sự và phải thực hiện đăng ký theo quy định tại  Điều 95 của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_quyensudunghanche",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền sử dụng hạn chế"
+      }
+    },
+    {
+      "id": "khainiem_thuadatlienkề",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thửa đất liền kề"
+      }
+    },
+    {
+      "id": "hanhviphaply_capthoatnuoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp, thoát nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_tuoinuoctieunuoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tưới nước, tiêu nước trong canh tác"
+      }
+    },
+    {
+      "id": "hanhviphaply_capkhiga",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp khí ga"
+      }
+    },
+    {
+      "id": "khainiem_duongdaytaidien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đường dây tải điện"
+      }
+    },
+    {
+      "id": "khainiem_thongtinlienlac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thông tin liên lạc"
+      }
+    },
+    {
+      "id": "dieu_95_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 95 của Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_171_2013",
+      "target_id": "khainiem_quyensudunghanche",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2013",
+      "target_id": "khainiem_thuadatlienkề",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2013",
+      "target_id": "hanhviphaply_capthoatnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2013",
+      "target_id": "hanhviphaply_tuoinuoctieunuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2013",
+      "target_id": "hanhviphaply_capkhiga",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2013",
+      "target_id": "khainiem_duongdaytaidien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2013",
+      "target_id": "khainiem_thongtinlienlac",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

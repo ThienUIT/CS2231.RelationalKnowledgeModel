@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_132_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 132. Đăng ký lần đầu",
+        "ma_dieu": "132",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 132.\n\nĐăng ký lần đầu\n1. Đăng ký lần đầu đối với đất đai, tài sản gắn liền với đất được thực hiện trong các trường hợp sau\nđây:\na) Thửa đất đang sử dụng mà chưa đăng ký;\nb) Thửa đất được Nhà nước giao, cho thuê để sử dụng;\nc) Thửa đất được giao để quản lý mà chưa đăng ký;\nd) Tài sản gắn liền với đất mà có nhu cầu đăng ký đồng thời với đăng ký đất đai trong các trường hợp\nquy định tại các điểm a, b và c khoản  này.\n2. Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc phổ biến, tuyên truyền và tổ chức thực hiện\nđăng ký lần đầu cho các trường hợp chưa đăng ký."
+      }
+    },
+    {
+      "id": "hanhviphaply_dangkylandau",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đăng ký lần đầu"
+      }
+    },
+    {
+      "id": "khainiem_datdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất đai"
+      }
+    },
+    {
+      "id": "khainiem_taisangganlienvoithat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_thuadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thửa đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_132_2024",
+      "target_id": "hanhviphaply_dangkylandau",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_132_2024",
+      "target_id": "khainiem_datdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_132_2024",
+      "target_id": "khainiem_taisangganlienvoithat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_132_2024",
+      "target_id": "khainiem_thuadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_132_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_132_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

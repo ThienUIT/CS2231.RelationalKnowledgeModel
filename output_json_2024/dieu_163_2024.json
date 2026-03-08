@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_163_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 163. Hệ thống thông tin quốc gia về đất đai",
+        "ma_dieu": "163",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 163.\n\nHệ thống thông tin quốc gia về đất đai\n1. Hệ thống thông tin quốc gia về  đất đai được xây dựng tập trung, thống nhất từ trung ương đến địa\nphương, đồng bộ, đa mục tiêu và kết nối liên thông trên phạm vi cả nước.\n2. Hệ thống thông tin quốc gia về đất đai được xây dựng phục vụ công tác quản lý nhà nước về đất đai,\ncải cách hành chính, chuyển đổi số trong lĩnh vực đất đai; kết nối, chia sẻ dữ liệu với các cơ sở dữ liệu\nquốc gia, cơ sở dữ liệu của các Bộ, ngành, địa phương tạo nền tảng phát triển Chính phủ điện tử, hướng\ntới Chính phủ số, nền kinh tế số và xã hội số.\n3. Hệ thống thông tin quốc gia về  đất đai bao gồm các thành phần cơ bản sau đây:\na) Hạ tầng kỹ thuật công nghệ thông tin;\nb) Phần mềm của Hệ thống thông tin quốc gia về đất đai;\nc) Cơ sở dữ liệu quốc gia về đất đai."
+      }
+    },
+    {
+      "id": "khainiem_hethongthongtinquocgiavedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydunghethongthongtin",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "xây dựng hệ thống thông tin"
+      }
+    },
+    {
+      "id": "khainiem_cotacquanlynhanuocvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công tác quản lý nhà nước về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_caicachhanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cải cách hành chính"
+      }
+    },
+    {
+      "id": "khainiem_chuyendoiso",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chuyển đổi số"
+      }
+    },
+    {
+      "id": "khainiem_chinhphudientu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chính phủ điện tử"
+      }
+    },
+    {
+      "id": "khainiem_chinhphuso",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chính phủ số"
+      }
+    },
+    {
+      "id": "khainiem_kinhteso",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nền kinh tế số"
+      }
+    },
+    {
+      "id": "khainiem_xahoiso",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "xã hội số"
+      }
+    },
+    {
+      "id": "khainiem_hatangkythuatcongnghethongtin",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hạ tầng kỹ thuật công nghệ thông tin"
+      }
+    },
+    {
+      "id": "khainiem_phanmemhethongthongtin",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phần mềm của Hệ thống thông tin quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_cosoduliequocgiavedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu quốc gia về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_hethongthongtinquocgiavedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "hanhviphaply_xaydunghethongthongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_cotacquanlynhanuocvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_caicachhanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_chuyendoiso",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_chinhphudientu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_chinhphuso",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_kinhteso",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_xahoiso",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_hatangkythuatcongnghethongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_phanmemhethongthongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2024",
+      "target_id": "khainiem_cosoduliequocgiavedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

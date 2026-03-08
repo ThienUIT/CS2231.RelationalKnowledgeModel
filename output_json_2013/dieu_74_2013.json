@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_74_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 74. Nguyên tắc bồi thường về đất khi Nhà nước thu hồi đất",
+        "ma_dieu": "74",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 74.\n\nNguyên tắc bồi thường về đất khi Nhà nước thu hồi đất about:blank\n. Người sử dụng đất khi Nhà nước thu hồi đất nếu có đủ điều kiện được bồi thường quy định tại  Điều\n75 của Luật này  thì được bồi thường.\n2. Việc bồi thường được thực hiện bằng việc giao đất có cùng mục đích sử dụng với loại đất thu hồi,\nnếu không có đất để bồi thường thì được bồi thường bằng tiền theo giá đất cụ thể của loại đất thu hồi\ndo Ủy ban nhân dân cấp tỉnh quyết định tại thời điểm quyết định thu hồi đất.\n3. Việc bồi thường khi Nhà nước thu hồi đất phải bảo đảm dân chủ, khách quan, công bằng, công khai,\nkịp thời và đúng quy định của pháp luật."
+      }
+    },
+    {
+      "id": "khainiem_nguoichusudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "dieukien_dudieukienboithuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "có đủ điều kiện được bồi thường"
+      }
+    },
+    {
+      "id": "dieu_75_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 75 của Luật này"
+      }
+    },
+    {
+      "id": "hanhviphaply_boithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "bồi thường"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
+    },
+    {
+      "id": "khainiem_giadatcuthe",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "giá đất cụ thể"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_74_2013",
+      "target_id": "khainiem_nguoichusudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2013",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2013",
+      "target_id": "dieukien_dudieukienboithuong",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_74_2013",
+      "target_id": "dieu_75_2013",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2013",
+      "target_id": "hanhviphaply_boithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2013",
+      "target_id": "khainiem_giadatcuthe",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2013",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

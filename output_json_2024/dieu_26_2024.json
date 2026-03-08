@@ -1,0 +1,163 @@
+{
+  "entities": [
+    {
+      "id": "dieu_26_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 26. Quyền chung của người sử dụng đất",
+        "ma_dieu": "26",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 26.\n\nQuyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều\nkiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp. about:blank\n. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển  đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp\nluật có liên quan.\n7. Được bồi thường , hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này .\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và\nnhững hành vi khác vi phạm pháp luật về đất đai."
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_duoccocgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "dieukien_codudieukien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "khi có đủ điều kiện theo quy định của pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_huongthanhqua",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp"
+      }
+    },
+    {
+      "id": "hanhviphaply_huongloiich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_duochuongdan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_duocbaohotro",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình"
+      }
+    },
+    {
+      "id": "hanhviphaply_duocchuyenmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan"
+      }
+    },
+    {
+      "id": "hanhviphaply_duocboithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được bồi thường , hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này"
+      }
+    },
+    {
+      "id": "hanhviphaply_khieunaitocao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "hanhviphaply_duoccocgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "dieukien_codudieukien",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "hanhviphaply_huongthanhqua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "hanhviphaply_huongloiich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "hanhviphaply_duochuongdan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "hanhviphaply_duocbaohotro",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "hanhviphaply_duocchuyenmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "hanhviphaply_duocboithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_26_2024",
+      "target_id": "hanhviphaply_khieunaitocao",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

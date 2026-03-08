@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_128_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 128. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất",
+        "ma_dieu": "128",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 128.\n\nThời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là\nthời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất được sử dụng ổn định lâu dài thì được sử\ndụng đất ổn định lâu dài.\nMỤC 2. ĐẤT  NÔNG NGHIỆP"
+      }
+    },
+    {
+      "id": "khainiem_thoihansudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thời hạn sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyenquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_datcoquyedinhtathoihan",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất có quy định thời hạn"
+      }
+    },
+    {
+      "id": "chuthe_nguoinhanchuyenquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người nhận chuyển quyền"
+      }
+    },
+    {
+      "id": "dieukien_datsudungon dinhlaudai",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất sử dụng ổn định lâu dài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_128_2013",
+      "target_id": "khainiem_thoihansudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2013",
+      "target_id": "hanhviphaply_nhanchuyenquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2013",
+      "target_id": "dieukien_datcoquyedinhtathoihan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2013",
+      "target_id": "chuthe_nguoinhanchuyenquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2013",
+      "target_id": "dieukien_datsudungon dinhlaudai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

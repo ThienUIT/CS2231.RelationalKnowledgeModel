@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_84_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 84. Trường hợp thu hồi đất liên quan đến quốc phòng, an ninh",
+        "ma_dieu": "84",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 84.\n\nTrường hợp thu hồi đất liên quan đến quốc phòng, an ninh\n1. Trường hợp thu hồi đất quốc phòng, an ninh đã có trong quy hoạch sử dụng đất quốc phòng, quy\nhoạch sử dụng đất an ninh là đất để chuyển giao cho địa phương thực hiện dự án phát triển kinh tế - xã\nhội vì lợi ích quốc gia, công cộng quy định tại Điều 79 của Luật này  thì phải có sự thống nhất của Bộ\ntrưởng Bộ Quốc phòng đối với đất quốc phòng, Bộ trưởng Bộ Công an đối với đất an ninh. Trường\nhợp không thống nhất ý kiến, Ủy ban nhân dân cấp tỉnh có trách nhiệm báo cáo Thủ tướng Chính phủ\nxem xét quyết định.\n2. Trường hợp phải thu hồi đất để thực hiện nhiệm vụ quốc phòng, an ninh nhưng chưa có trong quy\nhoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh thì Bộ trưởng Bộ Quốc phòng, Bộ\ntrưởng Bộ Công an lấy ý kiến của Bộ Tài nguyên và Môi trường, Ủy ban nhân dân cấp tỉnh nơi có đất\nđể báo cáo Thủ tướng Chính phủ xem xét, chấp thuận việc thu hồi đất và phải cập nhật khi rà soát, điều\nchỉnh quy hoạch theo quy định của pháp luật sau khi được thực hiện.\n3. Trường hợp phải thu hồi đất quốc phòng, an ninh, tài sản gắn liền với đất để chuyển giao cho địa\nphương thực hiện dự án phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng nhưng diện tích đất dự\nkiến thu hồi chưa được xác định trong quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an\nninh là đất chuyển giao cho địa phương thì thực hiện theo quy định sau đây:\na) Dự án thuộc thẩm quyền Quốc hội quyết định, chấp thuận chủ trương đầu tư theo quy định của pháp\nluật về đầu tư công, pháp luật về đầu tư theo phương thức đối tác công tư và pháp luật về đầu tư thì sau\nkhi Quốc hội quyết định, phê duyệt chủ trương đầu tư, Thủ tướng Chính phủ xem xét, ch ấp thuận việc\nthu hồi đất quốc phòng, an ninh, tài sản gắn liền với đất để thực hiện dự án;\nb) Dự án thuộc thẩm quyền Thủ tướng Chính phủ quyết định, chấp thuận chủ trương đầu tư theo quy\nđịnh của pháp luật về đầu tư công, pháp luật về đầu tư theo phương thức đối tác công tư và pháp luật\nvề đầu tư thì Thủ tướng Chính phủ xem xét, chấp thuận việc thu hồi đất quốc phòng, an ninh, tài sản\ngắn liền với đất để thực hiện dự án cùng với việc xem xét quyết định, phê duyệt, chấp thuận chủ\ntrương đầu tư;\nc) Dự án đầu tư công, dự án đầu tư theo phương thức đối tác công tư không thuộc trường hợp quy định\ntại điểm a và điểm b khoản này thì Ủy ban nhân dân cấp tỉnh phối hợp với Bộ Quốc phòng đối với đất\nquốc phòng, với Bộ Công an đối với đất an ninh báo cáo Thủ tướng Chính phủ xem xét, chấp thuận\nviệc thu hồi đất quốc phòng, an ninh, tài sản gắn liền với đất để thực hiện dự án trước khi quyết định\nđầu tư theo quy định của pháp luật về đầu tư công và pháp luật về đầu tư theo phương thức đối tác\ncông tư;\nd) Diện tích đất thuộc các dự án quy định tại các điểm a, b và c khoản này sau khi thu hồi phải được cập\nnhật khi rà soát, điều chỉnh quy hoạch theo quy định pháp luật.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_thuhoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_datquocphonganminh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
+    },
+    {
+      "id": "chuthe_bothonguyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_quochoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_84_2024",
+      "target_id": "khainiem_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2024",
+      "target_id": "khainiem_datquocphonganminh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2024",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2024",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2024",
+      "target_id": "chuthe_bothonguyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2024",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2024",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2024",
+      "target_id": "chuthe_quochoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_131_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 131. Đất nông nghiệp hộ gia đình, cá nhân, cộng đồng dân cư sử dụng",
+        "ma_dieu": "131",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 131.\n\nĐất nông nghiệp hộ gia đình, cá nhân, cộng đồng dân cư sử dụng\n1. Đất nông nghiệp hộ gia đình, cá nhân sử dụng gồm đất nông nghiệp được Nhà nước giao, cho thuê,\ncông nhận quyền sử dụng đất; do thuê quyền sử dụng đất của tổ chức, hộ gia đình, cá nhân khác; do\nnhận chuyển đổi, nhận chuyển nhượng, nhận thừa kế, được tặng cho quyền sử dụng đất theo quy định\ncủa pháp luật.\n2. Việc sử dụng đất nông nghiệp do Nhà nước giao cho hộ gia đình, cá nhân được quy định như sau:\na) Hộ gia đình, cá nhân đã được Nhà nước giao đất trước ngày Luật này có hiệu lực thi hành thì được\ntiếp tục sử dụng theo quy định của Luật này;\nb) Đối với những địa phương chưa thực hiện việc giao đất cho hộ gia đình, cá nhân theo quy định của\npháp luật về đất đai thì Ủy ban nhân dân cấp xã nơi có đất lập phương án giao đất và đề nghị Ủy ban\nnhân dân cấp huyện quyết định giao đất;\nc) Đối với những địa phương mà Ủy ban nhân dân các cấp đã hướng dẫn hộ gia đình, cá nhân thương\nlượng điều chỉnh đất cho nhau trong quá trình thực hiện các chính sách, pháp luật về đất đai trước ngày\n15 tháng 10 năm 1993 và đang sử dụng ổn định thì được tiếp tục sử dụng.\n3. Đất nông nghiệp do cộng đồng dân cư sử dụng được quy định như sau:\na) Cộng đồng dân cư được Nhà nước giao đất, công nhận quyền sử dụng đất để bảo tồn bản sắc dân\ntộc gắn với phong tục, tập quán của các dân tộc;\nb) Cộng đồng dân cư được Nhà nước giao đất, công nhận quyền sử dụng đất có trách nhiệm bảo vệ đất\nđược giao, được sử dụng đất kết hợp với mục đích sản xuất nông nghiệp và nuôi trồng thủy sản, không\nđược chuyển sang sử dụng vào mục đích khác."
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê"
+      }
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Công nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuequyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyendoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển đổi"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển nhượng"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanthuake",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận thừa kế"
+      }
+    },
+    {
+      "id": "hanhviphaply_duoctangcho",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được tặng cho"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_131_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datnongnghiep",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datnongnghiep",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datnongnghiep",
+      "target_id": "hanhviphaply_chothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datnongnghiep",
+      "target_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datnongnghiep",
+      "target_id": "hanhviphaply_thuequyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datnongnghiep",
+      "target_id": "hanhviphaply_nhanchuyendoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datnongnghiep",
+      "target_id": "hanhviphaply_nhanchuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datnongnghiep",
+      "target_id": "hanhviphaply_nhanthuake",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datnongnghiep",
+      "target_id": "hanhviphaply_duoctangcho",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

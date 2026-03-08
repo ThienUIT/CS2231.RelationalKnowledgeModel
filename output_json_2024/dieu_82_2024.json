@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_82_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 82",
+        "ma_dieu": "82",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 82.\n\nThu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy\ncơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng\n1. Các trường hợp thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật bao gồm: about:blank\na) Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất bị giải thể, phá sản hoặc bị chấm dứt\nhoạt động theo quy định của pháp luật;\nb) Cá nhân sử dụng đất chết mà không có người nhận thừa kế sau khi đã thực hiện nghĩa vụ về tài sản\ntheo quy định của pháp luật về dân sự;\nc) Đất được Nhà nước giao, cho thuê có thời hạn nhưng không được gia hạn sử dụng đất;\nd) Thu hồi đất trong trường hợp chấm dứt dự án đầu tư theo quy định của pháp luật về đầu tư;\nđ) Thu hồi đất trong trường hợp đã bị thu hồi rừng theo quy định của pháp luật về lâm nghiệp.\n2. Người sử dụng đất giảm hoặc không còn nhu cầu sử dụng đất và có đơn tự nguyện trả lại đất.\n3. Các trường hợp thu hồi đất do có nguy cơ đe dọa tính mạng con người hoặc không còn khả năng tiếp\ntục sử dụng bao gồm:\na) Đất ở trong khu vực bị ô nhiễm môi trường có nguy cơ đe dọa tính mạng con người; đất khác trong\nkhu vực bị ô nhiễm môi trường không còn khả năng tiếp tục sử dụng theo mục đích đã xác định;\nb) Đất ở có nguy cơ sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác đe dọa tính mạng con\nngười; đất khác bị sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác mà không còn khả năng\ntiếp tục sử dụng.\n4. Thu hồi đất đối với các trường hợp phải thu hồi đất theo quy định tại khoản 1 Điều 48 , điểm d và\nđiểm đ khoản 1 Điều 181 của Luật này .\n5. Việc thu hồi đất trong các trường hợp quy định tại các khoản 1, 2 và 3 Điều này phải dựa trên căn cứ\nsau đây:\na) Văn bản của cơ quan có thẩm quyền giải quyết đã có hiệu lực pháp luật đối với trường hợp quy định\ntại điểm a khoản 1 Điều này;\nb) Giấy chứng tử hoặc quyết định tuyên bố một người là đã chết theo quy định của pháp luật đối với\ntrường hợp quy định tại điểm b khoản 1 Điều này;\nc) Quyết định giao đất, quyết định cho thuê đất, Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận\nquyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở\nvà tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với\nđất đối với trường hợp quy định tại điểm c khoản 1 Điều này;\nd) Văn bản chấm dứt dự án đầu tư đối với trường hợp quy định tại điểm d khoản 1 Điều này;\nđ) Văn bản thu hồi rừng đối với trường hợp quy định tại điểm đ khoản 1 Điều này;\ne) Văn bản trả lại đất của người sử dụng đất đối với trường hợp quy định tại khoản 2 Điều này;\ng) Văn bản của cơ quan có thẩm quyền xác định mức độ ô nhiễm môi trường, sạt lở, sụt lún, bị ảnh\nhưởng bởi hiện tượng thiên tai khác đối với trường hợp quy định tại khoản 3 Điều này .\n6. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "dieukien_chamdutviecsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Chấm dứt việc sử dụng đất theo pháp luật"
+      }
+    },
+    {
+      "id": "dieukien_tnguyentrataidat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tự nguyện trả lại đất"
+      }
+    },
+    {
+      "id": "dieukien_nguycodetdoatinhmangconnguoi",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có nguy cơ đe dọa tính mạng con người"
+      }
+    },
+    {
+      "id": "dieukien_khongconkhnangtieptucsudung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không còn khả năng tiếp tục sử dụng"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_dautu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án đầu tư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_82_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_chamdutviecsudungdat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_tnguyentrataidat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_nguycodetdoatinhmangconnguoi",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_khongconkhnangtieptucsudung",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_82_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_82_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_82_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_82_2024",
+      "target_id": "khainiem_dautu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

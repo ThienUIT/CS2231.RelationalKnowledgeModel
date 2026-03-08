@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_92_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 92",
+        "ma_dieu": "92",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 92.\n\nTrường hợp Nhà nước thu hồi đất không được bồi thường tài sản gắn liền với đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các  điểm a, b, d, đ,\ne, i khoản 1 Điều 64  và điểm b, d khoản 1 Điều 65 của Luật này .\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập từ sau khi có thông báo\nthu hồi đất của cơ quan nhà nước có thẩm quyền.\n3. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác không còn sử dụng."
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuoc_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_taisangganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "dieukien_thuhoidat_die64",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Trường hợp thu hồi đất quy định tại các điểm a, b, d, đ, e, i khoản 1 Điều 64"
+      }
+    },
+    {
+      "id": "dieukien_thuhoidat_die65",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Trường hợp thu hồi đất quy định tại điểm b, d khoản 1 Điều 65"
+      }
+    },
+    {
+      "id": "dieukien_taisantaolap_traiphapluat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật"
+      }
+    },
+    {
+      "id": "dieukien_taisantaolap_sausacbao",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tài sản gắn liền với đất được tạo lập từ sau khi có thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhhatang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_92_2013",
+      "target_id": "hanhviphaply_nhanuoc_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_92_2013",
+      "target_id": "khainiem_taisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_92_2013",
+      "target_id": "dieukien_thuhoidat_die64",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_92_2013",
+      "target_id": "dieukien_thuhoidat_die65",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_92_2013",
+      "target_id": "dieukien_taisantaolap_traiphapluat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_92_2013",
+      "target_id": "dieukien_taisantaolap_sausacbao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_92_2013",
+      "target_id": "khainiem_congtrinhhatang",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

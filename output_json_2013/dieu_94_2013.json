@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_94_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 94. Bồi thường thiệt hại đối với đất thuộc hành lang an toàn khi xây dựng công trình có hành lang bảo vệ an toàn",
+        "ma_dieu": "94",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 94.\n\nBồi thường thiệt hại đối với đất thuộc hành lang an toàn khi xây dựng công trình có\nhành lang bảo vệ an toàn about:blank\nKhi Nhà nước xây dựng công trình công cộng, quốc phòng, an ninh có hành lang bảo vệ an toàn mà\nkhông thu hồi đất nằm trong phạm vi hành lang an toàn thì người sử dụng đất được bồi thường thiệt\nhại do hạn chế khả năng sử dụng đất, thiệt hại tài sản gắn liền với đất theo quy định của Chính phủ.\nChương 7.\nĐĂNG KÝ ĐẤT  ĐAI, CẤP  GIẤY  CHỨNG NHẬN QUYỀN SỬ DỤNG ĐẤT , QUYỀN SỞ HỮU\nNHÀ Ở VÀ TÀI SẢN KHÁC GẮN LIỀN VỚI ĐẤT\nMỤC 1. ĐĂNG KÝ ĐẤT  ĐAI, NHÀ Ở VÀ TÀI SẢN KHÁC GẮN LIỀN VỚI ĐẤT"
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydungconhtrinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng công trình"
+      }
+    },
+    {
+      "id": "khainiem_datthuochanhtrangan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất thuộc hành lang an toàn"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_boithuongthiethai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bồi thường thiệt hại"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_94_2013",
+      "target_id": "khainiem_boithuongthiethai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_94_2013",
+      "target_id": "khainiem_datthuochanhtrangan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_94_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_94_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_94_2013",
+      "target_id": "hanhviphaply_xaydungconhtrinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_190_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 190. Hoạt động lấn biển",
+        "ma_dieu": "190",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 190.\n\nHoạt động lấn biển\n1. Nhà nước khuyến khích tổ chức, cá nhân sử dụng vốn, kỹ thuật, công nghệ thực hiện các hoạt động\nlấn biển; có chính sách hỗ trợ, ưu đãi cho nhà đầu tư thực hiện hoạt động lấn biển theo quy định của\npháp luật.\n2. Hoạt động lấn biển phải tuân thủ các nguyên tắc sau đây:\na) Bảo đảm quốc phòng, an ninh, chủ quyền, quyền chủ quyền, quyền tài phán, lợi ích quốc gia trên\nbiển; phù hợp với quy định của luật khác có liên quan và các điều ước quốc tế mà nước Cộng hòa xã\nhội chủ nghĩa Việt Nam là thành viên;\nb) Dựa trên cơ sở đánh giá đầy đủ về kinh tế, xã hội, môi trường, bảo đảm phát triển bền vững, đa dạng\nsinh học, các yếu tố tự nhiên, tác động của thiên tai, biến đổi khí hậu và nước biển dâng;\nc) Phù hợp với quy hoạch tỉnh hoặc quy hoạch sử dụng đất cấp huyện hoặc quy hoạch xây dựng hoặc\nquy hoạch đô thị ;\nd) Khai thác, sử dụng hiệu quả tài nguyên biển; bảo đảm hài hòa lợi ích của tổ chức, cá nhân thực hiện\nhoạt động lấn biển và tổ chức, cá nhân khác có liên quan; bảo đảm quyền tiếp cận với biển của người\ndân, cộng đồng;\nđ) Hoạt động lấn biển phải được lập thành dự án đầu tư hoặc hạng mục của dự án đầu tư theo quy định\ncủa pháp luật.\n3. Hoạt động lấn biển mà có phần diện tích thuộc một trong các khu vực sau đây thì chỉ được thực hiện\nkhi được Quốc hội, Thủ tướng Chính phủ chấp thuận, quyết định chủ trương đầu tư:\na) Khu vực bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh được công nhận theo quy định của\npháp luật về di sản văn hóa;\nb) Di sản thiên nhiên theo quy định của pháp luật về bảo vệ môi trường;\nc) Vườn quốc gia, khu dự trữ thiên nhiên, khu bảo tồn loài - sinh cảnh, khu bảo vệ cảnh quan, vùng đất\nngập nước quan trọng đã được công bố theo quy định của pháp luật về đa dạng sinh học, pháp luật về\nlâm nghiệp;\nd) Khu bảo tồn biển, khu bảo vệ nguồn lợi thủy sản, cảng cá, khu neo đậu tránh trú bão cho tàu cá theo\nquy định của pháp luật về thủy sản;\nđ) Khu vực cảng biển, vùng nước trước cầu cảng, vùng quay trở tàu, khu neo đậu, khu chuyển tải, khu\ntránh bão, vùng đón trả hoa tiêu, vùng kiểm dịch, luồng hàng hải, vùng nước để xây công trình phụ trợ\nkhác theo quy định của pháp luật về hàng hải;\ne) Cửa sông và các khu vực đã được quy hoạch, sử dụng vào mục đích quốc phòng, an ninh. about:blank\n. Khu vực biển được xác định để thực hiện hoạt động lấn biển trong quy hoạch sử dụng đất đã được\nphê duyệt và dự án đầu tư đã được cơ quan nhà nước có thẩm quyền chấp thuận, quyết định chủ trương\nđầu tư thì việc quản lý, sử dụng khu vực biển để thực hiện hoạt động lấn biển như đối với đất đai trên\nđất liền.\n5. Trách nhiệm quản lý nhà nước về hoạt động lấn biển được quy định như sau:\na) Bộ Tài nguyên và Môi trường giúp Chính phủ thống nhất quản lý nhà nước về hoạt động lấn biển;\nthanh tra,  kiểm tra hoạt động lấn biển và quản lý khu vực lấn biển theo quy định của pháp luật;\nb) Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm quản lý, kiểm\ntra hoạt động lấn biển; ban hành, hướng dẫn, kiểm tra việc thực hiện quy định, tiêu chuẩn, quy chuẩn kỹ\nthuật và định mức kinh tế - kỹ thuật liên quan đến hoạt động lấn biển;\nc) Ủy ban nhân dân cấp tỉnh có trách nhiệm quản lý, giao đất, cho thuê đất để lấn biển, thanh tra, kiểm\ntra hoạt động lấn biển và quản lý, sử dụng khu vực lấn biển trên địa bàn theo quy định của pháp luật.\n6. Việc giao khu vực biển để thực hiện hoạt động lấn biển được tiến hành đồng thời với việc giao đất,\ncho thuê đất để thực hiện dự án đầu tư.\n7. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_lanbien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hoạt động lấn biển"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_bo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ, cơ quan ngang Bộ"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_190_2024",
+      "target_id": "hanhviphaply_lanbien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_190_2024",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_190_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_190_2024",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_190_2024",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_190_2024",
+      "target_id": "chuthe_botainguyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_190_2024",
+      "target_id": "chuthe_bo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_190_2024",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_190_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

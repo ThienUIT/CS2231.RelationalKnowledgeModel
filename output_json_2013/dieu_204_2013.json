@@ -1,0 +1,132 @@
+{
+  "entities": [
+    {
+      "id": "dieu_204_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 204. Giải quyết khiếu nại, khiếu kiện về đất đai",
+        "ma_dieu": "204",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 204.\n\nGiải quyết khiếu nại, khiếu kiện về đất đai\n1. Người sử dụng đất, người có quyền lợi và nghĩa vụ liên quan đến sử dụng đất có quyền khiếu nại,\nkhởi kiện quyết định hành chính hoặc hành vi hành chính về quản lý đất đai.\n2. Trình tự, thủ tục giải quyết khiếu nại quyết định hành chính, hành vi hành chính về đất đai thực hiện\ntheo quy định của pháp luật về khiếu nại. Trình tự, thủ tục giải quyết khiếu kiện quyết định hành chính,\nhành vi hành chính về đất đai thực hiện theo quy định của pháp luật về tố tụng hành chính."
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoicoquyenloiva Nghĩa vụlienquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có quyền lợi và nghĩa vụ liên quan đến sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_khieunai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khiếu nại"
+      }
+    },
+    {
+      "id": "hanhviphaply_khoikien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khởi kiện"
+      }
+    },
+    {
+      "id": "khainiem_quyetdinhhanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyết định hành chính"
+      }
+    },
+    {
+      "id": "khainiem_hanvihanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hành vi hành chính"
+      }
+    },
+    {
+      "id": "dieukien_phapluatvekhieunai",
+      "label": "DieuKien",
+      "properties": {
+        "name": "quy định của pháp luật về khiếu nại"
+      }
+    },
+    {
+      "id": "dieukien_phapluatvetotunghanhchinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "quy định của pháp luật về tố tụng hành chính"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_204_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2013",
+      "target_id": "chuthe_nguoicoquyenloiva Nghĩa vụlienquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "target_id": "hanhviphaply_khieunai",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "target_id": "hanhviphaply_khoikien",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "chuthe_nguoicoquyenloiva Nghĩa vụlienquan",
+      "target_id": "hanhviphaply_khieunai",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "chuthe_nguoicoquyenloiva Nghĩa vụlienquan",
+      "target_id": "hanhviphaply_khoikien",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_khieunai",
+      "target_id": "khainiem_quyetdinhhanhchinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_khieunai",
+      "target_id": "khainiem_hanvihanhchinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_khoikien",
+      "target_id": "khainiem_quyetdinhhanhchinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_khoikien",
+      "target_id": "khainiem_hanvihanhchinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_204_2013",
+      "target_id": "dieukien_phapluatvekhieunai",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_204_2013",
+      "target_id": "dieukien_phapluatvetotunghanhchinh",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

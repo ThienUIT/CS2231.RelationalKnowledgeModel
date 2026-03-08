@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_33_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 33",
+        "ma_dieu": "33",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 33.\nTổ chức thực hiện điều tra, đánh giá đất đai about:blank\n. Bộ Tài nguyên và Môi trường có trách nhiệm sau đây:\na) Tổ chức thực hiện và công bố kết quả điều tra, đánh giá đất đai của cả nước, các vùng theo định kỳ\n05 năm một lần và theo chuyên đề;\nb) Chỉ đạo việc thực hiện điều tra, đánh giá đất đai của tỉnh, thành phố trực thuộc trung ương;\nc) Tổng hợp, công bố kết quả điều tra, đánh giá đất đai của cả nước.\n2. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện và công bố kết quả điều tra, đánh giá đất\nđai của địa phương; gửi kết quả về Bộ Tài nguyên và Môi trường để tổng hợp.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định việc điều tra, đánh giá đất đai và điều kiện về\nnăng lực của đơn vị thực hiện điều tra, đánh giá đất đai."
+      }
+    },
+    {
+      "id": "chuthe_botnguyenvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochucthuchienvaongboketquadieutra",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tổ chức thực hiện và công bố kết quả điều tra, đánh giá đất đai"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotnguyenvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutra",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "điều tra, đánh giá đất đai"
+      }
+    },
+    {
+      "id": "dieukien_nanglucdonvi",
+      "label": "DieuKien",
+      "properties": {
+        "name": "điều kiện về năng lực của đơn vị thực hiện điều tra, đánh giá đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_33_2013",
+      "target_id": "chuthe_botnguyenvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_33_2013",
+      "target_id": "hanhviphaply_tochucthuchienvaongboketquadieutra",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_33_2013",
+      "target_id": "chuthe_uybanndcancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_33_2013",
+      "target_id": "chuthe_botruongbotnguyenvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_33_2013",
+      "target_id": "hanhviphaply_dieutra",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_33_2013",
+      "target_id": "dieukien_nanglucdonvi",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

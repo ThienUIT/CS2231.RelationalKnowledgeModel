@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_97_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 97. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+        "ma_dieu": "97",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 97.\n\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với\nđất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất được cấp\ncho người có quyền sử dụng đất, quyền sở hữu nhà ở, quyền sở hữu tài sản khác gắn liền với đất theo\nmột loại mẫu thống nhất trong cả nước.\nBộ trưởng Bộ Tài nguyên và Môi trường quy định cụ thể về Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu nhà ở và tài sản khác gắn liền với đất.\n2. Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở,\nGiấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng đã được\ncấp theo quy định của pháp luật về đất đai, pháp luật về nhà ở, pháp luật về xây dựng trước ngày 10\ntháng 12 năm 2009 vẫn có giá trị pháp lý và không phải đổi sang Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu nhà ở và tài sản khác gắn liền với đất; trường hợp người đã được cấp Giấy chứng nhận\ntrước ngày 10 tháng 12 năm 2009 có nhu cầu cấp đổi thì được đổi sang Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo quy định của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyensohuunhao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sở hữu nhà ở"
+      }
+    },
+    {
+      "id": "khainiem_taisangganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoicoquyensudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người có quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoicosohuu_nhacao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người có quyền sở hữu nhà ở"
+      }
+    },
+    {
+      "id": "chuthe_nguoicosohuu_taisan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người có quyền sở hữu tài sản"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotainuyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_97_2013",
+      "target_id": "khainiem_giaychungnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_97_2013",
+      "target_id": "khainiem_quyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_97_2013",
+      "target_id": "khainiem_quyensohuunhao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_97_2013",
+      "target_id": "khainiem_taisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_97_2013",
+      "target_id": "chuthe_nguoicoquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_97_2013",
+      "target_id": "chuthe_nguoicosohuu_nhacao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_97_2013",
+      "target_id": "chuthe_nguoicosohuu_taisan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_97_2013",
+      "target_id": "chuthe_botruongbotainuyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

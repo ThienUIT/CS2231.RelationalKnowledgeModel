@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_249_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 249",
+        "ma_dieu": "249",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 249.\n\nSửa đổi, bổ sung  khoản 3 Điều 6 của Luật Thuế sử dụng đất phi nông nghiệp số\n48/2010/QH12\nSửa đổi, bổ sung khoản 3 Điều 6  như sau:\n“3. Giá của 01 m2 đất là giá đất theo bảng giá đất tương ứng với mục đích sử dụng và được ổn định\ntheo chu kỳ 05 năm.”."
+      }
+    },
+    {
+      "id": "hanhviphaply_suadoibosung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sửa đổi, bổ sung"
+      }
+    },
+    {
+      "id": "dieuluat_luatthuesudungdatphinongnghiep",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Luật Thuế sử dụng đất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_giadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giá đất"
+      }
+    },
+    {
+      "id": "khainiem_banggiadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bảng giá đất"
+      }
+    },
+    {
+      "id": "dieukien_mucdichsudung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "mục đích sử dụng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_249_2024",
+      "target_id": "hanhviphaply_suadoibosung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_249_2024",
+      "target_id": "dieuluat_luatthuesudungdatphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_249_2024",
+      "target_id": "khainiem_giadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_249_2024",
+      "target_id": "khainiem_banggiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_249_2024",
+      "target_id": "dieukien_mucdichsudung",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

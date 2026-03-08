@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_77_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 77. Bồi thường về đất, chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất nông nghiệp của hộ gia đình, cá nhân",
+        "ma_dieu": "77",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 77.\n\nBồi thường về đất, chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất nông nghiệp\ncủa hộ gia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất thì được bồi thường\nvề đất, chi phí đầu tư vào đất còn lại theo quy định sau đây:\na) Diện tích đất nông nghiệp được bồi thường bao gồm diện tích trong hạn mức theo quy định tại  Điều\n129, Điều 130 của Luật này  và diện tích đất do được nhận thừa kế;\nb) Đối với diện tích đất nông nghiệp vượt hạn mức quy định tại  Điều 129 của Luật này  thì không được\nbồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn lại;\nc) Đối với diện tích đất nông nghiệp do nhận chuyển quyền sử dụng đất vượt hạn mức trước ngày Luật\nnày có hiệu lực thi hành thì việc bồi thường, hỗ trợ được thực hiện theo quy định của Chính phủ.\n2. Đối với đất nông nghiệp đã sử dụng trước ngày 01 tháng 7 năm 2004 mà người sử dụng đất là hộ gia\nđình, cá nhân trực tiếp sản xuất nông nghiệp nhưng không có Giấy chứng nhận hoặc không đủ điều\nkiện để được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với\nđất theo quy định của Luật này thì được bồi thường đối với diện tích đất thực tế đang sử dụng, diện\ntích được bồi thường không vượt quá hạn mức giao đất nông nghiệp quy định tại  Điều 129 của Luật\nnày."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "nhận chuyển quyền sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_77_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2013",
+      "target_id": "hanhviphaply_nhanuquyen",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

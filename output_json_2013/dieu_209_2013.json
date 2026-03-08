@@ -1,0 +1,184 @@
+{
+  "entities": [
+    {
+      "id": "dieu_209_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 209. Tiếp nhận và xử lý trách nhiệm của thủ trưởng, công chức, viên chức thuộc cơ quan quản lý đất đai các cấp và công chức địa chính cấp xã tr ong việc vi phạm trình tự thực hiện các thủ tục hành chính",
+        "ma_dieu": "209",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 209.\n\nTiếp nhận và xử lý trách nhiệm của thủ trưởng, công chức, viên chức thuộc cơ quan\nquản lý đất đai các cấp và công chức địa chính cấp xã tr ong việc vi phạm trình tự thực hiện các\nthủ tục hành chính\n1. Tổ chức, cá nhân khi phát hiện công chức, viên chức thuộc cơ quan quản lý đất đai các cấp, công\nchức địa chính xã, phường, thị trấn vi phạm các quy định về trình tự, thủ tục, thời hạn đối với việc giao\nđất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, thu hồi đất, làm thủ tục thực hiện quyền của\nngười sử dụng đất, cấp Giấy chứng nhận thì có quyền gửi đơn kiến nghị đến người có thẩm quyền\ntheo quy định sau đây:\na) Đối với vi phạm của công chức địa chính xã, phường, thị trấn thì gửi kiến nghị đến Chủ tịch Ủy ban\nnhân dân cấp xã;\nb) Đối với những vi phạm của công chức, viên chức thuộc cơ quan quản lý đất đai cấp nào thì gửi kiến\nnghị đến thủ trưởng cơ quan quản lý đất đai cấp đó;\nc) Đối với vi phạm của thủ trưởng cơ quan quản lý đất đai thì gửi kiến nghị đến Chủ tịch Ủy ban nhân\ndân cùng cấp.\n2. Trong thời hạn không quá 30 ngày , kể từ ngày nhận được đơn kiến nghị, Chủ tịch Ủy ban nhân dân\nhoặc thủ trưởng cơ quan quản lý đất đai quy định tại khoản 1 Điều này có trách nhiệm xem xét, giải\nquyết và thông báo cho người có kiến nghị biết. about:blank\nChương 14.\nĐIỀU KHOẢN THI HÀNH"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congchucvienchuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "công chức, viên chức"
+      }
+    },
+    {
+      "id": "chuthe_coquanquanlydatdaicaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan quản lý đất đai các cấp"
+      }
+    },
+    {
+      "id": "chuthe_congchucdiachinhxaphuongthitran",
+      "label": "ChuThe",
+      "properties": {
+        "name": "công chức địa chính xã, phường, thị trấn"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chophhepchuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho phép chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_lamthucthuchienquyennguoisudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "làm thủ tục thực hiện quyền của người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cấp Giấy chứng nhận"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndancapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_thutruongcoquanquanlydatdaicapdo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "thủ trưởng cơ quan quản lý đất đai cấp đó"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndancungcap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cùng cấp"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "chuthe_congchucvienchuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "chuthe_coquanquanlydatdaicaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "chuthe_congchucdiachinhxaphuongthitran",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "hanhviphaply_chophhepchuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "hanhviphaply_lamthucthuchienquyennguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "chuthe_chutichubndancapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "chuthe_thutruongcoquanquanlydatdaicapdo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2013",
+      "target_id": "chuthe_chutichubndancungcap",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

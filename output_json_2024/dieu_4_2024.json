@@ -1,0 +1,256 @@
+{
+  "entities": [
+    {
+      "id": "dieu_4_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 4. Người sử dụng đất",
+        "ma_dieu": "4",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 4.\n\nNgười sử dụng đất\nNgười sử dụng đất được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất; đang sử dụng\nđất ổn định, đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với\nđất mà chưa được Nhà nước cấp Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu\nnhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản\nkhác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nnhận quyền sử dụng đất; thuê lại đất theo quy định của Luật này , bao gồm:\n1. Tổ chức trong nước gồm:\na) Cơ quan nhà nước, cơ quan Đảng Cộng sản Việt Nam, đơn vị vũ trang nhân dân, Mặt trận Tổ quốc\nViệt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã\nhội - nghề nghiệp, đơn vị sự nghiệp công lập và tổ chức khác theo quy định của pháp luật;\nb) Tổ chức kinh tế theo quy định của Luật Đầu tư , trừ trường hợp quy định tại khoản 7 Điều này (sau\nđây gọi là tổ chức kinh tế);\n2. Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc; about:blank\n. Cá nhân trong nước, người Việt Nam định cư ở nước ngoài là công dân Việt Nam (sau đây gọi là cá\nnhân);\n4. Cộng đồng dân cư;\n5. Tổ chức nước ngoài có chức năng ngoại giao gồm cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ\nquan đại diện khác của nước ngoài có chức năng ngoại giao được Chính phủ Việt Nam thừa nhận; cơ\nquan đại diện của tổ chức thuộc Liên hợp quốc, cơ quan hoặc tổ chức liên chính phủ, cơ quan đại diện\ncủa tổ chức liên chính phủ;\n6. Người gốc Việt Nam định cư ở nước ngoài;\n7. Tổ chức kinh tế có vốn đầu tư nước ngoài."
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuctrongnuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức trong nước"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_cophanvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan Đảng Cộng sản Việt Nam"
+      }
+    },
+    {
+      "id": "chuthe_donvivutrangnhandan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị vũ trang nhân dân"
+      }
+    },
+    {
+      "id": "chuthe_matrantochucvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Mặt trận Tổ quốc Việt Nam"
+      }
+    },
+    {
+      "id": "chuthe_tochucchinhtrixahoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức chính trị - xã hội"
+      }
+    },
+    {
+      "id": "chuthe_tochucchinhxahoinghenghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức chính trị xã hội - nghề nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_tochucxahoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức xã hội"
+      }
+    },
+    {
+      "id": "chuthe_tochucxahoinghenghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức xã hội - nghề nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_donvisungnghiepclap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_tochuckhactheoquy",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức khác theo quy định của pháp luật"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiaotructhuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo trực thuộc"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân trong nước, người Việt Nam định cư ở nước ngoài là công dân Việt Nam"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaicongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao gồm cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện khác của nước ngoài có chức năng ngoại giao được Chính phủ Việt Nam thừa nhận; cơ quan đại diện của tổ chức thuộc Liên hợp quốc, cơ quan hoặc tổ chức liên chính phủ, cơ quan đại diện của tổ chức liên chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhtevondautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochuctrongnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_cophanvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_donvivutrangnhandan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_matrantochucvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochucchinhtrixahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochucchinhxahoinghenghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochucxahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochucxahoinghenghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_donvisungnghiepclap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochuckhactheoquy",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochuctongiaotructhuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochucnuocngoaicongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_nguoigocvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2024",
+      "target_id": "chuthe_tochuckinhtevondautu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

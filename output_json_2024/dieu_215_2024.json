@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_215_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 215. Đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối",
+        "ma_dieu": "215",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 215.\n\nĐất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối\n1. Đất có mặt nước chuyên dùng là đất có mặt nước của các đối tượng thủy văn dạng ao, hồ, đầm, phá\nđã được xác định mục đích sử dụng mà không phải mục đích nuôi trồng thủy sản.\n2. Căn cứ vào mục đích sử dụng chủ yếu đã xác định, đất có mặt nước chuyên dùng và đất sông, ngòi,\nkênh, rạch, suối được quản lý, sử dụng theo quy định sau đây: about:blank\na) Nhà nước giao cho tổ chức để quản lý kết hợp sử dụng, khai thác đất có mặt nước chuyên dùng vào\nmục đích phi nông nghiệp hoặc phi nông nghiệp kết hợp với nuôi trồng, khai thác thủy sản;\nb) Nhà nước cho thuê đất sông, ngòi, kênh, rạch, suối thu tiền thuê đất hằng năm đối với tổ chức kinh\ntế, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài để\nnuôi trồng thủy sản hoặc sử dụng vào mục đích phi nông nghiệp hoặc sử dụng vào mục đích phi nông\nnghiệp kết hợp với nuôi trồng thủy sản và phải thực hiện theo quy định của pháp luật về tài nguyên\nnước;\nc) Nhà nước cho thuê đất có mặt nước là hồ thủy điện, thủy lợi để kết hợp sử dụng với mục đích phi\nnông nghiệp, nuôi trồng, khai thác thủy sản theo thẩm quyền;\nd) Nhà nước giao, cho thuê đất trong phạm vi bảo vệ và phạm vi phụ cận đập, hồ chứa nước thuộc công\ntrình thủy điện, thủy lợi cho tổ chức, cá nhân để quản lý, kết hợp sử dụng, khai thác đất có mặt nước\nkết hợp với các mục đích sử dụng đất khác theo quy định của pháp luật có liên quan và phải được cơ\nquan nhà nước có thẩm quyền cấp phép theo quy định.\n3. Việc khai thác, sử dụng đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối phải bảo\nđảm không ảnh hưởng đến mục đích sử dụng chủ yếu đã được xác định; phải tuân theo quy định về kỹ\nthuật của các ngành, lĩnh vực có liên quan và các quy định về bảo vệ cảnh quan, môi trường; không làm\ncản trở dòng chảy tự nhiên; không gây cản trở giao thông đường thủy ."
+      }
+    },
+    {
+      "id": "khainiem_datcomatnuocchuyendung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có mặt nước chuyên dùng"
+      }
+    },
+    {
+      "id": "khainiem_datsongngoikenhrachsuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sông, ngòi, kênh, rạch, suối"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte_covondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_215_2024",
+      "target_id": "khainiem_datcomatnuocchuyendung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_215_2024",
+      "target_id": "khainiem_datsongngoikenhrachsuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_tochuc_kinhte_covondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

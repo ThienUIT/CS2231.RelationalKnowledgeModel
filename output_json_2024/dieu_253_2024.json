@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_253_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 253. Quy định chuyển tiếp về quy hoạch, kế hoạch sử dụng đất khi Luật này có hiệu lực thi hành",
+        "ma_dieu": "253",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 253.\n\nQuy định chuyển tiếp về quy hoạch, kế hoạch sử dụng đất khi Luật này có hiệu lực thi\nhành\n1. Quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền quyết định, phê duyệt\ntrước ngày Luật này có hiệu lực thi hành thì được tiếp tục thực hiện và được điều chỉnh khi rà soát quy\nhoạch, kế hoạch sử dụng đất theo quy định tại Điều 73 của Luật này .\n2. Đối với địa phương đã được phê duyệt quy hoạch tỉnh thời kỳ 2021 - 2030 theo quy định của pháp\nluật về quy hoạch trước ngày Luật này có hiệu lực thi hành thì được tiếp tục sử dụng phương án phân\nbổ và khoanh vùng đất đai trong quy hoạch tỉnh để thực hiện công tác quản lý đất đai cho đến hết kỳ\nquy hoạch. Việc điều chỉnh quy hoạch tỉnh thực hiện theo quy định của  Luật Quy hoạch số\n21/2017/QH14 ."
+      }
+    },
+    {
+      "id": "khainiem_quyhoach",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "dieukien_luatnaycohieulucthihanh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Luật này có hiệu lực thi hành"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_253_2024",
+      "target_id": "khainiem_quyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_253_2024",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_253_2024",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_253_2024",
+      "target_id": "dieukien_luatnaycohieulucthihanh",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

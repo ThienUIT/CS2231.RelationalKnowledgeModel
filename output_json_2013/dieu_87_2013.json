@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_87_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 87",
+        "ma_dieu": "87",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 87.\n\nBồi thường, hỗ trợ, tái định cư đối với các trường hợp đặc biệt about:blank\n. Đối với dự án đầu tư do Quốc hội quyết định chủ trương đầu tư, Thủ tướng Chính phủ chấp thuận\nchủ trương đầu tư mà phải di chuyển cả cộng đồng dân cư, làm ảnh hưởng đến toàn bộ đời sống, kinh\ntế - xã hội, truyền thống văn hóa của cộng đồng, các dự án thu hồi đất liên quan đến nhiều tỉnh, thành\nphố trực thuộc trung ương thì Thủ tướng Chính phủ quyết định khung chính sách bồi thường, hỗ trợ,\ntái định cư.\n2. Đối với dự án sử dụng vốn vay của các tổ chức quốc tế, nước ngoài mà Nhà nước Việt Nam có cam\nkết về khung chính sách bồi thường, hỗ trợ, tái định cư thì thực hiện theo khung chính sách đó.\n3. Đối với trường hợp thu hồi quy định tại  điểm đ và điểm e khoản 1 Điều 65 của Luật này  thì người có\nđất thu hồi được bồi thường, hỗ trợ, tái định cư để ổn định đời sống, sản xuất theo quy định của Chính\nphủ.\nMỤC 3. BỒI THƯỜNG THIỆT  HẠI VỀ TÀI SẢN, VỀ SẢN XUẤT , KINH DOANH"
+      }
+    },
+    {
+      "id": "khainiem_boithuong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bồi thường"
+      }
+    },
+    {
+      "id": "khainiem_hotro",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hỗ trợ"
+      }
+    },
+    {
+      "id": "khainiem_taidinhcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tái định cư"
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_conggdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_nhanuocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước Việt Nam"
+      }
+    },
+    {
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có đất thu hồi"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_87_2013",
+      "target_id": "khainiem_boithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_87_2013",
+      "target_id": "khainiem_hotro",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_87_2013",
+      "target_id": "khainiem_taidinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_87_2013",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_87_2013",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_87_2013",
+      "target_id": "chuthe_conggdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_87_2013",
+      "target_id": "chuthe_nhanuocvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_87_2013",
+      "target_id": "chuthe_nguoicodatthuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_87_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

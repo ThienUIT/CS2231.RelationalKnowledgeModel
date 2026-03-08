@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_30_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 30. Quyền lựa chọn hình thức trả tiền thuê đất",
+        "ma_dieu": "30",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 30.\n\nQuyền lựa chọn hình thức trả tiền thuê đất\n1. Tổ chức kinh tế, đơn vị sự nghiệp công lập, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ\nchức kinh tế có vốn đầu tư nước ngoài đang được Nhà nước cho thuê đất thu tiền thuê đất hằng năm\nnhưng thuộc trường hợp được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\ntheo quy định của Luật này được lựa chọn chuyển sang thuê đất trả tiền thuê đất một lần cho thời gian\nthuê đất còn lại và phải xác định lại giá đất để tính tiền thuê đất tại thời điểm có quyết định cho phép\nchuyển sang thuê đất theo hình thức trả tiền thuê đất một lần cho cả thời gian thuê theo quy định của\nLuật này .\n2. Tổ chức kinh tế, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư\nnước ngoài đang được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê được lựa\nchọn chuyển sang thuê đất thu tiền thuê đất hằng năm. Tiền thuê đất đã nộp được khấu trừ vào tiền\nthuê đất hằng năm phải nộp theo quy định của Chính phủ.\n3. Đơn vị sự nghiệp công lập được Nhà nước giao đất không thu tiền sử dụng đất mà có nhu cầu sử\ndụng một phần hoặc toàn bộ diện tích được giao để sản xuất, kinh doanh, cung cấp dịch vụ thì được lựa\nchọn chuyển sang hình thức Nhà nước cho thuê đất thu tiền thuê đất hằng năm đối với phần diện tích\nđó."
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_donvisungnghiepclap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdincuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte_covondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyensangthuedattratienthuedatmotlan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển sang thuê đất trả tiền thuê đất một lần"
+      }
+    },
+    {
+      "id": "hanhviphaply_xacdinhlaigiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xác định lại giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyensangthuedatthutienthuedathangnam",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển sang thuê đất thu tiền thuê đất hằng năm"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyensanghinhthucthuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển sang hình thức thuê đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_30_2024",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2024",
+      "target_id": "chuthe_donvisungnghiepclap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2024",
+      "target_id": "chuthe_nguoigocvietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2024",
+      "target_id": "chuthe_tochuc_kinhte_covondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2024",
+      "target_id": "hanhviphaply_chuyensangthuedattratienthuedatmotlan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2024",
+      "target_id": "hanhviphaply_xacdinhlaigiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2024",
+      "target_id": "hanhviphaply_chuyensangthuedatthutienthuedathangnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2024",
+      "target_id": "hanhviphaply_chuyensanghinhthucthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

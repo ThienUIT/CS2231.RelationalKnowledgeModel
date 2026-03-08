@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_133_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 133. Đất nông nghiệp do tổ chức, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài sử dụng",
+        "ma_dieu": "133",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 133.\n\nĐất nông nghiệp do tổ chức, người Việt Nam định cư ở nước ngoài, doanh nghiệp có\nvốn đầu tư nước ngoài sử dụng\n1. Tổ chức kinh tế, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài có\nnhu cầu sử dụng đất để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối thì được Nhà\nnước xem xét cho thuê đất để thực hiện dự án đầu tư.\n2. Tổ chức kinh tế, tổ chức sự nghiệp công lập đã được Nhà nước giao đất, cho thuê đất trước ngày\nLuật này có hiệu lực thi hành để sử dụng vào mục đích sản xuất nông nghiệp, lâm nghiệp thì phải rà soát\nhiện trạng sử dụng đất, lập phương án sử dụng đất. Nội dung phương án sử dụng đất phải xác định rõ\ndiện tích, ranh giới sử dụng, diện tích từng loại đất được giữ lại sử dụng, thời hạn sử dụng đất, diện tích\nđất bàn giao cho địa phương.\nỦy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc rà soát, phê duyệt phương án sử dụng đất; giao\nđất, cho thuê đất theo phương án sử dụng đất được phê duyệt; thu hồi diện tích đất không sử dụng, sử\ndụng không đúng mục đích, giao khoán, cho thuê, cho mượn trái pháp luật, bị lấn, bị chiếm để tạo quỹ\nđất giao, cho thuê đối với tổ chức, hộ gia đình, cá nhân. Việc giao đất, cho thuê đất phải ưu tiên hộ gia\nđình, cá nhân là dân tộc thiểu số không có đất hoặc thiếu đất sản xuất ở địa phương.\n3. Tổ chức kinh tế đã được Nhà nước giao đất không thu tiền sử dụng đất để sử dụng vào mục đích sản\nxuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối trước ngày Luật này có hiệu lực thi hành\nphải chuyển sang thuê đất."
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_tochucsunghiệpconglap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_133_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_133_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_133_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_133_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_133_2013",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_133_2013",
+      "target_id": "chuthe_tochucsunghiệpconglap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_133_2013",
+      "target_id": "chuthe_uybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_133_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_133_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

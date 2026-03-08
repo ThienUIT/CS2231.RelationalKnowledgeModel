@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_27_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 27. Trách nhiệm của Nhà nước về đất ở, đất sản xuất nông nghiệp đối với đồng bào dân tộc thiểu số",
+        "ma_dieu": "27",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 27.\n\nTrách nhiệm của Nhà nước về đất ở, đất sản xuất nông nghiệp đối với đồng bào dân tộc\nthiểu số\n1. Có chính sách về đất ở, đất sinh hoạt cộng đồng cho đồng bào dân tộc thiểu số phù hợp với phong\ntục, tập quán, bản sắc văn hóa và điều kiện thực tế của từng vùng.\n2. Có chính sách tạo điều kiện cho đồng bào dân tộc thiểu số trực tiếp sản xuất nông nghiệp ở nông\nthôn có đất để sản xuất nông nghiệp."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_datothu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất ở"
+      }
+    },
+    {
+      "id": "khainiem_datsanxuatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất sản xuất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_dongbaodantocthieuso",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đồng bào dân tộc thiểu số"
+      }
+    },
+    {
+      "id": "khainiem_datsinhhoatcongdong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất sinh hoạt cộng đồng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_27_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_27_2013",
+      "target_id": "khainiem_datothu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_27_2013",
+      "target_id": "khainiem_datsanxuatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_27_2013",
+      "target_id": "chuthe_dongbaodantocthieuso",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_27_2013",
+      "target_id": "khainiem_datsinhhoatcongdong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

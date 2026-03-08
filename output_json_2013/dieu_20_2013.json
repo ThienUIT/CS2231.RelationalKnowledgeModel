@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_20_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 20.",
+        "ma_dieu": "20",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 20.\n\nNhà nước quy định quyền và nghĩa vụ của người sử dụng đất\nNhà nước quy định quyền và nghĩa vụ của người sử dụng đất phù hợp với hình thức giao đất, cho thuê\nđất, công nhận quyền sử dụng đất, nguồn gốc sử dụng đất và nghĩa vụ tài chính của người sử dụng đất."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "công nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_nguongocsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nguồn gốc sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_nghiavutaichinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nghĩa vụ tài chính"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_20_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2013",
+      "target_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2013",
+      "target_id": "khainiem_nguongocsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_20_2013",
+      "target_id": "khainiem_nghiavutaichinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

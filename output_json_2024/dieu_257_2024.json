@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_257_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 257.",
+        "ma_dieu": "257",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 257.\n\nGiải quyết về tài chính đất đai, giá đất khi Luật này có hiệu lực thi hành about:blank\n. Bảng giá đất do Ủy ban nhân dân cấp tỉnh ban hành theo quy định của  Luật Đất đai số\n45/2013/QH13  được tiếp tục áp dụng đến hết ngày 31 tháng 12 năm 2025; trường hợp cần thiết Ủy ban\nnhân dân cấp tỉnh quyết định điều chỉnh bảng giá đất theo quy định của Luật này cho phù hợp với tình\nhình thực tế về giá đất tại địa phương.\n2. Đối với trường hợp đã có quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất,\ncho phép chuyển từ hình thức thuê đất trả tiền hằng năm sang thuê đất trả tiền một lần cho cả thời gian\nthuê, gia hạn sử dụng đất, điều chỉnh thời hạn sử dụng đất, điều chỉnh quy hoạch chi tiết theo quy định\ncủa pháp luật về đất đai và quy định khác của pháp luật có liên quan trước ngày Luật này có hiệu lực thi\nhành nhưng chưa quyết định giá đất thì thực hiện như sau:\na) Đối với trường hợp giao đất, cho thuê đất theo quy định của Luật Đất đai năm 1993 , Luật Đất đai số\n13/2003/QH1 1 và các văn bản quy định chi tiết, hướng dẫn thi hành mà được bàn giao đất trên thực tế\ntrước ngày 01 tháng 01 năm 2005 thì chính sách thu tiền sử dụng đất, tiền thuê đất và giá đất để tính\ntiền sử dụng đất, tiền thuê đất áp dụng tại thời điểm bảng giá đất năm 2005 do Ủy ban nhân dân cấp\ntỉnh ban hành có hiệu lực thi hành;\nb) Đối với trường hợp giao đất, cho thuê đất theo quy định của  Luật Đất đai năm 1993 , Luật Đất đai\nsố 13/2003/QH1 1 và các văn bản quy định chi tiết, hướng dẫn thi hành mà được cơ quan nhà nước có\nthẩm quyền bàn giao đất trên thực tế từ ngày 01 tháng 01 năm 2005 đến trước ngày Luật này có hiệu\nlực thi hành thì chính sách thu tiền sử dụng đất, tiền thuê đất và giá đất để tính tiền sử dụng đất, tiền\nthuê đất được xác định tại thời điểm bàn giao đất trên thực tế;\nc) Đối với trường hợp đã có quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất,\ncho phép chuyển hình thức thuê đất trả tiền hàng năm sang thuê đất trả tiền một lần cho cả thời gian\nthuê, gia hạn sử dụng đất, điều chỉnh thời hạn sử dụng đất, điều chỉnh quy hoạch chi tiết xây dựng theo\nquy định của  Luật Đất đai số 45/2013/QH13  và các văn bản quy định chi tiết, hướng dẫn thi hành\nnhưng phương án giá đất chưa được trình Ủy ban nhân dân cấp có thẩm quyền thì chính sách thu tiền\nsử dụng đất, tiền thuê đất và giá đất được xác định tại thời điểm ban hành quyết định đó.\nTrường hợp Ủy ban nhân dân cấp có thẩm quyền đã thực hiện giao đất, cho thuê đất theo tiến độ bồi\nthường, hỗ trợ, tái định cư thì giá đất cụ thể được xác định theo thời điểm ban hành của từng quyết\nđịnh;\nd) Chính phủ quy định về việc áp dụng phương pháp định giá đất và khoản tiền người sử dụng đất phải\nnộp bổ sung đối với thời gian chưa tính tiền sử dụng đất, tiền thuê đất của các trường hợp quy định tại\ncác điểm a, b và c khoản này .\n3. Trường hợp phương án giá đất đã trình Ủy ban nhân dân cấp có thẩm quyền quyết định giá đất cụ\nthể theo quy định của pháp luật trước ngày Luật này có hiệu lực thi hành thì Ủy ban nhân dân cấp có\nthẩm quyền quyết định giá đất cụ thể theo phương án đã trình mà không áp dụng quy định của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_giadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "giá đất"
+      }
+    },
+    {
+      "id": "chuthe_uybannd",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "dieukien_luatdatdai2013",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Luật Đất đai số 45/2013/QH13"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_257_2024",
+      "target_id": "khainiem_giadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_257_2024",
+      "target_id": "chuthe_uybannd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_257_2024",
+      "target_id": "dieukien_luatdatdai2013",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_257_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_257_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_257_2024",
+      "target_id": "hanhviphaply_chuyenmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_257_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

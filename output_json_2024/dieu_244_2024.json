@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_244_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 244",
+        "ma_dieu": "244",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 244.\n\nSửa đổi, bổ sung  khoản 4 Điều 44 của Luật Thủy sản số 18/2017/QH14\n“4. Thời hạn giao khu vực biển để nuôi trồng thủy sản không quá 50 năm, được tính từ ngày quyết định\ngiao khu vực biển có hiệu lực. Khi hết thời hạn giao, tổ chức, cá nhân có nhu cầu tiếp tục sử dụng khu\nvực biển đã được giao để nuôi trồng thủy sản được Nhà nước xem xét gia hạn có thể gia hạn nhiều lần\nnhưng tổng thời gian gia hạn không quá 20 năm. Thời hạn giao khu vực biển cho tổ chức, cá nhân Việt\nNam thực hiện nhiệm vụ khoa học và công nghệ phục vụ nuôi trồng thủy sản không quá thời hạn nhiệm\nvụ khoa học và công nghệ được cơ quan có thẩm quyền phê duyệt.”."
+      }
+    },
+    {
+      "id": "hanhviphaply_giaokhuvucbien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao khu vực biển"
+      }
+    },
+    {
+      "id": "khainiem_thoihangiokhuvucbien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thời hạn giao khu vực biển"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_nuoitrongthuysan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nuôi trồng thủy sản"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_tieptucsudungkhuvucbien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tiếp tục sử dụng khu vực biển"
+      }
+    },
+    {
+      "id": "hanhviphaply_giahan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Gia hạn"
+      }
+    },
+    {
+      "id": "dieukien_nhucauti tục",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có nhu cầu tiếp tục sử dụng"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhanvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân Việt Nam"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchiennhiemvukhoahoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện nhiệm vụ khoa học và công nghệ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "hanhviphaply_giaokhuvucbien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "khainiem_thoihangiokhuvucbien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "hanhviphaply_nuoitrongthuysan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "hanhviphaply_tieptucsudungkhuvucbien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "hanhviphaply_giahan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "dieukien_nhucauti tục",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "chuthe_tochuccanhanvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_244_2024",
+      "target_id": "hanhviphaply_thuchiennhiemvukhoahoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

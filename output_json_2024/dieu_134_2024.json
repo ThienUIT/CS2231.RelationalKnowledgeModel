@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_134_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 134. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+        "ma_dieu": "134",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 134.\n\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp cho người có\nquyền sử dụng đất, quyền sở hữu nhà ở, quyền sở hữu công trình xây dựng gắn liền với đất theo mẫu\nthống nhất trong cả nước.\n2. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về Giấy chứng nhận quyền sử dụng đất, quyền sở\nhữu tài sản gắn liền với đất ."
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhanquyenquyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoicoquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người có quyền sử dụng đất, quyền sở hữu nhà ở, quyền sở hữu công trình xây dựng gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotainuyenvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_134_2024",
+      "target_id": "khainiem_giaychungnhanquyenquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_134_2024",
+      "target_id": "chuthe_nguoicoquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_134_2024",
+      "target_id": "chuthe_botruongbotainuyenvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "entities": [
+    {
+      "id": "dieu_168_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 168. Thời điểm được thực hiện các quyền của người sử dụng đất",
+        "ma_dieu": "168",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 168.\n\nThời điểm được thực hiện các quyền của người sử dụng đất\n1. Người sử dụng đất được thực hiện các quyền chuyển nhượng, cho thuê, cho thuê lại, tặng cho, thế\nchấp, góp vốn quyền sử dụng đất khi có Giấy chứng nhận. Đối với trường hợp chuyển đổi quyền sử\ndụng đất nông nghiệp thì người sử dụng đất được thực hiện quyền sau khi có quyết định giao đất, cho\nthuê đất; trường hợp nhận thừa kế quyền sử dụng đất thì người sử dụng đất được thực hiện quyền khi\ncó Giấy chứng nhận hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà\nở và tài sản khác gắn liền với đất.\nTrường hợp người sử dụng đất được chậm thực hiện nghĩa vụ tài chính hoặc được ghi nợ nghĩa vụ tài\nchính thì phải thực hiện xong nghĩa vụ tài chính trước khi thực hiện các quyền.\n2. Thời điểm người thực hiện chuyển nhượng quyền sử dụng đất trong dự án đầu tư xây dựng kinh\ndoanh nhà ở để bán hoặc cho thuê; chuyển nhượng quyền sử dụng đất đồng thời chuyển nhượng toàn\nbộ dự án đối với dự án đầu tư xây dựng kết cấu hạ tầng để chuyển nhượng hoặc cho thuê sau khi có\nGiấy chứng nhận và có đủ điều kiện theo quy định tại  Điều 194 của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển nhượng"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuelai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê lại"
+      }
+    },
+    {
+      "id": "hanhviphaply_tangcho",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tặng cho"
+      }
+    },
+    {
+      "id": "hanhviphaply_thechap",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thế chấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_gopvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "góp vốn"
+      }
+    },
+    {
+      "id": "dieukien_giaychungnhan",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Giấy chứng nhận"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyendoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển đổi"
+      }
+    },
+    {
+      "id": "dieukien_quyetdinhgiaodat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "quyết định giao đất"
+      }
+    },
+    {
+      "id": "dieukien_quyetdinhchothue",
+      "label": "DieuKien",
+      "properties": {
+        "name": "quyết định cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanthuake",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "nhận thừa kế"
+      }
+    },
+    {
+      "id": "dieukien_thuchiennghiavutaichinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "thực hiện xong nghĩa vụ tài chính"
+      }
+    },
+    {
+      "id": "dieu_194_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 194 của Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "hanhviphaply_chuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "hanhviphaply_chothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "hanhviphaply_chothuelai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "hanhviphaply_tangcho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "hanhviphaply_thechap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "hanhviphaply_gopvon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "dieukien_giaychungnhan",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "hanhviphaply_chuyendoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "dieukien_quyetdinhgiaodat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "dieukien_quyetdinhchothue",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "hanhviphaply_nhanthuake",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "dieukien_thuchiennghiavutaichinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_168_2013",
+      "target_id": "dieu_194_2013",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_198_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 198. Sử dụng đất để chỉnh trang đô thị và khu dân cư nông thôn",
+        "ma_dieu": "198",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 198.\n\nSử dụng đất để chỉnh trang đô thị và khu dân cư nông thôn\n1. Đất sử dụng để chỉnh trang đô thị bao gồm đất chỉnh trang khu vực nội thành, nội thị hiện có, đất\nđược quy hoạch để mở rộng đô thị.\nĐất sử dụng để chỉnh trang khu dân cư nông thôn bao gồm đất chỉnh trang trong khu dân cư hiện có,\nđất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích, đất được quy hoạch để mở rộng khu\ndân cư nông thôn.\n2. Việc sử dụng đất để chỉnh trang đô thị, khu dân cư nông thôn phải phù hợp với quy hoạch, kế hoạch\nsử dụng đất, quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt và các quy chuẩn, tiêu\nchuẩn xây dựng do cơ quan nhà nước có thẩm quyền ban hành.\n3. Nhà nước thu hồi đất, giao đất, cho thuê đất để thực hiện dự án chỉnh trang đô thị, khu dân cư nông\nthôn trong các trường hợp quy định tại Điều 79 của Luật này .\n4. Tổ chức, cá nhân được góp quyền sử dụng đất để xây dựng, chỉnh trang các công trình phục vụ lợi\ních chung của cộng đồng bằng nguồn vốn do Nhân dân đóng góp hoặc Nhà nước hỗ trợ. Việc tự\nnguyện góp quyền sử dụng đất, bồi thường hoặc hỗ trợ do tổ chức, cá nhân đó tự thỏa thuận. Việc góp\nquyền sử dụng đất, điều chỉnh lại đất đai thực hiện theo quy định tại Điều 219 của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_datsudungdechinhtrangdothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng để chỉnh trang đô thị"
+      }
+    },
+    {
+      "id": "khainiem_datsudungdechinhtrangkhudancunongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng để chỉnh trang khu dân cư nông thôn"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_quyennguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_198_2024",
+      "target_id": "khainiem_datsudungdechinhtrangdothi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2024",
+      "target_id": "khainiem_datsudungdechinhtrangkhudancunongthon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2024",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2024",
+      "target_id": "khainiem_quyennguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

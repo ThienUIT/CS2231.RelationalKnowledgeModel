@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_74_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 74. Lựa chọn tư vấn lập quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "74",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 74.\n\nLựa chọn tư vấn lập quy hoạch, kế hoạch sử dụng đất\n1. Việc lựa chọn tư vấn lập quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng, quy\nhoạch sử dụng đất an ninh thực hiện theo quy định của pháp luật về quy hoạch.\n2. Việc lựa chọn tư vấn lập kế hoạch sử dụng đất quốc gia, quy hoạch, kế hoạch sử dụng đất cấp tỉnh,\nquy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện thực hiện theo quy định\ncủa Chính phủ."
+      }
+    },
+    {
+      "id": "hanhviphaply_luachontuvanlapquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lựa chọn tư vấn lập quy hoạch"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatquocphong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất quốc phòng"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatanninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất an ninh"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdatcaptinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất hằng năm cấp huyện"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_74_2024",
+      "target_id": "hanhviphaply_luachontuvanlapquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2024",
+      "target_id": "khainiem_quyhoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2024",
+      "target_id": "khainiem_quyhoachsudungdatquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2024",
+      "target_id": "khainiem_quyhoachsudungdatanninh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2024",
+      "target_id": "khainiem_kehoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2024",
+      "target_id": "khainiem_quyhoachkehoachsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2024",
+      "target_id": "khainiem_quyhoachsudungdatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_74_2024",
+      "target_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

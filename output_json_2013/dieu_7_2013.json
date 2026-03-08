@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_7_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 7. Người chịu trách nhiệm trước Nhà nước đối với việc sử dụng đất",
+        "ma_dieu": "7",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 7.\n\nNgười chịu trách nhiệm trước Nhà nước đối với việc sử dụng đất\n1. Người đứng đầu của tổ chức, tổ chức nước ngoài có chức năng ngoại giao, doanh nghiệp có vốn đầu\ntư nước ngoài đối với việc sử dụng đất của tổ chức mình.\n2. Chủ tịch Ủy ban nhân dân xã, phường, thị trấn đối với việc sử dụng đất nông nghiệp vào mục đích\ncông ích; đất phi nông nghiệp đã giao cho Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là\nỦy ban nhân dân cấp xã) để sử dụng vào mục đích xây dựng trụ sở Ủy ban nhân dân, các công trình\ncông cộng phục vụ hoạt động văn hóa, giáo dục, y tế, thể dục thể thao, vui chơi, giải trí, chợ, nghĩa\ntrang, nghĩa địa và công trình công cộng khác của địa phương.\n3. Người đại diện cho cộng đồng dân cư là trưởng thôn, làng, ấp, bản, buôn, phum, sóc, tổ dân phố\nhoặc người được cộng đồng dân cư thỏa thuận cử ra đối với việc sử dụng đất đã giao, công nhận cho\ncộng đồng dân cư.\n4. Người đứng đầu cơ sở tôn giáo đối với việc sử dụng đất đã giao cho cơ sở tôn giáo.\n5. Chủ hộ gia đình đối với việc sử dụng đất của hộ gia đình.\n6. Cá nhân, người Việt Nam định cư ở nước ngoài đối với việc sử dụng đất của mình.\n7. Người có chung quyền sử dụng đất hoặc người đại diện cho nhóm người có chung quyền sử dụng\nđất đối với việc sử dụng đất đó."
+      }
+    },
+    {
+      "id": "chuthe_nguoidungdaucuatochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đứng đầu của tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndxaphuongthitran",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân xã, phường, thị trấn"
+      }
+    },
+    {
+      "id": "chuthe_nguoidaidienchocongdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đại diện cho cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_nguoidungdaucosotongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đứng đầu cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_chuhogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhannguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân, người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_nguoicochungquyensudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có chung quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoidaidienchonguoicochungquyensudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đại diện cho nhóm người có chung quyền sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_nguoidungdaucuatochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_chutichubndxaphuongthitran",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_nguoidaidienchocongdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_nguoidungdaucosotongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_chuhogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_canhannguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_nguoicochungquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2013",
+      "target_id": "chuthe_nguoidaidienchonguoicochungquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

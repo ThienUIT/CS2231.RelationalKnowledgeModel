@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_155_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 155. Đất sử dụng vào mục đích công cộng; đất để thực hiện dự án xây dựng - chuyển giao và dự án xây dựng - kinh doanh - chuyển giao",
+        "ma_dieu": "155",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 155.\n\nĐất sử dụng vào mục đích công cộng; đất để thực hiện dự án xây dựng - chuyển giao và\ndự án xây dựng - kinh doanh - chuyển giao\n1. Việc sử dụng đất vào mục đích công cộng phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy\nhoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn đã được cơ quan nhà nước có thẩm\nquyền phê duyệt.\n2. Đối với đất sử dụng vào mục đích công cộng phải lập quy hoạch chi tiết xây dựng, trong đó phân\nđịnh rõ các khu chức năng sử dụng vào mục đích công cộng không có mục đích kinh doanh và các khu\nchức năng sử dụng vào mục đích công cộng có mục đích kinh doanh.\nĐối với đất thuộc khu chức năng không có mục đích kinh doanh thì Nhà nước giao đất không thu tiền\nsử dụng đất theo quy định tại Điều 54 của Luật này ; có mục đích kinh doanh thì Nhà nước cho thuê đất\ntheo quy định tại Điều 56 của Luật này .\n3. Nhà nước giao cho nhà đầu tư quản lý diện tích đất để thực hiện dự án xây dựng - chuyển giao (BT);\ngiao đất hoặc cho thuê đất đối với nhà đầu tư để thực hiện dự án xây dựng - kinh doanh - chuyển giao\n(BOT) và các hình thức khác theo quy định của pháp luật về đầu tư.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datsudungvaomucdichcongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích công cộng"
+      }
+    },
+    {
+      "id": "khainiem_dathucthienduanxaydungchuyengiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất để thực hiện dự án xây dựng - chuyển giao"
+      }
+    },
+    {
+      "id": "khainiem_dathucthienduanxaydungkinhdoanhchuyengiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất để thực hiện dự án xây dựng - kinh doanh - chuyển giao"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nhadautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà đầu tư"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_155_2013",
+      "target_id": "khainiem_datsudungvaomucdichcongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2013",
+      "target_id": "khainiem_dathucthienduanxaydungchuyengiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2013",
+      "target_id": "khainiem_dathucthienduanxaydungkinhdoanhchuyengiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2013",
+      "target_id": "chuthe_nhadautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

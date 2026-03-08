@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_229_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 229. Trình tự, thủ tục giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất",
+        "ma_dieu": "229",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 229.\n\nTrình tự, thủ tục giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất\n1. Việc chuẩn bị tổ chức thực hiện đấu giá quyền sử dụng đất được thực hiện như sau:\na) Đơn vị đang được giao quản lý quỹ đất lập phương án đấu giá quyền sử dụng đất trình cơ quan có\nthẩm quyền phê duyệt;\nb) Đơn vị được giao tổ chức thực hiện việc đấu giá quyền sử dụng đất có trách nhiệm chuẩn bị hồ sơ\ncủa khu đất, thửa đất đấu giá, gửi đến cơ quan có chức năng quản lý đất đai để trình Ủy ban nhân dân\ncấp có thẩm quyền quyết định đấu giá quyền sử dụng đất;\nc) Cơ quan có chức năng quản lý đất đai tổ chức thực hiện việc xác định giá khởi điểm của khu đất,\nthửa đất đấu giá, trình Ủy ban nhân dân cấp có thẩm quyền phê duyệt;\nd) Căn cứ đề nghị của cơ quan có chức năng quản lý đất đai, Ủy ban nhân dân cấp có thẩm quyền\nquyết định đấu giá quyền sử dụng đất;\nđ) Đơn vị được giao tổ chức thực hiện việc đấu giá quyền sử dụng đất có trách nhiệm tổ chức lựa chọn\nvà ký hợp đồng thuê đơn vị, tổ chức thực hiện cuộc bán đấu giá quyền sử dụng đất.\n2. Đơn vị, tổ chức thực hiện cuộc bán đấu giá quyền sử dụng đất có trách nhiệm thực hiện cuộc bán\nđấu giá quyền sử dụng đất theo quy định của pháp luật về đấu giá tài sản.\n3. Việc công nhận kết quả đấu giá quyền sử dụng đất được thực hiện như sau:\na) Đơn vị được giao tổ chức thực hiện việc đấu giá quyền sử dụng đất lập hồ sơ gửi cơ quan có chức\nnăng quản lý đất đai để trình Ủy ban nhân dân cấp có thẩm quyền ban hành quyết định công nhận kết\nquả trúng đấu giá quyền sử dụng đất; about:blank\nb) Ủy ban nhân dân cấp có thẩm quyền ký ban hành quyết định công nhận kết quả trúng đấu giá quyền\nsử dụng đất đã bán đấu giá thành công để gửi cho cơ quan có chức năng quản lý đất đai, đơn vị được\ngiao tổ chức thực hiện việc đấu giá quyền sử dụng đất, cơ quan thuế và người trúng đấu giá quyền sử\ndụng đất.\n4. Người trúng đấu giá nộp tiền sử dụng đất, tiền thuê đất theo quy định của pháp luật.\n5. Sau khi người trúng đấu giá hoàn thành việc nộp tiền sử dụng đất, tiền thuê đất, cơ quan có chức\nnăng quản lý đất đai có trách nhiệm:\na) Trình Ủy ban nhân dân cấp có thẩm quyền ban hành quyết định giao đất, cho thuê đất và ký Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Chuyển hồ sơ đến tổ chức đăng ký đất đai hoặc chi nhánh của tổ chức đăng ký đất đai để thực hiện\ncập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính theo quy định;\nc) Ký hợp đồng thuê đất đối với trường hợp thuê đất.\n6. Cơ quan có chức năng quản lý đất đai chủ trì, phối hợp với đơn vị tổ chức thực hiện việc đấu giá\nquyền sử dụng đất và Ủy ban nhân dân cấp xã nơi có đất tổ chức bàn giao đất trên thực địa và trao\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người trúng đấu giá\nquyền sử dụng đất.\nChương XV\nGIÁM SÁT , THEO DÕI VÀ ĐÁNH GIÁ VIỆC QUẢN LÝ, SỬ DỤNG ĐẤT  ĐAI; THANH TRA,\nKIỂM TRA, KIỂM TOÁN; GIẢI QUYẾT  TRANH CHẤP , KHIẾU NẠI, TỐ CÁO VÀ XỬ LÝ VI\nPHẠM PHÁP  LUẬT  VỀ ĐẤT  ĐAI\nMục 1. GIÁM SÁT , THEO DÕI VÀ ĐÁNH GIÁ ĐỐI VỚI QUẢN LÝ, SỬ DỤNG ĐẤT  ĐAI"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_daugiacquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đấu giá quyền sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_229_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_229_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_229_2024",
+      "target_id": "khainiem_daugiacquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

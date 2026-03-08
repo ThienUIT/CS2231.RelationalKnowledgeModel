@@ -1,0 +1,340 @@
+{
+  "entities": [
+    {
+      "id": "dieu_151_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 151. Đất sử dụng cho khu kinh tế",
+        "ma_dieu": "151",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 151.\n\nĐất sử dụng cho khu kinh tế\n1. Đất sử dụng cho khu kinh tế bao gồm đất để xây dựng khu kinh tế, khu kinh tế cửa khẩu được thành\nlập theo quyết định của Thủ tướng Chính phủ. Đất sử dụng cho khu kinh tế là diện tích đất sử dụng cho\ncác khu chức năng gồm: khu phi thuế quan, khu bảo thuế, khu chế xuất, khu công nghiệp, khu giải trí,\nkhu du lịch, khu đô thị, khu dân cư, khu hành chính và các khu chức năng khác phù hợp với đặc điểm\ncủa từng khu kinh tế nhằm tạo môi trường đầu tư và kinh doanh đặc biệt thuận lợi cho các nhà đầu tư.\nViệc xây dựng, mở mới các khu kinh tế phải phù hợp với quy hoạch tổng thể hệ thống các khu kinh tế\ntrong cả nước.\n2. Ủy ban nhân dân cấp tỉnh giao đất cho Ban quản lý khu kinh tế để tổ chức xây dựng khu kinh tế theo\nkế hoạch sử dụng đất đã được phê duyệt trong quy hoạch chi tiết xây dựng của khu kinh tế.\n3. Ban quản lý khu kinh tế có trách nhiệm thực hiện việc bồi thường, giải phóng mặt bằng đối với diện\ntích đất được cơ quan nhà nước có thẩm quyền thu hồi để giao cho mình trước khi giao lại đất, cho\nthuê đất. Ban quản lý khu kinh tế được giao lại đất có thu tiền sử dụng đất, giao lại đất không thu tiền about:blank\nsử dụng đất, cho thuê đất cho người có nhu cầu sử dụng đất trong các khu chức năng của khu kinh tế\ntheo quy định tại các  Điều 54, 55 và 56 của Luật này .\nThời hạn sử dụng đất để sản xuất, kinh doanh trong khu kinh tế là không quá 70 năm.\n4. Người sử dụng đất trong khu kinh tế được đầu tư xây dựng kinh doanh nhà ở, kết cấu hạ tầng, được\nsản xuất, kinh doanh, hoạt động dịch vụ và có các quyền, nghĩa vụ như sau:\na) Trường hợp được Ban quản lý khu kinh tế giao lại đất trong khu kinh tế thì có các quyền và nghĩa vụ\nnhư được Nhà nước giao đất theo quy định của Luật này;\nb) Trường hợp được Ban quản lý khu kinh tế cho thuê đất trong khu kinh tế thì có các quyền và nghĩa\nvụ như được Nhà nước cho thuê đất theo quy định của Luật này .\n5. Nhà nước khuyến khích đầu tư xây dựng kinh doanh kết cấu hạ tầng trong khu kinh tế và khuyến\nkhích sử dụng đất vào mục đích phát triển kinh tế.\n6. Chế độ sử dụng đất, quyền và nghĩa vụ của người sử dụng đất trong khu kinh tế được áp dụng đối\nvới từng loại đất theo quy định của Luật này .\n7. Tổ chức kinh tế, hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài đầu tư vào sản xuất,\nkinh doanh trong khu kinh tế đã được Nhà nước giao đất, nhận chuyển nhượng quyền sử dụng đất của\ntổ chức kinh tế khác, người Việt Nam định cư ở nước ngoài trước ngày Luật này có hiệu lực thi hành\nthì được tiếp tục sử dụng đất theo thời hạn còn lại của dự án, không phải chuyển sang thuê đất. Khi hết\nthời hạn thực hiện dự án, nếu có nhu cầu được Ban quản lý khu kinh tế xem xét cho thuê đất theo quy\nđịnh của Luật này .\n8. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datsudungchokhukinhte",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho khu kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_khukinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Khu kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_khukinhtecuakhau",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Khu kinh tế cửa khẩu"
+      }
+    },
+    {
+      "id": "chuthe_khuchucnang",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu chức năng"
+      }
+    },
+    {
+      "id": "chuthe_khuphithuequan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu phi thuế quan"
+      }
+    },
+    {
+      "id": "chuthe_khubaothue",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu bảo thuế"
+      }
+    },
+    {
+      "id": "chuthe_khuchexuat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu chế xuất"
+      }
+    },
+    {
+      "id": "chuthe_khucongnghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu công nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_khugiaitri",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu giải trí"
+      }
+    },
+    {
+      "id": "chuthe_khudulich",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu du lịch"
+      }
+    },
+    {
+      "id": "chuthe_khudothi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu đô thị"
+      }
+    },
+    {
+      "id": "chuthe_khudancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu dân cư"
+      }
+    },
+    {
+      "id": "chuthe_khuhanhchinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "khu hành chính"
+      }
+    },
+    {
+      "id": "chuthe_nhadautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "nhà đầu tư"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_banquanlykhukinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý khu kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_nguoic nhuucausudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người có nhu cầu sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochucxahoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdincuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "dieukien_quydinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Theo quy định"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "khainiem_datsudungchokhukinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khukinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khukinhtecuakhau",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khuchucnang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khuphithuequan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khubaothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khuchexuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khucongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khugiaitri",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khudulich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khudothi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khudancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_khuhanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_nhadautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_banquanlykhukinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_nguoic nhuucausudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_tochucxahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "chuthe_nguoivietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_151_2013",
+      "target_id": "dieukien_quydinh",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

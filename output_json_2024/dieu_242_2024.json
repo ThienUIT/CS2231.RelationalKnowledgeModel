@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_242_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 242",
+        "ma_dieu": "242",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 242.\n\nTiếp nhận và xử lý vi phạm của thủ trưởng, công chức, viên chức thuộc cơ quan quản lý đất đai các cấp và công chức làm công tác địa chính ở cấp xã\n1. Tổ chức, cá nhân khi phát hiện công chức, viên chức thuộc cơ quan có chức năng quản lý đất đai các\ncấp, công chức làm công tác địa chính ở cấp xã vi phạm trong quản lý đất đai  thì có quyền gửi đơn\nkiến nghị đến người có thẩm quyền theo quy định sau đây:\na) Đối với vi phạm của công chức làm công tác địa chính ở cấp xã thì gửi kiến nghị đến Chủ tịch Ủy\nban nhân dân cấp xã;\nb) Đối với vi phạm của công chức, viên chức thuộc cơ quan quản lý đất đai cấp nào thì gửi kiến nghị\nđến thủ trưởng cơ quan quản lý đất đai cấp đó;\nc) Đối với vi phạm của thủ trưởng cơ quan quản lý đất đai thì gửi kiến nghị đến Chủ tịch Ủy ban nhân\ndân cùng cấp. about:blank\n. Trong thời hạn 30 ngày kể từ ngày nhận được kiến nghị, Chủ tịch Ủy ban nhân dân hoặc thủ trưởng\ncơ quan có chức năng quản lý đất đai quy định tại khoản 1 Điều này có trách nhiệm xem xét, giải quyết\nvà thông báo kết quả giải quyết bằng văn bản cho người có kiến nghị biết.\nChương XVI\nĐIỀU KHOẢN THI HÀNH\nMục 1. SỬA  ĐỔI, BỔ SUNG MỘT  SỐ ĐIỀU CỦA  CÁC LUẬT , NGHỊ QUYẾT  CỦA  QUỐC HỘI\nCÓ LIÊN QUAN ĐẾN ĐẤT  ĐAI"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congchuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công chức"
+      }
+    },
+    {
+      "id": "chuthe_vienchuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Viên chức"
+      }
+    },
+    {
+      "id": "chuthe_coquanquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan quản lý đất đai"
+      }
+    },
+    {
+      "id": "chuthe_congchucdiachinhcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công chức làm công tác địa chính ở cấp xã"
+      }
+    },
+    {
+      "id": "hanhviphaply_guidonkiennghi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Gửi đơn kiến nghị"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_242_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_242_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_242_2024",
+      "target_id": "chuthe_congchuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_242_2024",
+      "target_id": "chuthe_vienchuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_242_2024",
+      "target_id": "chuthe_coquanquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_242_2024",
+      "target_id": "chuthe_congchucdiachinhcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_242_2024",
+      "target_id": "hanhviphaply_guidonkiennghi",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "entities": [
+    {
+      "id": "dieu_76_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 76. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+        "ma_dieu": "76",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 76.\n\nBồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc\nphòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp không được bồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn\nlại khi Nhà nước thu hồi đất bao gồm:\na) Đất được Nhà nước giao không thu tiền sử dụng đất, trừ trường hợp đất nông nghiệp được Nhà\nnước giao cho hộ gia đình, cá nhân quy định tại  khoản 1 Điều 54 của Luật này ; about:blank\nb) Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn\ntiền sử dụng đất;\nc) Đất được Nhà nước cho thuê trả tiền thuê đất hàng năm; đất thuê trả tiền thuê đất một lần cho cả\nthời gian thuê nhưng được miễn tiền thuê đất, trừ trường hợp hộ gia đình, cá nhân sử dụng đất thuê do\nthực hiện chính sách đối với người có công với cách mạng;\nd) Đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn;\nđ) Đất nhận khoán để sản xuất nông lâm nghiệp, nuôi trồng thủy sản, làm muối.\n2. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_dat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuoc_thuhoildat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_chidautuvaodat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí đầu tư vào đất"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datcongich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất công ích"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_76_2013",
+      "target_id": "hanhviphaply_nhanuoc_thuhoildat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2013",
+      "target_id": "khainiem_chidautuvaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2013",
+      "target_id": "khainiem_datcongich",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "entities": [
+    {
+      "id": "dieu_174_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất",
+        "ma_dieu": "174",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 174.\n\nThời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là\nthời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc\ngia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này .\nTrường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản\nxuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp\nđồng thế chấp để xử lý nợ, bản án, quyết định của Tòa án, quyết định thi hành án của cơ quan thi hành\nán đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định\ntại Điều 172 của Luật này  mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất\nổn định lâu dài."
+      }
+    },
+    {
+      "id": "khainiem_thoihansudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thời hạn sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyenquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "nhận chuyển quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_datconquyodinhtgd",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất có quy định thời hạn"
+      }
+    },
+    {
+      "id": "khainiem_thoigianconlai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thời gian sử dụng đất còn lại"
+      }
+    },
+    {
+      "id": "dieu_172_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 172",
+        "ma_dieu": "172",
+        "phien_ban": 2024
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_sanxuatnongnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "sản xuất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_hopdongthechap",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hợp đồng thế chấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_xulychno",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "xử lý nợ"
+      }
+    },
+    {
+      "id": "khainiem_banan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bản án"
+      }
+    },
+    {
+      "id": "khainiem_quyetdinhtoaan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyết định của Tòa án"
+      }
+    },
+    {
+      "id": "khainiem_quyetdinhthihanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyết định thi hành án"
+      }
+    },
+    {
+      "id": "chuthe_coquanthihanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan thi hành án"
+      }
+    },
+    {
+      "id": "khainiem_datsudunglaudai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất sử dụng ổn định lâu dài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_thoihansudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "hanhviphaply_nhanchuyenquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_datconquyodinhtgd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_thoigianconlai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "dieu_172_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "hanhviphaply_sanxuatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_hopdongthechap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "hanhviphaply_xulychno",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_banan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_quyetdinhtoaan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_quyetdinhthihanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "chuthe_coquanthihanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_datsudunglaudai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

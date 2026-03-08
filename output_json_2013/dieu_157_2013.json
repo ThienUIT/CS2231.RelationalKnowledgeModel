@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_157_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 157. Đất xây dựng các công trình công cộng có hành lang bảo vệ an toàn",
+        "ma_dieu": "157",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 157.\n\nĐất xây dựng các công trình công cộng có hành lang bảo vệ an toàn\n1. Đất xây dựng công trình công cộng có hành lang bảo vệ an toàn bao gồm đất xây dựng các hệ thống\ngiao thông, thủy lợi, đê điều, hệ thống cấp nước, hệ thống thoát nước, hệ thống xử lý chất thải, hệ\nthống dẫn điện, dẫn xăng dầu, dẫn khí, thông tin liên lạc và đất thuộc hành lang bảo vệ an toàn các công\ntrình này .\n2. Việc sử dụng đất xây dựng công trình công cộng có hành lang bảo vệ an toàn phải bảo đảm kết hợp\nkhai thác cả phần trên không và trong lòng đất, bố trí kết hợp các loại công trình trên cùng một khu đất\nnhằm tiết kiệm đất và phải tuân theo các quy định của pháp luật chuyên ngành có liên quan về bảo vệ an\ntoàn công trình.\n3. Người đang sử dụng đất được pháp luật thừa nhận mà đất đó nằm trong hành lang bảo vệ an toàn\ncông trình thì được tiếp tục sử dụng đất theo đúng mục đích đã được xác định và không được gây cản\ntrở cho việc bảo vệ an toàn công trình.\nTrường hợp việc sử dụng đất gây ảnh hưởng đến việc bảo vệ an toàn công trình thì chủ công trình và\nngười sử dụng đất phải có biện pháp khắc phục, nếu không khắc phục được thì Nhà nước thu hồi đất\nvà bồi thường theo quy định của pháp luật.\n4. Cơ quan, tổ chức trực tiếp quản lý công trình có hành lang bảo vệ an toàn có trách nhiệm công bố\ncông khai mốc giới hành lang bảo vệ an toàn công trình, chịu trách nhiệm chính về việc bảo vệ an toàn\ncông trình; trường hợp hành lang bảo vệ an toàn công trình bị lấn, chiếm, sử dụng trái phép thì phải kịp\nthời báo cáo và yêu cầu Ủy ban nhân dân cấp xã nơi có hành lang bảo vệ an toàn bị lấn, chiếm, sử dụng\ntrái phép để xử lý.\n5. Ủy ban nhân dân các cấp nơi có công trình có hành lang bảo vệ an toàn có trách nhiệm phối hợp với\ncơ quan, tổ chức trực tiếp quản lý công trình tuyên truyền, phổ biến pháp luật về bảo vệ an toàn công\ntrình; công bố công khai mốc giới sử dụng đất trong hành lang bảo vệ an toàn công trình; kịp thời xử lý\nnhững trường hợp lấn, chiếm, sử dụng trái phép hành lang bảo vệ an toàn công trình.\n6. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datxaydungcongtrinhcongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình công cộng"
+      }
+    },
+    {
+      "id": "khainiem_hanhlangbaoveantoan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hành lang bảo vệ an toàn"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_coquantochucquanly",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan, tổ chức trực tiếp quản lý công trình"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_sudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "khainiem_datxaydungcongtrinhcongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "khainiem_hanhlangbaoveantoan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "chuthe_coquantochucquanly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "chuthe_ubndcaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "hanhviphaply_sudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

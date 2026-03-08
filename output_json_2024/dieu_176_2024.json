@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_176_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 176. Hạn mức giao đất nông nghiệp",
+        "ma_dieu": "176",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 176.\n\nHạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp\nsản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực\nĐông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở\nđồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi. about:blank\n. Hạn mức giao đất cho cá nhân không quá 30 ha đối với mỗi loại đất:\na) Đất rừng phòng hộ;\nb) Đất rừng sản xuất là rừng trồng.\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất\nlàm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu\nnăm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng,\nkhông quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất\nrừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n5. Hạn mức giao đất chưa sử dụng cho cá nhân đưa vào sử dụng theo quy hoạch để sản xuất nông\nnghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối không quá hạn mức giao đất quy định tại các khoản\n1, 2 và 3 Điều này và không tính vào hạn mức giao đất nông nghiệp cho cá nhân quy định tại các khoản\n1, 2 và 3 Điều này .\nỦy ban nhân dân cấp tỉnh quy định hạn mức giao đất chưa sử dụng cho cá nhân để đưa vào sử dụng\ntheo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n6. Đối với diện tích đất nông nghiệp của cá nhân đang sử dụng ngoài xã, phường, thị trấn nơi đăng ký\nthường trú thì cá nhân được tiếp tục sử dụng, nếu là đất được giao không thu tiền sử dụng đất thì được\ntính vào hạn mức giao đất nông nghiệp của cá nhân.\nCơ quan có chức năng quản lý đất đai nơi đã giao đất nông nghiệp không thu tiền sử dụng đất cho cá\nnhân gửi thông báo cho Ủy ban nhân dân cấp xã nơi cá nhân đó đăng ký thường trú để tính hạn mức\ngiao đất nông nghiệp.\n7. Diện tích đất nông nghiệp của cá nhân do nhận chuyển nhượng, thuê, thuê lại, nhận thừa kế, được\ntặng cho quyền sử dụng đất, nhận góp vốn bằng quyền sử dụng đất từ người khác, nhận khoán, được\nNhà nước cho thuê đất không tính vào hạn mức giao đất nông nghiệp quy định tại Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_hanmucgiaodatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hạn mức giao đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_dattrongcayhangnam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất trồng cây hằng năm"
+      }
+    },
+    {
+      "id": "khainiem_datnuoitrongthuysan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nuôi trồng thủy sản"
+      }
+    },
+    {
+      "id": "khainiem_datlammuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất làm muối"
+      }
+    },
+    {
+      "id": "khainiem_dattrongcaylaunam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất trồng cây lâu năm"
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "khainiem_datchuasudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất chưa sử dụng"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "khainiem_hanmucgiaodatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "khainiem_dattrongcayhangnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "khainiem_datnuoitrongthuysan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "khainiem_datlammuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "khainiem_dattrongcaylaunam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

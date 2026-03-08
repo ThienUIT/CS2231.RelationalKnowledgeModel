@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_65_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 65.",
+        "ma_dieu": "65",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 65.\n\nThu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy\ncơ đe dọa tính mạng con người\n1. Các trường hợp thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có\nnguy cơ đe dọa tính mạng con người bao gồm:\na) Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất, được Nhà nước giao đất có thu tiền sử\ndụng đất mà tiền sử dụng đất có nguồn gốc từ ngân sách nhà nước bị giải thể, phá sản, chuyển đi nơi\nkhác, giảm hoặc không còn nhu cầu sử dụng đất; người sử dụng đất thuê của Nhà nước trả tiền thuê đất\nhàng năm bị giải thể, phá sản, chuyển đi nơi khác, giảm hoặc không còn nhu cầu sử dụng đất;\nb) Cá nhân sử dụng đất chết mà không có người thừa kế; about:blank\nc) Người sử dụng đất tự nguyện trả lại đất;\nd) Đất được Nhà nước giao, cho thuê có thời hạn nhưng không được gia hạn;\nđ) Đất ở trong khu vực bị ô nhiễm môi trường có nguy cơ đe dọa tính mạng con người;\ne) Đất ở có nguy cơ sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác đe dọa tính mạng con\nngười.\n2. Việc thu hồi đất theo quy định tại khoản 1 Điều này phải dựa trên các căn cứ sau đây:\na) Văn bản của cơ quan có thẩm quyền giải quyết đã có hiệu lực pháp luật đối với trường hợp thu hồi\nđất quy định tại điểm a khoản 1 Điều này;\nb) Giấy chứng tử hoặc quyết định tuyên bố một người là đã chết theo quy định của pháp luật và văn\nbản xác nhận không có người thừa kế của Ủy ban nhân dân cấp xã nơi thường trú của người để thừa kế\nđã chết đó đối với trường hợp thu hồi đất quy định tại điểm b khoản 1 Điều này;\nc) Văn bản trả lại đất của người sử dụng đất đối với trường hợp quy định tại điểm c khoản 1 Điều này;\nd) Quyết định giao đất, quyết định cho thuê đất đối với trường hợp quy định tại điểm d khoản 1 Điều\nnày;\nđ) Văn bản của cơ quan có thẩm quyền xác định mức độ ô nhiễm môi trường, sạt lở, sụt lún, bị ảnh\nhưởng bởi hiện tượng thiên tai khác đe dọa tính mạng con người đối với trường hợp quy định tại điểm\nđ và điểm e khoản 1 Điều này .\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_chamdutviecsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chấm dứt việc sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_datokhuvucobionhiem",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất ở trong khu vực bị ô nhiễm môi trường có nguy cơ đe dọa tính mạng con người"
+      }
+    },
+    {
+      "id": "dieukien_datoconguycosatl",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đất ở có nguy cơ sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác đe dọa tính mạng con người"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_65_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2013",
+      "target_id": "khainiem_chamdutviecsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2013",
+      "target_id": "dieukien_datokhuvucobionhiem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2013",
+      "target_id": "dieukien_datoconguycosatl",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

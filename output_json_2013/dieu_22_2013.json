@@ -1,0 +1,280 @@
+{
+  "entities": [
+    {
+      "id": "dieu_22_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 22. Nội dung quản lý nhà nước về đất đai",
+        "ma_dieu": "22",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 22.\n\nNội dung quản lý nhà nước về đất đai\n1. Ban hành văn bản quy phạm pháp luật về quản lý, sử dụng đất đai và tổ chức thực hiện văn bản đó.\n2. Xác định địa giới hành chính, lập và quản lý hồ sơ địa giới hành chính, lập bản đồ hành chính.\n3. Khảo sát, đo đạc, lập bản đồ địa chính, bản đồ hiện trạng sử dụng đất và bản đồ quy hoạch sử dụng\nđất; điều tra, đánh giá tài nguyên đất; điều tra xây dựng giá đất.\n4. Quản lý quy hoạch, kế hoạch sử dụng đất.\n5. Quản lý việc giao đất, cho thuê đất, thu hồi đất, chuyển mục đích sử dụng đất.\n6. Quản lý việc bồi thường, hỗ trợ, tái định cư khi thu hồi đất.\n7. Đăng ký đất đai, lập và quản lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở\nhữu nhà ở và tài sản khác gắn liền với đất.\n8. Thống kê, kiểm kê đất đai.\n9. Xây dựng hệ thống thông tin đất đai.\n10. Quản lý tài chính về đất đai và giá đất.\n11. Quản lý, giám sát việc thực hiện quyền và nghĩa vụ của người sử dụng đất.\n12. Thanh tra, kiểm tra, giám sát, theo dõi, đánh giá việc chấp hành quy định của pháp luật về đất đai và\nxử lý vi phạm pháp luật về đất đai.\n13. Phổ biến, giáo dục pháp luật về đất đai.\n14. Giải quyết tranh chấp về đất đai; giải quyết khiếu nại, tố cáo trong quản lý và sử dụng đất đai.\n15. Quản lý hoạt động dịch vụ về đất đai. about:blank"
+      }
+    },
+    {
+      "id": "hanhviphaply_banhanhvqppl",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Ban hành văn bản quy phạm pháp luật"
+      }
+    },
+    {
+      "id": "hanhviphaply_xacdinhdiagioihanhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xác định địa giới hành chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_lqvqlhsdiagioihanhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập và quản lý hồ sơ địa giới hành chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_lapbandohanhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập bản đồ hành chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_khaosaidodac",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khảo sát, đo đạc"
+      }
+    },
+    {
+      "id": "hanhviphaply_lapbandodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập bản đồ địa chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_lapbandohientrangsd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập bản đồ hiện trạng sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_lapbandoquyhoachsd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập bản đồ quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutradgtnd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá tài nguyên đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutraxaydunggiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra xây dựng giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlyqhkxsd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlygiaodattrtthud",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý việc giao đất, cho thuê đất, thu hồi đất, chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlybthttdc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý việc bồi thường, hỗ trợ, tái định cư khi thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dangkydatdailqqlhs",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đăng ký đất đai, lập và quản lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thongkekiemkedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thống kê, kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydunghtttindatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng hệ thống thông tin đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlytaichinhvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý tài chính về đất đai và giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlygiamsatthuchienquyennghiavu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý, giám sát việc thực hiện quyền và nghĩa vụ của người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thanhtrakttdgtcdpl",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thanh tra, kiểm tra, giám sát, theo dõi, đánh giá việc chấp hành quy định của pháp luật về đất đai và xử lý vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_phobiengiaoducplveDatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phổ biến, giáo dục pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaiquyettcdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giải quyết tranh chấp về đất đai; giải quyết khiếu nại, tố cáo trong quản lý và sử dụng đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlyhoatdongdichvuvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý hoạt động dịch vụ về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_banhanhvqppl",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_xacdinhdiagioihanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lqvqlhsdiagioihanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lapbandohanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_khaosaidodac",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lapbandodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lapbandohientrangsd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lapbandoquyhoachsd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_dieutradgtnd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_dieutraxaydunggiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlyqhkxsd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlygiaodattrtthud",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlybthttdc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_dangkydatdailqqlhs",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_thongkekiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_xaydunghtttindatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlytaichinhvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlygiamsatthuchienquyennghiavu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_thanhtrakttdgtcdpl",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_phobiengiaoducplveDatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_giaiquyettcdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlyhoatdongdichvuvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

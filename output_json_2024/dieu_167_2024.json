@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_167_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 167. Dịch vụ công trực tuyến và giao dịch điện tử về đất đai",
+        "ma_dieu": "167",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 167.\n\nDịch vụ công trực tuyến và giao dịch điện tử về đất đai\n1. Dịch vụ công trực tuyến về đất đai bao gồm dịch vụ hành chính công về đất đai và dịch vụ khác về\nđất đai được cung cấp cho tổ chức, cá nhân trên môi trường mạng theo quy định của pháp luật. Việc\ncung cấp dịch vụ công trực tuyến về đất đai được quy định như sau:\na) Cơ quan có thẩm quyền cung cấp dịch vụ công trực tuyến về đất đai phải bảo đảm kết nối liên\nthông, thuận tiện, đơn giản, an toàn cho cơ quan, tổ chức, cá nhân và phục vụ công tác quản lý nhà nước\nvề đất đai;\nb) Các hình thức xác nhận của Nhà nước đối với quyền và nghĩa vụ của tổ chức, cá nhân sử dụng đất\nđược thực hiện trên hồ sơ số và xác thực điện tử. about:blank\n. Giao dịch điện tử về đất đai bao gồm các giao dịch về đất đai được thực hiện bằng phương tiện điện\ntử. Giao dịch điện tử về đất đai được thực hiện theo quy định của pháp luật về giao dịch điện tử.\n3. Bộ Tài nguyên và Môi trường, Ủy ban nhân dân cấp tỉnh có trách nhiệm hướng dẫn triển khai việc\ncung cấp dịch vụ công trực tuyến và giao dịch điện tử về đất đai."
+      }
+    },
+    {
+      "id": "khainiem_dichvucongtructuyenvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dịch vụ công trực tuyến về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_dichvuhanhchinhcongvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dịch vụ hành chính công về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_cungcapdichvucongtructuyenvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cung cấp dịch vụ công trực tuyến về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "khainiem_giaodichdientuvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giao dịch điện tử về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_botnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcappt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_167_2024",
+      "target_id": "khainiem_dichvucongtructuyenvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2024",
+      "target_id": "khainiem_dichvuhanhchinhcongvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2024",
+      "target_id": "hanhviphaply_cungcapdichvucongtructuyenvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2024",
+      "target_id": "chuthe_coquancothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2024",
+      "target_id": "khainiem_giaodichdientuvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2024",
+      "target_id": "chuthe_botnmt",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_167_2024",
+      "target_id": "chuthe_ubndcappt",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

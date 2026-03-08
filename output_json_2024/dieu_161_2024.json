@@ -1,0 +1,208 @@
+{
+  "entities": [
+    {
+      "id": "dieu_161_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 161. Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể",
+        "ma_dieu": "161",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 161.\n\nHội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể\n1. Ủy ban nhân dân cấp tỉnh quyết định thành lập Hội đồng thẩm định bảng giá đất bao gồm Chủ tịch\nỦy ban nhân dân cấp tỉnh hoặc 01 Phó Chủ tịch Ủy ban nhân dân cấp tỉnh làm Chủ tịch Hội đồng, Thủ\ntrưởng cơ quan tài chính cấp tỉnh làm Phó Chủ tịch Hội đồng, các thành viên Ủy ban nhân dân cấp tỉnh\nlà thủ trưởng các cơ quan chuyên môn cấp tỉnh; các Chủ tịch Ủy ban nhân dân cấp huyện; đại diện của\ncơ quan, tổ chức có liên quan, tổ chức tư vấn xác định giá đất và chuyên gia.\n2. Ủy ban nhân dân cấp tỉnh quyết định thành lập Hội đồng thẩm định giá đất cụ thể cấp tỉnh bao gồm\nChủ tịch Ủy ban nhân dân cấp tỉnh hoặc 01 Phó Chủ tịch Ủy ban nhân dân cấp tỉnh làm Chủ tịch Hội\nđồng; Thủ trưởng cơ quan tài chính cấp tỉnh làm Phó Chủ tịch Hội đồng; Chủ tịch Ủy ban nhân dân\ncấp huyện, cấp xã nơi có đất và đại diện của cơ quan, tổ chức có liên quan. Ủy ban nhân dân cấp tỉnh\ncó thể mời đại diện tổ chức tư vấn xác định giá đất hoặc chuyên gia về giá đất tham gia là thành viên\nHội đồng.\n3. Ủy ban nhân dân cấp huyện quyết định thành lập Hội đồng thẩm định giá đất cụ thể cấp huyện bao\ngồm Chủ tịch Ủy ban nhân dân cấp huyện hoặc 01 Phó Chủ tịch Ủy ban nhân dân cấp huyện làm Chủ\ntịch Hội đồng; Thủ trưởng cơ quan tài chính cấp huyện làm Phó Chủ tịch Hội đồng; lãnh đạo các\nphòng ban, tổ chức có liên quan; Chủ tịch Ủy ban nhân dân cấp xã nơi có đất. Ủy ban nhân dân cấp\nhuyện có thể mời đại diện tổ chức tư vấn xác định giá đất hoặc chuyên gia về giá đất tham gia là thành\nviên Hội đồng.\n4. Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể cấp tỉnh và cấp huyện quyết\nđịnh thành lập Tổ giúp việc cho Hội đồng và được thuê tổ chức tư vấn xác định giá đất để tư vấn thẩm\nđịnh bảng giá đất, giá đất cụ thể.\n5. Nội dung thẩm định của Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể bao\ngồm việc tuân thủ nguyên tắc, phương pháp định giá đất, trình tự, thủ tục định giá đất, kết quả thu thập\nthông tin. about:blank\n. Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể cấp tỉnh và cấp huyện chịu\ntrách nhiệm về nội dung thẩm định quy định tại khoản 5 Điều này .\nHội đồng làm việc độc lập, khách quan, theo chế độ tập thể, quyết định theo đa số; Chủ tịch và các\nthành viên chịu trách nhiệm cá nhân về ý kiến của mình. Các cuộc họp Hội đồng phải có biên bản ghi\nchép đầy đủ các ý kiến thảo luận, kết quả biểu quyết, được lưu trữ cùng với các tài liệu phục vụ cuộc\nhọp và ý kiến bằng văn bản của thành viên Hội đồng.\nHội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể được mời đại diện Ủy ban Mặt\ntrận Tổ quốc Việt Nam cùng cấp và các tổ chức chính trị - xã hội khác tham dự cuộc họp thẩm định giá\nđất."
+      }
+    },
+    {
+      "id": "chuthe_uybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_chutichuybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_phochutichuybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Phó Chủ tịch Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_thuTruongcoquantainhcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ trưởng cơ quan tài chính cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_thanhvienuybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "thành viên Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_chutichuybanndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_coquantochuccolienquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan, tổ chức có liên quan"
+      }
+    },
+    {
+      "id": "chuthe_tochuctuvanxacdinhgiadat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức tư vấn xác định giá đất"
+      }
+    },
+    {
+      "id": "chuthe_chuyengia",
+      "label": "ChuThe",
+      "properties": {
+        "name": "chuyên gia"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_lanhdaocacphongbantochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "lãnh đạo các phòng ban, tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_uybanmattrotoquocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban Mặt trận Tổ quốc Việt Nam"
+      }
+    },
+    {
+      "id": "chuthe_cactochucchinh trixahoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "các tổ chức chính trị - xã hội"
+      }
+    },
+    {
+      "id": "khainiem_hoidongthamdinhbanggiadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hội đồng thẩm định bảng giá đất"
+      }
+    },
+    {
+      "id": "khainiem_hoidongthamdinhgiadatcuthe",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hội đồng thẩm định giá đất cụ thể"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "khainiem_hoidongthamdinhbanggiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "khainiem_hoidongthamdinhgiadatcuthe",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_uybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_chutichuybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_phochutichuybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_thuTruongcoquantainhcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_thanhvienuybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_chutichuybanndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_coquantochuccolienquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_chuyengia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_uybanndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_uybanndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_lanhdaocacphongbantochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_uybanmattrotoquocvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_161_2024",
+      "target_id": "chuthe_cactochucchinh trixahoi",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_26_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 26. Bảo đảm của Nhà nước đối với người sử dụng đất",
+        "ma_dieu": "26",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 26.\n\nBảo đảm của Nhà nước đối với người sử dụng đất\n1. Bảo hộ quyền sử dụng đất và tài sản gắn liền với đất hợp pháp của người sử dụng đất.\n2. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho\nngười sử dụng đất khi có đủ điều kiện theo quy định của pháp luật.\n3. Khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc\ngia, công cộng thì người sử dụng đất được Nhà nước bồi thường, hỗ trợ, tái định cư theo quy định của\npháp luật.\n4. Có chính sách tạo điều kiện cho người trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy\nsản, làm muối không có đất sản xuất do quá trình chuyển đổi cơ cấu sử dụng đất và chuyển đổi cơ cấu\nkinh tế được đào tạo nghề, chuyển đổi nghề và tìm kiếm việc làm.\n5. Nhà nước không thừa nhận việc đòi lại đất đã được giao theo quy định của Nhà nước cho người khác\nsử dụng trong quá trình thực hiện chính sách đất đai của Nhà nước Việt Nam dân chủ cộng hòa, Chính\nphủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt\nNam."
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_baohopquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo hộ quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocboiduong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước bồi thường"
+      }
+    },
+    {
+      "id": "hanhviphaply_taodieu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tạo điều kiện"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongthuanhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không thừa nhận"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_26_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2013",
+      "target_id": "hanhviphaply_baohopquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2013",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2013",
+      "target_id": "hanhviphaply_nhanuocboiduong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2013",
+      "target_id": "hanhviphaply_taodieu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_26_2013",
+      "target_id": "hanhviphaply_khongthuanhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

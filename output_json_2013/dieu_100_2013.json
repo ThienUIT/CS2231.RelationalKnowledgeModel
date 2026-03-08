@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_100_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 100. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất",
+        "ma_dieu": "100",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 100.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền\nvới đất cho hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử\ndụng đất\n1. Hộ gia đình, cá nhân đang sử dụng đất ổn định mà có một trong các loại giấy tờ sau đây thì được cấp\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất và không\nphải nộp tiền sử dụng đất:\na) Những giấy tờ về quyền được sử dụng đất trước ngày 15 tháng 10 năm 1993 do cơ quan có thẩm\nquyền cấp trong quá trình thực hiện chính sách đất đai của Nhà nước Việt Nam dân chủ Cộng hòa,\nChính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa\nViệt Nam;\nb) Giấy chứng nhận quyền sử dụng đất tạm thời được cơ quan nhà nước có thẩm quyền cấp hoặc có\ntên trong Sổ đăng ký ruộng đất, Sổ địa chính trước ngày 15 tháng 10 năm 1993;\nc) Giấy tờ hợp pháp về thừa kế, tặng cho quyền sử dụng đất hoặc tài sản gắn liền với đất; giấy tờ giao\nnhà tình nghĩa, nhà tình thương gắn liền với đất;\nd) Giấy tờ chuyển nhượng quyền sử dụng đất, mua bán nhà ở gắn liền với đất ở trước ngày 15 tháng\n10 năm 1993 được Ủy ban nhân dân cấp xã xác nhận là đã sử dụng trước ngày 15 tháng 10 năm 1993;\nđ) Giấy tờ thanh lý, hóa giá nhà ở gắn liền với đất ở; giấy tờ mua nhà ở thuộc sở hữu nhà nước theo\nquy định của pháp luật;\ne) Giấy tờ về quyền sử dụng đất do cơ quan có thẩm quyền thuộc chế độ cũ cấp cho người sử dụng\nđất;\ng) Các loại giấy tờ khác được xác lập trước ngày 15 tháng 10 năm 1993 theo quy định của Chính phủ.\n2. Hộ gia đình, cá nhân đang sử dụng đất có một trong các loại giấy tờ quy định tại khoản 1 Điều này\nmà trên giấy tờ đó ghi tên người khác, kèm theo giấy tờ về việc chuyển quyền sử dụng đất có chữ ký\ncủa các bên có liên quan, nhưng đến trước ngày Luật này có hiệu lực thi hành chưa thực hiện thủ tục\nchuyển quyền sử dụng đất theo quy định của pháp luật và đất đó không có tranh chấp thì được cấp\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất và không\nphải nộp tiền sử dụng đất.\n3. Hộ gia đình, cá nhân được sử dụng đất theo bản án hoặc quyết định của Tòa án nhân dân, quyết định\nthi hành án của cơ quan thi hành án, văn bản công nhận kết quả hòa giải thành, quyết định giải quyết about:blank\ntranh chấp, khiếu nại, tố cáo về đất đai của cơ quan nhà nước có thẩm quyền đã được thi hành thì được\ncấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; trường\nhợp chưa thực hiện nghĩa vụ tài chính thì phải thực hiện theo quy định của pháp luật.\n4. Hộ gia đình, cá nhân đang sử dụng đất được Nhà nước giao đất, cho thuê đất từ ngày 15 tháng 10\nnăm 1993 đến ngày Luật này có hiệu lực thi hành mà chưa được cấp Giấy chứng nhận thì được cấp\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; trường hợp\nchưa thực hiện nghĩa vụ tài chính thì phải thực hiện theo quy định của pháp luật.\n5. Cộng đồng dân cư đang sử dụng đất có công trình là đình, đền, miếu, am, từ đường, nhà thờ họ; đất\nnông nghiệp quy định tại  khoản 3 Điều 131 của Luật này  và đất đó không có tranh chấp, được Ủy ban\nnhân dân cấp xã nơi có đất xác nhận là đất sử dụng chung cho cộng đồng thì được cấp Giấy chứng\nnhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_conggdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_capsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_100_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_100_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_100_2013",
+      "target_id": "chuthe_conggdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_100_2013",
+      "target_id": "khainiem_giaychungnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_100_2013",
+      "target_id": "hanhviphaply_capsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

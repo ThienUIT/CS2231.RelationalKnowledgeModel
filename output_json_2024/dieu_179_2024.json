@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_179_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích",
+        "ma_dieu": "179",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 179.\n\nQuỹ đất nông nghiệp sử dụng vào mục đích công ích\n1. Quỹ đất nông nghiệp sử dụng vào mục đích công ích đã được lập theo quy định của pháp luật về đất\nđai qua các thời kỳ thì tiếp tục được sử dụng để phục vụ cho các nhu cầu công ích của địa phương.\n2. Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn để sử dụng vào các\nmục đích sau đây:\na) Xây dựng các công trình văn hóa, thể dục thể thao, vui chơi, giải trí công cộng, y tế, giáo dục, chợ,\nnghĩa trang và các công trình công cộng khác do Ủy ban nhân dân cấp xã đầu tư, quản lý, sử dụng; xây\ndựng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết;\nb) Bồi thường cho người có đất thu hồi khi xây dựng các công trình quy định tại điểm a khoản này .\n3. Đối với diện tích đất chưa sử dụng vào các mục đích quy định tại khoản 2 Điều này thì Ủy ban nhân\ndân cấp xã cho cá nhân tại địa phương thuê để sản xuất nông nghiệp, nuôi trồng thủy sản theo hình thức\nđấu giá. Thời hạn sử dụng đất đối với mỗi lần thuê không quá 10 năm.\n4. Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn do Ủy ban nhân dân\ncấp xã nơi có đất quản lý, sử dụng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm\nquyền phê duyệt."
+      }
+    },
+    {
+      "id": "khainiem_quydatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quỹ đất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_mucdichconich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Mục đích công ích"
+      }
+    },
+    {
+      "id": "chuthe_uybanndancapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_thue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê"
+      }
+    },
+    {
+      "id": "dieukien_daugia",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đấu giá"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_179_2024",
+      "target_id": "khainiem_quydatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_179_2024",
+      "target_id": "khainiem_mucdichconich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_179_2024",
+      "target_id": "chuthe_uybanndancapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_179_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_179_2024",
+      "target_id": "hanhviphaply_thue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_179_2024",
+      "target_id": "dieukien_daugia",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

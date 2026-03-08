@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_68_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 68. Tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng; quản lý đất đã thu hồi",
+        "ma_dieu": "68",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 68.\n\nTổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng; quản lý đất đã thu hồi\n1. Tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng bao gồm tổ chức dịch vụ công về đất đai,\nHội đồng bồi thường, hỗ trợ và tái định cư.\n2. Đất đã thu hồi được giao để quản lý, sử dụng theo quy định sau đây:\na) Đất đã thu hồi theo quy định tại  Điều 61 và Điều 62 của Luật này  thì giao cho chủ đầu tư để thực\nhiện dự án đầu tư hoặc giao cho tổ chức dịch vụ công về đất đai để quản lý;\nb) Đất đã thu hồi theo quy định tại  khoản 1 Điều 64 và các điểm a, b, c và d khoản 1 Điều 65 của Luật\nnày thì giao cho tổ chức dịch vụ công về đất đai để quản lý, đấu giá quyền sử dụng đất.\nTrường hợp đất đã thu hồi theo quy định tại khoản 1 Điều 64 và các điểm a, b, c và d khoản 1 Điều 65\ncủa Luật này  là đất nông nghiệp của hộ gia đình, cá nhân ở nông thôn thì giao cho Ủy ban nhân dân cấp\nxã quản lý. Quỹ đất này được giao, cho thuê đối với hộ gia đình, cá nhân không có đất hoặc thiếu đất\nsản xuất theo quy định của pháp luật.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "chuthe_tochucdichvucongvedatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức dịch vụ công về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_hoidongboithuonghotrovataidinhcu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng bồi thường, hỗ trợ và tái định cư"
+      }
+    },
+    {
+      "id": "khainiem_datdathuhoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất đã thu hồi"
+      }
+    },
+    {
+      "id": "chuthe_chudautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "chủ đầu tư"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_68_2013",
+      "target_id": "chuthe_tochucdichvucongvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_68_2013",
+      "target_id": "chuthe_hoidongboithuonghotrovataidinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_68_2013",
+      "target_id": "khainiem_datdathuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_68_2013",
+      "target_id": "chuthe_chudautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_68_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_68_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_68_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

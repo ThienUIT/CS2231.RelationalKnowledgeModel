@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_166_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 166. Quản lý, vận hành, khai thác và kết nối liên thông với cơ sở dữ liệu quốc gia về đất đai",
+        "ma_dieu": "166",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 166.\n\nQuản lý, vận hành, khai thác và kết nối liên thông với cơ sở dữ liệu quốc gia về đất đai\n1. Cơ sở dữ liệu quốc gia về đất đai phải được bảo đảm an ninh, an toàn theo quy định của pháp luật.\n2. Cơ sở dữ liệu quốc gia về đất đai được quản lý tập trung và được phân cấp quản lý theo trách nhiệm\nquản lý của cơ quan nhà nước từ trung ương đến địa phương.\n3. Cơ sở dữ liệu quốc gia về đất đai phải được cập nhật đầy đủ, chính xác, kịp thời, bảo đảm phù hợp\nvới hiện trạng quản lý, sử dụng đất đai.\n4. Cơ sở dữ liệu quốc gia, cơ sở dữ liệu của Bộ, ngành, địa phương được kết nối với cơ sở dữ liệu\nquốc gia về đất đai để cập nhật, chia sẻ, khai thác, sử dụng thông tin. Việc kết nối liên thông phải bảo\nđảm hiệu quả, an toàn, phù hợp với chức năng, nhiệm vụ, quyền hạn theo quy định của Luật này và quy\nđịnh khác của pháp luật có liên quan.\n5. Việc khai thác thông tin trong cơ sở dữ liệu quốc gia về đất đai được quy định như sau:\na) Dữ liệu trong cơ sở dữ liệu quốc gia về đất đai có giá trị sử dụng chính thức, tương đương văn bản\ngiấy được cơ quan có thẩm quyền cung cấp;\nb) Cơ quan quản lý cơ sở dữ liệu quốc gia, cơ quan quản lý cơ sở dữ liệu của Bộ, ngành, địa phương,\ncơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội được khai thác thông tin trong cơ sở dữ\nliệu quốc gia về đất đai thuộc phạm vi chức năng, nhiệm vụ, quyền hạn của mình;\nc) Người sử dụng đất được khai thác thông tin của mình trong cơ sở dữ liệu quốc gia về đất đai;\nd) Tổ chức, cá nhân không thuộc quy định tại điểm b và điểm c khoản này có nhu cầu khai thác thông\ntin trong cơ sở dữ liệu quốc gia về đất đai phải được sự đồng ý của cơ quan quản lý cơ sở dữ liệu quốc\ngia về đất đai theo quy định của pháp luật;\nđ) Nhà nước tạo điều kiện thuận lợi cho các tổ chức, cá nhân được tiếp cận, khai thác thông tin, dữ liệu\nvề đất đai theo quy định của pháp luật . Khuyến khích các tổ chức, cá nhân phản hồi, cung cấp, bổ sung\nthông tin cho cơ sở dữ liệu quốc gia về đất đai;\ne) Việc khai thác, sử dụng thông tin, dữ liệu trong cơ sở dữ liệu quốc gia về đất đai phải trả phí khai\nthác, sử dụng tài liệu đất đai và giá cung cấp dịch vụ thông tin, dữ liệu về đất đai theo quy định;\ng) Bộ trưởng Bộ Tài chính hướng dẫn mức thu, chế độ thu, nộp, quản lý, sử dụng phí khai thác và sử\ndụng tài liệu đất đai từ Hệ thống thông tin quốc gia về đất đai; Bộ trưởng Bộ Tài nguyên và Môi\ntrường quyết định giá sản phẩm, dịch vụ gia tăng sử dụng thông tin từ cơ sở dữ liệu, hệ thống thông tin\nđất đai theo quy định của pháp luật."
+      }
+    },
+    {
+      "id": "khainiem_cosodulieukhoa",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotainh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài chính"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_166_2024",
+      "target_id": "khainiem_cosodulieukhoa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2024",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2024",
+      "target_id": "chuthe_botruongbotainh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2024",
+      "target_id": "chuthe_botruongbotnmt",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

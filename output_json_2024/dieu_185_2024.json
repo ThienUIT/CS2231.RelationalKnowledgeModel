@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_185_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 185. Đất rừng phòng hộ",
+        "ma_dieu": "185",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 185.\n\nĐất rừng phòng hộ\n1. Nhà nước giao đất rừng phòng hộ để quản lý, sử dụng, bảo vệ, phát triển rừng theo quy định của pháp\nluật về lâm nghiệp cho các đối tượng sau đây:\na) Ban quản lý rừng phòng hộ, ban quản lý rừng đặc dụng, đơn vị thuộc lực lượng vũ trang nhân dân;\nb) Tổ chức kinh tế đối với đất rừng phòng hộ xen kẽ trong diện tích đất rừng sản xuất của tổ chức đó;\nc) Cá nhân cư trú hợp pháp trên địa bàn cấp xã nơi có rừng phòng hộ;\nd) Cộng đồng dân cư trên địa bàn cấp xã nơi có rừng phòng hộ.\n2. Các đối tượng được Nhà nước giao đất rừng phòng hộ quy định tại khoản 1 Điều này được xây dựng\ncông trình kết cấu hạ tầng phục vụ quản lý, bảo vệ, phát triển rừng theo quy định của pháp luật về lâm\nnghiệp.\n3. Người được Nhà nước giao đất quy định tại khoản 1 Điều này được cấp Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu tài sản gắn liền với đất nhưng không được ghi nhận tài sản là tài sản công trên\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n4. Người được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất quy\nđịnh tại khoản 3 Điều này , trừ trường hợp ban quản lý rừng phòng hộ, ban quản lý rừng đặc dụng, được\nthực hiện quyền của người sử dụng đất và phải bảo đảm phù hợp với quy định tại khoản 8 Điều 45 của\nLuật này ."
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "chuthe_banquanlyrungphongho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng phòng hộ"
+      }
+    },
+    {
+      "id": "chuthe_banquanlyrungdacdung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng đặc dụng"
+      }
+    },
+    {
+      "id": "chuthe_donvithuoelucluongvutranhnhandan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị thuộc lực lượng vũ trang nhân dân"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_canhancutruhople",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân cư trú hợp pháp trên địa bàn cấp xã nơi có rừng phòng hộ"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancucapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư trên địa bàn cấp xã nơi có rừng phòng hộ"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlysudungbaovephattrienrung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quản lý, sử dụng, bảo vệ, phát triển rừng"
+      }
+    },
+    {
+      "id": "dieukien_phuhopquyphamphapluatlamnghiep",
+      "label": "DieuKien",
+      "properties": {
+        "name": "theo quy định của pháp luật về lâm nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydungcongtringketcauhathang",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "xây dựng công trình kết cấu hạ tầng phục vụ quản lý, bảo vệ, phát triển rừng"
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchiencacquyennguoisudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thực hiện quyền của người sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_banquanlyrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_banquanlyrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_donvithuoelucluongvutranhnhandan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_canhancutruhople",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_congdongdancucapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "hanhviphaply_quanlysudungbaovephattrienrung",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "dieukien_phuhopquyphamphapluatlamnghiep",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "hanhviphaply_xaydungcongtringketcauhathang",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_185_2024",
+      "target_id": "hanhviphaply_thuchiencacquyennguoisudungdat",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

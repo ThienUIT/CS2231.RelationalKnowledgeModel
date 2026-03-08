@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_66_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 66. Quy hoạch sử dụng đất cấp huyện",
+        "ma_dieu": "66",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 66.\n\nQuy hoạch sử dụng đất cấp huyện\n1. Căn cứ lập quy hoạch sử dụng đất cấp huyện bao gồm: about:blank\na) Quy hoạch tỉnh, quy hoạch sử dụng đất cấp tỉnh; quy hoạch đô thị của thành phố trực thuộc Trung\nương đối với trường hợp không lập quy hoạch sử dụng đất cấp tỉnh;\nb) Các quy hoạch có tính chất kỹ thuật, chuyên ngành;\nc) Kế hoạch phát triển kinh tế - xã hội cấp huyện;\nd) Điều kiện tự nhiên, kinh tế, xã hội của đơn vị hành chính cấp huyện;\nđ) Hiện trạng sử dụng đất, biến động đất đai, tiềm năng đất đai và kết quả thực hiện quy hoạch sử dụng\nđất thời kỳ trước của cấp huyện;\ne) Nhu cầu, khả năng sử dụng đất của các ngành, lĩnh vực, Ủy ban nhân dân cấp xã; đối với việc xác\nđịnh nhu cầu sử dụng đất ở, đất khu đô thị, đất khu dân cư nông thôn được xác định trên cơ sở dự báo\ndân số, điều kiện hạ tầng, cảnh quan, môi trường theo quy định của pháp luật về xây dựng;\ng) Định mức sử dụng đất, tiến bộ khoa học và công nghệ có liên quan đến việc sử dụng đất.\n2. Nội dung quy hoạch sử dụng đất cấp huyện bao gồm:\na) Định hướng sử dụng đất , tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng,\nan ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu; bảo đảm phù hợp, đồng bộ giữa quy hoạch\nsử dụng đất với quy hoạch giao thông, quy hoạch xây dựng, quy hoạch đô thị, quy hoạch nông thôn ;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất cấp tỉnh được thể hiện\nthông tin đến đơn vị hành chính cấp xã;\nc) Xác định chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất của cấp huyện và cấp xã;\nd) Xác định diện tích và khoanh vùng các khu vực đã được phân bổ chỉ tiêu sử dụng đất trong quy\nhoạch sử dụng đất cấp tỉnh theo quy định tại điểm b và điểm đ khoản 2 Điều 65 của Luật này , trong đó\nxác định diện tích các loại đất để bảo đảm chính sách hỗ trợ đất đai cho đồng bào dân tộc thiểu số;\nđ) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông\nnghiệp;\ne) Phân kỳ quy hoạch sử dụng đất 05 năm cấp huyện theo các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n3. Lập bản đồ quy hoạch sử dụng đất cấp huyện; xây dựng và cập nhật dữ liệu quy hoạch, kế hoạch sử\ndụng đất hằng năm cấp huyện vào cơ sở dữ liệu quốc gia về đất đai.\n4. Quận, thành phố, thị xã thuộc thành phố trực thuộc Trung ương, thành phố, thị xã thuộc tỉnh đã có\nquy hoạch chung hoặc quy hoạch phân khu được phê duyệt theo quy định của pháp luật về quy hoạch\nđô thị  thì không phải lập quy hoạch sử dụng đất cấp huyện mà căn cứ vào quy hoạch chung hoặc quy\nhoạch phân khu và chỉ tiêu sử dụng đất đã được phân bổ từ quy hoạch sử dụng đất cấp tỉnh và các chỉ\ntiêu sử dụng đất của địa phương để lập kế hoạch sử dụng đất hằng năm cấp huyện.\n5. Đối với những khu vực không thuộc quy định tại khoản 4 Điều này mà đã có  quy hoạch xây dựng,\nquy hoạch đô thị, quy hoạch nông thôn  được phê duyệt thì việc lập quy hoạch sử dụng đất cấp huyện\nphải cập nhật định hướng không gian sử dụng đất và hệ thống hạ tầng kỹ thuật, hạ tầng xã hội theo thời\nkỳ quy hoạch sử dụng đất."
+      }
+    },
+    {
+      "id": "khainiem_quydinhcuaphapluatvequydo",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy định của pháp luật về quy hoạch đô thị"
+      }
+    },
+    {
+      "id": "khainiem_quydinhvequydonghiem",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch đô thị"
+      }
+    },
+    {
+      "id": "khainiem_quydinhvequydongnongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch nông thôn"
+      }
+    },
+    {
+      "id": "khainiem_quydinhvequydoxaydung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch xây dựng"
+      }
+    },
+    {
+      "id": "khainiem_quydinhsudungdatcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_quydinhsudungdatcaptinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quydinhtinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhsudungdatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhcuaphapluatvequydo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhvequydonghiem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhvequydongnongthon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhvequydoxaydung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhtinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

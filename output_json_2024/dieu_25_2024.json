@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_25_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 25",
+        "ma_dieu": "25",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 25.\n\nNghĩa vụ của công dân đối với đất đai\n1. Chấp hành đúng các quy định của pháp luật về đất đai.\n2. Giữ gìn, bảo vệ và phát triển tài nguyên đất.\n3. Tôn trọng quyền sử dụng đất của người sử dụng đất khác.\nChương III\nQUYỀN VÀ NGHĨA  VỤ CỦA  NGƯỜI SỬ DỤNG ĐẤT\nMục 1. QUY  ĐỊNH CHUNG"
+      }
+    },
+    {
+      "id": "khainiem_nghiavucongdan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nghĩa vụ của công dân"
+      }
+    },
+    {
+      "id": "khainiem_datdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_chaphanhquydinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chấp hành đúng các quy định"
+      }
+    },
+    {
+      "id": "khainiem_phapluatvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_giugìnbaove",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giữ gìn, bảo vệ"
+      }
+    },
+    {
+      "id": "hanhviphaply_phattrientnguyendat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "phát triển tài nguyên đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_tontrongquyensdd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tôn trọng quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdatkhac",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất khác"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_25_2024",
+      "target_id": "khainiem_nghiavucongdan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_25_2024",
+      "target_id": "khainiem_datdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_25_2024",
+      "target_id": "hanhviphaply_chaphanhquydinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_25_2024",
+      "target_id": "khainiem_phapluatvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_25_2024",
+      "target_id": "hanhviphaply_giugìnbaove",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_25_2024",
+      "target_id": "hanhviphaply_phattrientnguyendat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_25_2024",
+      "target_id": "hanhviphaply_tontrongquyensdd",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_25_2024",
+      "target_id": "chuthe_nguoisudungdatkhac",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

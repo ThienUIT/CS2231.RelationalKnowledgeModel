@@ -1,0 +1,292 @@
+{
+  "entities": [
+    {
+      "id": "dieu_101_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 101. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân đang sử dụng đất mà không có giấy tờ về quyền sử dụng đất",
+        "ma_dieu": "101",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 101.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền\nvới đất cho hộ gia đình, cá nhân đang sử dụng đất mà không có giấy tờ về quyền sử dụng đất\n1. Hộ gia đình, cá nhân đang sử dụng đất trước ngày Luật này có hiệu lực thi hành mà không có các\ngiấy tờ quy định tại  Điều 100 của Luật này , có hộ khẩu thường trú tại địa phương và trực tiếp sản xuất\nnông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối tại vùng có điều kiện kinh tế - xã hội khó khăn,\nvùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, nay được Ủy ban nhân dân cấp xã nơi có đất xác\nnhận là người đã sử dụng đất ổn định, không có tranh chấp thì được cấp Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất và không phải nộp tiền sử dụng đất.\n2. Hộ gia đình, cá nhân đang sử dụng đất không có các giấy tờ quy định tại  Điều 100 của Luật này\nnhưng đất đã được sử dụng ổn định từ trước ngày 01 tháng 7 năm 2004 và không vi phạm pháp luật về\nđất đai, nay được Ủy ban nhân dân cấp xã xác nhận là đất không có tranh chấp, phù hợp với quy hoạch\nsử dụng đất, quy hoạch chi tiết xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn đã được cơ\nquan nhà nước có thẩm quyền phê duyệt đối với nơi đã có quy hoạch thì được cấp Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyensohuuonhao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền sở hữu nhà ở"
+      }
+    },
+    {
+      "id": "khainiem_taisankhacganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "dieukien_khongcogiaytovequyensudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không có giấy tờ về quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "dieuluat_dieu100",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 100 của Luật này"
+      }
+    },
+    {
+      "id": "khainiem_hokhauthuongtru",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hộ khẩu thường trú"
+      }
+    },
+    {
+      "id": "hanhviphaply_sanxuatnongnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sản xuất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_sanxuatlamnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sản xuất lâm nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_nuoitrongthuysan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nuôi trồng thủy sản"
+      }
+    },
+    {
+      "id": "hanhviphaply_lammauoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Làm muối"
+      }
+    },
+    {
+      "id": "khainiem_vungcodieukienkinhtexahoikho khăn",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Vùng có điều kiện kinh tế - xã hội khó khăn"
+      }
+    },
+    {
+      "id": "khainiem_vungcodieukienkinhtexahoidackh khăn",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "dieukien_sudungdatonđinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Sử dụng đất ổn định"
+      }
+    },
+    {
+      "id": "dieukien_khongcotranhchap",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không có tranh chấp"
+      }
+    },
+    {
+      "id": "dieukien_sudungdatotrước01072004",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Sử dụng đất ổn định từ trước ngày 01 tháng 7 năm 2004"
+      }
+    },
+    {
+      "id": "dieukien_khongviphamphapluatvedatdai",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "dieukien_phuhopquyhoachsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_phuhopquyhoachchitietxaydungđothi",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch chi tiết xây dựng đô thị"
+      }
+    },
+    {
+      "id": "dieukien_phuhopquyhoachxaydungdiemdancunongthon",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch xây dựng điểm dân cư nông thôn"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "khainiem_giaychungnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "khainiem_quyensohuuonhao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "khainiem_taisankhacganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "dieukien_khongcogiaytovequyensudungdat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "dieuluat_dieu100",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "khainiem_hokhauthuongtru",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "hanhviphaply_sanxuatnongnghiep",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "hanhviphaply_sanxuatlamnghiep",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "hanhviphaply_nuoitrongthuysan",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "hanhviphaply_lammauoi",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "khainiem_vungcodieukienkinhtexahoikho khăn",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "khainiem_vungcodieukienkinhtexahoidackh khăn",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "dieukien_sudungdatonđinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "dieukien_khongcotranhchap",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "dieukien_sudungdatotrước01072004",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "dieukien_khongviphamphapluatvedatdai",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "dieukien_phuhopquyhoachsudungdat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "dieukien_phuhopquyhoachchitietxaydungđothi",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "dieukien_phuhopquyhoachxaydungdiemdancunongthon",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_101_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

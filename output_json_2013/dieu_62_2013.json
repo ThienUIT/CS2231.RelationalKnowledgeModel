@@ -1,0 +1,676 @@
+{
+  "entities": [
+    {
+      "id": "dieu_62_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 62. Thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+        "ma_dieu": "62",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 62.\n\nThu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\nNhà nước thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng trong các trường hợp\nsau đây:\n1. Thực hiện các dự án quan trọng quốc gia do Quốc hội quyết định chủ trương đầu tư mà phải thu hồi\nđất;\n2. Thực hiện các dự án do Thủ tướng Chính phủ chấp thuận, quyết định đầu tư mà phải thu hồi đất, bao\ngồm:\na) Dự án xây dựng khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế; khu đô thị mới, dự\nán đầu tư bằng nguồn vốn hỗ trợ phát triển chính thức (ODA);\nb) Dự án xây dựng trụ sở cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội ở trung ương;\ntrụ sở của tổ chức nước ngoài có chức năng ngoại giao; công trình di tích lịch sử - văn hóa, danh lam\nthắng cảnh được xếp hạng, công viên, quảng trường, tượng đài, bia tưởng niệm, công trình sự nghiệp\ncông cấp quốc gia;\nc) Dự án xây dựng kết cấu hạ tầng kỹ thuật cấp quốc gia gồm giao thông, thủy lợi, cấp nước, thoát\nnước, điện lực, thông tin liên lạc; hệ thống dẫn, chứa xăng dầu, khí đốt; kho dự trữ quốc gia; công trình\nthu gom, xử lý chất thải;\n3. Thực hiện các dự án do Hội đồng nhân dân cấp tỉnh chấp thuận mà phải thu hồi đất bao gồm:\na) Dự án xây dựng trụ sở cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội; công trình di\ntích lịch sử - văn hóa, danh lam thắng cảnh được xếp hạng, công viên, quảng trường, tượng đài, bia\ntưởng niệm, công trình sự nghiệp công cấp địa phương;\nb) Dự án xây dựng kết cấu hạ tầng kỹ thuật của địa phương gồm giao thông, thủy lợi, cấp nước, thoát\nnước, điện lực, thông tin liên lạc, chiếu sáng đô thị; công trình thu gom, xử lý chất thải;\nc) Dự án xây dựng công trình phục vụ sinh hoạt chung của cộng đồng dân cư; dự án tái định cư, nhà ở\ncho sinh viên, nhà ở xã hội, nhà ở công vụ; xây dựng công trình của cơ sở tôn giáo; khu văn hóa, thể\nthao, vui chơi giải trí phục vụ công cộng; chợ; nghĩa trang, nghĩa địa, nhà tang lễ, nhà hỏa táng;\nd) Dự án xây dựng khu đô thị mới, khu dân cư nông thôn mới; chỉnh trang đô thị, khu dân cư nông thôn;\ncụm công nghiệp; khu sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung; dự án phát triển\nrừng phòng hộ, rừng đặc dụng;\nđ) Dự án khai thác khoáng sản được cơ quan có thẩm quyền cấp phép, trừ trường hợp khai thác khoáng\nsản làm vật liệu xây dựng thông thường, than bùn, khoáng sản tại các khu vực có khoáng sản phân tán,\nnhỏ lẻ và khai thác tận thu khoáng sản."
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_phattrienkinhtexahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "phát triển kinh tế - xã hội"
+      }
+    },
+    {
+      "id": "khainiem_loiichquocgiacongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "lợi ích quốc gia, công cộng"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_hdndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_duanquantrongquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "dự án quan trọng quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_khucongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu công nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_khuchexuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu chế xuất"
+      }
+    },
+    {
+      "id": "khainiem_khucongnghecao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu công nghệ cao"
+      }
+    },
+    {
+      "id": "khainiem_khukinhte",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu kinh tế"
+      }
+    },
+    {
+      "id": "khainiem_khudothimoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu đô thị mới"
+      }
+    },
+    {
+      "id": "khainiem_vonoda",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nguồn vốn hỗ trợ phát triển chính thức (ODA)"
+      }
+    },
+    {
+      "id": "khainiem_trusocoquannhanuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "trụ sở cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_tochucchinhchi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tổ chức chính trị"
+      }
+    },
+    {
+      "id": "khainiem_tochucchinhchixahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tổ chức chính trị - xã hội"
+      }
+    },
+    {
+      "id": "khainiem_tochucnuocngoaichucnangngoaigiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhditichlichsuvanhoa",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình di tích lịch sử - văn hóa"
+      }
+    },
+    {
+      "id": "khainiem_danhlamthangcanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "danh lam thắng cảnh"
+      }
+    },
+    {
+      "id": "khainiem_congvien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công viên"
+      }
+    },
+    {
+      "id": "khainiem_quangtruong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quảng trường"
+      }
+    },
+    {
+      "id": "khainiem_tuongdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tượng đài"
+      }
+    },
+    {
+      "id": "khainiem_biatuongniem",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bia tưởng niệm"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhsunghiepcongcapquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình sự nghiệp công cấp quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_ketcauhagtangkythuatcapquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kết cấu hạ tầng kỹ thuật cấp quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_giaothong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "giao thông"
+      }
+    },
+    {
+      "id": "khainiem_thuyloi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thủy lợi"
+      }
+    },
+    {
+      "id": "khainiem_capnuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cấp nước"
+      }
+    },
+    {
+      "id": "khainiem_thoatnuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thoát nước"
+      }
+    },
+    {
+      "id": "khainiem_dienluc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "điện lực"
+      }
+    },
+    {
+      "id": "khainiem_thongtinlienlac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thông tin liên lạc"
+      }
+    },
+    {
+      "id": "khainiem_hethongdanchuaxangdaukhidot",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hệ thống dẫn, chứa xăng dầu, khí đốt"
+      }
+    },
+    {
+      "id": "khainiem_khodutruquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kho dự trữ quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhthugomxulychatthai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình thu gom, xử lý chất thải"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhsunghiepcongcapdiaohoung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình sự nghiệp công cấp địa phương"
+      }
+    },
+    {
+      "id": "khainiem_chieu sángdothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chiếu sáng đô thị"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhphucvusinhhoatchung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình phục vụ sinh hoạt chung của cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "khainiem_duantaidinhcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "dự án tái định cư"
+      }
+    },
+    {
+      "id": "khainiem_nhaocho sinhvien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà ở cho sinh viên"
+      }
+    },
+    {
+      "id": "khainiem_nhaoxahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà ở xã hội"
+      }
+    },
+    {
+      "id": "khainiem_nhaoocongvu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà ở công vụ"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhcosotoniao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình của cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "khainiem_khuvahoathethao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu văn hóa, thể thao"
+      }
+    },
+    {
+      "id": "khainiem_vuichoigiaitri",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "vui chơi giải trí"
+      }
+    },
+    {
+      "id": "khainiem_cho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chợ"
+      }
+    },
+    {
+      "id": "khainiem_nghiatrangnghiadia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nghĩa trang, nghĩa địa"
+      }
+    },
+    {
+      "id": "khainiem_nhatanglenhanhottang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà tang lễ, nhà hỏa táng"
+      }
+    },
+    {
+      "id": "khainiem_khudothimoikhudancunongthonmoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu đô thị mới, khu dân cư nông thôn mới"
+      }
+    },
+    {
+      "id": "khainiem_chinhtrangdothikhudancunongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chỉnh trang đô thị, khu dân cư nông thôn"
+      }
+    },
+    {
+      "id": "khainiem_cumcongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cụm công nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_khusanxuatchebiennongsan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung"
+      }
+    },
+    {
+      "id": "khainiem_duanphattrienrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "dự án phát triển rừng phòng hộ"
+      }
+    },
+    {
+      "id": "khainiem_duanphattrienrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "dự án phát triển rừng đặc dụng"
+      }
+    },
+    {
+      "id": "khainiem_khaithackhoangsan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khai thác khoáng sản"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_phattrienkinhtexahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_loiichquocgiacongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "chuthe_hdndcapptinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_duanquantrongquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khucongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khuchexuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khukinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khudothimoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_vonoda",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_trusocoquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_tochucchinhchi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_tochucchinhchixahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_tochucnuocngoaichucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_congtrinhditichlichsuvanhoa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_danhlamthangcanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_congvien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_quangtruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_tuongdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_biatuongniem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_congtrinhsunghiepcongcapquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_ketcauhagtangkythuatcapquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_giaothong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_thuyloi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_capnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_thoatnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_dienluc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_thongtinlienlac",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_hethongdanchuaxangdaukhidot",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khodutruquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_congtrinhthugomxulychatthai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_congtrinhsunghiepcongcapdiaohoung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_chieu sángdothi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_congtrinhphucvusinhhoatchung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_duantaidinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_nhaocho sinhvien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_nhaoxahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_nhaoocongvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_congtrinhcosotoniao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khuvahoathethao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_vuichoigiaitri",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_cho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_nghiatrangnghiadia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_nhatanglenhanhottang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khudothimoikhudancunongthonmoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_chinhtrangdothikhudancunongthon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_cumcongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khusanxuatchebiennongsan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_duanphattrienrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_duanphattrienrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2013",
+      "target_id": "khainiem_khaithackhoangsan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

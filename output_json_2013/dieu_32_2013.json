@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_32_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 32. Hoạt động điều tra, đánh giá đất đai",
+        "ma_dieu": "32",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 32.\n\nHoạt động điều tra, đánh giá đất đai\n1. Điều tra, đánh giá đất đai bao gồm các hoạt động sau đây:\na) Điều tra, đánh giá về chất lượng đất, tiềm năng đất đai;\nb) Điều tra, đánh giá thoái hóa đất, ô nhiễm đất;\nc) Điều tra, phân hạng đất nông nghiệp;\nd) Thống kê, kiểm kê đất đai;\nđ) Điều tra, thống kê giá đất; theo dõi biến động giá đất;\ne) Xây dựng và duy trì hệ thống quan trắc giám sát tài nguyên đất.\n2. Điều tra, đánh giá đất đai bao gồm các nội dung sau đây:\na) Lấy mẫu, phân tích, thống kê số liệu quan trắc đất đai;\nb) Xây dựng bản đồ về chất lượng đất, tiềm năng đất đai, thoái hóa đất, ô nhiễm đất, phân hạng đất\nnông nghiệp, giá đất;\nc) Xây dựng báo cáo đánh giá về chất lượng đất, tiềm năng đất đai, thoái hóa đất, ô nhiễm đất, phân\nhạng đất nông nghiệp, giá đất;\nd) Xây dựng báo cáo thống kê, kiểm kê đất đai, lập bản đồ hiện trạng sử dụng đất, báo cáo về giá đất\nvà biến động giá đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutradanhgiadatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutravechatluongdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá về chất lượng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutravetiemnangdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá về tiềm năng đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutrathoaihoadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá thoái hóa đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieuotnhiemdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá ô nhiễm đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutraphanhangdatnongnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, phân hạng đất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_thongkekiemkedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thống kê, kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutrathongkegiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, thống kê giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_theodoibiendonggiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Theo dõi biến động giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydungvaduytrihethongquantrac",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng và duy trì hệ thống quan trắc giám sát tài nguyên đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutradanhgiadatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutravechatluongdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutravetiemnangdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutrathoaihoadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieuotnhiemdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutraphanhangdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_thongkekiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutrathongkegiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_theodoibiendonggiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_xaydungvaduytrihethongquantrac",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

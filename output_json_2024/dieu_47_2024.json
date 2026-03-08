@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_47_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 47. Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp",
+        "ma_dieu": "47",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 47.\n\nĐiều kiện chuyển đổi quyền sử dụng đất nông nghiệp about:blank\nCá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng,\nnhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền\nsử dụng đất nông nghiệp trong cùng đơn vị hành chính cấp tỉnh cho cá nhân khác và không phải nộp\nthuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ."
+      }
+    },
+    {
+      "id": "dieukien_chuyendoiquyensudungdatnongnghiep",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyendoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển đổi"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_47_2024",
+      "target_id": "dieukien_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_47_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_47_2024",
+      "target_id": "hanhviphaply_chuyendoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_47_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

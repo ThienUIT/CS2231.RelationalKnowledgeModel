@@ -1,0 +1,225 @@
+{
+  "entities": [
+    {
+      "id": "dieu_66_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 66. Thẩm quyền thu hồi đất",
+        "ma_dieu": "66",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 66.\n\nThẩm quyền thu hồi đất\n1. Ủy ban nhân dân cấp tỉnh quyết định thu hồi đất trong các trường hợp sau đây:\na) Thu hồi đất đối với tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, tổ chức nước\nngoài có chức năng ngoại giao, doanh nghiệp có vốn đầu tư nước ngoài, trừ trường hợp quy định tại\nđiểm b khoản 2 Điều này;\nb) Thu hồi đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn.\n2. Ủy ban nhân dân cấp huyện quyết định thu hồi đất trong các trường hợp sau đây:\na) Thu hồi đất đối với hộ gia đình, cá nhân, cộng đồng dân cư;\nb) Thu hồi đất ở của người Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam.\n3. Trường hợp trong khu vực thu hồi đất có cả đối tượng quy định tại khoản 1 và khoản 2 Điều này thì\nỦy ban nhân dân cấp tỉnh quyết định thu hồi đất hoặc ủy quyền cho Ủy ban nhân dân cấp huyện quyết\nđịnh thu hồi đất."
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_cosotongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdincuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepconvondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_datnongnghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_quydatcongich",
+      "label": "ChuThe",
+      "properties": {
+        "name": "quỹ đất công ích"
+      }
+    },
+    {
+      "id": "chuthe_xa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "xã"
+      }
+    },
+    {
+      "id": "chuthe_phuong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "phường"
+      }
+    },
+    {
+      "id": "chuthe_thitran",
+      "label": "ChuThe",
+      "properties": {
+        "name": "thị trấn"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_dato",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đất ở"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_cosotongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_nguoivietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_doanhnghiepconvondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_quydatcongich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_xa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_phuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_thitran",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_nguoivietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_66_2013",
+      "target_id": "chuthe_dato",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

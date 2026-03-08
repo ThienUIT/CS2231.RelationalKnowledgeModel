@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_107_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+        "ma_dieu": "107",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 107.\n\nBồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc\nphòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp không được bồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn\nlại khi Nhà nước thu hồi đất bao gồm:\na) Đất được Nhà nước giao không thu tiền sử dụng đất, trừ trường hợp đất nông nghiệp của hộ gia\nđình, cá nhân được bồi thường về đất quy định tại Điều 96 của Luật này ;\nb) Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn\ntiền sử dụng đất;\nc) Đất được Nhà nước cho thuê trả tiền thuê đất hằng năm; đất thuê trả tiền thuê đất một lần cho cả\nthời gian thuê nhưng được miễn tiền thuê đất, trừ trường hợp quy định tại khoản 2 Điều 99 của Luật\nnày;\nd) Đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích do Ủy ban nhân dân cấp xã cho thuê;\nđ) Đất nhận khoán để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\ne) Diện tích đất nông nghiệp được giao vượt hạn mức quy định tại Điều 176 của Luật này .\n2. Chi phí đầu tư vào đất còn lại bao gồm toàn bộ hoặc một phần của các khoản chi phí sau đây:\na) Chi phí san lấp mặt bằng;\nb) Chi phí cải tạo làm tăng độ màu mỡ của đất, thau chua rửa mặn, chống xói mòn, xâm thực đối với\nđất sử dụng vào mục đích sản xuất nông nghiệp;\nc) Chi phí gia cố khả năng chịu lực chống rung, sụt lún đất đối với đất làm mặt bằng sản xuất, kinh\ndoanh;\nd) Kinh phí bồi thường, hỗ trợ, tái định cư đã ứng trước theo phương án bồi thường, hỗ trợ, tái định cư\nđã được cơ quan có thẩm quyền phê duyệt mà chưa khấu trừ hết vào tiền sử dụng đất, tiền thuê đất\nphải nộp;\nđ) Chi phí khác có liên quan đã đầu tư vào đất phù hợp với mục đích sử dụng đất.\n3. Chính phủ quy định chi tiết Điều này .\nMục 4. HỖ TRỢ"
+      }
+    },
+    {
+      "id": "khainiem_boiduongchiphi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bồi thường chi phí đầu tư vào đất còn lại"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocchothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_mucchichquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "mục đích quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "khainiem_phattrienkinhtexahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "phát triển kinh tế - xã hội"
+      }
+    },
+    {
+      "id": "khainiem_loiichquocgiacongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "lợi ích quốc gia, công cộng"
+      }
+    },
+    {
+      "id": "khainiem_chiphisanlapmatbang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí san lấp mặt bằng"
+      }
+    },
+    {
+      "id": "khainiem_chiphicaitaododat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí cải tạo làm tăng độ màu mỡ của đất, thau chua rửa mặn, chống xói mòn, xâm thực đối với đất sử dụng vào mục đích sản xuất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_chiphigiacokhanangchiuluc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí gia cố khả năng chịu lực chống rung, sụt lún đất đối với đất làm mặt bằng sản xuất, kinh doanh"
+      }
+    },
+    {
+      "id": "khainiem_kinhphiboiduonghotrotaidinhcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kinh phí bồi thường, hỗ trợ, tái định cư đã ứng trước theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt mà chưa khấu trừ hết vào tiền sử dụng đất, tiền thuê đất phải nộp"
+      }
+    },
+    {
+      "id": "khainiem_chiphikhaclienquan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí khác có liên quan đã đầu tư vào đất phù hợp với mục đích sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_boiduongchiphi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_107_2024",
+      "target_id": "hanhviphaply_nhanuocchothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocchothuedat",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocchothuedat",
+      "target_id": "khainiem_mucchichquocphonganinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocchothuedat",
+      "target_id": "khainiem_phattrienkinhtexahoi",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocchothuedat",
+      "target_id": "khainiem_loiichquocgiacongcong",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_chiphisanlapmatbang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_chiphicaitaododat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_chiphigiacokhanangchiuluc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_kinhphiboiduonghotrotaidinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_chiphikhaclienquan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

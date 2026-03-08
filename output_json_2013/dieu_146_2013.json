@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_146_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 146. Đất sử dụng để chỉnh trang, phát triển đô thị và khu dân cư nông thôn",
+        "ma_dieu": "146",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 146.\n\nĐất sử dụng để chỉnh trang, phát triển đô thị và khu dân cư nông thôn\n1. Đất sử dụng để chỉnh trang, phát triển đô thị gồm đất chỉnh trang khu vực nội thành, nội thị hiện có;\nđất được quy hoạch để mở rộng đô thị hoặc phát triển đô thị mới.\nĐất sử dụng để chỉnh trang, phát triển khu dân cư nông thôn gồm đất chỉnh trang trong khu dân cư hiện\ncó, đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích, đất được quy hoạch để mở rộng khu\ndân cư nông thôn.\n2. Việc sử dụng đất để chỉnh trang, phát triển đô thị, khu dân cư nông thôn phải phù hợp với quy hoạch,\nkế hoạch sử dụng đất, quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn đã được\ncơ quan nhà nước có thẩm quyền phê duyệt và các quy chuẩn, tiêu chuẩn xây dựng do cơ quan nhà\nnước có thẩm quyền ban hành.\n3. Ủy ban nhân dân cấp tỉnh tổ chức việc lập và giao cho tổ chức kinh tế, người Việt Nam định cư ở\nnước ngoài, doanh nghiệp có vốn đầu tư nước ngoài thực hiện dự án theo quy định của pháp luật để\nchỉnh trang hoặc xây dựng khu đô thị mới, khu dân cư nông thôn mới. Đất cho các dự án này phải được\nphân bổ đồng bộ trong quy hoạch, kế hoạch sử dụng đất cho toàn khu vực, bao gồm đất sử dụng để xây\ndựng kết cấu hạ tầng, đất ở, đất xây dựng các công trình công cộng, công trình sự nghiệp, đất thương\nmại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp.\nKhi thực hiện các dự án hạ tầng kỹ thuật, xây dựng, chỉnh trang khu đô thị, khu dân cư nông thôn, Nhà\nnước chủ động thu hồi đất, bao gồm đất để xây dựng công trình kết cấu hạ tầng và đất vùng phụ cận\ntheo quy hoạch và kế hoạch sử dụng đất.\n4. Cộng đồng dân cư xây dựng, chỉnh trang các công trình phục vụ lợi ích chung của cộng đồng bằng\nnguồn vốn do nhân dân đóng góp hoặc Nhà nước hỗ trợ thì việc tự nguyện góp quyền sử dụng đất, bồi\nthường hoặc hỗ trợ do cộng đồng dân cư và người sử dụng đất đó thỏa thuận."
+      }
+    },
+    {
+      "id": "khainiem_datsudungdechinhtrangphattriendothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng để chỉnh trang, phát triển đô thị"
+      }
+    },
+    {
+      "id": "khainiem_datsudungdephattrienkhudancunongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng để phát triển khu dân cư nông thôn"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_tochucyte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_146_2013",
+      "target_id": "khainiem_datsudungdechinhtrangphattriendothi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2013",
+      "target_id": "khainiem_datsudungdephattrienkhudancunongthon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_uybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_tochucyte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

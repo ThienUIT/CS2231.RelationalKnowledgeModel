@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_148_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 148. Đất sử dụng vào mục đích quốc phòng, an ninh",
+        "ma_dieu": "148",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 148.\n\nĐất sử dụng vào mục đích quốc phòng, an ninh\n1. Đất sử dụng vào mục đích quốc phòng, an ninh bao gồm đất sử dụng vào các mục đích quy định tại\nĐiều 61 của Luật này .\n2. Ủy ban nhân dân cấp tỉnh thực hiện việc quản lý nhà nước đối với đất sử dụng vào mục đích quốc\nphòng, an ninh thuộc địa bàn quản lý hành chính của địa phương. about:blank\nBộ Quốc phòng, Bộ Công an có trách nhiệm phối hợp với Ủy ban nhân dân cấp tỉnh trong quá trình lập\nquy hoạch, kế hoạch sử dụng đất vào mục đích quốc phòng, an ninh bảo đảm phù hợp với yêu cầu phát\ntriển kinh tế - xã hội, củng cố quốc phòng, an ninh; rà soát, xác định ranh giới đất sử dụng cho mục\nđích quốc phòng, an ninh; xác định vị trí, diện tích đất quốc phòng, an ninh không còn nhu cầu sử dụng,\nsử dụng không đúng mục đích để bàn giao cho địa phương quản lý, sử dụng.\n3. Đối với những khu vực nằm trong quy hoạch sử dụng đất vào mục đích quốc phòng, an ninh nhưng\nchưa có nhu cầu sử dụng vào mục đích quốc phòng, an ninh thì người đang sử dụng đất được tiếp tục\nsử dụng đến khi có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền nhưng không được\nlàm biến dạng địa hình tự nhiên.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datsudungvaomucdichquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "dieuluat_61_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 61 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
+    },
+    {
+      "id": "chuthe_nguoidangsudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người đang sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_148_2013",
+      "target_id": "khainiem_datsudungvaomucdichquocphonganinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_148_2013",
+      "target_id": "dieuluat_61_2013",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_148_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_148_2013",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_148_2013",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_148_2013",
+      "target_id": "chuthe_nguoidangsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_148_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

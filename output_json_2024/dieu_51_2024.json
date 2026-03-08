@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_51_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 51. Nguyên tắc điều tra, đánh giá đất đai và bảo vệ, cải tạo, phục hồi đất",
+        "ma_dieu": "51",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 51.\n\nNguyên tắc điều tra, đánh giá đất đai và bảo vệ, cải tạo, phục hồi đất\n1. Bảo đảm kịp thời, khách quan, phản ánh đúng thực trạng tài nguyên đất.\n2. Thực hiện trên phạm vi cả nước, các vùng kinh tế - xã hội, đơn vị hành chính cấp tỉnh và bảo đảm\nliên tục, kế thừa.\n3. Nhà nước bảo đảm kinh phí thực hiện điều tra, đánh giá đất đai; khuyến khích các tổ chức, cá nhân\ncùng với Nhà nước thực hiện bảo vệ, cải tạo, phục hồi đất.\n4. Cung cấp kịp thời thông tin, số liệu để phục vụ công tác quản lý nhà nước về đất đai và nhu cầu\nthông tin đất đai cho các hoạt động kinh tế, xã hội, quốc phòng, an ninh, nghiên cứu khoa học, giáo dục\nvà đào tạo và các nhu cầu khác của Nhà nước và xã hội."
+      }
+    },
+    {
+      "id": "khainiem_nguyentacdieutra",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nguyên tắc điều tra, đánh giá đất đai"
+      }
+    },
+    {
+      "id": "khainiem_baovecaitao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bảo vệ, cải tạo, phục hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_51_2024",
+      "target_id": "khainiem_nguyentacdieutra",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2024",
+      "target_id": "khainiem_baovecaitao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

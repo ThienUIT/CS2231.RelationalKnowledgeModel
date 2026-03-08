@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_189_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 189. Điều kiện bán, mua tài sản gắn liền với đất được Nhà nước cho thuê thu tiền thuê đất hàng năm",
+        "ma_dieu": "189",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 189.\n\nĐiều kiện bán, mua tài sản gắn liền với đất được Nhà nước cho thuê thu tiền thuê đất\nhàng năm\n1. Tổ chức kinh tế, hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn\nđầu tư nước ngoài được bán tài sản gắn liền với đất thuê của Nhà nước khi có đủ các điều kiện sau\nđây:\na) Tài sản gắn liền với đất thuê được tạo lập hợp pháp theo quy định của pháp luật;\nb) Đã hoàn thành việc xây dựng theo đúng quy hoạch xây dựng chi tiết và dự án đầu tư đã được phê\nduyệt, chấp thuận.\n2. Người mua tài sản gắn liền với đất thuê phải bảo đảm các điều kiện sau đây:\na) Có năng lực tài chính để thực hiện dự án đầu tư;\nb) Có ngành nghề kinh doanh phù hợp với dự án đầu tư;\nc) Không vi phạm quy định của pháp luật về đất đai đối với trường hợp đã được Nhà nước giao đất,\ncho thuê đất để thực hiện dự án trước đó.\n3. Người mua tài sản được Nhà nước tiếp tục cho thuê đất trong thời hạn sử dụng đất còn lại theo giá\nđất cụ thể, sử dụng đất đúng mục đích đã được xác định trong dự án.\n4. Đối với trường hợp thuê đất để thực hiện dự án xây dựng kinh doanh kết cấu hạ tầng thì thực hiện\ntheo quy định tại  Điều 194 của Luật này ."
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "dieukien_taisanganlienvoithue",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tài sản gắn liền với đất thuê được tạo lập hợp pháp theo quy định của pháp luật"
+      }
+    },
+    {
+      "id": "dieukien_dahoanthanhxaydung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đã hoàn thành việc xây dựng theo đúng quy hoạch xây dựng chi tiết và dự án đầu tư đã được phê duyệt, chấp thuận"
+      }
+    },
+    {
+      "id": "dieukien_conangluoctaichinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có năng lực tài chính để thực hiện dự án đầu tư"
+      }
+    },
+    {
+      "id": "dieukien_congnhangnghekinhdoanhphuhop",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có ngành nghề kinh doanh phù hợp với dự án đầu tư"
+      }
+    },
+    {
+      "id": "dieukien_khongviphamquydinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không vi phạm quy định của pháp luật về đất đai đối với trường hợp đã được Nhà nước giao đất, cho thuê đất để thực hiện dự án trước đó"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "dieukien_taisanganlienvoithue",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "dieukien_dahoanthanhxaydung",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "dieukien_conangluoctaichinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "dieukien_congnhangnghekinhdoanhphuhop",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_189_2013",
+      "target_id": "dieukien_khongviphamquydinh",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

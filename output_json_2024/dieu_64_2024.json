@@ -1,0 +1,220 @@
+{
+  "entities": [
+    {
+      "id": "dieu_64_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 64. Quy hoạch, kế hoạch sử dụng đất quốc gia",
+        "ma_dieu": "64",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 64.\n\nQuy hoạch, kế hoạch sử dụng đất quốc gia\n1. Căn cứ lập quy hoạch sử dụng đất quốc gia bao gồm:\na) Chiến lược phát triển kinh tế - xã hội, quốc phòng, an ninh; quy hoạch tổng thể quốc gia; chiến lược\nphát triển ngành, lĩnh vực;\nb) Điều kiện tự nhiên, kinh tế, xã hội;\nc) Hiện trạng sử dụng đất, biến động đất đai, chất lượng đất , tiềm năng đất đai và kết quả thực hiện\nquy hoạch sử dụng đất quốc gia kỳ trước;\nd) Nhu cầu, khả năng sử dụng đất của các ngành, lĩnh vực, địa phương;\nđ) Tiến bộ khoa học và công nghệ có liên quan đến việc sử dụng đất.\n2. Nội dung quy hoạch sử dụng đất quốc gia thực hiện theo quy định của pháp luật về quy hoạch.\n3. Căn cứ lập kế hoạch sử dụng đất quốc gia bao gồm:\na) Quy hoạch sử dụng đất quốc gia;\nb) Kế hoạch phát triển kinh tế - xã hội, kế hoạch đầu tư công trung hạn của cả nước;\nc) Nhu cầu, khả năng sử dụng đất của các ngành, lĩnh vực, địa phương;\nd) Kết quả thực hiện kế hoạch sử dụng đất 05 năm kỳ trước;\nđ) Khả năng đầu tư, huy động nguồn lực.\n4. Nội dung kế hoạch sử dụng đất quốc gia xác định diện tích các loại đất theo chỉ tiêu sử dụng đất\ntrong quy hoạch sử dụng đất quốc gia theo từng thời kỳ kế hoạch sử dụng đất 05 năm.\n5. Xây dựng và cập nhật dữ liệu quy hoạch, kế hoạch sử dụng đất quốc gia vào cơ sở dữ liệu quốc gia\nvề đất đai."
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_chienluocphattrienkinhtexahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chiến lược phát triển kinh tế - xã hội"
+      }
+    },
+    {
+      "id": "khainiem_quocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachtongthequocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch tổng thể quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_chienluocphattriennganhlinhvuc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chiến lược phát triển ngành, lĩnh vực"
+      }
+    },
+    {
+      "id": "khainiem_dieukientunhienkinhtexahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Điều kiện tự nhiên, kinh tế, xã hội"
+      }
+    },
+    {
+      "id": "khainiem_hientrangsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hiện trạng sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_biendongdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Biến động đất đai"
+      }
+    },
+    {
+      "id": "khainiem_chatluongdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chất lượng đất"
+      }
+    },
+    {
+      "id": "khainiem_tiemnangdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiềm năng đất đai"
+      }
+    },
+    {
+      "id": "khainiem_nhucaukhanangsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhu cầu, khả năng sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_tienbokhoahocvacongnghe",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiến bộ khoa học và công nghệ"
+      }
+    },
+    {
+      "id": "khainiem_kehoachphattrienkinhtexahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch phát triển kinh tế - xã hội"
+      }
+    },
+    {
+      "id": "khainiem_kehoachdautucongtrunghan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch đầu tư công trung hạn"
+      }
+    },
+    {
+      "id": "khainiem_dulieuquyhoachkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dữ liệu quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieudatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu quốc gia về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_quyhoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_kehoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_chienluocphattrienkinhtexahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_quocphonganinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_quyhoachtongthequocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_chienluocphattriennganhlinhvuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_dieukientunhienkinhtexahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_hientrangsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_biendongdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_chatluongdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_tiemnangdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_nhucaukhanangsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_tienbokhoahocvacongnghe",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_kehoachphattrienkinhtexahoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_kehoachdautucongtrunghan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_dulieuquyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_64_2024",
+      "target_id": "khainiem_cosodulieudatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_55_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 55. Trách nhiệm tổ chức thực hiện điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất",
+        "ma_dieu": "55",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 55.\n\nTrách nhiệm tổ chức thực hiện điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất\n1. Chính phủ quy định chi tiết việc điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất và quy định\nđiều kiện năng lực của tổ chức dịch vụ tư vấn điều tra, đánh giá đất đai.\n2. Bộ Tài nguyên và Môi trường có trách nhiệm chủ trì, phối hợp với các Bộ có liên quan thực hiện các\nnhiệm vụ sau đây:\na) Quy định kỹ thuật điều tra, đánh giá đất đai; kỹ thuật bảo vệ, cải tạo, phục hồi đất;\nb) Xây dựng và duy trì hệ thống quan trắc;\nc) Tổ chức thực hiện, phê duyệt và công bố kết quả điều tra, đánh giá đất đai cả nước, các vùng kinh tế\n- xã hội và theo chuyên đề;\nd) Ban hành và tổ chức thực hiện kế hoạch bảo vệ, cải tạo, phục hồi đất đối với các khu vực đất thoái\nhóa nặng liên vùng, liên tỉnh; kế hoạch bảo vệ, cải tạo, phục hồi đất đối với khu vực đất bị ô nhiễm đặc\nbiệt nghiêm trọng.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm sau đây:\na) Tổ chức thực hiện, phê duyệt và công bố kết quả điều tra, đánh giá đất đai của địa phương; xây dựng\nvà thực hiện kế hoạch bảo vệ, cải tạo, phục hồi đất đối với các khu vực đất bị thoái hóa, ô nhiễm trên\nđịa bàn; cập nhật vào cơ sở dữ liệu quốc gia về đất đai;\nb) Thống kê và công bố các khu vực đất bị ô nhiễm; tổ chức đấu thầu lựa chọn nhà thầu xử lý, cải tạo\nvà phục hồi đất ở khu vực đất bị ô nhiễm trên địa bàn.\n4. Các hoạt động điều tra, đánh giá đất đai; bảo vệ, cải tạo, phục hồi đất được thực hiện bằng nguồn\nvốn sự nghiệp bảo vệ môi trường và các nguồn vốn khác theo quy định của pháp luật.\n5. Kết quả điều tra, đánh giá đất đai phải được phê duyệt trong năm thực hiện kiểm kê đất đai để làm\ncăn cứ lập quy hoạch sử dụng đất các cấp. Bộ Tài nguyên và Môi trường, cơ quan có chức năng quản lý\nđất đai cấp tỉnh có trách nhiệm công bố công khai kết quả điều tra, đánh giá đất đai trong thời hạn 30\nngày kể từ ngày được cơ quan có thẩm quyền phê duyệt."
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutra_danhgiadatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_baove_caitaophuchoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo vệ, cải tạo, phục hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_khuvucdatbithoaihoa",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu vực đất bị thoái hóa"
+      }
+    },
+    {
+      "id": "khainiem_khuvucdatbionhiem",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu vực đất bị ô nhiễm"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_kiemkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kiểm kê đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_55_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_55_2024",
+      "target_id": "hanhviphaply_dieutra_danhgiadatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_55_2024",
+      "target_id": "hanhviphaply_baove_caitaophuchoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_55_2024",
+      "target_id": "chuthe_botainguyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_55_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_55_2024",
+      "target_id": "khainiem_khuvucdatbithoaihoa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_55_2024",
+      "target_id": "khainiem_khuvucdatbionhiem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_55_2024",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_55_2024",
+      "target_id": "khainiem_kiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

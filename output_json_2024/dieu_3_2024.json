@@ -1,0 +1,451 @@
+{
+  "entities": [
+    {
+      "id": "dieu_3_2024",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khainiem_bandodiachinh",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_bandohtsd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_bandoqhsd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_baovecaitao",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_boithuongvedat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_canhanttsxnn",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_chiphidautuvaodat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_chitieusdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_chiemdat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_chudautudautu",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_chuyenmucdichsd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_chuyenquyensdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_congdongdancu",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_cosodulieudatdai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_dangkyddtaisanganlien",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_datdangcotranhchap",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_dieuchinhthoihan",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_giahansdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_giadat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_gtquyensdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_giaycnqsd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_gopvonbangquyensdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_hthongtinqg",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_hotrokhinhannuocthudat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_hogiadinhsdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_htxksxkd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_huyhoidat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_kehoachsdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_kiemkedatdai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_lanbien",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_landat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_nhannuocthuedat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_nncongnhanqsdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_nngiaodatsdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_nnthudat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_qhsd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_quythue",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_sddodinh",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_taidinhcu",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thoidat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thongkedatdai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thuadat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thuatchuandat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_tiensdd",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_tienthuedat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_tcktdaunntn",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_tranhchapdatdai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_vunggtr",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_vungphucan",
+      "label": "KháiNiệm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_bandodiachinh"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_bandohtsd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_bandoqhsd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_baovecaitao"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_boithuongvedat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_canhanttsxnn"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_chiphidautuvaodat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_chitieusdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_chiemdat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_chudautudautu"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_chuyenmucdichsd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_chuyenquyensdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_congdongdancu"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_cosodulieudatdai"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dangkyddtaisanganlien"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_datdangcotranhchap"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dieuchinhthoihan"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giahansdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giadat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_gtquyensdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giaycnqsd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_gopvonbangquyensdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_hthongtinqg"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_hotrokhinhannuocthudat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_hogiadinhsdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_htxksxkd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_huyhoidat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_kehoachsdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_kiemkedatdai"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_lanbien"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_landat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_nhannuocthuedat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_nncongnhanqsdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_nngiaodatsdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_nnthudat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_qhsd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_quythue"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_sddodinh"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_taidinhcu"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_thoidat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_thongkedatdai"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_thuadat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_thuatchuandat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_tiensdd"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_tienthuedat"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_tcktdaunntn"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_tranhchapdatdai"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_vunggtr"
+    },
+    {
+      "source_id": "dieu_3_2024",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_vungphucan"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "entities": [
+    {
+      "id": "dieu_160_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 160. Đất tín ngưỡng",
+        "ma_dieu": "160",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 160.\n\nĐất tín ngưỡng\n1. Đất tín ngưỡng bao gồm đất có công trình đình, đền, miếu, am, từ đường, nhà thờ họ.\n2. Việc sử dụng đất tín ngưỡng phải đúng mục đích, phù hợp với quy hoạch, kế hoạch sử dụng đất, quy\nhoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn đã được cơ quan nhà nước có thẩm\nquyền phê duyệt.\n3. Việc xây dựng, mở rộng các công trình đình, đền, miếu, am, từ đường, nhà thờ họ của cộng đồng\nphải được phép của cơ quan nhà nước có thẩm quyền."
+      }
+    },
+    {
+      "id": "khainiem_dattinnguong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tín ngưỡng"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhdinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình đình"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhden",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình đền"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhmieu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình miếu"
+      }
+    },
+    {
+      "id": "khainiem_congtrinham",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình am"
+      }
+    },
+    {
+      "id": "khainiem_tutduong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "từ đường"
+      }
+    },
+    {
+      "id": "khainiem_nhathotho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà thờ họ"
+      }
+    },
+    {
+      "id": "hanhviphaply_sudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_dungmucdich",
+      "label": "DieuKien",
+      "properties": {
+        "name": "đúng mục đích"
+      }
+    },
+    {
+      "id": "dieukien_phuhopquyhoach",
+      "label": "DieuKien",
+      "properties": {
+        "name": "phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "xây dựng"
+      }
+    },
+    {
+      "id": "hanhviphaply_morong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "mở rộng"
+      }
+    },
+    {
+      "id": "dieukien_duocphep",
+      "label": "DieuKien",
+      "properties": {
+        "name": "được phép của cơ quan nhà nước có thẩm quyền"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "khainiem_dattinnguong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "khainiem_congtrinhdinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "khainiem_congtrinhden",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "khainiem_congtrinhmieu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "khainiem_congtrinham",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "khainiem_tutduong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "khainiem_nhathotho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "hanhviphaply_sudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "target_id": "dieukien_dungmucdich",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "target_id": "dieukien_phuhopquyhoach",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "hanhviphaply_xaydung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_160_2013",
+      "target_id": "hanhviphaply_morong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_xaydung",
+      "target_id": "dieukien_duocphep",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_morong",
+      "target_id": "dieukien_duocphep",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

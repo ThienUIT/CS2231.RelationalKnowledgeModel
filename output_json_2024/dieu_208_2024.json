@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_208_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 208. Đất sử dụng cho cảng hàng không, sân bay dân dụng",
+        "ma_dieu": "208",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 208.\n\nĐất sử dụng cho cảng hàng không, sân bay dân dụng\n1. Đất sử dụng cho cảng hàng không, sân bay dân dụng bao gồm:\na) Đất xây dựng trụ sở cơ quan nhà nước, đơn vị lực lượng vũ trang nhân dân tại cảng hàng không, sân\nbay, đất xây dựng công trình kết cấu hạ tầng sân bay và công trình, khu phụ trợ khác của sân bay do\nNhà nước sở hữu;\nb) Đất xây dựng các hạng mục thuộc kết cấu hạ tầng cảng hàng không và công trình dịch vụ hàng\nkhông, dịch vụ phi hàng không ngoài quy định điểm a khoản này .\n2. Căn cứ quy hoạch, kế hoạch sử dụng đất và quy hoạch cảng hàng không, sân bay dân dụng đã được\ncơ quan có thẩm quyền phê duyệt, Ủy ban nhân dân cấp tỉnh thực hiện việc giao đất, cho thuê đất theo\nquy định sau: about:blank\na) Giao đất không thu tiền sử dụng đất đối với đất quy định tại điểm a khoản 1 Điều này;\nb) Cho thuê đất thu tiền thuê đất hằng năm đối với đất quy định tại điểm b khoản 1 Điều này;\nc) Phần diện tích còn lại sau khi giao đất, cho thuê đất theo quy định tại điểm a và điểm b khoản này thì\ngiao cho Cảng vụ hàng không sân bay đó quản lý.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm bố trí quỹ đất, giao đất để lực lượng Công an nhân dân bảo\nđảm an ninh, trật tự đối với khu vực cảng hàng không, sân bay dân dụng.\n4. Trường hợp cảng hàng không, sân bay dân dụng thực hiện theo dự án đầu tư theo phương thức đối\ntác công tư có sử dụng đất thì thực hiện theo quy định tại Điều 207 của Luật này .\n5. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datsudungchocanghangkhongsanbaydandung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho cảng hàng không, sân bay dân dụng"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_donvilucluongvutrangannd",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị lực lượng vũ trang nhân dân"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_cangvuhangkhongsanbay",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cảng vụ hàng không sân bay"
+      }
+    },
+    {
+      "id": "chuthe_congannd",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công an nhân dân"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "khainiem_datsudungchocanghangkhongsanbaydandung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "chuthe_coquannhanhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "chuthe_donvilucluongvutrangannd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "chuthe_uybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "chuthe_cangvuhangkhongsanbay",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "chuthe_congannd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

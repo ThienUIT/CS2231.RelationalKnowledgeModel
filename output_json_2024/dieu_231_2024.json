@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_231_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 231. Giám sát của công dân đối với việc quản lý, sử dụng đất đai",
+        "ma_dieu": "231",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 231.\n\nGiám sát của công dân đối với việc quản lý, sử dụng đất đai\n1. Công dân tự mình hoặc thông qua các tổ chức đại diện thực hiện quyền giám sát, phản ánh và yêu\ncầu, kiến nghị cơ quan có thẩm quyền xử lý các sai phạm trong quản lý, sử dụng đất đai.\n2. Việc giám sát, phản ánh và yêu cầu, kiến nghị phải bảo đảm khách quan, trung thực, đúng pháp luật;\nkhông được lợi dụng quyền giám sát để khiếu nại, tố cáo không đúng quy định của pháp luật, làm mất\ntrật tự xã hội; chịu trách nhiệm trước pháp luật về tính chính xác các thông tin do mình phản ánh.\n3. Nội dung giám sát của công dân trong quản lý, sử dụng đất đai bao gồm:\na) Việc lập, điều chỉnh, công bố công khai, thực hiện quy hoạch, kế hoạch sử dụng đất;\nb) Việc giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất;\nc) Việc thu hồi đất, bồi thường, hỗ trợ và tái định cư;\nd) Việc đăng ký đất đai, tài sản gắn liền với đất, cấp Giấy chứng nhận quyền sử dụng đất, Giấy chứng\nnhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng\nnhận quyền sở hữu công trình xây dựng, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và about:blank\ntài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với\nđất;\nđ) Việc thu, miễn, giảm tiền sử dụng đất, tiền thuê đất, thuế liên quan đến đất đai; định giá đất;\ne) Việc thực hiện các thủ tục hành chính liên quan đến quyền và nghĩa vụ của người sử dụng đất.\n4. Hình thức giám sát của công dân trong quản lý, sử dụng đất đai bao gồm:\na) Trực tiếp thực hiện quyền giám sát thông qua việc phản ánh, kiến nghị đến các cơ quan, người có\nthẩm quyền giải quyết;\nb) Gửi đơn kiến nghị đến các tổ chức đại diện được pháp luật công nhận để các tổ chức này thực hiện\nviệc giám sát.\n5. Cơ quan nhà nước có thẩm quyền khi nhận được phản ánh, kiến nghị của công dân, tổ chức đại diện\ncho người dân có trách nhiệm sau đây:\na) Tổ chức tiếp nhận, phân loại; kiểm tra, xử lý, trả lời bằng văn bản theo thẩm quyền;\nb) Chuyển đơn đến cơ quan nhà nước có thẩm quyền để giải quyết trong trường hợp không thuộc thẩm\nquyền;\nc) Thông báo kết quả cho tổ chức, cá nhân đã phản ánh, kiến nghị."
+      }
+    },
+    {
+      "id": "chuthe_congdan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công dân"
+      }
+    },
+    {
+      "id": "hanhviphaply_giamsat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giám sát"
+      }
+    },
+    {
+      "id": "khainiem_quanlysudungdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quản lý, sử dụng đất đai"
+      }
+    },
+    {
+      "id": "chuthe_tochucdaidien",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức đại diện"
+      }
+    },
+    {
+      "id": "khainiem_quyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_phananh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phản ánh"
+      }
+    },
+    {
+      "id": "hanhviphaply_yeucau",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Yêu cầu"
+      }
+    },
+    {
+      "id": "hanhviphaply_kiennghi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Kiến nghị"
+      }
+    },
+    {
+      "id": "chuthe_coquanauthomquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_xulysaipham",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xử lý sai phạm"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_231_2024",
+      "target_id": "chuthe_congdan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_231_2024",
+      "target_id": "hanhviphaply_giamsat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_giamsat",
+      "target_id": "khainiem_quanlysudungdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_231_2024",
+      "target_id": "chuthe_tochucdaidien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_231_2024",
+      "target_id": "khainiem_quyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_231_2024",
+      "target_id": "hanhviphaply_phananh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_231_2024",
+      "target_id": "hanhviphaply_yeucau",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_231_2024",
+      "target_id": "hanhviphaply_kiennghi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_231_2024",
+      "target_id": "chuthe_coquanauthomquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_231_2024",
+      "target_id": "hanhviphaply_xulysaipham",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

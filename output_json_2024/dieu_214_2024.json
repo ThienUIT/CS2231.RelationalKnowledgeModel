@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_214_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 214",
+        "ma_dieu": "214",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 214.\n\nĐất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tr o cốt\n1. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt phải quy hoạch thành khu tập\ntrung, phù hợp với quy hoạch sử dụng đất, quy hoạch xây dựng, hợp vệ sinh, bảo đảm môi trường và\ntiết kiệm đất.\n2. Nghiêm cấm việc lập nghĩa trang, nhà tang lễ, cơ sở hỏa táng, cơ sở lưu giữ tro cốt trái với quy\nhoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt.\n3. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng, đất cơ sở lưu giữ tro cốt được Nhà nước giao đất, cho\nthuê đất cho tổ chức kinh tế theo quy định sau đây:\na) Giao đất có thu tiền sử dụng đất để xây dựng cơ sở lưu giữ tro cốt, để thực hiện dự án đầu tư hạ tầng\nnghĩa trang để chuyển nhượng quyền sử dụng đất gắn với hạ tầng lưu giữ tro cốt;\nb) Cho thuê đất để xây dựng nhà tang lễ, cơ sở hỏa táng .\n4. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng, đất cơ sở lưu giữ tro cốt không thuộc trường hợp quy\nđịnh tại khoản 3 Điều này thì Nhà nước giao cho Ủy ban nhân dân cấp xã hoặc đơn vị sự nghiệp công\nlập để quản lý."
+      }
+    },
+    {
+      "id": "khainiem_datnghiatrang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nghĩa trang"
+      }
+    },
+    {
+      "id": "khainiem_nhatangle",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhà tang lễ"
+      }
+    },
+    {
+      "id": "khainiem_cosohotang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở hỏa táng"
+      }
+    },
+    {
+      "id": "khainiem_cosoluugiotrocot",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở lưu giữ tro cốt"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochucdong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_donvisunghiepconglap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "dieukien_quyhoachsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_quyhoachxaydung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch xây dựng"
+      }
+    },
+    {
+      "id": "dieukien_hopvesinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Hợp vệ sinh"
+      }
+    },
+    {
+      "id": "dieukien_baodammoitruong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Bảo đảm môi trường"
+      }
+    },
+    {
+      "id": "dieukien_tietkiemdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tiết kiệm đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "khainiem_datnghiatrang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "khainiem_nhatangle",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "khainiem_cosohotang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "khainiem_cosoluugiotrocot",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "chuthe_tochucdong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "chuthe_donvisunghiepconglap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "dieukien_quyhoachsudungdat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "dieukien_quyhoachxaydung",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "dieukien_hopvesinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "dieukien_baodammoitruong",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_214_2024",
+      "target_id": "dieukien_tietkiemdat",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

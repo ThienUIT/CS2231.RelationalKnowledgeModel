@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "id": "dieu_164_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 164. Quản lý đất chưa sử dụng",
+        "ma_dieu": "164",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 164.\n\nQuản lý đất chưa sử dụng\n1. Ủy ban nhân dân cấp xã có trách nhiệm quản lý, bảo vệ đất chưa sử dụng tại địa phương và đăng ký\nvào hồ sơ địa chính.\n2. Ủy ban nhân dân cấp tỉnh quản lý đất chưa sử dụng tại các đảo chưa có người ở.\n3. Việc quản lý đất chưa sử dụng được thực hiện theo quy định của Chính phủ."
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "khainiem_datchuasudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất chưa sử dụng"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlybove",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quản lý, bảo vệ"
+      }
+    },
+    {
+      "id": "hanhviphaply_dangkyvaohosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "đăng ký vào hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_daochuaconguoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "các đảo chưa có người ở"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlydatchuasudung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý đất chưa sử dụng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_164_2013",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_ubndcapxa",
+      "target_id": "hanhviphaply_quanlybove",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "chuthe_ubndcapxa",
+      "target_id": "hanhviphaply_dangkyvaohosodiachinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_164_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_164_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_164_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "khainiem_daochuaconguoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "hanhviphaply_quanlydatchuasudung",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "entities": [
+    {
+      "id": "dieu_212_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 212",
+        "ma_dieu": "212",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 212.\n\nQuy định chi tiết\nChính phủ quy định chi tiết các điều, khoản được giao trong Luật.\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa V iệt Nam khóa XIII, kỳ họp thứ 6 thông\nqua ngày 29 tháng 1 1 năm 2013.\nCHỦ TỊCH QUỐC HỘI\nNguyễn Sinh Hùng about:blank"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quy định chi tiết"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_212_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_212_2013",
+      "target_id": "hanhviphaply_quydinhchitiet",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

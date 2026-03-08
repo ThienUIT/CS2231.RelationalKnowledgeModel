@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_12_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 12. Những hành vi bị nghiêm cấm",
+        "ma_dieu": "12",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 12.\n\nNhững hành vi bị nghiêm cấm\n1. Lấn, chiếm, hủy hoại đất đai.\n2. Vi phạm quy hoạch, kế hoạch sử dụng đất đã được công bố.\n3. Không sử dụng đất, sử dụng đất không đúng mục đích.\n4. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n5. Nhận chuyển quyền sử dụng đất nông nghiệp vượt hạn mức đối với hộ gia đình, cá nhân theo quy\nđịnh của Luật này .\n6. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan nhà nước có\nthẩm quyền.\n7. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n8. Lợi dụng chức vụ, quyền hạn để làm trái quy định về quản lý đất đai.\n9. Không cung cấp hoặc cung cấp thông tin về đất đai không chính xác theo quy định của pháp luật.\n10. Cản trở, gây khó khăn đối với việc thực hiện quyền của người sử dụng đất theo quy định của pháp\nluật."
+      }
+    },
+    {
+      "id": "hanhviphaply_lanchiemhuyhoaidatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lấn, chiếm, hủy hoại đất đai."
+      }
+    },
+    {
+      "id": "hanhviphaply_viphamquyhoachkehoachsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm quy hoạch, kế hoạch sử dụng đất đã được công bố."
+      }
+    },
+    {
+      "id": "hanhviphaply_khongsudungdatsudungdatkhongdungmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không sử dụng đất, sử dụng đất không đúng mục đích."
+      }
+    },
+    {
+      "id": "hanhviphaply_khongthuchiendungquydinhphapluat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyenquyensudungdatvuothanmuc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển quyền sử dụng đất nông nghiệp vượt hạn mức đối với hộ gia đình, cá nhân theo quy định của Luật này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_sudungdatgiaodichkhongdangkydangkydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan nhà nước có thẩm quyền."
+      }
+    },
+    {
+      "id": "hanhviphaply_khongthuchiennghiavutaichinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước."
+      }
+    },
+    {
+      "id": "hanhviphaply_loidungchucvuquyenhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lợi dụng chức vụ, quyền hạn để làm trái quy định về quản lý đất đai."
+      }
+    },
+    {
+      "id": "hanhviphaply_khongcungcapthongtindatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không cung cấp hoặc cung cấp thông tin về đất đai không chính xác theo quy định của pháp luật."
+      }
+    },
+    {
+      "id": "hanhviphaply_cantrogaykhokhandoivoiviecthuchienquyennguoisudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cản trở, gây khó khăn đối với việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_lanchiemhuyhoaidatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_viphamquyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_khongsudungdatsudungdatkhongdungmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_khongthuchiendungquydinhphapluat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_nhanchuyenquyensudungdatvuothanmuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_sudungdatgiaodichkhongdangkydangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_khongthuchiennghiavutaichinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_loidungchucvuquyenhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_khongcungcapthongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_12_2013",
+      "target_id": "hanhviphaply_cantrogaykhokhandoivoiviecthuchienquyennguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

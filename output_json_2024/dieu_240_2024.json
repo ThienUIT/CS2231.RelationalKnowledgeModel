@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_240_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Xử lý đối với người có hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ",
+        "ma_dieu": "240",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 240.\n\nXử lý đối với người có hành vi vi phạm pháp luật tr ong quản lý đất đai khi thi hành\ncông vụ\n1. Người có hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ thì tùy theo tính chất,\nmức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật about:blank\nđối với các hành vi vi phạm sau đây:\na) Lợi dụng hoặc lạm dụng chức vụ, quyền hạn làm trái với quy định của pháp luật trong công tác quy\nhoạch, kế hoạch sử dụng đất, giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất, trưng\ndụng đất, bồi thường, hỗ trợ, tái định cư, xác định nghĩa vụ tài chính về đất đai, quản lý hồ sơ địa\nchính, đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và\nquyền sử dụng đất ở, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình\nxây dựng, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản gắn liền với đất, Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, ra quyết định hành chính trong\nquản lý đất đai;\nb) Thiếu trách nhiệm trong quản lý để xảy ra vi phạm pháp luật về đất đai hoặc có hành vi khác gây\nthiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của người sử dụng đất;\nc) Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin; vi phạm quy định về trình tự, thủ tục\nhành chính; vi phạm quy định về báo cáo trong quản lý đất đai.\n2. Chính phủ quy định chi tiết các hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ\nmà bị xử lý kỷ luật quy định tại khoản 1 Điều này ."
+      }
+    },
+    {
+      "id": "chuthe_nguoicohanhvivipham",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có hành vi vi phạm pháp luật"
+      }
+    },
+    {
+      "id": "hanhviphaply_vilamphapluatquanlydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm pháp luật trong quản lý đất đai"
+      }
+    },
+    {
+      "id": "chetai_xulykyluat",
+      "label": "CheTai",
+      "properties": {
+        "name": "Xử lý kỷ luật"
+      }
+    },
+    {
+      "id": "chetai_truycuutrachnhiemhinhsu",
+      "label": "CheTai",
+      "properties": {
+        "name": "Truy cứu trách nhiệm hình sự"
+      }
+    },
+    {
+      "id": "hanhviphaply_loidungchucvuquyenhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lợi dụng hoặc lạm dụng chức vụ, quyền hạn"
+      }
+    },
+    {
+      "id": "hanhviphaply_thieutrachnhiemquanly",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thiếu trách nhiệm trong quản lý"
+      }
+    },
+    {
+      "id": "hanhviphaply_viphamquydinhykien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_240_2024",
+      "target_id": "chuthe_nguoicohanhvivipham",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_240_2024",
+      "target_id": "hanhviphaply_vilamphapluatquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_240_2024",
+      "target_id": "chetai_xulykyluat",
+      "relationship_type": "DAN_DEN"
+    },
+    {
+      "source_id": "dieu_240_2024",
+      "target_id": "chetai_truycuutrachnhiemhinhsu",
+      "relationship_type": "DAN_DEN"
+    },
+    {
+      "source_id": "dieu_240_2024",
+      "target_id": "hanhviphaply_loidungchucvuquyenhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_240_2024",
+      "target_id": "hanhviphaply_thieutrachnhiemquanly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_240_2024",
+      "target_id": "hanhviphaply_viphamquydinhykien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_240_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

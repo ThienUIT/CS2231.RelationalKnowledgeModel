@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_6_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 6. Nguyên tắc sử dụng đất",
+        "ma_dieu": "6",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 6.\n\nNguyên tắc sử dụng đất\n1. Đúng quy hoạch, kế hoạch sử dụng đất và đúng mục đích sử dụng đất. about:blank\n. Tiết kiệm, có hiệu quả, bảo vệ môi trường và không làm tổn hại đến lợi ích chính đáng của người sử\ndụng đất xung quanh.\n3. Người sử dụng đất thực hiện quyền, nghĩa vụ của mình trong thời hạn sử dụng đất theo quy định của\nLuật này và quy định khác của pháp luật có liên quan."
+      }
+    },
+    {
+      "id": "khainiem_nguyentacsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nguyên tắc sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dungquydinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đúng quy hoạch, kế hoạch sử dụng đất và đúng mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_tietkiemhieuqua",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tiết kiệm, có hiệu quả, bảo vệ môi trường và không làm tổn hại đến lợi ích chính đáng của người sử dụng đất xung quanh."
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_6_2013",
+      "target_id": "khainiem_nguyentacsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2013",
+      "target_id": "hanhviphaply_dungquydinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2013",
+      "target_id": "hanhviphaply_tietkiemhieuqua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_6_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

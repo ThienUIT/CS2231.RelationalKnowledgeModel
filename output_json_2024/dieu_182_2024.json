@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "id": "dieu_182_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 182. Đất trồng lúa",
+        "ma_dieu": "182",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 182.\n\nĐất trồng lúa\n1. Đất trồng lúa bao gồm đất chuyên trồng lúa và đất trồng lúa còn lại. Đất chuyên trồng lúa là đất\ntrồng từ 02 vụ lúa trở lên.\n2. Nhà nước có chính sách hỗ trợ, đầu tư xây dựng kết cấu hạ tầng, áp dụng khoa học và công nghệ\nhiện đại cho vùng quy hoạch trồng lúa có năng suất, chất lượng cao; bảo vệ đất trồng lúa, hạn chế\nchuyển đất trồng lúa sang sử dụng vào mục đích phi nông nghiệp.\n3. Người sử dụng đất trồng lúa có trách nhiệm cải tạo, làm tăng độ phì của đất; không được chuyển\nsang sử dụng vào mục đích khác nếu không được cơ quan nhà nước có thẩm quyền cho phép.\n4. Người được Nhà nước giao đất, cho thuê đất để sử dụng vào mục đích phi nông nghiệp từ đất\nchuyên trồng lúa phải thực hiện các quy định sau đây:\na) Có phương án sử dụng tầng đất mặt theo quy định của pháp luật về trồng trọt;\nb) Nộp một khoản tiền theo quy định của pháp luật để Nhà nước bổ sung diện tích đất chuyên trồng lúa\nbị mất hoặc tăng hiệu quả sử dụng đất trồng lúa, trừ dự án sử dụng vốn đầu tư công hoặc vốn nhà nước\ngoài đầu tư công theo quy định của pháp luật về đầu tư công, pháp luật về xây dựng;\nc) Thực hiện các quy định về bảo vệ môi trường; không làm ảnh hưởng đến việc canh tác đối với diện\ntích đất trồng lúa liền kề.\n5. Người sử dụng đất trồng lúa được chuyển đổi cơ cấu cây trồng, vật nuôi trên đất trồng lúa nhưng\nkhông làm mất đi điều kiện cần thiết để trồng lúa trở lại theo quy định của pháp luật về trồng trọt ;\nđược sử dụng một phần diện tích đất để xây dựng công trình phục vụ trực tiếp sản xuất nông nghiệp.\n6. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_dattronglua",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng lúa"
+      }
+    },
+    {
+      "id": "khainiem_datchuyentronglua",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất chuyên trồng lúa"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyendoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển đất trồng lúa sang sử dụng vào mục đích phi nông nghiệp"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_182_2024",
+      "target_id": "khainiem_dattronglua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_182_2024",
+      "target_id": "khainiem_datchuyentronglua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_182_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_182_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_182_2024",
+      "target_id": "hanhviphaply_chuyendoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_dattronglua",
+      "target_id": "khainiem_datchuyentronglua",
+      "relationship_type": "DINH_NGHIA"
+    }
+  ]
+}

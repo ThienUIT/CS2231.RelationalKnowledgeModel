@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_169_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 169. Bảo đảm an toàn và chế độ bảo mật thông tin, dữ liệu đất đai",
+        "ma_dieu": "169",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 169.\n\nBảo đảm an toàn và chế độ bảo mật thông tin, dữ liệu đất đai\n1. Hệ thống thông tin quốc gia về đất đai phải được bảo đảm an toàn theo quy định của pháp luật về an\ntoàn thông tin mạng theo cấp độ và quy định khác của pháp luật có liên quan.\n2. Việc in, sao, vận chuyển, giao nhận, truyền dữ liệu, lưu giữ, bảo quản, cung cấp thông tin, dữ liệu và\nhoạt động khác có liên quan đến dữ liệu thuộc phạm vi bí mật nhà nước phải tuân theo quy định của\npháp luật về bảo vệ bí mật nhà nước.\n3. Danh mục bí mật nhà nước về đất đai được thực hiện theo quy định của pháp luật về bảo vệ bí mật\nnhà nước."
+      }
+    },
+    {
+      "id": "khainiem_hethongthongtinquocgiavedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_antoanthongtinmang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "an toàn thông tin mạng"
+      }
+    },
+    {
+      "id": "khainiem_bimatnhanuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bí mật nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_insao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "in, sao"
+      }
+    },
+    {
+      "id": "hanhviphaply_vanchuyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "vận chuyển"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaonhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao nhận"
+      }
+    },
+    {
+      "id": "hanhviphaply_truyendulieu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "truyền dữ liệu"
+      }
+    },
+    {
+      "id": "hanhviphaply_luugiu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "lưu giữ"
+      }
+    },
+    {
+      "id": "hanhviphaply_baoquan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "bảo quản"
+      }
+    },
+    {
+      "id": "hanhviphaply_cungcapthongtin",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cung cấp thông tin"
+      }
+    },
+    {
+      "id": "hanhviphaply_cungcapdulieu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cung cấp dữ liệu"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "khainiem_hethongthongtinquocgiavedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "khainiem_antoanthongtinmang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "khainiem_bimatnhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "hanhviphaply_insao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "hanhviphaply_vanchuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "hanhviphaply_giaonhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "hanhviphaply_truyendulieu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "hanhviphaply_luugiu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "hanhviphaply_baoquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "hanhviphaply_cungcapthongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2024",
+      "target_id": "hanhviphaply_cungcapdulieu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

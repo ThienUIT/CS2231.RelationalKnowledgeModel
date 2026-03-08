@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_201_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 201. Sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế",
+        "ma_dieu": "201",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 201.\n\nSử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng\nkinh tế\n1. Việc sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế\nđược áp dụng cho các đối tượng sau đây:\na) Đơn vị quân đội, đơn vị công an, đơn vị sự nghiệp công lập thuộc Quân đội nhân dân, Công an nhân\ndân;\nb) Doanh nghiệp nhà nước do Bộ Quốc phòng, Bộ Công an được giao quản lý.\n2. Đối với đất quốc phòng, an ninh hiện do các đối tượng quy định tại khoản 1 Điều này quản lý, sử\ndụng khi kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế gắn với nhiệm vụ quân sự, quốc\nphòng, an ninh thì phải lập phương án sử dụng đất trình Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ\nCông an xem xét, phê duyệt và phải nộp tiền sử dụng đất hằng năm.\nTrường hợp sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh\ntế để tổ chức giáo dục; lao động, cải tạo, hướng nghiệp, dạy nghề cho phạm nhân; rèn luyện, tăng gia\nsản xuất cải thiện đời sống; dịch vụ hỗ trợ hậu cần - kỹ thuật thì không phải nộp tiền sử dụng đất.\n3. Quyền và nghĩa vụ của đối tượng quy định tại khoản 1 Điều này khi sử dụng đất quốc phòng, an\nninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế được quy định như sau:\na) Được tổ chức sản xuất, kinh doanh theo phương án đã được Bộ trưởng Bộ Quốc phòng, Bộ trưởng\nBộ Công an phê duyệt;\nb) Được hưởng thành quả lao động, kết quả đầu tư trên đất và các lợi ích khác theo quy định của pháp\nluật;\nc) Không được bồi thường về đất và tài sản gắn liền với đất khi chấm dứt phương án sử dụng đất\nquốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế để phục vụ nhiệm vụ\nquân sự, quốc phòng, an ninh;\nd) Không được chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất;\nđ) Không được thế chấp, góp vốn bằng quyền sử dụng đất; about:blank\ne) Không được tự ý chuyển mục đích sử dụng đất;\ng) Đối tượng quy định tại điểm a khoản 1 Điều này không được chuyển nhượng, cho thuê, tặng cho, thế\nchấp, góp vốn bằng tài sản gắn liền với đất;\nh) Đối tượng quy định tại điểm b khoản 1 Điều này được cho thuê, thế chấp, góp vốn bằng tài sản gắn\nliền với đất theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt; trường\nhợp mua, bán tài sản gắn liền với đất, xử lý tài sản thế chấp, tài sản góp vốn thì chỉ được thực hiện\ntrong nội bộ giữa các đối tượng quy định tại khoản 1 Điều này theo phương án được Bộ trưởng Bộ\nQuốc phòng, Bộ trưởng Bộ Công an phê duyệt;\ni) Thực hiện đầy đủ nghĩa vụ tài chính theo quy định.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "chuthe_donviquandoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị quân đội"
+      }
+    },
+    {
+      "id": "chuthe_donvicongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị công an"
+      }
+    },
+    {
+      "id": "chuthe_donvisunghiepclap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepnhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_datsudungquocphonganninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "hanhviphaply_lapphuongansudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập phương án sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_noptiensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nộp tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_phuonganboquocphongpheduyet",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phương án được Bộ Quốc phòng phê duyệt"
+      }
+    },
+    {
+      "id": "dieukien_phuonganboconganpheduyet",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phương án được Bộ Công an phê duyệt"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_201_2024",
+      "target_id": "chuthe_donviquandoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_201_2024",
+      "target_id": "chuthe_donvicongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_201_2024",
+      "target_id": "chuthe_donvisunghiepclap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_201_2024",
+      "target_id": "chuthe_doanhnghiepnhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_201_2024",
+      "target_id": "khainiem_datsudungquocphonganninh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_201_2024",
+      "target_id": "hanhviphaply_lapphuongansudungdat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_201_2024",
+      "target_id": "hanhviphaply_noptiensudungdat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_201_2024",
+      "target_id": "dieukien_phuonganboquocphongpheduyet",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_201_2024",
+      "target_id": "dieukien_phuonganboconganpheduyet",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

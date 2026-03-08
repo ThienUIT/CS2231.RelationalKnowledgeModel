@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_226_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 226. Trách nhiệm thực hiện thủ tục hành chính về đất đai",
+        "ma_dieu": "226",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 226.\n\nTrách nhiệm thực hiện thủ tục hành chính về đất đai\n1. Bộ, ngành theo chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp trong chỉ đạo,\nhướng dẫn, kiểm tra việc thực hiện thủ tục hành chính về đất đai, bảo đảm thống nhất giữa thủ tục hành\nchính về đất đai với các thủ tục hành chính khác có liên quan.\n2. Ủy ban nhân dân các cấp có trách nhiệm chỉ đạo, hướng dẫn, kiểm tra và tổ chức thực hiện thủ tục\nhành chính tại địa phương; quy định việc phối hợp giữa các cơ quan có liên quan ở địa phương để giải\nquyết thủ tục hành chính về đất đai và thủ tục hành chính khác có liên quan; tổ chức thực hiện thủ tục\nhành chính trên môi trường điện tử.\n3. Cơ quan có thẩm quyền giải quyết thủ tục hành chính về đất đai phải thực hiện đúng trình tự, thủ tục\ntheo quy định và công khai kết quả giải quyết thủ tục hành chính."
+      }
+    },
+    {
+      "id": "chuthe_bo,nganh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ, ngành"
+      }
+    },
+    {
+      "id": "hanhviphaply_phoihopchidao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phối hợp trong chỉ đạo"
+      }
+    },
+    {
+      "id": "hanhviphaply_huongdan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hướng dẫn"
+      }
+    },
+    {
+      "id": "hanhviphaply_kiemtra",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Kiểm tra"
+      }
+    },
+    {
+      "id": "khainiem_thutuchinhveDatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thủ tục hành chính về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_chidao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chỉ đạo"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochucthuchien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tổ chức thực hiện"
+      }
+    },
+    {
+      "id": "hanhviphaply_quyDinhviecphoihop",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quy định việc phối hợp"
+      }
+    },
+    {
+      "id": "chuthe_coquanthamquyengiaiquyetthutuchinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có thẩm quyền giải quyết thủ tục hành chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchientheoquytrinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện đúng trình tự, thủ tục theo quy định"
+      }
+    },
+    {
+      "id": "hanhviphaply_conghaiketquagiaiquyet",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Công khai kết quả giải quyết"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "chuthe_bo,nganh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "hanhviphaply_phoihopchidao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "hanhviphaply_huongdan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "hanhviphaply_kiemtra",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "khainiem_thutuchinhveDatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "chuthe_ubndcaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "hanhviphaply_chidao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "hanhviphaply_tochucthuchien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "hanhviphaply_quyDinhviecphoihop",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "chuthe_coquanthamquyengiaiquyetthutuchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "hanhviphaply_thuchientheoquytrinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_226_2024",
+      "target_id": "hanhviphaply_conghaiketquagiaiquyet",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

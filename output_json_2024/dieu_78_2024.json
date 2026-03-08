@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_78_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 78. Thu hồi đất vì mục đích quốc phòng, an ninh",
+        "ma_dieu": "78",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 78.\n\nThu hồi đất vì mục đích quốc phòng, an ninh\nNhà nước thu hồi đất vì mục đích quốc phòng, an ninh trong trường hợp sau đây:\n1. Làm nơi đóng quân, trụ sở làm việc;\n2. Làm căn cứ quân sự;\n3. Làm công trình phòng thủ quốc gia, trận địa và công trình đặc biệt về quốc phòng, an ninh;\n4. Làm ga, cảng, công trình thông tin quân sự, an ninh; about:blank\n. Làm công trình công nghiệp, khoa học và công nghệ, văn hóa, thể thao phục vụ trực tiếp cho quốc\nphòng, an ninh;\n6. Làm kho tàng của lực lượng vũ trang nhân dân;\n7. Làm trường bắn, thao trường, bãi thử vũ khí, bãi hủy vũ khí;\n8. Làm cơ sở đào tạo, trung tâm huấn luyện và bồi dưỡng nghiệp vụ, cơ sở an dưỡng, điều dưỡng,\nnghỉ dưỡng và phục hồi chức năng, cơ sở khám bệnh, chữa bệnh của lực lượng vũ trang nhân dân;\n9. Làm nhà ở công vụ của lực lượng vũ trang nhân dân;\n10. Làm cơ sở giam giữ; cơ sở tạm giam, tạm giữ; cơ sở giáo dục bắt buộc; trường giáo dưỡng và khu\nlao động, cải tạo, hướng nghiệp, dạy nghề cho phạm nhân, trại viên, học sinh do Bộ Quốc phòng, Bộ\nCông an quản lý."
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_mucdichquocphongan ninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "mục đích quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_78_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "khainiem_mucdichquocphongan ninh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_78_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_153_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 153. Đất thương mại, dịch vụ; đất cơ sở sản xuất phi nông nghiệp",
+        "ma_dieu": "153",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 153.\n\nĐất thương mại, dịch vụ; đất cơ sở sản xuất phi nông nghiệp about:blank\n. Đất thương mại, dịch vụ bao gồm đất xây dựng cơ sở kinh doanh thương mại, dịch vụ và các công\ntrình khác phục vụ cho kinh doanh, thương mại, dịch vụ.\nĐất cơ sở sản xuất phi nông nghiệp bao gồm đất để xây dựng các cơ sở sản xuất phi nông nghiệp nằm\nngoài khu công nghiệp, cụm công nghiệp, khu chế xuất.\n2. Việc sử dụng đất thương mại, dịch vụ; đất cơ sở sản xuất phi nông nghiệp phải phù hợp với quy\nhoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn\nđã được cơ quan nhà nước có thẩm quyền phê duyệt và các quy định về bảo vệ môi trường.\n3. Tổ chức kinh tế, hộ gia đình, cá nhân sử dụng đất thương mại, dịch vụ; đất cơ sở sản xuất phi nông\nnghiệp thông qua hình thức Nhà nước cho thuê đất; nhận chuyển quyền sử dụng đất, thuê đất, thuê lại\nđất, nhận góp vốn bằng quyền sử dụng đất của tổ chức kinh tế, hộ gia đình, cá nhân khác, người Việt\nNam định cư ở nước ngoài; thuê lại đất gắn với kết cấu hạ tầng của doanh nghiệp có vốn đầu tư nước\nngoài.\nNgười Việt Nam định cư ở nước ngoài sử dụng đất thương mại, dịch vụ; đất cơ sở sản xuất phi nông\nnghiệp thông qua hình thức Nhà nước cho thuê đất; thuê đất, thuê lại đất của tổ chức kinh tế, hộ gia\nđình, cá nhân, người Việt Nam định cư ở nước ngoài khác; thuê lại đất gắn với kết cấu hạ tầng của\ndoanh nghiệp có vốn đầu tư nước ngoài. Người Việt Nam định cư ở nước ngoài thuộc đối tượng quy\nđịnh tại khoản 1 Điều 186 của Luật này  còn được nhận thừa kế, được tặng cho quyền sử dụng đất để\nlàm mặt bằng xây dựng cơ sở sản xuất phi nông nghiệp, thương mại, dịch vụ.\nDoanh nghiệp có vốn đầu tư nước ngoài sử dụng đất thương mại, dịch vụ; đất cơ sở sản xuất phi nông\nnghiệp thông qua hình thức Nhà nước cho thuê đất; thuê đất, thuê lại đất của tổ chức kinh tế, người\nViệt Nam định cư ở nước ngoài; thuê lại đất gắn với kết cấu hạ tầng của doanh nghiệp có vốn đầu tư\nnước ngoài."
+      }
+    },
+    {
+      "id": "khainiem_datthuongmaidichvu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất thương mại, dịch vụ"
+      }
+    },
+    {
+      "id": "khainiem_datcososanxuatphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cơ sở sản xuất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_tochucconomi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_153_2013",
+      "target_id": "khainiem_datthuongmaidichvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2013",
+      "target_id": "khainiem_datcososanxuatphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2013",
+      "target_id": "chuthe_tochucconomi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2013",
+      "target_id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

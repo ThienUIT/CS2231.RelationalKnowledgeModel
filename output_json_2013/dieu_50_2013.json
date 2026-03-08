@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_50_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 50. Báo cáo thực hiện quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "50",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 50.\n\nBáo cáo thực hiện quy hoạch, kế hoạch sử dụng đất\n1. Trách nhiệm báo cáo hàng năm về kết quả thực hiện quy hoạch, kế hoạch sử dụng đất được quy định\nnhư sau:\na) Ủy ban nhân dân cấp xã, cấp huyện có trách nhiệm gửi báo cáo kết quả thực hiện quy hoạch, kế\nhoạch sử dụng đất đến Ủy ban nhân dân cấp trên trực tiếp; Ủy ban nhân dân cấp tỉnh có trách nhiệm\ngửi báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất đến Bộ Tài nguyên và Môi trường;\nb) Bộ Quốc phòng, Bộ Công an có trách nhiệm gửi báo cáo kết quả thực hiện quy hoạch, kế hoạch sử\ndụng đất quốc phòng, an ninh đến Bộ Tài nguyên và Môi trường;\nc) Bộ Tài nguyên và Môi trường có trách nhiệm tổng hợp kết quả thực hiện hàng năm về quy hoạch, kế\nhoạch sử dụng đất của cả nước để báo cáo Chính phủ trình Quốc hội vào kỳ họp cuối năm.\n2. Báo cáo kết quả thực hiện kế hoạch sử dụng đất hàng năm đối với năm cuối của kế hoạch sử dụng\nđất kỳ đầu phải kèm theo báo cáo tổng hợp việc thực hiện cả kỳ kế hoạch sử dụng đất.\nBáo cáo kết quả thực hiện kế hoạch sử dụng đất hàng năm đối với năm cuối của kỳ quy hoạch sử dụng\nđất phải kèm theo báo cáo tổng hợp việc thực hiện cả kế hoạch sử dụng đất kỳ cuối và báo cáo tổng\nhợp việc thực hiện cả kỳ quy hoạch sử dụng đất."
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
+    },
+    {
+      "id": "hanhviphaply_baocaothuchienquydinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Báo cáo thực hiện quy hoạch, kế hoạch sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_botainguyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_50_2013",
+      "target_id": "hanhviphaply_baocaothuchienquydinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

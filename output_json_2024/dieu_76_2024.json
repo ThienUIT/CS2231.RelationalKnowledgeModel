@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_76_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 76. Tổ chức thực hiện quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "76",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 76.\n\nTổ chức thực hiện quy hoạch, kế hoạch sử dụng đất\n1. Chính phủ tổ chức thực hiện quy hoạch, kế hoạch sử dụng đất quốc gia.\nThủ tướng Chính phủ phân bổ chỉ tiêu sử dụng đất cho đơn vị hành chính cấp tỉnh, Bộ Quốc phòng, Bộ\nCông an trên cơ sở các chỉ tiêu sử dụng đất quốc gia đã được Quốc hội quyết định.\n2. Bộ Quốc phòng có trách nhiệm tổ chức thực hiện quy hoạch sử dụng đất quốc phòng; Bộ Công an có\ntrách nhiệm thực hiện quy hoạch sử dụng đất an ninh.\n3. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức thực hiện quy hoạch,\nkế hoạch sử dụng đất của địa phương.\n4. Trường hợp quy hoạch sử dụng đất đã được công bố công khai mà chưa có kế hoạch sử dụng đất\nhằng năm cấp huyện thì người sử dụng đất được tiếp tục sử dụng và được thực hiện các quyền của\nngười sử dụng đất theo quy định của Luật này .\n5. Đối với dự án thuộc trường hợp quy định tại  khoản 4 Điều 67 của Luật này  mà phải thu hồi đất thì\nỦy ban nhân dân cấp huyện nơi có dự án phải công bố công khai phạm vi thu hồi đất theo tiến độ của\ndự án đến người sử dụng đất.\n6. Đối với diện tích đất phải thu hồi, chuyển mục đích sử dụng đất trong kế hoạch sử dụng đất hằng\nnăm cấp huyện hoặc phải thu hồi, chuyển mục đích sử dụng đất quy định tại khoản 4 Điều 67 của Luật\nnày thì người sử dụng đất được tiếp tục thực hiện các quyền của người sử dụng đất nhưng không được\nxây dựng mới nhà ở, công trình, trồng mới cây lâu năm; người sử dụng đất được xây dựng theo giấy about:blank\nphép xây dựng có thời hạn, cải tạo, sửa chữa nhà ở, công trình hiện có theo quy định của pháp luật về\nxây dựng và pháp luật có liên quan.\n7. Diện tích đất được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện đã được cơ quan có\nthẩm quyền phê duyệt thu hồi để thực hiện dự án hoặc phải chuyển mục đích sử dụng đất mà sau 02\nnăm liên tục được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện chưa có quyết định thu hồi\nđất hoặc chưa được phép chuyển mục đích sử dụng đất thì cơ quan có thẩm quyền phê duyệt kế hoạch\nsử dụng đất hằng năm cấp huyện phải xem xét, đánh giá điều chỉnh, hủy bỏ và phải công bố công khai\nviệc điều chỉnh, hủy bỏ việc thu hồi đất hoặc hủy bỏ việc chuyển mục đích sử dụng đất đối với phần\ndiện tích đất được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện.\nTrường hợp cơ quan có thẩm quyền phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện không điều\nchỉnh, hủy bỏ hoặc có điều chỉnh, hủy bỏ nhưng không công bố công khai thì người sử dụng đất không\nbị hạn chế về các quyền sử dụng đất đã được pháp luật quy định.\n8. Hằng năm, Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức rà soát, xử lý và công bố công khai việc\nthu hồi đất, chuyển mục đích sử dụng đất, điều chỉnh, hủy bỏ việc thu hồi đất, chuyển mục đích sử\ndụng đất đối với đất đã được ghi trong kế hoạch sử dụng đất hằng năm cấp huyện trên trang thông tin\nđiện tử của Ủy ban nhân dân cấp tỉnh; gửi thông tin đến Bộ Tài nguyên và Môi trường, Ủy ban nhân\ndân cấp huyện và Ủy ban nhân dân cấp xã.\n9. Chính phủ quy định nguyên tắc, tiêu chí phân bổ chỉ tiêu sử dụng đất cấp tỉnh, chỉ tiêu sử dụng đất\ncấp huyện.\n10. Chính phủ quy định chi tiết Điều này và việc lập, thẩm định, điều chỉnh, lấy ý kiến, phê duyệt, công\nbố kế hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất cấp tỉnh, quy hoạch sử dụng đất cấp huyện,\nkế hoạch sử dụng đất hằng năm cấp huyện."
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_donvihanhchinhcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "chuthe_donvihanhchinhcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "chuthe_botainguyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_76_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "entities": [
+    {
+      "id": "dieu_38_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 38. Quy hoạch, kế hoạch sử dụng đất cấp quốc gia",
+        "ma_dieu": "38",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 38.\n\nQuy hoạch, kế hoạch sử dụng đất cấp quốc gia\n1. Căn cứ lập quy hoạch sử dụng đất cấp quốc gia bao gồm:\na) Chiến lược phát triển kinh tế - xã hội, quốc phòng, an ninh của quốc gia; quy hoạch tổng thể phát\ntriển các vùng kinh tế - xã hội; chiến lược, quy hoạch phát triển ngành, lĩnh vực;\nb) Điều kiện tự nhiên, kinh tế - xã hội;\nc) Hiện trạng sử dụng đất, tiềm năng đất đai và kết quả thực hiện quy hoạch sử dụng đất cấp quốc gia\nkỳ trước;\nd) Nhu cầu sử dụng đất của các ngành, lĩnh vực;\nđ) Tiến bộ khoa học và công nghệ có liên quan đến việc sử dụng đất.\n2. Nội dung quy hoạch sử dụng đất cấp quốc gia bao gồm:\na) Định hướng sử dụng đất 10 năm; about:blank\nb) Xác định các chỉ tiêu sử dụng đất đối với nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm\nđất chưa sử dụng; trong đó xác định diện tích một số loại đất gồm đất trồng lúa, đất chuyên trồng lúa\nnước, đất rừng phòng hộ, đất rừng đặc dụng, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối,\nđất quốc phòng, đất an ninh, đất khu công nghiệp, đất khu chế xuất, đất khu công nghệ cao, đất khu\nkinh tế, đất phát triển hạ tầng cấp quốc gia, đất có di tích lịch sử - văn hóa, danh lam thắng cảnh, đất\nđô thị và đất bãi thải, xử lý chất thải;\nc) Xác định diện tích các loại đất quy định tại điểm b khoản này của kỳ quy hoạch đến từng đơn vị hành\nchính cấp tỉnh và vùng kinh tế - xã hội;\nd) Lập bản đồ quy hoạch sử dụng đất cấp quốc gia và các vùng kinh tế - xã hội;\nđ) Giải pháp thực hiện quy hoạch sử dụng đất.\n3. Căn cứ lập kế hoạch sử dụng đất cấp quốc gia bao gồm:\na) Quy hoạch sử dụng đất cấp quốc gia;\nb) Kế hoạch phát triển kinh tế - xã hội 05 năm và hàng năm của cả nước;\nc) Nhu cầu sử dụng đất 05 năm của các ngành, lĩnh vực;\nd) Kết quả thực hiện kế hoạch sử dụng đất cấp quốc gia kỳ trước;\nđ) Khả năng đầu tư, huy động nguồn lực để thực hiện kế hoạch sử dụng đất.\n4. Nội dung kế hoạch sử dụng đất cấp quốc gia bao gồm:\na) Phân tích, đánh giá kết quả thực hiện kế hoạch sử dụng đất cấp quốc gia kỳ trước;\nb) Xác định diện tích các loại đất quy định tại điểm b khoản 2 Điều này trong kỳ kế hoạch sử dụng đất\n05 năm;\nc) Kế hoạch sử dụng đất 05 năm cho từng đơn vị hành chính cấp tỉnh và vùng kinh tế - xã hội;\nd) Giải pháp thực hiện kế hoạch sử dụng đất."
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhóm đất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhóm đất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datchuasudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhóm đất chưa sử dụng"
+      }
+    },
+    {
+      "id": "khainiem_dattronglua",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng lúa"
+      }
+    },
+    {
+      "id": "khainiem_datchuyentronglua",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất chuyên trồng lúa nước"
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "khainiem_datnuoitrongthuysan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nuôi trồng thủy sản"
+      }
+    },
+    {
+      "id": "khainiem_datlammuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất làm muối"
+      }
+    },
+    {
+      "id": "khainiem_datquocphong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất quốc phòng"
+      }
+    },
+    {
+      "id": "khainiem_datanninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất an ninh"
+      }
+    },
+    {
+      "id": "khainiem_datkhucongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất khu công nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datkhuchexuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất khu chế xuất"
+      }
+    },
+    {
+      "id": "khainiem_datkhucongnghecao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất khu công nghệ cao"
+      }
+    },
+    {
+      "id": "khainiem_datkhukinhte",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất khu kinh tế"
+      }
+    },
+    {
+      "id": "khainiem_datphattrienhattang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất phát triển hạ tầng cấp quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_datditichlichsu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      }
+    },
+    {
+      "id": "khainiem_datdothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất đô thị"
+      }
+    },
+    {
+      "id": "khainiem_datbaithaixulychatthai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất bãi thải, xử lý chất thải"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_dattronglua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datchuyentronglua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datnuoitrongthuysan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datlammuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datanninh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datkhucongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datkhuchexuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datkhucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datkhukinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datphattrienhattang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datditichlichsu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datdothi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2013",
+      "target_id": "khainiem_datbaithaixulychatthai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

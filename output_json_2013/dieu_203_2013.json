@@ -1,0 +1,199 @@
+{
+  "entities": [
+    {
+      "id": "dieu_203_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 203. Thẩm quyền giải quyết tranh chấp đất đai",
+        "ma_dieu": "203",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 203.\n\nThẩm quyền giải quyết tranh chấp đất đai\nTranh chấp đất đai đã được hòa giải tại Ủy ban nhân dân cấp xã mà không thành thì được giải quyết\nnhư sau:\n1. Tranh chấp đất đai mà đương sự có Giấy chứng nhận hoặc có một trong các loại giấy tờ quy định tại\nĐiều 100 của Luật này  và tranh chấp về tài sản gắn liền với đất thì do Tòa án nhân dân giải quyết;\n2. Tranh chấp đất đai mà đương sự không có Giấy chứng nhận hoặc không có một trong các loại giấy\ntờ quy định tại  Điều 100 của Luật này  thì đương sự chỉ được lựa chọn một trong hai hình thức giải\nquyết tranh chấp đất đai theo quy định sau đây:\na) Nộp đơn yêu cầu giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền theo quy định tại\nkhoản 3 Điều này;\nb) Khởi kiện tại Tòa án nhân dân có thẩm quyền theo quy định của pháp luật về tố tụng dân sự;\n3. Trường hợp đương sự lựa chọn giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền thì\nviệc giải quyết tranh chấp đất đai được thực hiện như sau:\na) Trường hợp tranh chấp giữa hộ gia đình, cá nhân, cộng đồng dân cư với nhau thì Chủ tịch Ủy ban\nnhân dân cấp huyện giải quyết; nếu không đồng ý với quyết định giải quyết thì có quyền khiếu nại đến\nChủ tịch Ủy ban nhân dân cấp tỉnh hoặc khởi kiện tại Tòa án nhân dân theo quy định của pháp luật về\ntố tụng hành chính;\nb) Trường hợp tranh chấp mà một bên tranh chấp là tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở\nnước ngoài, doanh nghiệp có vốn đầu tư nước ngoài thì Chủ tịch Ủy ban nhân dân cấp tỉnh giải quyết;\nnếu không đồng ý với quyết định giải quyết thì có quyền khiếu nại đến Bộ trưởng Bộ Tài nguyên và\nMôi trường hoặc khởi kiện tại Tòa án nhân dân theo quy định của pháp luật về tố tụng hành chính;\n4. Người có thẩm quyền giải quyết tranh chấp đất đai tại khoản 3 Điều này phải ra quyết định giải\nquyết tranh chấp. Quyết định giải quyết tranh chấp có hiệu lực thi hành phải được các bên tranh chấp\nnghiêm chỉnh chấp hành. Trường hợp các bên không chấp hành sẽ bị cưỡng chế thi hành."
+      }
+    },
+    {
+      "id": "khainiem_tranhchapdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tranh chấp đất đai"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_toaan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tòa án nhân dân"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận"
+      }
+    },
+    {
+      "id": "dieu_100_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 100",
+        "ma_dieu": "100",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 100 Luật đất đai 2013"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_cosotongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepkovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotnvmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "khainiem_tranhchapdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_toaan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "khainiem_giaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "dieu_100_2013",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_cosotongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_doanhnghiepkovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_botruongbotnvmt",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

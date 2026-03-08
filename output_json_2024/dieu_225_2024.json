@@ -1,0 +1,106 @@
+{
+  "entities": [
+    {
+      "id": "dieu_225_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 225. Công bố, công khai thủ tục hành chính về đất đai",
+        "ma_dieu": "225",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 225.\n\nCông bố, công khai thủ tục hành chính về đất đai\n1. Thủ tục hành chính về đất đai sau khi được cơ quan có thẩm quyền phê duyệt phải được công bố\ntheo quy định của Chính phủ về kiểm soát thủ tục hành chính.\n2. Nội dung công khai thủ tục hành chính về đất đai bao gồm:\na) Cơ quan có thẩm quyền tiếp nhận hồ sơ và trả kết quả; cơ quan giải quyết thủ tục hành chính; đối\ntượng thực hiện thủ tục hành chính;\nb) Thời gian giải quyết đối với từng thủ tục hành chính;\nc) Thành phần, số lượng hồ sơ đối với từng thủ tục hành chính;\nd) Quy trình và trách nhiệm giải quyết từng thủ tục hành chính;\nđ) Nghĩa vụ tài chính, phí và lệ phí phải nộp đối với từng thủ tục hành chính; about:blank\ne) Nội dung khác của bộ thủ tục hành chính (nếu có).\n3. Việc công khai về các nội dung quy định tại khoản 2 Điều này thực hiện bằng hình thức niêm yết\nthường xuyên tại trụ sở cơ quan tiếp nhận hồ sơ và trả kết quả; đăng trên Cổng Dịch vụ công quốc gia\nvà cổng dịch vụ công cấp Bộ, cấp tỉnh, trang thông tin điện tử của Ủy ban nhân dân cấp huyện, cấp xã."
+      }
+    },
+    {
+      "id": "khainiem_thutuchanhchinhvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thủ tục hành chính về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "khainiem_congbo",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công bố"
+      }
+    },
+    {
+      "id": "khainiem_congkhai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công khai"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_coquantiepnhanhoso",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan tiếp nhận hồ sơ"
+      }
+    },
+    {
+      "id": "chuthe_coquangiaiquyetthutuchanhchinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan giải quyết thủ tục hành chính"
+      }
+    },
+    {
+      "id": "chuthe_doituongthuchienthutuchanhchinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đối tượng thực hiện thủ tục hành chính"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_225_2024",
+      "target_id": "khainiem_thutuchanhchinhvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_225_2024",
+      "target_id": "khainiem_congbo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_225_2024",
+      "target_id": "khainiem_congkhai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_225_2024",
+      "target_id": "chuthe_coquancothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

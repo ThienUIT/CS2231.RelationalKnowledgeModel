@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_168_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 168. Bảo đảm kinh phí xây dựng, quản lý, vận hành, bảo trì, nâng cấp hệ thống thông tin quốc gia về đất đai",
+        "ma_dieu": "168",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 168.\n\nBảo đảm kinh phí xây dựng, quản lý, vận hành, bảo trì, nâng cấp hệ thống thông tin\nquốc gia về đất đai\n1. Kinh phí xây dựng,  quản lý, vận hành, bảo trì, nâng cấp hệ thống thông tin quốc gia về đất đai được\nsử dụng từ nguồn ngân sách nhà nước và các nguồn khác theo quy định của pháp luật.\n2. Ngân sách trung ương bảo đảm cho các hoạt động xây dựng, quản lý, vận hành, bảo trì, nâng cấp hạ\ntầng kỹ thuật công nghệ thông tin và phần mềm của Hệ thống thông tin quốc gia về đất đai; xây dựng,\ncập nhật cơ sở dữ liệu đất đai do trung ương thực hiện.\n3. Ngân sách địa phương bảo đảm cho các hoạt động quản lý, vận hành, bảo trì, nâng cấp hạ tầng kỹ\nthuật công nghệ thông tin và phần mềm, xây dựng, cập nhật cơ sở dữ liệu đất đai do địa phương thực\nhiện.\n4. Nhà nước khuyến khích các tổ chức, cá nhân có đủ điều kiện năng lực tham gia đầu tư xây dựng,\ncung cấp dịch vụ hệ thống hạ tầng kỹ thuật công nghệ thông tin; cung cấp các phần mềm tiện ích, phần\nmềm ứng dụng trong việc xây dựng cơ sở dữ liệu quốc gia về đất đai và khai thác thông tin, dữ liệu\nquốc gia về đất đai; xây dựng cơ sở dữ liệu quốc gia về đất đai và cung cấp các dịch vụ giá trị gia tăng\ntừ cơ sở dữ liệu quốc gia về đất đai."
+      }
+    },
+    {
+      "id": "khainiem_kinhphixaydung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kinh phí xây dựng"
+      }
+    },
+    {
+      "id": "khainiem_quanly",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quản lý"
+      }
+    },
+    {
+      "id": "khainiem_vanhanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Vận hành"
+      }
+    },
+    {
+      "id": "khainiem_baotri",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bảo trì"
+      }
+    },
+    {
+      "id": "khainiem_nangcap",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nâng cấp"
+      }
+    },
+    {
+      "id": "khainiem_hethongthongtin",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_ngansachtrung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ngân sách trung ương"
+      }
+    },
+    {
+      "id": "chuthe_ngansachdia",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ngân sách địa phương"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức, cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "khainiem_kinhphixaydung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "khainiem_quanly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "khainiem_vanhanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "khainiem_baotri",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "khainiem_nangcap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "khainiem_hethongthongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "chuthe_ngansachtrung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "chuthe_ngansachdia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_168_2024",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_58_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 58",
+        "ma_dieu": "58",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 58.\n\nĐiều kiện giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất để thực hiện dự\nán đầu tư\n1. Đối với dự án có sử dụng đất trồng lúa, đất rừng phòng hộ, đất rừng đặc dụng vào các mục đích\nkhác mà không thuộc trường hợp được Quốc hội quyết định, Thủ tướng Chính phủ chấp thuận chủ\ntrương đầu tư thì cơ quan nhà nước có thẩm quyền chỉ được quyết định giao đất, cho thuê đất, cho\nphép chuyển mục đích sử dụng đất khi có một trong các văn bản sau đây:\na) Văn bản chấp thuận của Thủ tướng Chính phủ đối với trường hợp chuyển mục đích sử dụng từ 10\nhéc ta đất trồng lúa trở lên; từ 20 héc ta đất rừng phòng hộ, đất rừng đặc dụng trở lên;\nb) Nghị quyết của Hội đồng nhân dân cấp tỉnh đối với trường hợp chuyển mục đích sử dụng dưới 10\nhéc ta đất trồng lúa; dưới 20 héc ta đất rừng phòng hộ, đất rừng đặc dụng.\n2. Đối với dự án sử dụng đất tại đảo và xã, phường, thị trấn biên giới, ven biển thì cơ quan nhà nước\ncó thẩm quyền chỉ được quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất khi\nđược sự chấp thuận bằng văn bản của các bộ, ngành có liên quan.\n3. Người được Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất để thực hiện\ndự án đầu tư phải có các điều kiện sau đây:\na) Có năng lực tài chính để bảo đảm việc sử dụng đất theo tiến độ của dự án đầu tư;\nb) Ký quỹ theo quy định của pháp luật về đầu tư;\nc) Không vi phạm quy định của pháp luật về đất đai đối với trường hợp đang sử dụng đất do Nhà nước\ngiao đất, cho thuê đất để thực hiện dự án đầu tư khác.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "dieukien_giaodat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện giao đất"
+      }
+    },
+    {
+      "id": "dieukien_chothuedat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện cho thuê đất"
+      }
+    },
+    {
+      "id": "dieukien_chuyenmucdichsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước có thẩm quyền"
+      }
+    },
+    {
+      "id": "dieukien_nangluoctaichinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có năng lực tài chính để bảo đảm việc sử dụng đất theo tiến độ của dự án đầu tư"
+      }
+    },
+    {
+      "id": "dieukien_kyquy",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Ký quỹ theo quy định của pháp luật về đầu tư"
+      }
+    },
+    {
+      "id": "dieukien_khongvipham",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không vi phạm quy định của pháp luật về đất đai đối với trường hợp đang sử dụng đất do Nhà nước giao đất, cho thuê đất để thực hiện dự án đầu tư khác"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_nangluoctaichinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_kyquy",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_khongvipham",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

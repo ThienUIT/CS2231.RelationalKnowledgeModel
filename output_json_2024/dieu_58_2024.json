@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "id": "dieu_58_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 58",
+        "ma_dieu": "58",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 58.\n\nChỉ tiêu, nội dung, hoạt động thống kê, kiểm kê đất đai\n1. Chỉ tiêu thống kê, kiểm kê đất đai đối với các loại đất quy định tại Điều 9 của Luật này  bao gồm:\na) Diện tích;\nb) Đối tượng sử dụng đất;\nc) Đối tượng được giao quản lý đất.\n2. Căn cứ xác định chỉ tiêu thống kê, kiểm kê đất đai bao gồm:\na) Chỉ tiêu thống kê đất đai được xác định theo hồ sơ địa chính tại thời điểm thống kê;\nb) Chỉ tiêu kiểm kê đất đai được xác định theo hồ sơ địa chính và trên hiện trạng sử dụng đất tại thời\nđiểm kiểm kê.\n3. Nội dung thống kê, kiểm kê đất đai theo đơn vị hành chính cấp xã, cấp huyện, cấp tỉnh và phạm vi\ncả nước bao gồm: xác định tổng diện tích các loại đất, cơ cấu diện tích theo từng loại đất, đối tượng sử\ndụng đất, đối tượng được giao quản lý đất; diện tích đất được giao, cho thuê, chuyển mục đích sử dụng\nđất.\n4. Hoạt động thống kê đất đai được thực hiện như sau:\na) Thu thập các hồ sơ, tài liệu, bản đồ, số liệu liên quan đến biến động đất đai trong kỳ thống kê; số\nliệu kiểm kê đất đai của kỳ trước hoặc số liệu thống kê đất đai được thực hiện trong năm trước; about:blank\nb) Rà soát, cập nhật, chỉnh lý các biến động đất đai trong năm thống kê;\nc) Xử lý, tổng hợp số liệu và lập các biểu thống kê đất đai theo đơn vị hành chính các cấp;\nd) Phân tích, đánh giá, hiện trạng sử dụng đất, biến động đất đai trong kỳ thống kê, đề xuất các giải\npháp tăng cường quản lý, nâng cao hiệu quả sử dụng đất;\nđ) Xây dựng báo cáo thống kê đất đai.\n5. Hoạt động kiểm kê đất đai được thực hiện như sau:\na) Thu thập các hồ sơ, tài liệu, bản đồ, số liệu liên quan đến biến động đất đai trong kỳ kiểm kê đất đai;\nhồ sơ kết quả kiểm kê đất đai kỳ trước và kết quả thống kê đất đai hằng năm trong kỳ kiểm kê đất đai;\nb) Điều tra, rà soát, cập nhật, chỉnh lý các biến động đất đai trong kỳ kiểm kê;\nc) Xử lý, tổng hợp số liệu và lập các biểu kiểm kê đất đai theo đơn vị hành chính các cấp; xây dựng báo\ncáo thuyết minh hiện trạng sử dụng đất;\nd) Lập bản đồ hiện trạng sử dụng đất; xây dựng báo cáo thuyết minh bản đồ hiện trạng sử dụng đất;\nđ) Xây dựng báo cáo kết quả kiểm kê đất đai."
+      }
+    },
+    {
+      "id": "khainiem_chitieuthongkekiemkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chỉ tiêu thống kê, kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "dieu_9_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 9",
+        "ma_dieu": "9",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 9. Phân loại đất (tham khảo)"
+      }
+    },
+    {
+      "id": "khainiem_dientich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Diện tích"
+      }
+    },
+    {
+      "id": "chuthe_doituongsudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đối tượng sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_doituongduocgiaoquanlydat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đối tượng được giao quản lý đất"
+      }
+    },
+    {
+      "id": "khainiem_hosođiachtinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_thongkedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thống kê đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_kiemkedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "khainiem_biendongdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Biến động đất đai"
+      }
+    },
+    {
+      "id": "khainiem_hientrangsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hiện trạng sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "khainiem_chitieuthongkekiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "dieu_9_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "khainiem_dientich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "chuthe_doituongsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "chuthe_doituongduocgiaoquanlydat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "khainiem_hosođiachtinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "hanhviphaply_thongkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "hanhviphaply_kiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "khainiem_biendongdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_58_2024",
+      "target_id": "khainiem_hientrangsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

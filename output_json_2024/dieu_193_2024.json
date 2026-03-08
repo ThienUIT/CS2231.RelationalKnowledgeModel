@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_193_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 193. Tích tụ đất nông nghiệp",
+        "ma_dieu": "193",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 193.\n\nTích tụ đất nông nghiệp\n1. Tích tụ đất nông nghiệp  là việc tăng diện tích đất nông nghiệp của người sử dụng đất để tổ chức sản\nxuất thông qua các phương thức sau đây:\na) Nhận chuyển nhượng quyền sử dụng đất nông nghiệp;\nb) Nhận góp vốn bằng quyền sử dụng đất nông nghiệp .\n2. Việc tích tụ đất nông nghiệp phải bảo đảm các nguyên tắc sau đây:\na) Bảo đảm quyền, lợi ích hợp pháp của Nhà nước, người sử dụng đất và của các tổ chức, cá nhân có\nliên quan; không ảnh hưởng đến quốc phòng, an ninh;\nb) Tuân thủ quy định của pháp luật về đất đai, pháp luật về dân sự và pháp luật có liên quan; sử dụng\nđúng mục đích, phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê\nduyệt;\nc) Phù hợp với đặc điểm về đất đai, địa hình, khí hậu, văn hóa, quá trình chuyển dịch lao động, chuyển\nđổi nghề, việc làm ở nông thôn của từng vùng, từng khu vực, từng địa phương và phù hợp với nhu cầu\ncủa thị trường .\n3. Nhà nước có chính sách khuyến khích tổ chức, cá nhân ứng dụng khoa học, công nghệ để sử dụng\ntiết kiệm, hiệu quả quỹ đất đã tích tụ.\n4. Ủy ban nhân dân các cấp có trách nhiệm tuyên truyền, phổ biến chính sách, pháp luật, hướng dẫn, hỗ\ntrợ các bên trong việc thực hiện tích tụ đất nông nghiệp và bảo đảm ổn định quy hoạch đối với diện tích\nđất nông nghiệp đã tích tụ.\n5. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_tichtudatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tích tụ đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyennhuongquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển nhượng quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhangopvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận góp vốn"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_193_2024",
+      "target_id": "khainiem_tichtudatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2024",
+      "target_id": "hanhviphaply_nhanchuyennhuongquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2024",
+      "target_id": "hanhviphaply_nhangopvon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

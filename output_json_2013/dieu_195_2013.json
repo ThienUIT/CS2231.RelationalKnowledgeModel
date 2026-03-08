@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_195_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 195. Các thủ tục hành chính về đất đai",
+        "ma_dieu": "195",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 195.\n\nCác thủ tục hành chính về đất đai\n1. Các thủ tục hành chính về đất đai bao gồm:\na) Thủ tục thu hồi đất, giao đất, cho thuê đất, chuyển mục đích sử dụng đất;\nb) Thủ tục đăng ký đất đai, tài sản gắn liền với đất, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở\nhữu nhà ở và tài sản khác gắn liền với đất;\nc) Thủ tục cấp đổi, cấp lại, đính chính, thu hồi Giấy chứng nhận, Giấy chứng nhận quyền sở hữu nhà\nở, Giấy chứng nhận quyền sở hữu công trình xây dựng;\nd) Thủ tục thực hiện các quyền của người sử dụng đất;\nđ) Thủ tục cưỡng chế thực hiện quyết định kiểm đếm bắt buộc, cưỡng chế thi hành quyết định thu hồi\nđất;\ne) Thủ tục hòa giải tranh chấp đất đai, thủ tục giải quyết tranh chấp đất đai tại cơ quan hành chính;\ng) Thủ tục xử phạt vi phạm hành chính trong lĩnh vực đất đai.\n2. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_thutuchanhchinhvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thủ tục hành chính về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuthuthuoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thủ tục thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thutucchothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thủ tục cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thutucchuyenmu đíchsu dungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thủ tục chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thutudangkydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thủ tục đăng ký đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_capdoigiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thủ tục cấp đổi, cấp lại, đính chính, thu hồi Giấy chứng nhận, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng"
+      }
+    },
+    {
+      "id": "hanhviphaply_thucthiquyennguoisudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thủ tục thực hiện các quyền của người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_cuongchethihanhquyetdinhthuhoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thủ tục cưỡng chế thực hiện quyết định kiểm đếm bắt buộc, cưỡng chế thi hành quyết định thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_hoagiaitrachchapdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thủ tục hòa giải tranh chấp đất đai, thủ tục giải quyết tranh chấp đất đai tại cơ quan hành chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_xuphatviphamhanhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thủ tục xử phạt vi phạm hành chính trong lĩnh vực đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "khainiem_thutuchanhchinhvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_thuthuthuoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_thutucchothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_thutucchuyenmu đíchsu dungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_thutudangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_capdoigiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_thucthiquyennguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_cuongchethihanhquyetdinhthuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_hoagiaitrachchapdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2013",
+      "target_id": "hanhviphaply_xuphatviphamhanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "entities": [
+    {
+      "id": "dieu_38_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 38. Quyền và nghĩa vụ của cá nhân chuyển mục đích sử dụng đất từ đất không thu tiền sử dụng đất sang đất có thu tiền sử dụng đất hoặc thuê đất",
+        "ma_dieu": "38",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 38.\n\nQuyền và nghĩa vụ của cá nhân chuyển mục đích sử dụng đất từ đất không thu tiền sử\ndụng đất sang đất có thu tiền sử dụng đất hoặc thuê đất\n1. Cá nhân được phép chuyển mục đích sử dụng đất từ đất được Nhà nước giao đất không thu tiền sử\ndụng đất sang đất được Nhà nước giao đất có thu tiền sử dụng đất hoặc Nhà nước cho thuê đất có\nquyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này .\n2. Cá nhân sử dụng đất được cơ quan nhà nước có thẩm quyền cho phép chuyển mục đích sử dụng đất\ntừ đất được Nhà nước giao đất không thu tiền sử dụng đất sang đất được Nhà nước giao đất có thu\ntiền sử dụng đất hoặc Nhà nước cho thuê đất có quyền và nghĩa vụ như sau:\na) Trường hợp được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất thu tiền thuê đất một\nlần cho cả thời gian thuê thì có quyền và nghĩa vụ quy định tại khoản 1 Điều 37 của Luật này ;\nb) Trường hợp được Nhà nước cho thuê đất thu tiền thuê đất hằng năm thì có quyền và nghĩa vụ quy\nđịnh tại khoản 2 Điều 37 của Luật này ."
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_datkhongthutien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất không thu tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_datcothutien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất có thu tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_thuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thuê đất"
+      }
+    },
+    {
+      "id": "dieuluat_26_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 26 của Luật này",
+        "ma_dieu": "26",
+        "phien_ban": 2024
+      }
+    },
+    {
+      "id": "dieuluat_31_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 31 của Luật này",
+        "ma_dieu": "31",
+        "phien_ban": 2024
+      }
+    },
+    {
+      "id": "dieuluat_37_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 37 của Luật này",
+        "ma_dieu": "37",
+        "phien_ban": 2024
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_38_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2024",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2024",
+      "target_id": "khainiem_datkhongthutien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2024",
+      "target_id": "khainiem_datcothutien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2024",
+      "target_id": "khainiem_thuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_38_2024",
+      "target_id": "dieuluat_26_2024",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_38_2024",
+      "target_id": "dieuluat_31_2024",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_38_2024",
+      "target_id": "dieuluat_37_2024",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

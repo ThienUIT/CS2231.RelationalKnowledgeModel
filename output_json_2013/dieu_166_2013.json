@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_166_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 166. Quyền chung của người sử dụng đất",
+        "ma_dieu": "166",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 166.\n\nQuyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất.\n3. Hưởng các lợi ích do công trình của Nhà nước phục vụ việc bảo vệ, cải tạo đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, bồi bổ đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được bồi thường khi Nhà nước thu hồi đất theo quy định của Luật này .\n7. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và\nnhững hành vi khác vi phạm pháp luật về đất đai."
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_duoccpgcn",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_huongthanhqua",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hưởng thành quả lao động, kết quả đầu tư trên đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_huongloiich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hưởng các lợi ích do công trình của Nhà nước phục vụ việc bảo vệ, cải tạo đất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_duochuongdan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, bồi bổ đất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_duocbaohotro",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình"
+      }
+    },
+    {
+      "id": "hanhviphaply_duocboithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được bồi thường khi Nhà nước thu hồi đất theo quy định của Luật này"
+      }
+    },
+    {
+      "id": "hanhviphaply_khieunai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_166_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2013",
+      "target_id": "hanhviphaply_duoccpgcn",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2013",
+      "target_id": "hanhviphaply_huongthanhqua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2013",
+      "target_id": "hanhviphaply_huongloiich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2013",
+      "target_id": "hanhviphaply_duochuongdan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2013",
+      "target_id": "hanhviphaply_duocbaohotro",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2013",
+      "target_id": "hanhviphaply_duocboithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_166_2013",
+      "target_id": "hanhviphaply_khieunai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

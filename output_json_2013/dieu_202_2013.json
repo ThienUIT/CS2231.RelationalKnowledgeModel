@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_202_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 202. Hòa giải tranh chấp đất đai",
+        "ma_dieu": "202",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 202.\n\nHòa giải tranh chấp đất đai\n1. Nhà nước khuyến khích các bên tranh chấp đất đai tự hòa giải hoặc giải quyết tranh chấp đất đai\nthông qua hòa giải ở cơ sở.\n2. Tranh chấp đất đai mà các bên tranh chấp không hòa giải được thì gửi đơn đến Ủy ban nhân dân cấp\nxã nơi có đất tranh chấp để hòa giải.\n3. Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm tổ chức việc hòa giải tranh chấp đất đai tại địa\nphương mình; trong quá trình tổ chức thực hiện phải phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam\ncấp xã và các tổ chức thành viên của Mặt trận, các tổ chức xã hội khác. Thủ tục hòa giải tranh chấp đất\nđai tại Ủy ban nhân cấp xã được thực hiện trong thời hạn không quá 45 ngày , kể từ ngày nhận được\nđơn yêu cầu giải quyết tranh chấp đất đai.\n4. Việc hòa giải phải được lập thành biên bản có chữ ký của các bên và có xác nhận hòa giải thành hoặc\nhòa giải không thành của Ủy ban nhân dân cấp xã. Biên bản hòa giải được gửi đến các bên tranh chấp,\nlưu tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp.\n5. Đối với trường hợp hòa giải thành mà có thay đổi hiện trạng về ranh giới, người sử dụng đất thì Ủy\nban nhân dân cấp xã gửi biên bản hòa giải đến Phòng Tài nguyên và Môi trường đối với trường hợp about:blank\ntranh chấp đất đai giữa hộ gia đình, cá nhân, cộng đồng dân cư với nhau; gửi đến Sở Tài nguyên và\nMôi trường đối với các trường hợp khác.\nPhòng Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường trình Ủy ban nhân dân cùng cấp quyết\nđịnh công nhận việc thay đổi ranh giới thửa đất và cấp mới Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu nhà ở và tài sản khác gắn liền với đất."
+      }
+    },
+    {
+      "id": "khainiem_hoagiaitranhchapdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hòa giải tranh chấp đất đai"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_bentranchapdatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Các bên tranh chấp đất đai"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_ubmttqvncapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_tochucthanhvienmattran",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Các tổ chức thành viên của Mặt trận"
+      }
+    },
+    {
+      "id": "chuthe_tochucxahoikhac",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Các tổ chức xã hội khác"
+      }
+    },
+    {
+      "id": "chuthe_phongtnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Phòng Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_sotnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Sở Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "khainiem_hoagiaitranhchapdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_bentranchapdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_ubmttqvncapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_tochucthanhvienmattran",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_tochucxahoikhac",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_phongtnmt",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_sotnmt",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_202_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

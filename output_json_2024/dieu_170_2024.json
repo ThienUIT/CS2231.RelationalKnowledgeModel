@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_170_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 170. Trách nhiệm xây dựng, quản lý, vận hành, khai thác Hệ thống thông tin quốc gia về\nđất đai",
+        "ma_dieu": "170",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 170.\n\nTrách nhiệm xây dựng, quản lý, vận hành, khai thác Hệ thống thông tin quốc gia về\nđất đai\n1. Bộ Tài nguyên và Môi trường có trách nhiệm sau đây:\na) Tổ chức xây dựng hạ tầng kỹ thuật công nghệ thông tin tại trung ương và xây dựng phần mềm của\nHệ thống thông tin quốc gia về đất đai bảo đảm đến năm 2025 đưa Hệ thống thông tin quốc gia về đất\nđai vào vận hành, khai thác;\nb) Quản lý, vận hành, bảo trì, nâng cấp phần mềm của Hệ thống thông tin quốc gia về đất đai và hạ\ntầng kỹ thuật công nghệ thông tin tại trung ương;\nc) Xây dựng, cập nhật dữ liệu đất đai cấp vùng, cả nước và cơ sở dữ liệu khác liên quan đến đất đai ở\ntrung ương;\nd) Tích hợp, quản lý, khai thác cơ sở dữ liệu quốc gia về đất đai trên phạm vi cả nước;\nđ) Kết nối, chia sẻ thông tin từ cơ sở dữ liệu quốc gia về đất đai với cổng dịch vụ công quốc gia, các\nhệ thống thông tin, cơ sở dữ liệu các Bộ, ngành, địa phương và cung cấp thông tin đất đai cho các tổ\nchức, cá nhân theo quy định của pháp luật;\ne) Thực hiện dịch vụ công trực tuyến trong lĩnh vực đất đai. about:blank\n. Các Bộ, ngành, cơ quan có liên quan có trách nhiệm kết nối, chia sẻ kết quả điều tra cơ bản và các\nthông tin có liên quan đến đất đai cho Bộ Tài nguyên và Môi trường để cập nhật vào cơ sở dữ liệu quốc\ngia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm sau đây:\na) Tổ chức xây dựng, cập nhật, quản lý, khai thác cơ sở dữ liệu đất đai trong phạm vi địa phương , bảo\nđảm đến năm 2025 kết nối, tích hợp với cơ sở dữ liệu quốc gia về đất đai;\nb) Tổ chức quản lý, vận hành, bảo trì, nâng cấp, bảo đảm hạ tầng kỹ thuật công nghệ thông tin và phần\nmềm tại địa phương, đường truyền kết nối từ địa phương đến trung ương phục vụ xây dựng, vận hành,\ncập nhật cơ sở dữ liệu đất đai ở địa phương;\nc) Chia sẻ, cung cấp thông tin, dữ liệu đất đai trong phạm vi địa phương cho các tổ chức, cá nhân theo\nquy định của pháp luật;\nd) Thực hiện dịch vụ công trực tuyến trong lĩnh vực đất đai tại địa phương.\n4. Chính phủ quy định chi tiết việc xây dựng, quản lý, vận hành, khai thác Hệ thống thông tin quốc gia\nvề đất đai."
+      }
+    },
+    {
+      "id": "chuthe_botainguyenvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "khainiem_hethongthongtinquocgiavedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin quốc gia về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_170_2024",
+      "target_id": "chuthe_botainguyenvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2024",
+      "target_id": "chuthe_uybanndcancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2024",
+      "target_id": "khainiem_hethongthongtinquocgiavedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

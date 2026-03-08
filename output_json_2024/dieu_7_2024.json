@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_7_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 7. Người chịu trách nhiệm trước Nhà nước đối với đất được giao quản lý",
+        "ma_dieu": "7",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 7.\n\nNgười chịu trách nhiệm trước Nhà nước đối với đất được giao quản lý\n1. Người đại diện của tổ chức chịu trách nhiệm đối với việc quản lý đất trong các trường hợp sau đây:\na) Tổ chức trong nước được giao quản lý công trình công cộng và hành lang bảo vệ an toàn các công\ntrình theo quy định của pháp luật;\nb) Tổ chức trong nước được giao quản lý đất có mặt nước của các sông và đất có mặt nước chuyên\ndùng; about:blank\nc) Tổ chức trong nước được giao quản lý quỹ đất đã thu hồi theo quyết định của cơ quan nhà nước có\nthẩm quyền;\nd) Tổ chức kinh tế được giao quản lý diện tích đất để thực hiện dự án đầu tư theo quy định của pháp\nluật.\n2. Chủ tịch Ủy ban nhân dân cấp xã, Chủ tịch Ủy ban nhân dân cấp huyện nơi không thành lập đơn vị\nhành chính cấp xã chịu trách nhiệm đối với việc quản lý đất sử dụng vào mục đích công cộng được\ngiao quản lý, đất chưa giao, đất chưa cho thuê tại địa phương.\n3. Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm đối với việc quản lý đất chưa sử dụng tại các\nđảo chưa giao cho đơn vị hành chính cấp huyện, cấp xã quản lý.\n4. Người đại diện cho cộng đồng dân cư là người chịu trách nhiệm đối với đất được giao cho cộng\nđồng dân cư quản lý."
+      }
+    },
+    {
+      "id": "chuthe_nguoidaidientochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đại diện của tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_tochuctrongnuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức trong nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuccongte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công trình công cộng"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_nguoidaidiencongdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đại diện cho cộng đồng dân cư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_7_2024",
+      "target_id": "chuthe_nguoidaidientochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2024",
+      "target_id": "chuthe_tochuctrongnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2024",
+      "target_id": "chuthe_tochuccongte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2024",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2024",
+      "target_id": "chuthe_chutichubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2024",
+      "target_id": "chuthe_chutichubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2024",
+      "target_id": "chuthe_chutichubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_7_2024",
+      "target_id": "chuthe_nguoidaidiencongdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_221_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 221. Quản lý đất chưa sử dụng",
+        "ma_dieu": "221",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 221.\n\nQuản lý đất chưa sử dụng\n1. Ủy ban nhân dân cấp xã có trách nhiệm quản lý, bảo vệ đất chưa sử dụng tại địa phương, đăng ký\nvào hồ sơ địa chính và báo cáo Ủy ban nhân dân cấp trên trực tiếp về tình hình quản lý, khai thác quỹ\nđất chưa sử dụng.\n2. Ủy ban nhân dân cấp tỉnh có trách nhiệm quản lý đất chưa sử dụng tại các đảo chưa giao cho đơn vị\nhành chính cấp huyện, cấp xã quản lý."
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlyvabaovedatchuasudung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quản lý, bảo vệ đất chưa sử dụng"
+      }
+    },
+    {
+      "id": "khainiem_datchuasudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất chưa sử dụng"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_221_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_ubndcapxa",
+      "target_id": "hanhviphaply_quanlyvabaovedatchuasudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_quanlyvabaovedatchuasudung",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_221_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

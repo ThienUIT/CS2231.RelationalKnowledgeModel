@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_52_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 52. Các hoạt động điều tra, đánh giá đất đai",
+        "ma_dieu": "52",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 52.\n\nCác hoạt động điều tra, đánh giá đất đai\n1. Điều tra, đánh giá đất đai bao gồm:\na) Điều tra, đánh giá về chất lượng đất, tiềm năng đất đai;\nb) Điều tra, đánh giá thoái hóa đất;\nc) Điều tra, đánh giá ô nhiễm đất;\nd) Quan trắc chất lượng đất, thoái hóa đất, ô nhiễm đất;\nđ) Điều tra, đánh giá đất đai theo chuyên đề.\n2. Điều tra, đánh giá đất đai theo chuyên đề được thực hiện để điều tra, đánh giá về chất lượng đất,\ntiềm năng đất đai, thoái hóa đất, ô nhiễm đất đối với loại đất cụ thể theo yêu cầu quản lý nhà nước về\nđất đai tại một thời điểm xác định. about:blank\n. Các hoạt động điều tra, đánh giá đất đai quy định tại các điểm a, b và c khoản 1 Điều này thực hiện\ntheo định kỳ 05 năm một lần. Hoạt động điều tra, đánh giá đất đai theo chuyên đề quy định tại điểm đ\nkhoản 1 Điều này thực hiện theo yêu cầu phục vụ nhiệm vụ quản lý nhà nước về đất đai."
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutra_danhgiadatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutra_danhgiachatluongdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá về chất lượng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutra_danhgiatiemnangdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá tiềm năng đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutra_danhgiathoaihoadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá thoái hóa đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutra_danhgiao nhiễmdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá ô nhiễm đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quantracchatluongdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quan trắc chất lượng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quantracthoaihoadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quan trắc thoái hóa đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quantraconhiemdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quan trắc ô nhiễm đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutra_danhgiadatdaitheochuyende",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá đất đai theo chuyên đề"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_52_2024",
+      "target_id": "hanhviphaply_dieutra_danhgiadatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_52_2024",
+      "target_id": "hanhviphaply_dieutra_danhgiachatluongdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_52_2024",
+      "target_id": "hanhviphaply_dieutra_danhgiatiemnangdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_52_2024",
+      "target_id": "hanhviphaply_dieutra_danhgiathoaihoadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_52_2024",
+      "target_id": "hanhviphaply_dieutra_danhgiao nhiễmdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_52_2024",
+      "target_id": "hanhviphaply_quantracchatluongdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_52_2024",
+      "target_id": "hanhviphaply_quantracthoaihoadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_52_2024",
+      "target_id": "hanhviphaply_quantraconhiemdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_52_2024",
+      "target_id": "hanhviphaply_dieutra_danhgiadatdaitheochuyende",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

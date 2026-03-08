@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_145_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 145. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng đất",
+        "ma_dieu": "145",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 145.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho tổ\nchức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng đất\n1. Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước cho phép hoạt động đang sử dụng đất\ncho hoạt động tôn giáo mà chưa được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền\nsử dụng đất, quyền sở hữu tài sản gắn liền với đất phải tự rà soát, kê khai việc sử dụng đất và báo cáo\nỦy ban nhân dân cấp tỉnh theo các nội dung sau đây:\na) Tổng diện tích đất đang sử dụng;\nb) Diện tích đất được cơ quan nhà nước có thẩm quyền giao; nhận chuyển nhượng; nhận tặng cho;\nmượn của tổ chức, hộ gia đình, cá nhân; tự tạo lập; hình thức khác;\nc) Diện tích đất đã cho tổ chức, hộ gia đình, cá nhân mượn, ở nhờ, thuê; about:blank\nd) Diện tích đất đã bị người khác lấn, chiếm.\n2. Ủy ban nhân dân cấp tỉnh nơi có đất kiểm tra thực tế, xác định ranh giới cụ thể của thửa đất và quyết\nđịnh xử lý theo quy định sau đây:\na) Diện tích đất mà tổ chức, hộ gia đình, cá nhân đã sử dụng ổn định trước ngày 15 tháng 10 năm 1993\nthì căn cứ vào nhu cầu sử dụng đất của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc và tổ chức, hộ gia\nđình, cá nhân đó để giải quyết nhằm bảo đảm quyền lợi về sử dụng đất của các bên phù hợp với thực\ntế;\nb) Diện tích đất mà tổ chức, hộ gia đình, cá nhân đã sử dụng từ ngày 15 tháng 10 năm 1993 đến trước\nngày 01 tháng 7 năm 2004 thì giải quyết như đối với trường hợp hộ gia đình, cá nhân mượn đất, thuê\nđất của hộ gia đình, cá nhân khác theo quy định của pháp luật về đất đai;\nc) Diện tích đất mở rộng của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc mà không được cơ quan nhà\nnước có thẩm quyền cho phép; diện tích đất của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc bị lấn, bị\nchiếm; diện tích đất của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang có tranh chấp thì Ủy ban\nnhân dân cấp tỉnh giải quyết theo quy định của pháp luật.\n3. Diện tích đất của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc sau khi đã xử lý theo quy định tại\nkhoản 2 Điều này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với\nđất với thời hạn sử dụng đất ổn định lâu dài và hình thức giao đất không thu tiền sử dụng đất theo quy\nđịnh tại khoản 2 Điều 213 của Luật này  khi có đủ các điều kiện sau đây:\na) Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước cho phép hoạt động;\nb) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền,\nbản án, quyết định của Tòa án, quyết định hoặc phán quyết của Trọng tài đã có hiệu lực pháp luật;\nc) Không phải là đất nhận chuyển nhượng, nhận tặng cho từ ngày 01 tháng 7 năm 2004 trở về sau.\n4. Trường hợp đất do tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng vào mục đích sản xuất\nnông nghiệp, sản xuất lâm nghiệp, sản xuất, kinh doanh phi nông nghiệp bảo đảm các điều kiện quy\nđịnh tại khoản 3 Điều này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn\nliền với đất theo hình thức và thời hạn sử dụng đất tương ứng với mục đích đó như đối với hộ gia\nđình, cá nhân."
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiaotructhuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo trực thuộc"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyensohuutaisangganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_145_2024",
+      "target_id": "chuthe_tochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2024",
+      "target_id": "chuthe_tochuctongiaotructhuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2024",
+      "target_id": "khainiem_giaychungnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2024",
+      "target_id": "khainiem_quyensohuutaisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

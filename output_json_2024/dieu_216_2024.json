@@ -1,0 +1,196 @@
+{
+  "entities": [
+    {
+      "id": "dieu_216_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 216. Đất xây dựng công trình ngầm",
+        "ma_dieu": "216",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 216.\n\nĐất xây dựng công trình ngầm\n1. Đất xây dựng công trình ngầm bao gồm đất xây dựng công trình trên mặt đất phục vụ cho việc vận\nhành, khai thác sử dụng công trình ngầm và không gian dưới lòng đất để xây dựng công trình trong lòng\nđất mà công trình này không phải là phần ngầm của công trình xây dựng trên mặt đất.\n2. Người sử dụng đất được chuyển nhượng, cho thuê, cho thuê lại không gian dưới lòng đất sau khi\nđược Nhà nước xác định theo quy định của pháp luật về xây dựng , pháp luật về quy hoạch đô thị , pháp\nluật về kiến trúc.\n3. Nhà nước khuyến khích các tổ chức, cá nhân sử dụng vốn, kỹ thuật, công nghệ thực hiện các dự án\nxây dựng công trình ngầm đồng thời có chính sách hỗ trợ, ưu đãi cho nhà đầu tư theo quy định của\npháp luật.\n4. Việc sử dụng đất xây dựng công trình ngầm phải bảo đảm các yêu cầu sau đây:\na) Bảo đảm quốc phòng, an ninh, bảo vệ môi trường, phát triển bền vững, bảo vệ di tích lịch sử - văn\nhóa, danh lam thắng cảnh;\nb) Phù hợp với quy hoạch xây dựng, quy hoạch đô thị;\nc) Bồi thường theo quy định của pháp luật đối với trường hợp gây thiệt hại đến việc sử dụng đất của\nngười sử dụng đất trên bề mặt của công trình ngầm;\nd) Việc xây dựng công trình ngầm phải được thực hiện theo dự án đầu tư hoặc hạng mục của dự án đầu\ntư theo quy định của pháp luật;\nđ) Tuân thủ quy định của pháp luật về xây dựng.\n5. Việc giao đất, cho thuê đất đối với đất xây dựng công trình trên mặt đất phục vụ cho việc vận hành,\nkhai thác sử dụng công trình ngầm được thực hiện theo quy định sau đây:\na) Giao đất không thu tiền sử dụng đất đối với trường hợp sử dụng đất xây dựng công trình trên mặt\nđất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm không nhằm mục đích kinh doanh;\nb) Cho thuê đất thu tiền thuê đất hằng năm đối với trường hợp sử dụng đất xây dựng công trình trên\nmặt đất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm nhằm mục đích kinh doanh. about:blank\n. Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây\ndựng công trình ngầm được thực hiện theo quy định sau đây:\na) Chủ đầu tư dự án xây dựng công trình ngầm được cấp Giấy chứng nhận quyền sử dụng đất, quyền\nsở hữu tài sản gắn liền với đất đối với diện tích đất xây dựng công trình trên mặt đất phục vụ cho việc\nvận hành, khai thác sử dụng công trình ngầm và được thực hiện quyền của người sử dụng đất theo quy\nđịnh của Luật này;\nb) Chủ đầu tư dự án xây dựng công trình ngầm được chứng nhận quyền sở hữu đối với công trình\nngầm dưới mặt đất và thực hiện quyền của chủ sở hữu theo quy định của pháp luật.\n7. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datxaydungcongtrinhngam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình ngầm"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nhadautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà đầu tư"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển nhượng"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuelaithue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê lại"
+      }
+    },
+    {
+      "id": "dieukien_baodamquocphonganminh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Bảo đảm quốc phòng, an ninh, bảo vệ môi trường, phát triển bền vững, bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      }
+    },
+    {
+      "id": "dieukien_phuhopquyhoachxaydung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch xây dựng, quy hoạch đô thị"
+      }
+    },
+    {
+      "id": "dieukien_boithuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Bồi thường theo quy định của pháp luật đối với trường hợp gây thiệt hại đến việc sử dụng đất của người sử dụng đất trên bề mặt của công trình ngầm"
+      }
+    },
+    {
+      "id": "dieukien_thuchiendautu",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Việc xây dựng công trình ngầm phải được thực hiện theo dự án đầu tư hoặc hạng mục của dự án đầu tư theo quy định của pháp luật"
+      }
+    },
+    {
+      "id": "dieukien_tuantuphapluatxaydung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tuân thủ quy định của pháp luật về xây dựng"
+      }
+    },
+    {
+      "id": "chuthe_chudautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ đầu tư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "khainiem_datxaydungcongtrinhngam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_nhadautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "hanhviphaply_chuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "hanhviphaply_chothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "hanhviphaply_chothuelaithue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_baodamquocphonganminh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_phuhopquyhoachxaydung",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_boithuong",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_thuchiendautu",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_tuantuphapluatxaydung",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_chudautu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

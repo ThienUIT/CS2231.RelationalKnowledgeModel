@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_195_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 195. Đất ở tại nông thôn",
+        "ma_dieu": "195",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 195.\n\nĐất ở tại nông thôn\n1. Đất ở tại nông thôn là đất để làm nhà ở và mục đích khác phục vụ cho đời sống trong cùng một thửa\nđất thuộc khu vực nông thôn.\n2. Căn cứ vào quỹ đất và tình hình thực tế của địa phương, Ủy ban nhân dân cấp tỉnh quy định hạn mức\ngiao đất ở cho cá nhân tại nông thôn.\n3. Đất ở tại nông thôn phải bố trí đồng bộ với đất sử dụng cho mục đích xây dựng các công trình công\ncộng, công trình sự nghiệp bảo đảm thuận tiện cho sản xuất, đời sống của nhân dân, vệ sinh môi trường\nvà theo hướng hiện đại hóa nông thôn.\n4. Nhà nước có chính sách tạo điều kiện cho những người sống ở nông thôn có chỗ ở trên cơ sở tận\ndụng đất trong những khu dân cư sẵn có, hạn chế việc mở rộng khu dân cư trên đất nông nghiệp."
+      }
+    },
+    {
+      "id": "khainiem_datiotanongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở tại nông thôn"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_195_2024",
+      "target_id": "khainiem_datiotanongthon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_195_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

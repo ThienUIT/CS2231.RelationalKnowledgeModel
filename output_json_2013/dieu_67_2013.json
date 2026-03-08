@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_67_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 67. Thông báo thu hồi đất và chấp hành quyết định thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+        "ma_dieu": "67",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 67.\n\nThông báo thu hồi đất và chấp hành quyết định thu hồi đất vì mục đích quốc phòng, an\nninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Trước khi có quyết định thu hồi đất, chậm nhất là 90 ngày đối với đất nông nghiệp và 180 ngày đối\nvới đất phi nông nghiệp, cơ quan nhà nước có thẩm quyền phải thông báo thu hồi đất cho người có đất\nthu hồi biết. Nội dung thông báo thu hồi đất bao gồm kế hoạch thu hồi đất, điều tra, khảo sát, đo đạc,\nkiểm đếm.\n2. Trường hợp người sử dụng đất trong khu vực thu hồi đất đồng ý để cơ quan nhà nước có thẩm\nquyền thu hồi đất trước thời hạn quy định tại khoản 1 Điều này thì Ủy ban nhân dân cấp có thẩm\nquyền quyết định thu hồi đất mà không phải chờ đến hết thời hạn thông báo thu hồi đất. about:blank\n. Người có đất thu hồi có trách nhiệm phối hợp với cơ quan, tổ chức làm nhiệm vụ bồi thường, giải\nphóng mặt bằng trong quá trình điều tra, khảo sát, đo đạc, kiểm đếm, xây dựng phương án bồi thường,\nhỗ trợ, tái định cư.\n4. Khi quyết định thu hồi đất có hiệu lực thi hành và phương án bồi thường, hỗ trợ, tái định cư đã được\ncơ quan nhà nước có thẩm quyền phê duyệt được công bố công khai, người có đất thu hồi phải chấp\nhành quyết định thu hồi đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có đất thu hồi"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoccothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước có thẩm quyền"
+      }
+    },
+    {
+      "id": "dieukien_thongbaothuhoidat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Thông báo thu hồi đất chậm nhất 90 ngày đối với đất nông nghiệp và 180 ngày đối với đất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_chaphanhquyetdinhthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chấp hành quyết định thu hồi đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_67_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2013",
+      "target_id": "chuthe_nguoicodatthuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2013",
+      "target_id": "chuthe_coquannhanuoccothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2013",
+      "target_id": "dieukien_thongbaothuhoidat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_67_2013",
+      "target_id": "hanhviphaply_chaphanhquyetdinhthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

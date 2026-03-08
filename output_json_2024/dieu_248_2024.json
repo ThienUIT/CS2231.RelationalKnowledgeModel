@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_248_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 248",
+        "ma_dieu": "248",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 248.\n\nSửa đổi, bổ sung một số điều của Luật Lâm nghiệp số 16/2017/QH14 đã được sửa đổi,\nbổ sung một số điều theo Luật số 16/2023/QH15\n1. Sửa đổi, bổ sung  khoản 1 và khoản 2 Điều 14  như sau:\n“1. Phù hợp với quy hoạch lâm nghiệp cấp quốc gia hoặc quy hoạch tỉnh hoặc quy hoạch sử dụng đất\ncấp huyện.\n2. Không chuyển mục đích sử dụng rừng tự nhiên sang mục đích khác, trừ các dự án sau đây: dự án\nquan trọng quốc gia; dự án phục vụ quốc phòng, an ninh; dự án cấp thiết khác theo tiêu chí do Chính\nphủ quy định.”.\n2. Sửa đổi, bổ sung  khoản 1 Điều 15  như sau:\n“1. Kế hoạch giao rừng, cho thuê rừng, chuyển mục đích sử dụng rừng sang mục đích khác của Ủy ban\nnhân dân cấp huyện được Ủy ban nhân dân cấp tỉnh phê duyệt hoặc kế hoạch sử dụng đất hằng năm\ncấp huyện được cơ quan có thẩm quyền phê duyệt.”.\n3. Bổ sung điểm đ vào sau  điểm d khoản 2 Điều 16  như sau:\n“đ) Ban quản lý rừng đặc dụng đối với rừng phòng hộ xen kẽ trong diện tích rừng đặc dụng.”.\n4. Sửa đổi, bổ sung  khoản 1 Điều 19  như sau:\n“1. Phù hợp với quy hoạch lâm nghiệp cấp quốc gia hoặc quy hoạch tỉnh hoặc quy hoạch sử dụng đất\ncấp huyện.”.\n5. Sửa đổi, bổ sung  Điều 20  như sau: about:blank\n“"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachlamnghiepcapquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch lâm nghiệp cấp quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachtinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungrungtunhien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển mục đích sử dụng rừng tự nhiên"
+      }
+    },
+    {
+      "id": "khainiem_duanquan trọngquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án quan trọng quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_duanphucvuquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án phục vụ quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "khainiem_duancapthietkhac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án cấp thiết khác"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "chuthe_banquanlyrungdacdung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng đặc dụng"
+      }
+    },
+    {
+      "id": "khainiem_rungphonghoxenke",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Rừng phòng hộ xen kẽ"
+      }
+    },
+    {
+      "id": "khainiem_rungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Rừng đặc dụng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "khainiem_quyhoachlamnghiepcapquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "khainiem_quyhoachtinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "khainiem_quyhoachsudungdatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "hanhviphaply_chuyenmucdichsudungrungtunhien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "khainiem_duanquan trọngquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "khainiem_duanphucvuquocphonganinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "khainiem_duancapthietkhac",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "chuthe_uybannhandancaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "chuthe_coquancothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "chuthe_banquanlyrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "khainiem_rungphonghoxenke",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_248_2024",
+      "target_id": "khainiem_rungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

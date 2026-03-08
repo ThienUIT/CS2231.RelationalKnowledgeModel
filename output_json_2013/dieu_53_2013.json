@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_53_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 53. Giao đất, cho thuê đất đối với đất đang có người sử dụng cho người khác",
+        "ma_dieu": "53",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 53.\n\nGiao đất, cho thuê đất đối với đất đang có người sử dụng cho người khác\nViệc Nhà nước quyết định giao đất, cho thuê đất đối với đất đang có người sử dụng cho người khác\nchỉ được thực hiện sau khi cơ quan nhà nước có thẩm quyền quyết định thu hồi đất theo quy định của\nLuật này và phải thực hiện xong việc bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật đối với\ntrường hợp phải giải phóng mặt bằng."
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_datdangconguoisudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất đang có người sử dụng"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_boithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường"
+      }
+    },
+    {
+      "id": "hanhviphaply_hotro",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hỗ trợ"
+      }
+    },
+    {
+      "id": "hanhviphaply_taidinhcu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tái định cư"
+      }
+    },
+    {
+      "id": "dieukien_giaiphongmatbang",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Giải phóng mặt bằng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_53_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2013",
+      "target_id": "khainiem_datdangconguoisudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_53_2013",
+      "target_id": "hanhviphaply_boithuong",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_53_2013",
+      "target_id": "hanhviphaply_hotro",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_53_2013",
+      "target_id": "hanhviphaply_taidinhcu",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_53_2013",
+      "target_id": "dieukien_giaiphongmatbang",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

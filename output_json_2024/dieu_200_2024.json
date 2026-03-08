@@ -1,0 +1,210 @@
+{
+  "entities": [
+    {
+      "id": "dieu_200_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 200. Đất quốc phòng, an ninh",
+        "ma_dieu": "200",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 200.\n\nĐất quốc phòng, an ninh\n1. Đất quốc phòng, an ninh bao gồm đất sử dụng vào các mục đích quy định tại Điều 78 của Luật\nnày.\n2. Ủy ban nhân dân cấp tỉnh chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an thực hiện việc quản lý\nnhà nước đối với đất quốc phòng, an ninh thuộc phạm vi quản lý hành chính của địa phương.\n3. Đối với những khu vực nằm trong quy hoạch sử dụng đất quốc phòng, an ninh nhưng chưa có nhu\ncầu sử dụng vào mục đích quốc phòng, an ninh thì người đang sử dụng đất được tiếp tục sử dụng đến\nkhi có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền nhưng không được làm biến dạng\nđịa hình tự nhiên.\n4. Trường hợp thu hồi đất quốc phòng, an ninh để thực hiện dự án phát triển kinh tế - xã hội vì mục\nđích quốc gia, công cộng thì không phải thực hiện việc sắp xếp lại, xử lý tài sản công theo quy định của\npháp luật về quản lý, sử dụng tài sản công.\n5. Việc quản lý, sử dụng tài sản gắn liền với đất là tài sản công của đơn vị sự nghiệp công lập thuộc Bộ\nQuốc phòng, Bộ Công an không thuộc trường hợp sử dụng đất kết hợp với hoạt động lao động sản\nxuất, xây dựng kinh tế quy định tại Điều 201 của Luật này  thì thực hiện theo quy định của pháp luật về\nquản lý, sử dụng tài sản công.\n6. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "dieu_78_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 78",
+        "ma_dieu": "78",
+        "phien_ban": 2024
+      }
+    },
+    {
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlynhanuoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_tieptucsudung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tiếp tục sử dụng"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_coquannhancothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước có thẩm quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_lambiendangdiadahinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Làm biến dạng địa hình"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchienduan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện dự án"
+      }
+    },
+    {
+      "id": "hanhviphaply_sapsxepxulytaisan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sắp xếp lại, xử lý tài sản"
+      }
+    },
+    {
+      "id": "chuthe_donvisunghiệpcong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlysudungtaisancong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý, sử dụng tài sản công"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quy định chi tiết"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "khainiem_datquocphonganinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "dieu_78_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_quanlynhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_tieptucsudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_coquannhancothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_lambiendangdiadahinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_thuchienduan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_sapsxepxulytaisan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_donvisunghiệpcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_quanlysudungtaisancong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_quydinhchitiet",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

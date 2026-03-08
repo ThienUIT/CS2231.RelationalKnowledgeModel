@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_155_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 155.",
+        "ma_dieu": "155",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 155.\n\nCăn cứ tính tiền sử dụng đất, tiền thuê đất; thời điểm định giá đất, thời điểm tính tiền\nsử dụng đất, tiền thuê đất\n1. Căn cứ tính tiền sử dụng đất bao gồm:\na) Diện tích đất được giao, được chuyển mục đích sử dụng, được công nhận quyền sử dụng đất;\nb) Giá đất theo quy định tại Điều 159 và Điều 160 của Luật này ; trường hợp đấu giá quyền sử dụng đất\nthì giá đất là giá trúng đấu giá; about:blank\nc) Chính sách miễn, giảm tiền sử dụng đất của Nhà nước.\n2. Căn cứ tính tiền cho thuê đất bao gồm:\na) Diện tích đất cho thuê;\nb) Thời hạn cho thuê đất, thời hạn gia hạn sử dụng đất;\nc) Đơn giá thuê đất; trường hợp đấu giá quyền thuê đất thì giá đất thuê là giá trúng đấu giá;\nd) Hình thức Nhà nước cho thuê đất thu tiền thuê đất hằng năm hoặc cho thuê đất thu tiền thuê đất một\nlần cho cả thời gian thuê;\nđ) Chính sách miễn, giảm tiền thuê đất của Nhà nước.\n3. Thời điểm định giá đất, thời điểm tính tiền sử dụng đất, tiền thuê đất được quy định như sau:\na) Đối với trường hợp Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, gia\nhạn sử dụng đất, điều chỉnh thời hạn sử dụng đất, chuyển hình thức sử dụng đất, là thời điểm Nhà nước\nban hành quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, gia hạn sử dụng\nđất, điều chỉnh thời hạn sử dụng đất, chuyển hình thức sử dụng đất, trừ trường hợp quy định tại khoản\n7 Điều 124 của Luật này ;\nb) Đối với trường hợp công nhận quyền sử dụng đất, là thời điểm người sử dụng đất, chủ sở hữu tài\nsản gắn liền với đất hoặc người đại diện cho người sử dụng đất, chủ sở hữu tài sản gắn liền với đất\nnộp đủ hồ sơ hợp lệ theo quy định của pháp luật;\nc) Đối với trường hợp cơ quan nhà nước có thẩm quyền điều chỉnh quyết định giao đất, cho thuê đất\nmà làm thay đổi diện tích, mục đích sử dụng đất, thời hạn sử dụng đất, là thời điểm cơ quan nhà nước\ncó thẩm quyền điều chỉnh quyết định giao đất, cho thuê đất;\nd) Đối với trường hợp cơ quan nhà nước có thẩm quyền quyết định điều chỉnh quy hoạch chi tiết theo\nquy định của pháp luật về xây dựng mà phải xác định lại giá đất, là thời điểm cơ quan nhà nước có\nthẩm quyền quyết định điều chỉnh quy hoạch chi tiết.\n4. Đối với trường hợp áp dụng giá đất trong bảng giá đất để tính tiền sử dụng đất, tiền thuê đất thì Ủy\nban nhân dân cấp có thẩm quyền phải ghi giá đất trong quyết định giao đất, cho thuê đất, cho phép\nchuyển mục đích sử dụng đất, gia hạn sử dụng đất, điều chỉnh thời hạn sử dụng đất, chuyển hình thức\nsử dụng đất.\nĐối với trường hợp xác định giá đất cụ thể để tính tiền sử dụng đất, tiền thuê đất thì Ủy ban nhân dân\ncấp có thẩm quyền phải ban hành quyết định giá đất trong thời hạn 180 ngày kể từ thời điểm định giá\nđất quy định tại các điểm a, c và d khoản 3 Điều này .\n5. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_tiensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_tienthuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tiền thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_giadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giá đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_chusohuutaisan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "chủ sở hữu tài sản"
+      }
+    },
+    {
+      "id": "chuthe_ubaonnhandancapcothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp có thẩm quyền"
+      }
+    },
+    {
+      "id": "chuthe_chinphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_155_2024",
+      "target_id": "khainiem_tiensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2024",
+      "target_id": "khainiem_tienthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2024",
+      "target_id": "khainiem_giadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2024",
+      "target_id": "chuthe_chusohuutaisan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2024",
+      "target_id": "chuthe_ubaonnhandancapcothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_155_2024",
+      "target_id": "chuthe_chinphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

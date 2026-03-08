@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_137_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 137. Đất rừng đặc dụng",
+        "ma_dieu": "137",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 137.\n\nĐất rừng đặc dụng\n1. Nhà nước giao đất rừng đặc dụng cho tổ chức quản lý rừng đặc dụng để quản lý, bảo vệ theo quy\nhoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt, được kết hợp sử\ndụng đất vào mục đích khác theo quy định của pháp luật về bảo vệ và phát triển rừng.\n2. Tổ chức quản lý rừng đặc dụng giao khoán ngắn hạn đất rừng đặc dụng trong phân khu bảo vệ\nnghiêm ngặt cho hộ gia đình, cá nhân chưa có điều kiện chuyển ra khỏi khu vực đó để bảo vệ rừng.\n3. Tổ chức quản lý rừng đặc dụng giao khoán đất rừng đặc dụng thuộc phân khu phục hồi sinh thái cho\nhộ gia đình, cá nhân sinh sống ổn định tại khu vực đó để bảo vệ và phát triển rừng.\n4. Ủy ban nhân dân cấp có thẩm quyền quyết định giao đất, cho thuê đất vùng đệm của rừng đặc dụng\nđối với tổ chức, hộ gia đình, cá nhân để sử dụng vào mục đích sản xuất, nghiên cứu, thí nghiệm về lâm\nnghiệp hoặc kết hợp quốc phòng, an ninh theo quy hoạch phát triển rừng của vùng đệm và được kết\nhợp sử dụng đất vào mục đích khác theo quy định của pháp luật về bảo vệ và phát triển rừng.\n5. Ủy ban nhân dân cấp tỉnh quyết định cho tổ chức kinh tế thuê đất rừng đặc dụng thuộc khu vực được\nkết hợp với kinh doanh cảnh quan, du lịch sinh thái - môi trường dưới tán rừng."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "chuthe_tochucquanlyrungdacdung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức quản lý rừng đặc dụng"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapcothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp có thẩm quyền"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_137_2013",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_137_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_137_2013",
+      "target_id": "chuthe_tochucquanlyrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_137_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_137_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_137_2013",
+      "target_id": "chuthe_ubndcapcothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_137_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_137_2013",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

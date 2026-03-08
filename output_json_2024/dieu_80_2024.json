@@ -1,0 +1,85 @@
+{
+  "entities": [
+    {
+      "id": "dieu_80_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 80. Căn cứ, điều kiện thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+        "ma_dieu": "80",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 80.\n\nCăn cứ, điều kiện thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Việc thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công\ncộng phải căn cứ quy định tại Điều 78 hoặc Điều 79 của Luật này , đồng thời phải thuộc một trong các\ntrường hợp sau đây:\na) Dự án có trong kế hoạch sử dụng đất hằng năm cấp huyện đã được cơ quan có thẩm quyền phê\nduyệt;\nb) Dự án đã có quyết định đầu tư theo quy định của pháp luật về đầu tư công, quyết định phê duyệt dự\nán đầu tư theo quy định của pháp luật về đầu tư theo phương thức đối tác công tư; about:blank\nc) Dự án đã có quyết định chấp thuận chủ trương đầu tư, quyết định chấp thuận chủ trương đầu tư\nđồng thời chấp thuận nhà đầu tư, quyết định chấp thuận nhà đầu tư theo quy định của pháp luật về đầu\ntư đối với dự án đầu tư thuộc thẩm quyền phê duyệt chủ trương đầu tư của Quốc hội, Thủ tướng Chính\nphủ;\nd) Có văn bản của cơ quan nhà nước có thẩm quyền quy định tại Điều 84 của Luật này  trong trường\nhợp thu hồi đất liên quan đến quốc phòng, an ninh.\n2. Trường hợp dự án quy định tại khoản 1 Điều này có phân kỳ tiến độ sử dụng đất thì thu hồi đất theo\ntiến độ của dự án đầu tư được xác định trong văn bản chấp thuận, quyết định chủ trương đầu tư dự án.\n3. Điều kiện thu hồi đất vì mục đích quốc phòng, an ninh, phát triển kinh tế - xã hội vì lợi ích quốc gia,\ncông cộng là phải hoàn thành việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái\nđịnh cư theo quy định của Luật này .\n4. Việc thu hồi đất theo quy định tại khoản 26 và khoản 27 Điều 79 của Luật này  phải đáp ứng điều\nkiện quy định tại các khoản 1, 2 và 3 Điều này và để tạo quỹ đất do Nhà nước đầu tư để quản lý, khai\nthác hoặc giao đất, cho thuê đất cho nhà đầu tư theo quy định của pháp luật."
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "dieu_78_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 78",
+        "ma_dieu": "78",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 78 (Tham chiếu). Nội dung điều luật không được cung cấp"
+      }
+    },
+    {
+      "id": "dieu_79_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 79",
+        "ma_dieu": "79",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 79 (Tham chiếu). Nội dung điều luật không được cung cấp"
+      }
+    },
+    {
+      "id": "dieu_84_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 84",
+        "ma_dieu": "84",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 84 (Tham chiếu). Nội dung điều luật không được cung cấp"
+      }
+    },
+    {
+      "id": "dieukien_pheduyetphuonganboithuonghotrotaidinhcu",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Hoàn thành việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư theo quy định của Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_80_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_80_2024",
+      "target_id": "dieu_78_2024",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_80_2024",
+      "target_id": "dieu_79_2024",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_80_2024",
+      "target_id": "dieu_84_2024",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_80_2024",
+      "target_id": "dieukien_pheduyetphuonganboithuonghotrotaidinhcu",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

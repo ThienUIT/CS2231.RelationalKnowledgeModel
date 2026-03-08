@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_197_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 197. Đất xây dựng khu chung cư",
+        "ma_dieu": "197",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 197.\n\nĐất xây dựng khu chung cư\n1. Đất xây dựng khu chung cư bao gồm đất ở để xây dựng nhà chung cư, xây dựng các công trình phục\nvụ trực tiếp cho đời sống của người dân trong khu chung cư và đất để xây dựng các công trình phục vụ\ncộng đồng theo quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt.\n2. Đất xây dựng khu chung cư phải bảo đảm đồng bộ với đất sử dụng cho mục đích xây dựng các công\ntrình công cộng, công trình sự nghiệp, bảo đảm vệ sinh môi trường và cảnh quan đô thị.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datxaydungkuchungcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng khu chung cư"
+      }
+    },
+    {
+      "id": "khainiem_dat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
+    },
+    {
+      "id": "chuthe_nguoidan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người dân"
+      }
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_197_2024",
+      "target_id": "khainiem_datxaydungkuchungcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2024",
+      "target_id": "khainiem_dat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2024",
+      "target_id": "chuthe_nguoidan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2024",
+      "target_id": "chuthe_coquancothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

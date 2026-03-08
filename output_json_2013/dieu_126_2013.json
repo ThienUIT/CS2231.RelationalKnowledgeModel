@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_126_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 126. Đất sử dụng có thời hạn",
+        "ma_dieu": "126",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 126.\n\nĐất sử dụng có thời hạn\n1. Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với hộ gia đình, cá nhân trực tiếp\nsản xuất nông nghiệp theo quy định tại  khoản 1, khoản 2, điểm b khoản 3, khoản 4 và khoản 5 Điều 129\ncủa Luật này  là 50 năm. Khi hết thời hạn, hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp nếu có\nnhu cầu thì được tiếp tục sử dụng đất theo thời hạn quy định tại khoản này .\n2. Thời hạn cho thuê đất nông nghiệp đối với hộ gia đình, cá nhân không quá 50 năm. Khi hết thời hạn\nthuê đất, hộ gia đình, cá nhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất.\n3. Thời hạn giao đất, cho thuê đất đối với tổ chức để sử dụng vào mục đích sản xuất nông nghiệp, lâm\nnghiệp, nuôi trồng thủy sản, làm muối; tổ chức, hộ gia đình, cá nhân để sử dụng vào mục đích thương\nmại, dịch vụ, làm cơ sở sản xuất phi nông nghiệp; tổ chức để thực hiện các dự án đầu tư; người Việt\nNam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài để thực hiện các dự án đầu tư tại\nViệt Nam được xem xét, quyết định trên cơ sở dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng\nkhông quá 50 năm. about:blank\nĐối với dự án có vốn đầu tư lớn nhưng thu hồi vốn chậm, dự án đầu tư vào địa bàn có điều kiện kinh\ntế - xã hội khó khăn, địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn mà cần thời hạn dài hơn thì\nthời hạn giao đất, cho thuê đất không quá 70 năm.\nĐối với dự án kinh doanh nhà ở để bán hoặc để bán kết hợp với cho thuê hoặc để cho thuê mua thì thời\nhạn giao đất cho chủ đầu tư được xác định theo thời hạn của dự án; người mua nhà ở gắn liền với\nquyền sử dụng đất được sử dụng đất ổn định lâu dài.\nKhi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia\nhạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này .\n4. Thời hạn cho thuê đất để xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao\nkhông quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử\ndụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác, mỗi lần gia hạn không quá thời\nhạn quy định tại khoản này .\n5. Thời hạn cho thuê đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị\ntrấn là không quá 05 năm.\n6. Đất xây dựng công trình sự nghiệp của tổ chức sự nghiệp công lập tự chủ tài chính quy định tại  khoản\n2 Điều 147 của Luật này  và các công trình công cộng có mục đích kinh doanh là không quá 70 năm.\nKhi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia\nhạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này .\n7. Đối với thửa đất sử dụng cho nhiều mục đích thì thời hạn sử dụng đất được xác định theo thời hạn\ncủa loại đất sử dụng vào mục đích chính.\n8. Thời hạn giao đất, cho thuê đất quy định tại Điều này được tính từ ngày có quyết định giao đất, cho\nthuê đất của cơ quan nhà nước có thẩm quyền."
+      }
+    },
+    {
+      "id": "khainiem_datsudungcothoihan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng có thời hạn"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdincuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Công nhận quyền sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "khainiem_datsudungcothoihan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "chuthe_nguoivietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_126_2013",
+      "target_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_233_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 233. Hệ thống theo dõi và đánh giá đối với việc quản lý, sử dụng đất đai",
+        "ma_dieu": "233",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 233.\n\nHệ thống theo dõi và đánh giá đối với việc quản lý, sử dụng đất đai\n1. Hệ thống theo dõi và đánh giá đối với việc quản lý, sử dụng đất đai là một bộ phận của Hệ thống\nthông tin quốc gia về đất đai và thông tin khác được thu thập từ quá trình thi hành pháp luật về đất đai\ntrên phạm vi cả nước, bao gồm:\na) Thông tin về quy hoạch, kế hoạch sử dụng đất; thống kê, kiểm kê đất đai; giá đất và thuế sử dụng\nđất; giao đất, cho thuê đất, thu hồi đất, cho phép chuyển mục đích sử dụng đất, cấp Giấy chứng nhận\nquyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận\nquyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng, Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu tài sản gắn liền với đất; việc thực hiện các dự án đầu tư có sử dụng đất; việc chấp hành\npháp luật về đất đai; kiểm tra, thanh tra và xử lý vi phạm về đất đai của các cơ quan hành chính nhà\nnước;\nb) Thông tin về giải quyết tranh chấp, khiếu nại, tố cáo về đất đai;\nc) Thông tin từ quá trình giám sát việc thực thi pháp luật về đất đai của công dân; Quốc hội và Hội\nđồng nhân dân các cấp; Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận; các tổ chức\nkhác có liên quan;\nd) Thông tin cần thiết phải thu nhận bằng các giải pháp công nghệ gồm chụp ảnh mặt đất từ vệ tinh,\nmáy bay và phương tiện bay khác; thu nhận bằng điều tra thực địa và phương tiện kỹ thuật khác;\nđ) Thông tin cần thiết từ dữ liệu điều tra xã hội học về quản lý, sử dụng đất đai.\n2. Cơ quan có chức năng quản lý đất đai có trách nhiệm cập nhật các thông tin trong Hệ thống theo dõi\nvà đánh giá đối với việc quản lý, sử dụng đất đai vào Hệ thống thông tin quốc gia về đất đai; quản lý\nhệ thống theo dõi và đánh giá; giúp Chính phủ, Ủy ban nhân dân các cấp tổ chức thực hiện theo dõi và\nđánh giá việc quản lý, sử dụng đất đai.\n3. Hệ thống theo dõi và đánh giá đối với việc quản lý, sử dụng đất đai được công khai để các tổ chức,\ncá nhân tìm hiểu thông tin theo quy định của pháp luật.\nMục 2. THANH TRA, KIỂM TRA, KIỂM TOÁN, GIẢI QUYẾT  TRANH CHẤP , KHIẾU NẠI,\nTỐ CÁO VỀ ĐẤT  ĐAI"
+      }
+    },
+    {
+      "id": "khainiem_hethongtheodoivađanhgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống theo dõi và đánh giá đối với việc quản lý, sử dụng đất đai"
+      }
+    },
+    {
+      "id": "khainiem_hethongthongtinquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquancongnangquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có chức năng quản lý đất đai"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_233_2024",
+      "target_id": "khainiem_hethongtheodoivađanhgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_233_2024",
+      "target_id": "khainiem_hethongthongtinquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_233_2024",
+      "target_id": "chuthe_coquancongnangquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_233_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_233_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "entities": [
+    {
+      "id": "dieu_136_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 136. Thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+        "ma_dieu": "136",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 136.\n\nThẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền\nvới đất\n1. Thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất lần đầu\nđối với các trường hợp đăng ký lần đầu mà có nhu cầu cấp Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu tài sản gắn liền với đất và trường hợp quy định tại điểm b khoản 7 Điều 219 của Luật\nnày được quy định như sau:\na) Ủy ban nhân dân cấp tỉnh cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền\nvới đất cho người sử dụng đất, chủ sở hữu tài sản gắn liền với đất quy định tại các khoản 1, 2, 5, 6 và 7\nĐiều 4 của Luật này .\nỦy ban nhân dân cấp tỉnh được ủy quyền cho cơ quan có chức năng quản lý đất đai cùng cấp cấp Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp quy định tại\nkhoản này;\nb) Ủy ban nhân dân cấp huyện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền\nvới đất cho người sử dụng đất, chủ sở hữu tài sản gắn liền với đất quy định tại  khoản 3 và khoản 4\nĐiều 4 của Luật này .\n2. Thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, xác\nnhận thay đổi đối với trường hợp đăng ký biến động được quy định như sau:\na) Tổ chức đăng ký đất đai thực hiện cho người sử dụng đất, chủ sở hữu tài sản gắn liền với đất là tổ\nchức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, tổ chức nước ngoài có chức năng ngoại\ngiao, tổ chức kinh tế có vốn đầu tư nước ngoài; cấp Giấy chứng nhận quyền sử dụng đất, quyền sở about:blank\nhữu tài sản gắn liền với đất cho chủ sở hữu tài sản gắn liền với đất là tổ chức nước ngoài, cá nhân\nnước ngoài;\nb) Chi nhánh của tổ chức đăng ký đất đai hoặc tổ chức đăng ký đất đai thực hiện cho người sử dụng\nđất, chủ sở hữu tài sản gắn liền với đất là cá nhân, cộng đồng dân cư, người gốc Việt Nam định cư ở\nnước ngoài;\nc) Tổ chức đăng ký đất đai, chi nhánh của tổ chức đăng ký đất đai được sử dụng con dấu của mình để\nthực hiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc xác\nnhận thay đổi vào giấy chứng nhận đã cấp."
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyensohuutaisanganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_chusohuutaisanganlienvoidat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "chủ sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_tochucdangkyddatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức đăng ký đất đai"
+      }
+    },
+    {
+      "id": "chuthe_tochuctrongnuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức trong nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_canhannuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "khainiem_giaychungnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "khainiem_quyensohuutaisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_chusohuutaisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_tochucdangkyddatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_tochuctrongnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_tochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_tochucnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_canhannuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

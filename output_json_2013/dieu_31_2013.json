@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_31_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 31. Lập, chỉnh lý bản đồ địa chính",
+        "ma_dieu": "31",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 31.\n\nLập, chỉnh lý bản đồ địa chính\n1. Việc đo đạc, lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính\nxã, phường, thị trấn.\n2. Việc chỉnh lý bản đồ địa chính được thực hiện khi có sự thay đổi về hình dạng kích thước diện tích\nthửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định việc lập, chỉnh lý và quản lý bản đồ địa chính\ntrong phạm vi cả nước; điều kiện hành nghề đo đạc địa chính.\n4. Ủy ban nhân dân cấp tỉnh tổ chức thực hiện việc lập, chỉnh lý và quản lý bản đồ địa chính ở địa\nphương."
+      }
+    },
+    {
+      "id": "hanhviphaply_dodaclapbando",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đo đạc, lập bản đồ địa chính"
+      }
+    },
+    {
+      "id": "khainiem_thuadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thửa đất"
+      }
+    },
+    {
+      "id": "khainiem_donvihanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đơn vị hành chính xã, phường, thị trấn"
+      }
+    },
+    {
+      "id": "hanhviphaply_chinhlybando",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chỉnh lý bản đồ địa chính"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotainuyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "dieukien_hanhnghedodac",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện hành nghề đo đạc địa chính"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_31_2013",
+      "target_id": "hanhviphaply_dodaclapbando",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_31_2013",
+      "target_id": "khainiem_thuadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_31_2013",
+      "target_id": "khainiem_donvihanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_31_2013",
+      "target_id": "hanhviphaply_chinhlybando",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_31_2013",
+      "target_id": "chuthe_botruongbotainuyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_31_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_31_2013",
+      "target_id": "dieukien_hanhnghedodac",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

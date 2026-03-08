@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_106_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 106. Đính chính, thu hồi Giấy chứng nhận đã cấp",
+        "ma_dieu": "106",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 106.\n\nĐính chính, thu hồi Giấy chứng nhận đã cấp\n1. Cơ quan có thẩm quyền cấp Giấy chứng nhận có trách nhiệm đính chính Giấy chứng nhận đã cấp có\nsai sót trong các trường hợp sau đây:\na) Có sai sót thông tin về tên gọi, giấy tờ pháp nhân hoặc nhân thân, địa chỉ của người sử dụng đất, chủ\nsở hữu tài sản gắn liền với đất so với giấy tờ pháp nhân hoặc nhân thân tại thời điểm cấp Giấy chứng\nnhận của người đó;\nb) Có sai sót thông tin về thửa đất, tài sản gắn liền với đất so với hồ sơ kê khai đăng ký đất đai, tài sản\ngắn liền với đất đã được cơ quan đăng ký đất đai kiểm tra xác nhận.\n2. Nhà nước thu hồi Giấy chứng nhận đã cấp trong các trường hợp sau đây:\na) Nhà nước thu hồi toàn bộ diện tích đất trên Giấy chứng nhận đã cấp;\nb) Cấp đổi Giấy chứng nhận đã cấp;\nc) Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất đăng ký biến động đất đai, tài sản gắn liền\nvới đất mà phải cấp mới Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn\nliền với đất;\nd) Giấy chứng nhận đã cấp không đúng thẩm quyền, không đúng đối tượng sử dụng đất, không đúng\ndiện tích đất, không đủ điều kiện được cấp, không đúng mục đích sử dụng đất hoặc thời hạn sử dụng\nđất hoặc nguồn gốc sử dụng đất theo quy định của pháp luật đất đai, trừ trường hợp người được cấp\nGiấy chứng nhận đó đã thực hiện chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo\nquy định của pháp luật đất đai.\n3. Việc thu hồi Giấy chứng nhận đã cấp đối với trường hợp quy định tại điểm d khoản 2 Điều này do\ncơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác\ngắn liền với đất quy định tại  Điều 105 của Luật này  quyết định sau khi đã có kết luận của cơ quan about:blank\nthanh tra cùng cấp, văn bản có hiệu lực của cơ quan nhà nước có thẩm quyền về giải quyết tranh chấp\nđất đai.\nChương 8.\nTÀI CHÍNH VỀ ĐẤT  ĐAI, GIÁ ĐẤT  VÀ ĐẤU GIÁ QUYỀN SỬ DỤNG ĐẤT\nMỤC 1. TÀI CHÍNH VỀ ĐẤT  ĐAI"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận"
+      }
+    },
+    {
+      "id": "chuthe_coquanauthuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_dinhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đính chính"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_chunhasohuu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhhoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_106_2013",
+      "target_id": "khainiem_giaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2013",
+      "target_id": "chuthe_coquanauthuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2013",
+      "target_id": "hanhviphaply_dinhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2013",
+      "target_id": "chuthe_chunhasohuu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2013",
+      "target_id": "hanhviphaply_thuhhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

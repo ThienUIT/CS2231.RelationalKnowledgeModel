@@ -1,0 +1,215 @@
+{
+  "entities": [
+    {
+      "id": "dieu_218_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 218. Sử dụng đất kết hợp đa mục đích",
+        "ma_dieu": "218",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 218.\n\nSử dụng đất kết hợp đa mục đích\n1. Các loại đất sau đây được sử dụng kết hợp đa mục đích:\na) Đất nông nghiệp được sử dụng kết hợp với mục đích thương mại, dịch vụ, chăn nuôi, trồng cây dược liệu;\nb) Đất sử dụng vào mục đích công cộng được kết hợp với mục đích thương mại, dịch vụ;\nc) Đất xây dựng công trình sự nghiệp được sử dụng kết hợp với mục đích thương mại, dịch vụ;\nd) Đất ở được sử dụng kết hợp với mục đích nông nghiệp, thương mại, dịch vụ, công trình sự nghiệp có mục\nđích kinh doanh;\nđ) Đất có mặt nước được sử dụng kết hợp đa mục đích theo quy định tại các điều 188, 189 và 215 của Luật này;\ne) Đất tôn giáo, đất tín ngưỡng được sử dụng kết hợp với mục đích thương mại, dịch vụ;\ng) Đất quy định tại khoản 2 và khoản 3 Điều 9 của Luật này được sử dụng kết hợp mục đích nông nghiệp, xây\ndựng công trình hạ tầng bưu chính, viễn thông, công nghệ, thông tin, quảng cáo ngoài trời, điện mặt trời.\n2. Việc sử dụng đất kết hợp đa mục đích phải đáp ứng các yêu cầu sau đây: about:blank\na) Không làm thay đổi loại đất theo phân loại đất quy định tại khoản 2 và khoản 3 Điều 9 và đã được xác định tại\ncác loại giấy tờ quy định tại Điều 10 của Luật này;\nb) Không làm mất đi điều kiện cần thiết để trở lại sử dụng đất vào mục đích chính;\nc) Không ảnh hưởng đến quốc phòng, an ninh;\nd) Hạn chế ảnh hưởng đến bảo tồn hệ sinh thái tự nhiên, đa dạng sinh học, cảnh quan môi trường;\nđ) Không làm ảnh hưởng đến việc sử dụng đất của các thửa đất liền kề;\ne) Thực hiện đầy đủ nghĩa vụ tài chính theo quy định;\ng) Tuân thủ pháp luật có liên quan.\n3. Trường hợp đơn vị sự nghiệp công lập sử dụng đất xây dựng công trình sự nghiệp kết hợp với thương mại,\ndịch vụ thì phải chuyển sang thuê đất trả tiền thuê đất hằng năm đối với phần diện tích kết hợp đó.\n4. Các trường hợp sử dụng đất kết hợp với thương mại, dịch vụ quy định tại các điểm a, b, c, d, đ và e khoản 1\nĐiều này thì phải lập phương án sử dụng đất trình cơ quan có thẩm quyền phê duyệt. Nội dung phương án sử\ndụng đất kết hợp bao gồm:\na) Thông tin về thửa đất, khu đất đang sử dụng: vị trí, diện tích, hình thức sử dụng đất; thời hạn sử dụng đất;\nb) Diện tích, mục đích sử dụng đất kết hợp, thời hạn sử dụng đất kết hợp;\nc) Nội dung đáp ứng yêu cầu theo quy định của pháp luật về bảo vệ môi trường và quy định khác của pháp luật\ncó liên quan.\n5. Chính phủ quy định chi tiết Điều này."
+      }
+    },
+    {
+      "id": "khainiem_sudungdatkethopdamucdich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Sử dụng đất kết hợp đa mục đích"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datvaomucdichconggong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích công cộng"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungcontrinhsunghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình sự nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_dato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
+    },
+    {
+      "id": "khainiem_datcomatnuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có mặt nước"
+      }
+    },
+    {
+      "id": "khainiem_dattongiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tôn giáo"
+      }
+    },
+    {
+      "id": "khainiem_dattinnguong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tín ngưỡng"
+      }
+    },
+    {
+      "id": "khainiem_nghiavutaichinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nghĩa vụ tài chính"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "dieukien_khonglamthaydoiloaidat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không làm thay đổi loại đất"
+      }
+    },
+    {
+      "id": "dieukien_khonglammatdieuien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không làm mất đi điều kiện cần thiết để trở lại sử dụng đất vào mục đích chính"
+      }
+    },
+    {
+      "id": "dieukien_khonganhhuongdenquocphonganminh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không ảnh hưởng đến quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "dieukien_hancheanhhuongdenbaoton",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Hạn chế ảnh hưởng đến bảo tồn hệ sinh thái tự nhiên, đa dạng sinh học, cảnh quan môi trường"
+      }
+    },
+    {
+      "id": "dieukien_khonglamanhhuongdenviecsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không làm ảnh hưởng đến việc sử dụng đất của các thửa đất liền kề"
+      }
+    },
+    {
+      "id": "dieukien_thuchiennghiavutaichinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Thực hiện đầy đủ nghĩa vụ tài chính theo quy định"
+      }
+    },
+    {
+      "id": "dieukien_tuanthuphapluat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tuân thủ pháp luật có liên quan"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_sudungdatkethopdamucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_datvaomucdichconggong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_datxaydungcontrinhsunghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_dato",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_datcomatnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_dattongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_dattinnguong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_khonglamthaydoiloaidat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_khonglammatdieuien",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_khonganhhuongdenquocphonganminh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_hancheanhhuongdenbaoton",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_khonglamanhhuongdenviecsudungdat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_thuchiennghiavutaichinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_tuanthuphapluat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_218_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

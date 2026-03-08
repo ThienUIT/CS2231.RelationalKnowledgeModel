@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_209_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 209. Đất dành cho đường sắt",
+        "ma_dieu": "209",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 209.\n\nĐất dành cho đường sắt\n1. Đất dành cho đường sắt bao gồm:\na) Đất xây dựng kết cấu hạ tầng đường sắt quốc gia, đường sắt đô thị; đất xây dựng trụ sở cơ quan nhà\nnước cho hoạt động thường xuyên trong ga đường sắt;\nb) Đất xây dựng kết cấu hạ tầng đường sắt chuyên dùng, công trình công nghiệp đường sắt;\nc) Đất xây dựng công trình dịch vụ liên quan đến vận tải hành khách, vận tải hàng hóa và công trình\nkinh doanh dịch vụ thương mại khác trong phạm vi đất xây dựng kết cấu hạ tầng đường sắt.\n2. Việc giao đất, cho thuê đất dành cho đường sắt được thực hiện như sau:\na) Giao đất không thu tiền sử dụng đất đối với đất quy định tại điểm a khoản 1 Điều này;\nb) Cho thuê đất thu tiền thuê đất hằng năm và miễn tiền thuê đất đối với đất quy định tại điểm b khoản\n1 Điều này .\nc) Cho thuê đất thu tiền thuê đất hằng năm đối với đất quy định tại điểm c khoản 1 Điều này .\n3. Đối với đất dành cho đường sắt đã được giao, cho thuê trước ngày Luật này có hiệu lực thì Nhà\nnước xem xét cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo hình\nthức quy định tại khoản 2 Điều này .\n4. Ủy ban nhân dân cấp tỉnh có trách nhiệm bố trí quỹ đất, giao đất để lực lượng Công an nhân dân bảo\nđảm an ninh, trật tự đối với khu vực nhà ga đường sắt."
+      }
+    },
+    {
+      "id": "khainiem_datdanhchodduongsat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất dành cho đường sắt"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungkethauhathangduongsatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng kết cấu hạ tầng đường sắt quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungkethauhathangduongsatdothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng kết cấu hạ tầng đường sắt đô thị"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungtrusocquannhanuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng trụ sở cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungkethauhathangduongsatchuyendung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng kết cấu hạ tầng đường sắt chuyên dùng"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungcongtrinhcongnghiepduongsat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình công nghiệp đường sắt"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungcongtrinhdichvu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình dịch vụ liên quan đến vận tải hành khách, vận tải hàng hóa và công trình kinh doanh dịch vụ thương mại khác trong phạm vi đất xây dựng kết cấu hạ tầng đường sắt"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_congan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công an nhân dân"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "khainiem_datdanhchodduongsat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "khainiem_datxaydungkethauhathangduongsatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "khainiem_datxaydungkethauhathangduongsatdothi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "khainiem_datxaydungtrusocquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "khainiem_datxaydungkethauhathangduongsatchuyendung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "khainiem_datxaydungcongtrinhcongnghiepduongsat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "khainiem_datxaydungcongtrinhdichvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "chuthe_congan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_209_2024",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

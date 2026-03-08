@@ -1,0 +1,208 @@
+{
+  "entities": [
+    {
+      "id": "dieu_122_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 122. Điều kiện giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất",
+        "ma_dieu": "122",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 122.\n\nĐiều kiện giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n1. Cơ quan nhà nước có thẩm quyền chỉ được quyết định giao đất, cho thuê đất, cho phép chuyển mục\nđích sử dụng đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang mục đích\nkhác sau khi có Nghị quyết của Hội đồng nhân dân cấp tỉnh và đáp ứng các căn cứ quy định tại  Điều\n116 của Luật này , trừ trường hợp sử dụng đất thực hiện dự án thuộc thẩm quyền của Quốc hội, Thủ\ntướng Chính phủ chấp thuận, quyết định chủ trương đầu tư theo quy định của  Luật Đầu tư , Luật Đầu tư\ncông , Luật Đầu tư theo phương thức đối tác công tư , Luật Dầu khí ; Hội đồng nhân dân cấp tỉnh chấp\nthuận, quyết định chủ trương đầu tư theo quy định của  Luật Đầu tư công , Luật Đầu tư theo phương\nthức đối tác công tư .\nViệc chuyển mục đích sử dụng đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất\nsang mục đích khác phải tuân theo tiêu chí, điều kiện do Chính phủ quy định.\n2. Người được Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất để thực hiện\ndự án đầu tư phải đáp ứng các điều kiện sau đây:\na) Ký quỹ hoặc các hình thức bảo đảm khác theo quy định của pháp luật về đầu tư;\nb) Có năng lực tài chính để bảo đảm việc sử dụng đất theo tiến độ của dự án đầu tư và điều kiện khác\ntheo quy định của pháp luật có liên quan;\nc) Không vi phạm quy định của pháp luật về đất đai hoặc có vi phạm quy định của pháp luật về đất đai\nnhưng đã chấp hành xong quyết định, bản án đã có hiệu lực pháp luật của cơ quan có thẩm quyền tại\nthời điểm đề nghị giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất. Việc xác định người\nsử dụng đất vi phạm quy định của pháp luật về đất đai áp dụng đối với tất cả các thửa đất đang sử dụng\ntrên địa bàn cả nước.\n3. Việc cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư xây dựng nhà ở thương mại\nphải đáp ứng các điều kiện sau đây:\na) Các điều kiện quy định tại khoản 2 Điều này;\nb) Người được Nhà nước cho phép chuyển mục đích sử dụng đất có quyền sử dụng đất ở hoặc đất ở và\nđất khác;\nc) Phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng, quy hoạch đô thị , chương trình,\nkế hoạch phát triển nhà ở của địa phương và không thuộc trường hợp Nhà nước thu hồi đất vì mục\nđích quốc phòng, an ninh, thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng quy\nđịnh tại Điều 78 và Điều 79 của Luật này ;\nd) Có văn bản chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư của cơ quan có thẩm\nquyền theo quy định của pháp luật về đầu tư."
+      }
+    },
+    {
+      "id": "dieukien_giaodat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện giao đất"
+      }
+    },
+    {
+      "id": "dieukien_chothuedat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện cho thuê đất"
+      }
+    },
+    {
+      "id": "dieukien_chuyenmucdichsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước có thẩm quyền"
+      }
+    },
+    {
+      "id": "khainiem_dattronglua",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng lúa"
+      }
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "chuthe_nguoiduocnhanuocgiaodat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người được Nhà nước giao đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoiduocnhanuocchothuedat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người được Nhà nước cho thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoiduocnhanuocchophepsudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người được Nhà nước cho phép chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_kyquy",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Ký quỹ"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_quydinhcuaphapluatvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy định của pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nhadautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà đầu tư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "dieukien_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "dieukien_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "dieukien_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "khainiem_dattronglua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "chuthe_nguoiduocnhanuocgiaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "chuthe_nguoiduocnhanuocchothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "chuthe_nguoiduocnhanuocchophepsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2024",
+      "target_id": "hanhviphaply_kyquy",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nguoiduocnhanuocgiaodat",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "chuthe_nguoiduocnhanuocchothuedat",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "chuthe_nguoiduocnhanuocchophepsudungdat",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "target_id": "khainiem_quydinhcuaphapluatvedatdai",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

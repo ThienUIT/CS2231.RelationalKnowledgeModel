@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_96_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 96. Hồ sơ địa chính",
+        "ma_dieu": "96",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 96.\n\nHồ sơ địa chính\n1. Hồ sơ địa chính bao gồm các tài liệu dạng giấy hoặc dạng số thể hiện thông tin chi tiết về từng thửa\nđất, người được giao quản lý đất, người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, các quyền và\nthay đổi quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n2. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về hồ sơ địa chính và việc lập, chỉnh lý, quản lý\nhồ sơ địa chính; lộ trình chuyển đổi hồ sơ địa chính dạng giấy sang hồ sơ địa chính dạng số.\nMỤC 2. CẤP  GIẤY  CHỨNG NHẬN QUYỀN SỬ DỤNG ĐẤT , QUYỀN SỞ HỮU NHÀ Ở VÀ\nTÀI SẢN KHÁC GẮN LIỀN VỚI ĐẤT"
+      }
+    },
+    {
+      "id": "khainiem_hosodiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "chuthe_nguoiduocgiaoquanlydat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người được giao quản lý đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_chusohuutaisangganlienvoidat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "chủ sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotainnguyenvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_96_2013",
+      "target_id": "khainiem_hosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_96_2013",
+      "target_id": "chuthe_nguoiduocgiaoquanlydat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_96_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_96_2013",
+      "target_id": "chuthe_chusohuutaisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_96_2013",
+      "target_id": "chuthe_botruongbotainnguyenvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

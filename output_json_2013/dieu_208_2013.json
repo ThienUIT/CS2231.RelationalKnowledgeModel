@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_208_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 208. Trách nhiệm của Chủ tịch Ủy ban nhân dân các cấp trong việc phát hiện, ngăn chặn và xử lý vi phạm pháp luật về quản lý và sử dụng đất đai",
+        "ma_dieu": "208",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 208.\n\nTrách nhiệm của Chủ tịch Ủy ban nhân dân các cấp tr ong việc phát hiện, ngăn chặn và\nxử lý vi phạm pháp luật về quản lý và sử dụng đất đai\n1. Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm phát hiện, ngăn chặn và xử lý kịp thời những vi\nphạm pháp luật về quản lý và sử dụng đất đai tại địa phương.\n2. Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm phát hiện, ngăn chặn và xử lý kịp thời việc chuyển\nquyền sử dụng đất trái phép, chuyển mục đích sử dụng đất trái phép; phát hiện, áp dụng biện pháp ngăn\nchặn và xử lý kịp thời việc xây dựng các công trình trên đất lấn, chiếm, đất sử dụng không đúng mục\nđích ở địa phương và buộc người có hành vi vi phạm khôi phục lại tình trạng của đất trước khi vi phạm."
+      }
+    },
+    {
+      "id": "chuthe_chutichuybanndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_phathiennganchansuly",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "phát hiện, ngăn chặn và xử lý vi phạm pháp luật"
+      }
+    },
+    {
+      "id": "khainiem_quanlyvasudungdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quản lý và sử dụng đất đai"
+      }
+    },
+    {
+      "id": "chuthe_chutichuybanndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenquyensddtraiphep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển quyền sử dụng đất trái phép"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsddtraiphep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất trái phép"
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydungcongtrinhtrendatlan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "xây dựng các công trình trên đất lấn, chiếm, đất sử dụng không đúng mục đích"
+      }
+    },
+    {
+      "id": "hanhviphaply_khoiphuctinhtrangdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "khôi phục lại tình trạng của đất trước khi vi phạm"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_208_2013",
+      "target_id": "chuthe_chutichuybanndcaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2013",
+      "target_id": "hanhviphaply_phathiennganchansuly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2013",
+      "target_id": "khainiem_quanlyvasudungdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2013",
+      "target_id": "chuthe_chutichuybanndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2013",
+      "target_id": "hanhviphaply_chuyenquyensddtraiphep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsddtraiphep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2013",
+      "target_id": "hanhviphaply_xaydungcongtrinhtrendatlan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_208_2013",
+      "target_id": "hanhviphaply_khoiphuctinhtrangdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

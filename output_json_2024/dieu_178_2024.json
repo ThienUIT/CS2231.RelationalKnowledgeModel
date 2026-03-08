@@ -1,0 +1,208 @@
+{
+  "entities": [
+    {
+      "id": "dieu_178_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 178. Đất nông nghiệp do cá nhân, cộng đồng dân cư sử dụng",
+        "ma_dieu": "178",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 178.\n\nĐất nông nghiệp do cá nhân, cộng đồng dân cư sử dụng\n1. Đất nông nghiệp do cá nhân sử dụng bao gồm đất nông nghiệp được Nhà nước giao, cho thuê, công\nnhận quyền sử dụng đất; do thuê quyền sử dụng đất của người sử dụng đất khác; do nhận chuyển đổi,\nnhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất theo quy định của pháp luật.\n2. Việc sử dụng đất nông nghiệp do Nhà nước giao cho cá nhân được quy định như sau:\na) Cá nhân đã được Nhà nước giao đất trước ngày Luật này có hiệu lực thi hành thì được tiếp tục sử\ndụng theo quy định của Luật này; about:blank\nb) Đối với những địa phương chưa thực hiện việc giao đất cho cá nhân theo quy định của pháp luật về\nđất đai thì Ủy ban nhân dân cấp xã nơi có đất lập phương án giao đất và đề nghị Ủy ban nhân dân cấp\nhuyện quyết định giao đất;\nc) Đối với những địa phương mà Ủy ban nhân dân các cấp đã hướng dẫn hộ gia đình, cá nhân thương\nlượng điều chỉnh đất cho nhau trong quá trình thực hiện các chính sách, pháp luật về đất đai trước ngày\n15 tháng 10 năm 1993 và đang sử dụng ổn định thì được tiếp tục sử dụng.\n3. Người sử dụng đất nông nghiệp được chuyển đổi cơ cấu cây trồng, vật nuôi để sử dụng đất kết hợp\nđa mục đích theo quy định tại Điều 218 của Luật này ; được sử dụng một diện tích đất theo quy định của\nỦy ban nhân dân cấp tỉnh để xây dựng công trình phục vụ trực tiếp sản xuất nông nghiệp. Trường hợp\nsử dụng đất trồng lúa thì thực hiện theo quy định tại  Điều 182 của Luật này .\n4. Đất nông nghiệp do cộng đồng dân cư sử dụng được quy định như sau:\na) Cộng đồng dân cư được Nhà nước giao đất, công nhận quyền sử dụng đất để bảo tồn bản sắc dân\ntộc gắn với phong tục, tập quán, tín ngưỡng của các dân tộc;\nb) Cộng đồng dân cư được Nhà nước giao đất, công nhận quyền sử dụng đất có trách nhiệm bảo vệ đất\nđược giao, không được chuyển sang sử dụng vào mục đích khác."
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê"
+      }
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Công nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển nhượng"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyendoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển đổi"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuequyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuaKe",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thừa kế"
+      }
+    },
+    {
+      "id": "hanhviphaply_tangcho",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tặng cho"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcpxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "hanhviphaply_baotonbansac",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo tồn bản sắc"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "hanhviphaply_chothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "hanhviphaply_chuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "hanhviphaply_chuyendoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "hanhviphaply_thuequyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "hanhviphaply_thuaKe",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "hanhviphaply_tangcho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "chuthe_uybanndcpxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "chuthe_uybanndcphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_178_2024",
+      "target_id": "hanhviphaply_baotonbansac",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

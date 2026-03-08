@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_150_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 150. Đất sử dụng cho khu công nghệ cao",
+        "ma_dieu": "150",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 150.\n\nĐất sử dụng cho khu công nghệ cao\n1. Đất sử dụng cho khu công nghệ cao theo quyết định thành lập của Thủ tướng Chính phủ bao gồm các\nloại đất có chế độ sử dụng khác nhau phục vụ sản xuất, kinh doanh sản phẩm công nghệ cao; nghiên\ncứu phát triển và ứng dụng công nghệ cao; đào tạo nhân lực công nghệ cao.\nKhi quy hoạch, thành lập khu công nghệ cao phải đồng thời lập quy hoạch, xây dựng khu nhà ở, công\ntrình công cộng nằm ngoài khu công nghệ cao để phục vụ đời sống chuyên gia, người lao động làm việc\ntrong khu công nghệ cao.\n2. Ban quản lý khu công nghệ cao được Ủy ban nhân dân cấp tỉnh giao đất khu công nghệ cao. Ban\nquản lý khu công nghệ cao được cho thuê đất đối với tổ chức, cá nhân, người Việt Nam định cư ở nước\ngoài; doanh nghiệp có vốn đầu tư nước ngoài sử dụng đất trong khu công nghệ cao theo quy định của\nLuật này .\n3. Ban quản lý khu công nghệ cao lập quy hoạch chi tiết xây dựng của khu công nghệ cao và trình Ủy\nban nhân dân cấp tỉnh nơi có đất phê duyệt.\nỦy ban nhân dân cấp tỉnh giao đất cho Ban quản lý khu công nghệ cao để tổ chức xây dựng, phát triển\nkhu công nghệ cao theo quy hoạch đã được phê duyệt.\n4. Người sử dụng đất được Ban quản lý khu công nghệ cao cho thuê đất trong khu công nghệ cao có\ncác quyền và nghĩa vụ như được Nhà nước cho thuê đất theo quy định của Luật này .\n5. Doanh nghiệp phát triển khu công nghệ cao, doanh nghiệp phát triển hạ tầng được Ban quản lý khu\ncông nghệ cao cho thuê đất; người có nhu cầu sử dụng đất trong khu công nghệ cao được thuê lại đất\ncủa doanh nghiệp phát triển khu công nghệ cao, doanh nghiệp phát triển hạ tầng.\n6. Người sử dụng đất trong khu công nghệ cao phải sử dụng đất đúng mục đích đã được ghi trong hợp\nđồng thuê đất, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn\nliền với đất và có các quyền, nghĩa vụ theo quy định của Luật này .\nTrường hợp chuyển nhượng quyền sử dụng đất trong khu công nghệ cao thì người nhận chuyển\nnhượng phải tiếp tục sử dụng đất đúng mục đích đã được xác định.\n7. Nhà nước khuyến khích tổ chức, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư\nnước ngoài đầu tư xây dựng kinh doanh kết cấu hạ tầng trong khu công nghệ cao và khuyến khích tổ\nchức, cá nhân, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài sử dụng\nđất vào mục đích phát triển khoa học và công nghệ.\n8. Việc xác định giá cho thuê đất và tính thu tiền thuê đất trong khu công nghệ cao thực hiện theo quy\nđịnh của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_datsudungchokhucongnghecao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho khu công nghệ cao"
+      }
+    },
+    {
+      "id": "chuthe_banquanlykhucongnghecao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý khu công nghệ cao"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepphattrienkhucongnghecao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp phát triển khu công nghệ cao"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepphattrienhatang",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp phát triển hạ tầng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "khainiem_datsudungchokhucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_banquanlykhucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_doanhnghiepphattrienkhucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_doanhnghiepphattrienhatang",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

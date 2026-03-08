@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_21_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 21. Nhiệm vụ, quyền hạn của Chính phủ, Thủ tướng Chính phủ, các Bộ, cơ quan ngang Bộ và chính quyền địa phương các cấp",
+        "ma_dieu": "21",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 21.\n\nNhiệm vụ, quyền hạn của Chính phủ, Thủ tướng Chính phủ, các Bộ, cơ quan ngang Bộ\nvà chính quyền địa phương các cấp\n1. Chính phủ thống nhất quản lý nhà nước về đất đai trong phạm vi cả nước.\n2. Thủ tướng Chính phủ thực hiện nhiệm vụ quản lý nhà nước về đất đai theo quy định của Luật này .\n3. Bộ Tài nguyên và Môi trường là cơ quan đầu mối giúp Chính phủ, Thủ tướng Chính phủ thực hiện\nquản lý nhà nước về đất đai.\n4. Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm giúp Chính phủ,\nThủ tướng Chính phủ trong quản lý nhà nước về đất đai.\n5. Chính quyền địa phương các cấp có trách nhiệm quản lý nhà nước về đất đai tại địa phương theo\nthẩm quyền quy định của Luật này .\nỞ đơn vị hành chính cấp huyện không thành lập đơn vị hành chính cấp xã thì Hội đồng nhân dân, Ủy\nban nhân dân cấp huyện thực hiện nhiệm vụ, quyền hạn của Hội đồng nhân dân, Ủy ban nhân dân cấp\nxã quy định của Luật này ."
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_bo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ"
+      }
+    },
+    {
+      "id": "chuthe_coquancangbo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan ngang Bộ"
+      }
+    },
+    {
+      "id": "chuthe_chinhquyen địa phương",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính quyền địa phương"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenvamientruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_bo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_coquancangbo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_chinhquyen địa phương",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_botainguyenvamientruong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

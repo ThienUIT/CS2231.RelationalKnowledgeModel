@@ -1,0 +1,184 @@
+{
+  "entities": [
+    {
+      "id": "dieu_59_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 59. Thẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất",
+        "ma_dieu": "59",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 59.\n\nThẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n1. Ủy ban nhân dân cấp tỉnh quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\ntrong các trường hợp sau đây:\na) Giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với tổ chức;\nb) Giao đất đối với cơ sở tôn giáo;\nc) Giao đất đối với người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài\ntheo quy định tại  khoản 3 Điều 55 của Luật này;\nd) Cho thuê đất đối với người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài\ntheo quy định tại  điểm đ và điểm e khoản 1 Điều 56 của Luật này ;\nđ) Cho thuê đất đối với tổ chức nước ngoài có chức năng ngoại giao.\n2. Ủy ban nhân dân cấp huyện quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng\nđất trong các trường hợp sau đây: about:blank\na) Giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với hộ gia đình, cá nhân. Trường\nhợp cho hộ gia đình, cá nhân thuê đất, cho phép chuyển mục đích sử dụng đất nông nghiệp để sử dụng\nvào mục đích thương mại, dịch vụ với diện tích từ 0,5 héc ta trở lên thì phải có văn bản chấp thuận của\nỦy ban nhân dân cấp tỉnh trước khi quyết định;\nb) Giao đất đối với cộng đồng dân cư.\n3. Ủy ban nhân dân cấp xã cho thuê đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích của\nxã, phường, thị trấn.\n4. Cơ quan có thẩm quyền quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\nquy định tại khoản 1 và khoản 2 Điều này không được ủy quyền."
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho phép chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_cosotoniao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_conggdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_cosotoniao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_conggdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

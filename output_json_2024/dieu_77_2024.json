@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_77_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 77. Trách nhiệm báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "77",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 77.\n\nTrách nhiệm báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất\n1. Ủy ban nhân dân cấp huyện báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất đến Ủy ban\nnhân dân cấp tỉnh trước ngày 15 tháng 10 hằng năm.\n2. Ủy ban nhân dân cấp tỉnh báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất đến Bộ Tài\nnguyên và Môi trường trước ngày 15 tháng 10 của năm cuối thời kỳ quy hoạch, kỳ kế hoạch sử dụng\nđất.\n3. Bộ Quốc phòng báo cáo kết quả thực hiện quy hoạch sử dụng đất quốc phòng, Bộ Công an báo cáo\nkết quả thực hiện quy hoạch sử dụng đất an ninh đến Bộ Tài nguyên và Môi trường trước ngày 15\ntháng 10 của năm cuối thời kỳ kế hoạch sử dụng đất 05 năm và năm cuối thời kỳ quy hoạch sử dụng\nđất.\n4. Bộ Tài nguyên và Môi trường tổng hợp kết quả thực hiện quy hoạch sử dụng đất của cả nước trình\nChính phủ để báo cáo Quốc hội vào năm cuối của thời kỳ quy hoạch sử dụng đất.\nChương VI\nTHU HỒI ĐẤT , TRƯNG DỤNG ĐẤT"
+      }
+    },
+    {
+      "id": "chuthe_ubndcabhuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_botnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "hanhviphaply_baocaoketquathuchienquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_77_2024",
+      "target_id": "chuthe_ubndcabhuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2024",
+      "target_id": "chuthe_botnmt",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2024",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2024",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2024",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_77_2024",
+      "target_id": "hanhviphaply_baocaoketquathuchienquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

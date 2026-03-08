@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_15_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 15. Trách nhiệm của Nhà nước đối với người sử dụng đất",
+        "ma_dieu": "15",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 15.\n\nTrách nhiệm của Nhà nước đối với người sử dụng đất\n1. Có chính sách tạo điều kiện cho người trực tiếp sản xuất nông nghiệp không có đất sản xuất do quá\ntrình chuyển đổi cơ cấu sử dụng đất và chuyển đổi cơ cấu kinh tế được đào tạo nghề, chuyển đổi nghề\nvà tìm kiếm việc làm.\n2. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng\nđất khi có đủ điều kiện theo quy định của pháp luật về đất đai .\n3. Thực hiện bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật cho người có đất thu hồi khi\nNhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia,\ncông cộng.\n4. Tuyên truyền, phổ biến, hướng dẫn, trợ giúp pháp lý theo quy định của pháp luật cho người sử dụng\nđất trong việc thực hiện chính sách, pháp luật, thủ tục hành chính về đất đai, khai thác thông tin trong\ncơ sở dữ liệu quốc gia về đất đai.\n5. Giải quyết tranh chấp đất đai; giải quyết khiếu nại, tố cáo về đất đai."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_taodieukien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tạo điều kiện"
+      }
+    },
+    {
+      "id": "chuthe_nguoitructiepsanxuatnongnghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người trực tiếp sản xuất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchiendichinhsachboithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện bồi thường, hỗ trợ, tái định cư"
+      }
+    },
+    {
+      "id": "hanhviphaply_tuyentruyenphobien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tuyên truyền, phổ biến, hướng dẫn, trợ giúp pháp lý"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaiquyettranhchap",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giải quyết tranh chấp đất đai; giải quyết khiếu nại, tố cáo về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_15_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_15_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_taodieukien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_taodieukien",
+      "target_id": "chuthe_nguoitructiepsanxuatnongnghiep",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_thuchiendichinhsachboithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_tuyentruyenphobien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_giaiquyettranhchap",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

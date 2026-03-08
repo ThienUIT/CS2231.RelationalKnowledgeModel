@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_122_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 122. Quản lý, khai thác cơ sở dữ liệu đất đai",
+        "ma_dieu": "122",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 122.\n\nQuản lý, khai thác cơ sở dữ liệu đất đai\n1. Thông tin trong cơ sở dữ liệu đất đai được cơ quan nhà nước có thẩm quyền cung cấp thì có giá trị\npháp lý như trong hồ sơ dạng giấy .\n2. Cơ sở dữ liệu đất đai là tài sản của Nhà nước phải được bảo đảm an ninh, an toàn chặt chẽ; nghiêm\ncấm mọi hành vi truy cập trái phép, phá hoại, làm sai lệch thông tin trong cơ sở dữ liệu đất đai.\n3. Tổ chức, cá nhân có nhu cầu về thông tin, dữ liệu đất đai được khai thác, sử dụng qua cổng thông tin\nđất đai ở trung ương, địa phương và phải nộp phí; khi thực hiện khai thác thông tin, dữ liệu đất đai phải\nthực hiện đúng quy định của pháp luật."
+      }
+    },
+    {
+      "id": "khainiem_cosodulieudatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_truycapthongtin",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Truy cập thông tin"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_122_2013",
+      "target_id": "khainiem_cosodulieudatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2013",
+      "target_id": "hanhviphaply_truycapthongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_122_2013",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

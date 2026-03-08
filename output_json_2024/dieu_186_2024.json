@@ -1,0 +1,119 @@
+{
+  "entities": [
+    {
+      "id": "dieu_186_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 186. Đất rừng đặc dụng",
+        "ma_dieu": "186",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 186.\n\nĐất rừng đặc dụng\n1. Nhà nước giao đất rừng đặc dụng để quản lý, sử dụng, bảo vệ, phát triển rừng theo quy định của pháp\nluật về lâm nghiệp cho các đối tượng sau đây:\na) Ban quản lý rừng đặc dụng;\nb) Tổ chức khoa học và công nghệ, đào tạo, giáo dục nghề nghiệp về lâm nghiệp; about:blank\nc) Ban quản lý rừng phòng hộ, tổ chức kinh tế, đơn vị thuộc lực lượng vũ trang nhân dân;\nd) Cộng đồng dân cư trên địa bàn cấp xã nơi có rừng đặc dụng.\n2. Căn cứ điều kiện cụ thể, ban quản lý rừng đặc dụng phối hợp với chính quyền địa phương lập dự án\ndi dân, tái định cư trình cơ quan có thẩm quyền phê duyệt để di dân ra khỏi phân khu bảo vệ nghiêm\nngặt của rừng đặc dụng.\n3. Các đối tượng được Nhà nước giao đất rừng đặc dụng quy định tại khoản 1 Điều này được xây dựng\ncông trình kết cấu hạ tầng phục vụ quản lý, bảo vệ, phát triển rừng theo quy định của pháp luật về lâm\nnghiệp.\n4. Người được Nhà nước giao đất quy định tại khoản 1 Điều này được cấp Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu tài sản gắn liền với đất nhưng không được ghi nhận tài sản là tài sản công trên\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất."
+      }
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "chuthe_banquanlyrungdacdung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng đặc dụng"
+      }
+    },
+    {
+      "id": "chuthe_tochucnghiencuu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức khoa học và công nghệ, đào tạo, giáo dục nghề nghiệp về lâm nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_banquanlyrungphongho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng phòng hộ"
+      }
+    },
+    {
+      "id": "chuthe_tochucyte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_donvilucluongvutrang",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị thuộc lực lượng vũ trang nhân dân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư trên địa bàn cấp xã nơi có rừng đặc dụng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_186_2024",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_banquanlyrungdacdung",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_tochucnghiencuu",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_banquanlyrungphongho",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_tochucyte",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_donvilucluongvutrang",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

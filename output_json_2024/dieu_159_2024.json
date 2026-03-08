@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_159_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 159. Bảng giá đất",
+        "ma_dieu": "159",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 159.\n\nBảng giá đất\n1. Bảng giá đất được áp dụng cho các trường hợp sau đây:\na) Tính tiền sử dụng đất khi Nhà nước công nhận quyền sử dụng đất ở của hộ gia đình , cá nhân; chuyển\nmục đích sử dụng đất của hộ gia đình, cá nhân;\nb) Tính tiền thuê đất khi Nhà nước cho thuê đất  thu tiền thuê đất hằng năm; about:blank\nc) Tính thuế sử dụng đất;\nd) Tính thuế thu nhập từ chuyển quyền sử dụng đất đối với hộ gia đình, cá nhân;\nđ) Tính lệ phí trong quản lý, sử dụng đất đai;\ne) Tính tiền xử phạt vi phạm hành chính trong lĩnh vực đất đai;\ng) Tính tiền bồi thường cho Nhà nước khi gây thiệt hại trong quản lý, sử dụng đất đai;\nh) Tính tiền sử dụng đất, tiền thuê đất khi Nhà nước công nhận quyền sử dụng đất theo hình thức giao\nđất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê đối với hộ gia\nđình, cá nhân;\ni) Tính giá khởi điểm để đấu giá quyền sử dụng đất khi Nhà nước giao đất, cho thuê đất đối với trường\nhợp thửa đất, khu đất đã được đầu tư hạ tầng kỹ thuật theo  quy hoạch chi tiết xây dựng ;\nk) Tính tiền sử dụng đất đối với trường hợp giao đất không thông qua đấu giá quyền sử dụng đất cho\nhộ gia đình, cá nhân ;\nl) Tính tiền sử dụng đất đối với trường hợp bán nhà ở thuộc sở hữu nhà nước cho người đang thuê.\n2. Bảng giá đất được xây dựng theo khu vực, vị trí. Đối với khu vực có bản đồ địa chính số và cơ sở\ndữ liệu giá đất thì xây dựng bảng giá đất đến từng thửa đất trên cơ sở vùng giá trị, thửa đất chuẩn.\n3. Ủy ban nhân dân cấp tỉnh xây dựng, trình Hội đồng nhân dân cùng cấp quyết định bảng giá đất lần\nđầu để công bố và áp dụng từ ngày 01 tháng 01 năm 2026. Hằng năm, Ủy ban nhân dân cấp tỉnh có\ntrách nhiệm trình Hội đồng nhân dân cấp tỉnh quyết định điều chỉnh, sửa đổi, bổ sung bảng giá đất để\ncông bố và áp dụng từ ngày 01 tháng 01 của năm tiếp theo.\nTrường hợp cần thiết phải điều chỉnh, sửa đổi, bổ sung bảng giá đất trong năm, Ủy ban nhân dân cấp\ntỉnh có trách nhiệm trình Hội đồng nhân dân cấp tỉnh quyết định.\nCơ quan có chức năng quản lý đất đai cấp tỉnh có trách nhiệm giúp Ủy ban nhân dân cấp tỉnh tổ chức\nviệc xây dựng, điều chỉnh, sửa đổi, bổ sung bảng giá đất. Trong quá trình thực hiện, cơ quan có chức\nnăng quản lý đất đai cấp tỉnh được thuê tổ chức tư vấn xác định giá đất để xây dựng, điều chỉnh, sửa\nđổi, bổ sung bảng giá đất .\n4. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_banggiadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bảng giá đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_hdndcungcap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân cùng cấp"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_159_2024",
+      "target_id": "khainiem_banggiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2024",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2024",
+      "target_id": "chuthe_hdndcungcap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_159_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "entities": [
+    {
+      "id": "dieu_125_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 125. Đất sử dụng ổn định lâu dài",
+        "ma_dieu": "125",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 125.\n\nĐất sử dụng ổn định lâu dài\nNgười sử dụng đất được sử dụng đất ổn định lâu dài trong các trường hợp sau đây:\n1. Đất ở do hộ gia đình, cá nhân sử dụng;\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại  khoản 3 Điều 131 của Luật này ;\n3. Đất rừng phòng hộ, đất rừng đặc dụng, đất rừng sản xuất là rừng tự nhiên;\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của hộ gia đình, cá nhân đang sử dụng\nổn định mà không phải là đất được Nhà nước giao có thời hạn, cho thuê;\n5. Đất xây dựng trụ sở cơ quan quy định tại  khoản 1 Điều 147 của Luật này ; đất xây dựng công trình sự\nnghiệp của tổ chức sự nghiệp công lập chưa tự chủ tài chính quy định tại  khoản 2 Điều 147 của Luật\nnày;\n6. Đất sử dụng vào mục đích quốc phòng, an ninh;\n7. Đất cơ sở tôn giáo quy định tại  Điều 159 của Luật này ;\n8. Đất tín ngưỡng;\n9. Đất giao thông, thủy lợi, đất có di tích lịch sử - văn hóa, danh lam thắng cảnh, đất xây dựng các công\ntrình công cộng khác không có mục đích kinh doanh;\n10. Đất làm nghĩa trang, nghĩa địa;\n11. Đất tổ chức kinh tế sử dụng quy định tại  khoản 3 Điều 127 và khoản 2 Điều 128 của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_datsudungondinhlaudai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng ổn định lâu dài"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_dato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "khainiem_datthuongmaidichvu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất thương mại, dịch vụ"
+      }
+    },
+    {
+      "id": "khainiem_datcososanxuatphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cơ sở sản xuất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungtrusocquan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng trụ sở cơ quan"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungcongtrinhsunghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình sự nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_tochucsunghiệpconglap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "khainiem_datsudungvaomucdichquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "khainiem_datcosotongiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "khainiem_dattinn ngưỡng",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tín ngưỡng"
+      }
+    },
+    {
+      "id": "khainiem_datgiaothongthuylợi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất giao thông, thủy lợi"
+      }
+    },
+    {
+      "id": "khainiem_datcoditichlichsuvanhoadanhlamthangcanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungcaccongtrinhcongcongkhac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng các công trình công cộng khác"
+      }
+    },
+    {
+      "id": "khainiem_datlamnghiatrangnghiadia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất làm nghĩa trang, nghĩa địa"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datsudungondinhlaudai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_dato",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datthuongmaidichvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datcososanxuatphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datxaydungtrusocquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datxaydungcongtrinhsunghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "chuthe_tochucsunghiệpconglap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datsudungvaomucdichquocphonganinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datcosotongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_dattinnnguong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datgiaothongthuylợi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datcoditichlichsuvanhoadanhlamthangcanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datxaydungcaccongtrinhcongcongkhac",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "khainiem_datlamnghiatrangnghiadia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_125_2013",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

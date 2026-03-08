@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_172_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 172. Quyền lựa chọn hình thức trả tiền thuê đất",
+        "ma_dieu": "172",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 172.\n\nQuyền lựa chọn hình thức trả tiền thuê đất\n1. Tổ chức kinh tế, tổ chức sự nghiệp công lập tự chủ tài chính, hộ gia đình, cá nhân, người Việt Nam\nđịnh cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài quy định tại  khoản 1 Điều 56 của Luật\nnày được lựa chọn hình thức thuê đất trả tiền thuê đất hàng năm hoặc thuê đất trả tiền thuê đất một lần\ncho cả thời gian thuê.\n2. Tổ chức kinh tế, tổ chức sự nghiệp công lập tự chủ tài chính, hộ gia đình, cá nhân, người Việt Nam\nđịnh cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài đang được Nhà nước cho thuê đất trả\ntiền thuê đất hàng năm được chuyển sang thuê đất trả tiền thuê đất một lần cho cả thời gian thuê và\nphải xác định lại giá đất cụ thể để tính tiền thuê đất tại thời điểm có quyết định cho phép chuyển sang\nthuê đất theo hình thức trả tiền thuê đất một lần cho cả thời gian thuê theo quy định của Luật này .\nMỤC 2. QUYỀN VÀ NGHĨA  VỤ CỦA  TỔ CHỨC SỬ DỤNG ĐẤT"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_snghiepconglap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sự nghiệp công lập tự chủ tài chính"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_172_2013",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2013",
+      "target_id": "chuthe_tochuc_snghiepconglap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}
