@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_104_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 104.",
+        "ma_dieu": "104",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 104.\n\nCấp Giấy chứng nhận đối với tài sản gắn liền với đất about:blank\n. Tài sản gắn liền với đất được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài\nsản khác gắn liền với đất bao gồm nhà ở, công trình xây dựng khác, rừng sản xuất là rừng trồng và cây\nlâu năm có tại thời điểm cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác\ngắn liền với đất.\n2. Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất\nđối với tài sản gắn liền với đất thực hiện theo quy định của Chính phủ."
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận"
+      }
+    },
+    {
+      "id": "khainiem_taisangganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensdd",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_nhano",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà ở"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhxaydungkhac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình xây dựng khác"
+      }
+    },
+    {
+      "id": "khainiem_rungsanxuatlarungtrong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "rừng sản xuất là rừng trồng"
+      }
+    },
+    {
+      "id": "khainiem_caylaunam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cây lâu năm"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_104_2013",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_104_2013",
+      "target_id": "khainiem_taisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "target_id": "khainiem_taisangganlienvoidat",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "khainiem_taisangganlienvoidat",
+      "target_id": "khainiem_nhano",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "khainiem_taisangganlienvoidat",
+      "target_id": "khainiem_congtrinhxaydungkhac",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "khainiem_taisangganlienvoidat",
+      "target_id": "khainiem_rungsanxuatlarungtrong",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "khainiem_taisangganlienvoidat",
+      "target_id": "khainiem_caylaunam",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_104_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

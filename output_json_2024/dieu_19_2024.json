@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_19_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 19. Vai trò, trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt\ntrận tr ong quản lý và sử dụng đất đai",
+        "ma_dieu": "19",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 19.\n\nVai trò, trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt\ntrận tr ong quản lý và sử dụng đất đai\n1. Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam tham gia xây dựng pháp luật, thực hiện phản biện xã\nhội đối với dự thảo văn bản pháp luật về đất đai, dự thảo quy hoạch, kế hoạch sử dụng đất quốc gia, dự\nán có sử dụng đất do Quốc hội, Thủ tướng Chính phủ quyết định, chấp thuận chủ trương đầu tư.\n2. Ủy ban Mặt trận Tổ quốc Việt Nam các cấp có trách nhiệm sau đây:\na) Tham gia xây dựng pháp luật; thực hiện phản biện xã hội đối với dự thảo văn bản pháp luật về đất\nđai, dự thảo quy hoạch, kế hoạch sử dụng đất cùng cấp, dự án có sử dụng đất do Hội đồng nhân dân,\nỦy ban nhân dân cùng cấp quyết định, chấp thuận chủ trương đầu tư;\nb) Tham gia ý kiến về trường hợp thu hồi đất, phương án bồi thường, hỗ trợ, tái định cư, trường hợp\ncưỡng chế khi thực hiện thu hồi đất;\nc) Tham gia ý kiến, giám sát quá trình xây dựng bảng giá đất và thực hiện bảng giá đất;\nd) Tham gia hòa giải tranh chấp đất đai theo quy định của pháp luật;\nđ) Giám sát việc thực hiện chính sách, pháp luật về thu hồi đất, trưng dụng đất; về bồi thường, hỗ trợ,\ntái định cư; về giao đất, cho thuê đất, chuyển mục đích sử dụng đất; về cấp Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu tài sản gắn liền với đất.\n3. Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận có trách nhiệm trong việc tuyên\ntruyền, phổ biến chính sách, pháp luật về đất đai tới Nhân dân, vận động Nhân dân thực hiện và chấp\nhành tốt chính sách, pháp luật về đất đai."
+      }
+    },
+    {
+      "id": "chuthe_matrantochocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Mặt trận Tổ quốc Việt Nam"
+      }
+    },
+    {
+      "id": "chuthe_cacotochucthanhvien",
+      "label": "ChuThe",
+      "properties": {
+        "name": "các tổ chức thành viên của Mặt trận"
+      }
+    },
+    {
+      "id": "chuthe_uybantunguong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+      }
+    },
+    {
+      "id": "chuthe_uybanmttqvncaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban Mặt trận Tổ quốc Việt Nam các cấp"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_19_2024",
+      "target_id": "chuthe_matrantochocvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_19_2024",
+      "target_id": "chuthe_cacotochucthanhvien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_19_2024",
+      "target_id": "chuthe_uybantunguong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_19_2024",
+      "target_id": "chuthe_uybanmttqvncaccap",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

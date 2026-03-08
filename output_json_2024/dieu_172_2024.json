@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_172_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 172. Đất sử dụng có thời hạn",
+        "ma_dieu": "172",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 172.\n\nĐất sử dụng có thời hạn\n1. Trừ các trường hợp quy định tại Điều 171 của Luật này , thời hạn sử dụng đất khi được Nhà nước\ngiao đất, cho thuê đất, công nhận quyền sử dụng đất được quy định như sau:\na) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất\nnông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu about:blank\nnăm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này  là 50 năm. Khi\nhết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không\nphải làm thủ tục gia hạn;\nb) Thời hạn cho thuê đất nông nghiệp đối với cá nhân không quá 50 năm. Khi hết thời hạn thuê đất, cá\nnhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất nhưng không quá 50 năm;\nc) Thời hạn giao đất, cho thuê đất để thực hiện các dự án đầu tư có sử dụng đất được xem xét, quyết\nđịnh theo thời hạn hoạt động của dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng không quá 50\nnăm.\nĐối với các dự án có thời hạn hoạt động trên 50 năm theo quy định của Luật Đầu tư  thì thời hạn giao\nđất, cho thuê đất theo thời hạn của dự án nhưng không quá 70 năm.\nKhi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia\nhạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này .\nTrường hợp không phải lập dự án đầu tư thì thời hạn sử dụng đất được xem xét trên cơ sở đơn xin giao\nđất, cho thuê đất nhưng không quá 50 năm;\nd) Thời hạn cho thuê đất xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao\nkhông quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử\ndụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác; thời hạn gia hạn hoặc cho thuê\nđất khác không quá thời hạn quy định tại khoản này .\n2. Thời hạn giao đất, cho thuê đất quy định tại Điều này được tính từ ngày có quyết định giao đất, cho\nthuê đất của cơ quan nhà nước có thẩm quyền.\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp\nquy định tại điểm a khoản 1 Điều này . Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ\nsơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ\nsơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử\ndụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà\nnước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này .\n4. Trường hợp không được gia hạn sử dụng đất, người sử dụng đất có trách nhiệm xử lý tài sản gắn\nliền với đất để hoàn trả mặt bằng cho Nhà nước. Quá thời hạn 24 tháng kể từ thời điểm hết thời hạn sử\ndụng đất mà người sử dụng đất không xử lý tài sản thì Nhà nước thu hồi đất mà không bồi thường về\nđất và tài sản gắn liền với đất; trường hợp phải phá dỡ, chủ sở hữu tài sản phải chịu chi phí phá dỡ.\n5. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datsudungcothoihan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng có thời hạn"
+      }
+    },
+    {
+      "id": "dieukien_thoihansudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Thời hạn sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Công nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "hanhviphaply_giahansudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Gia hạn sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "khainiem_datsudungcothoihan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "dieukien_thoihansudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "chuthe_tochucnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "hanhviphaply_giahansudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_172_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

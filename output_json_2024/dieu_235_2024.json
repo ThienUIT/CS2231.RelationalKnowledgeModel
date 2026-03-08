@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_235_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 235. Hòa giải tranh chấp đất đai",
+        "ma_dieu": "235",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 235.\n\nHòa giải tranh chấp đất đai\n1. Nhà nước khuyến khích các bên tranh chấp đất đai tự hòa giải, hòa giải ở cơ sở theo quy định của\npháp luật về hòa giải ở cơ sở, hòa giải theo quy định của pháp luật về hòa giải thương mại hoặc cơ chế\nhòa giải khác theo quy định của pháp luật.\n2. Trước khi cơ quan nhà nước có thẩm quyền giải quyết tranh chấp đất đai quy định tại Điều 236 của\nLuật này , các bên tranh chấp phải thực hiện hòa giải tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp.\nViệc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp được thực hiện như\nsau:\na) Sau k hi nhận được đơn yêu cầu hòa giải tranh chấp đất đai, Chủ tịch Ủy ban nhân dân cấp xã có\ntrách nhiệm thành lập Hội đồng hòa giải tranh chấp đất đai để thực hiện hòa giải tranh chấp đất đai;\nb) Thành phần Hội đồng hòa giải tranh chấp đất đai bao gồm: Chủ tịch hoặc Phó Chủ tịch Ủy ban nhân\ndân cấp xã là Chủ tịch Hội đồng, đại diện Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, công chức làm\ncông tác địa chính, người sinh sống lâu năm biết rõ về nguồn gốc và quá trình sử dụng đối với thửa đất\ntranh chấp (nếu có). Tùy từng trường hợp cụ thể, có thể mời đại diện tổ chức, cá nhân khác tham gia\nHội đồng hòa giải tranh chấp đất đai;\nc) Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã được thực hiện trong thời hạn không quá\n30 ngày kể từ ngày nhận được đơn yêu cầu hòa giải tranh chấp đất đai ;\nd) Việc hòa giải phải được lập thành biên bản có chữ ký của các bên tham gia hòa giải và có xác nhận\nhòa giải thành hoặc hòa giải không thành của Ủy ban nhân dân cấp xã. Biên bản hòa giải được gửi đến\ncác bên tranh chấp, lưu tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp ;\nđ) Trường hợp hòa giải không thành mà một hoặc các bên tranh chấp không ký vào biên bản thì Chủ\ntịch Hội đồng, các thành viên tham gia hòa giải phải ký vào biên bản, đóng dấu của Ủy ban nhân dân\ncấp xã và gửi cho các bên tranh chấp. about:blank\n. Hòa giải tranh chấp đất đai tại Tòa án được thực hiện theo quy định của pháp luật về hòa giải, đối\nthoại tại Tòa án và pháp luật về tố tụng dân sự. Hòa giải tranh chấp giữa các bên phát sinh từ hoạt động\nthương mại liên quan tới đất đai bằng hòa giải thương mại thực hiện theo pháp luật về hòa giải thương\nmại.\n4. Đối với trường hợp hòa giải tranh chấp đất đai quy định tại các khoản 1, 2 và 3 Điều này mà hòa giải\nthành và có thay đổi hiện trạng về ranh giới, diện tích, người sử dụng đất thì trong thời hạn 30 ngày làm\nviệc kể từ ngày nhận được văn bản công nhận kết quả hòa giải thành, các bên tham gia hòa giải phải gửi\nvăn bản công nhận kết quả hòa giải thành đến cơ quan nhà nước có thẩm quyền để thực hiện việc đăng\nký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định.\n5. Đối với địa bàn không thành lập đơn vị hành chính cấp xã trực thuộc Ủy ban nhân dân cấp huyện thì\nkhông thực hiện quy định tại khoản 2 Điều này . Thẩm quyền giải quyết tranh chấp đất đai được thực\nhiện theo quy định tại  Điều 236 của Luật này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_hoagiaitran chấpđatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hòa giải tranh chấp đất đai"
+      }
+    },
+    {
+      "id": "chuthe_ben tranh chấpđatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Các bên tranh chấp đất đai"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "khainiem_hoigiaithaithuongmai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hòa giải thương mại"
+      }
+    },
+    {
+      "id": "khainiem_hoigiaiocoso",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hòa giải ở cơ sở"
+      }
+    },
+    {
+      "id": "chuthe_ubmttqvncx",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_congchucdiachinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công chức làm công tác địa chính"
+      }
+    },
+    {
+      "id": "dieukien_hoigiaithanh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Hòa giải thành"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_235_2024",
+      "target_id": "hanhviphaply_hoagiaitran chấpđatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_235_2024",
+      "target_id": "chuthe_ben tranh chấpđatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_235_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_235_2024",
+      "target_id": "khainiem_hoigiaithaithuongmai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_235_2024",
+      "target_id": "khainiem_hoigiaiocoso",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_235_2024",
+      "target_id": "chuthe_ubmttqvncx",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_235_2024",
+      "target_id": "chuthe_congchucdiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_235_2024",
+      "target_id": "dieukien_hoigiaithanh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

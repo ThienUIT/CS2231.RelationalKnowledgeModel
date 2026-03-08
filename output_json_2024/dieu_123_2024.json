@@ -1,0 +1,189 @@
+{
+  "entities": [
+    {
+      "id": "dieu_123_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 123. Thẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất",
+        "ma_dieu": "123",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 123.\n\nThẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n1. Ủy ban nhân dân cấp tỉnh quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\ntrong các trường hợp sau đây:\na) Giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với tổ chức trong nước;\nb) Giao đất, cho thuê đất đối với tổ chức tôn giáo, tổ chức tôn giáo trực thuộc;\nc) Giao đất, cho thuê đất đối với người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn\nđầu tư nước ngoài;\nd) Cho thuê đất đối với tổ chức nước ngoài có chức năng ngoại giao. about:blank\n. Ủy ban nhân dân cấp huyện quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng\nđất trong các trường hợp sau đây:\na) Giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với cá nhân. Trường hợp cho cá\nnhân thuê đất, cho phép chuyển mục đích sử dụng đất nông nghiệp để sử dụng vào mục đích thương\nmại, dịch vụ với diện tích từ 0,5 ha trở lên thì phải có văn bản chấp thuận của Ủy ban nhân dân cấp tỉnh\ntrước khi quyết định;\nb) Giao đất đối với cộng đồng dân cư.\n3. Ủy ban nhân dân cấp xã cho thuê đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích của\nxã, phường, thị trấn.\n4. Cơ quan nhà nước có thẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất quy\nđịnh tại khoản 1 và khoản 2 Điều này là cơ quan có thẩm quyền quyết định điều chỉnh, gia hạn sử dụng\nđất đối với trường hợp người sử dụng đất đã có quyết định giao đất, cho thuê đất, cho phép chuyển\nmục đích sử dụng đất trước ngày Luật này có hiệu lực thi hành và các trường hợp quyết định giao đất,\ncho thuê đất, cho phép chuyển mục đích sử dụng đất theo quy định của Luật này .\n5. Cơ quan nhà nước có thẩm quyền quy định tại các khoản 1, 2 và 4 Điều này không được phân cấp,\nkhông được ủy quyền."
+      }
+    },
+    {
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho phép chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức trong nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tcktvonnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaingoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "dieukien_vandieukienubndcapptinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "phải có văn bản chấp thuận của Ủy ban nhân dân cấp tỉnh trước khi quyết định"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_tochucnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_tochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_nguoigocvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_tcktvonnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_tochucnuocngoaingoaigiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "target_id": "dieukien_vandieukienubndcapptinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat",
+      "target_id": "dieukien_vandieukienubndcapptinh",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

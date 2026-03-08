@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_105_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 105. Thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+        "ma_dieu": "105",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 105.\n\nThẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản\nkhác gắn liền với đất\n1. Ủy ban nhân dân cấp tỉnh cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản\nkhác gắn liền với đất cho tổ chức, cơ sở tôn giáo; người Việt Nam định cư ở nước ngoài, doanh nghiệp\ncó vốn đầu tư nước ngoài thực hiện dự án đầu tư; tổ chức nước ngoài có chức năng ngoại giao.\nỦy ban nhân dân cấp tỉnh được ủy quyền cho cơ quan tài nguyên và môi trường cùng cấp cấp Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.\n2. Ủy ban nhân dân cấp huyện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản\nkhác gắn liền với đất cho hộ gia đình, cá nhân, cộng đồng dân cư, người Việt Nam định cư ở nước\nngoài được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam.\n3. Đối với những trường hợp đã được cấp Giấy chứng nhận, Giấy chứng nhận quyền sở hữu nhà ở,\nGiấy chứng nhận quyền sở hữu công trình xây dựng mà thực hiện các quyền của người sử dụng đất,\nchủ sở hữu tài sản gắn liền với đất hoặc cấp đổi, cấp lại Giấy chứng nhận, Giấy chứng nhận quyền sở\nhữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng thì do cơ quan tài nguyên và môi\ntrường thực hiện theo quy định của Chính phủ."
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_cosotongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "doanh nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_covondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_cochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_coquantainuyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan tài nguyên và môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_cosotongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_doanhnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_covondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_tochucnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_cochucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_uybannhandancaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_coquantainuyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

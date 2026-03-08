@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_128_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 128. Nguyên tắc lập, chỉnh lý, cập nhật hồ sơ địa chính",
+        "ma_dieu": "128",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 128.\n\nNguyên tắc lập, chỉnh lý, cập nhật hồ sơ địa chính\n1. Hồ sơ địa chính được lập đến từng thửa đất, bảo đảm tính khoa học và thống nhất thông tin trong hồ\nsơ với hiện trạng quản lý, sử dụng đất; được tập hợp theo đơn vị hành chính cấp xã hoặc theo đơn vị\nhành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã.\n2. Hồ sơ địa chính phải được chỉnh lý, cập nhật biến động đầy đủ, kịp thời khi người sử dụng đất thực\nhiện thủ tục hành chính về đất đai hoặc do yêu cầu của cơ quan nhà nước có thẩm quyền, bảo đảm phản\nánh đầy đủ tình hình quản lý, sử dụng đất trên địa bàn."
+      }
+    },
+    {
+      "id": "khainiem_hosodiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "khainiem_thuadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thửa đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_laphosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_chinhlyhosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chỉnh lý hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_capnhathosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cập nhật hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchienthutuchanhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện thủ tục hành chính"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_128_2024",
+      "target_id": "khainiem_hosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2024",
+      "target_id": "khainiem_thuadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2024",
+      "target_id": "hanhviphaply_laphosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2024",
+      "target_id": "hanhviphaply_chinhlyhosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2024",
+      "target_id": "hanhviphaply_capnhathosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2024",
+      "target_id": "hanhviphaply_thuchienthutuchanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_128_2024",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

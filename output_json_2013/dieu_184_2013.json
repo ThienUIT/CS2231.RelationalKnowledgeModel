@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_184_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 184. Quyền và nghĩa vụ của doanh nghiệp liên doanh sử dụng đất do nhận góp vốn bằng quyền sử dụng đất; doanh nghiệp 100% vốn đầu tư nước ngoài được chuyển đổi từ doanh nghiệp liên doanh",
+        "ma_dieu": "184",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 184.\n\nQuyền và nghĩa vụ của doanh nghiệp liên doanh sử dụng đất do nhận góp vốn bằng\nquyền sử dụng đất; doanh nghiệp 100% vốn đầu tư nước ngoài được chuyển đổi từ doanh\nnghiệp liên doanh\n1. Doanh nghiệp liên doanh giữa tổ chức nước ngoài, cá nhân nước ngoài, người Việt Nam định cư ở\nnước ngoài với tổ chức kinh tế mà tổ chức kinh tế góp vốn bằng quyền sử dụng đất thì doanh nghiệp\nliên doanh có quyền và nghĩa vụ quy định tại  Điều 174 của Luật này  trong các trường hợp sau đây:\na) Đất của tổ chức kinh tế góp vốn do được Nhà nước giao có thu tiền sử dụng đất, cho thuê đất trả\ntiền thuê đất một lần cho cả thời gian thuê mà tiền sử dụng đất, tiền thuê đất đã nộp không có nguồn\ngốc từ ngân sách nhà nước;\nb) Đất của tổ chức kinh tế góp vốn do nhận chuyển nhượng quyền sử dụng đất không phải là đất thuê\ncủa Nhà nước trả tiền thuê đất hàng năm mà tiền đã trả cho việc nhận chuyển nhượng không có nguồn\ngốc từ ngân sách nhà nước. about:blank\n. Doanh nghiệp nhà nước được Nhà nước cho thuê đất trước ngày 01 tháng 7 năm 2004 mà được sử\ndụng giá trị quyền sử dụng đất như ngân sách nhà nước cấp cho doanh nghiệp, không phải ghi nhận nợ\nvà không phải hoàn trả tiền thuê đất theo quy định của pháp luật về đất đai để góp vốn liên doanh với\ntổ chức nước ngoài, cá nhân nước ngoài thì doanh nghiệp liên doanh có quyền, nghĩa vụ quy định tại\nĐiều 174 của Luật này . Giá trị quyền sử dụng đất là phần vốn của Nhà nước đóng góp vào doanh\nnghiệp liên doanh.\n3. Người Việt Nam định cư ở nước ngoài được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất\ntrả tiền thuê đất một lần cho cả thời gian thuê mà góp vốn bằng quyền sử dụng đất với tư cách là tổ\nchức kinh tế trong nước vào liên doanh với tổ chức nước ngoài, cá nhân nước ngoài thì doanh nghiệp\nliên doanh có quyền và nghĩa vụ quy định  tại Điều 174 của Luật này .\n4. Doanh nghiệp liên doanh mà bên Việt Nam góp vốn bằng quyền sử dụng đất nay chuyển thành doanh\nnghiệp có 100% vốn nước ngoài thì có các quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ theo quy định tại  khoản 2 Điều 183 của Luật này  đối với trường hợp quyền sử\ndụng đất do nhận góp vốn trước đó không thuộc trường hợp được sử dụng để thực hiện các dự án đầu\ntư nhà ở để bán và doanh nghiệp 100% vốn nước ngoài được Nhà nước cho thuê đất thu tiền thuê đất\nhàng năm theo quy định tại  khoản 1 Điều 56 của Luật này ;\nb) Quyền và nghĩa vụ theo quy định tại  khoản 3 Điều 183 của Luật này  đối với trường hợp quyền sử\ndụng đất do nhận góp vốn trước đó không thuộc trường hợp được sử dụng để thực hiện các dự án đầu\ntư nhà ở để bán và doanh nghiệp 100% vốn nước ngoài được Nhà nước cho thuê đất thu tiền thuê đất\nmột lần cho cả thời gian thuê theo quy định tại  khoản 1 Điều 56 của Luật này ;\nc) Quyền và nghĩa vụ theo quy định tại  khoản 3 Điều 183 của Luật này  đối với trường hợp quyền sử\ndụng đất do nhận góp vốn trước đó được sử dụng để thực hiện các dự án đầu tư nhà ở để bán và doanh\nnghiệp 100% vốn nước ngoài được Nhà nước giao đất theo quy định tại  khoản 3 Điều 55 của Luật này ."
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepliendoanh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp liên doanh"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_canhannuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "dieu_174_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 174 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepnhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiep100vonnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp 100% vốn nước ngoài"
+      }
+    },
+    {
+      "id": "dieu_183_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 183 của Luật này"
+      }
+    },
+    {
+      "id": "dieu_56_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 56 của Luật này"
+      }
+    },
+    {
+      "id": "dieu_55_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 55 của Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "chuthe_doanhnghiepliendoanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "chuthe_tochucnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "chuthe_canhannuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "dieu_174_2013",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "chuthe_doanhnghiepnhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "chuthe_doanhnghiep100vonnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "dieu_183_2013",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "dieu_56_2013",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2013",
+      "target_id": "dieu_55_2013",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "entities": [
+    {
+      "id": "dieu_238_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 238. Giải quyết tố cáo về quản lý, sử dụng đất đai",
+        "ma_dieu": "238",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 238.\n\nGiải quyết tố cáo về quản lý, sử dụng đất đai\n1. Cá nhân có quyền tố cáo  hành vi vi phạm pháp luật về quản lý, sử dụng đất đai.\n2. Việc giải quyết tố cáo vi phạm pháp luật về quản lý, sử dụng đất đai thực hiện theo quy định của\npháp luật về tố cáo.\n3. Việc thu thập, bảo quản, sử dụng và lưu trữ hồ sơ, tài liệu liên quan đến giải quyết tố cáo về quản lý,\nsử dụng đất đai thực hiện theo quy định của pháp luật về tố cáo.\nMục 3. XỬ LÝ VI PHẠM PHÁP  LUẬT  VỀ ĐẤT  ĐAI"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_tocao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tố cáo"
+      }
+    },
+    {
+      "id": "khainiem_quanlysudungdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quản lý, sử dụng đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_238_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_238_2024",
+      "target_id": "hanhviphaply_tocao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_238_2024",
+      "target_id": "khainiem_quanlysudungdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "target_id": "hanhviphaply_tocao",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

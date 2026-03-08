@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_88_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 88. Nguyên tắc bồi thường thiệt hại về tài sản, ngừng sản xuất, kinh doanh khi Nhà nước thu hồi đất",
+        "ma_dieu": "88",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 88.\n\nNguyên tắc bồi thường thiệt hại về tài sản, ngừng sản xuất, kinh doanh khi Nhà nước\nthu hồi đất\n1. Khi Nhà nước thu hồi đất mà chủ sở hữu tài sản hợp pháp gắn liền với đất bị thiệt hại về tài sản thì\nđược bồi thường.\n2. Khi Nhà nước thu hồi đất mà tổ chức, hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài,\ndoanh nghiệp có vốn đầu tư nước ngoài phải ngừng sản xuất, kinh doanh mà có thiệt hại thì được bồi\nthường thiệt hại."
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocchothue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_chusohuutaisan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "chủ sở hữu tài sản"
+      }
+    },
+    {
+      "id": "khainiem_taisanhop pháp",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tài sản hợp pháp gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_88_2013",
+      "target_id": "hanhviphaply_nhanuocchothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_88_2013",
+      "target_id": "chuthe_chusohuutaisan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_88_2013",
+      "target_id": "khainiem_taisanhop pháp",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_88_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_88_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_88_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_88_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_88_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

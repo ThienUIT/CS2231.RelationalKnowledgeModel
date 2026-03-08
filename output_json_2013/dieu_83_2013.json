@@ -1,0 +1,184 @@
+{
+  "entities": [
+    {
+      "id": "dieu_83_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 83. Hỗ trợ khi Nhà nước thu hồi đất",
+        "ma_dieu": "83",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 83.\n\nHỗ trợ khi Nhà nước thu hồi đất\n1. Nguyên tắc hỗ trợ khi Nhà nước thu hồi đất:\na) Người sử dụng đất khi Nhà nước thu hồi đất ngoài việc được bồi thường theo quy định của Luật\nnày còn được Nhà nước xem xét hỗ trợ;\nb) Việc hỗ trợ phải bảo đảm khách quan, công bằng, kịp thời, công khai và đúng quy định của pháp luật.\n2. Các khoản hỗ trợ khi Nhà nước thu hồi đất bao gồm:\na) Hỗ trợ ổn định đời sống và sản xuất;\nb) Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm đối với trường hợp thu hồi đất nông nghiệp\ncủa hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp; thu hồi đất ở kết hợp kinh doanh dịch vụ của\nhộ gia đình, cá nhân mà phải di chuyển chỗ ở;\nc) Hỗ trợ tái định cư đối với trường hợp thu hồi đất ở của hộ gia đình, cá nhân, người Việt Nam định\ncư ở nước ngoài mà phải di chuyển chỗ ở;\nd) Hỗ trợ khác.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_boithuong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bồi thường"
+      }
+    },
+    {
+      "id": "khainiem_hotro",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hỗ trợ"
+      }
+    },
+    {
+      "id": "khainiem_hotroondinhdoisongvasanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hỗ trợ ổn định đời sống và sản xuất"
+      }
+    },
+    {
+      "id": "khainiem_hotrodaotaochuyendoingevatimkiemvieclam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datoket hopkinhdoanhdichvu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất ở kết hợp kinh doanh dịch vụ"
+      }
+    },
+    {
+      "id": "khainiem_hotrotaidinhcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hỗ trợ tái định cư"
+      }
+    },
+    {
+      "id": "khainiem_dato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất ở"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "khainiem_hotrokhac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hỗ trợ khác"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_boithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_hotro",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_hotroondinhdoisongvasanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_hotrodaotaochuyendoingevatimkiemvieclam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_datoket hopkinhdoanhdichvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_hotrotaidinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_dato",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2013",
+      "target_id": "khainiem_hotrokhac",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

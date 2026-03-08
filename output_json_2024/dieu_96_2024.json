@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_96_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 96. Bồi thường về đất khi Nhà nước thu hồi đất nông nghiệp của hộ gia đình, cá nhân",
+        "ma_dieu": "96",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 96.\n\nBồi thường về đất khi Nhà nước thu hồi đất nông nghiệp của hộ gia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất, nếu có đủ điều kiện\nđược bồi thường quy định tại Điều 95 của Luật này  thì được bồi thường bằng đất nông nghiệp hoặc\nbằng tiền hoặc bằng đất có mục đích sử dụng khác với loại đất thu hồi hoặc bằng nhà ở.\n2. Hộ gia đình, cá nhân đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất thì việc bồi thường về\nđất nông nghiệp được quy định như sau:\na) Diện tích đất nông nghiệp được bồi thường bao gồm diện tích trong hạn mức quy định tại Điều 176\nvà Điều 177 của Luật này  và diện tích đất do được nhận thừa kế;\nb) Đối với diện tích đất nông nghiệp do nhận chuyển quyền sử dụng đất vượt hạn mức trước ngày 01\ntháng 7 năm 2014 thì việc bồi thường, hỗ trợ được thực hiện theo quy định của Chính phủ.\n3. Đối với đất nông nghiệp đã sử dụng trước ngày 01 tháng 7 năm 2004 mà người sử dụng đất là hộ gia\nđình, cá nhân trực tiếp sản xuất nông nghiệp nhưng không đủ điều kiện để được cấp Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này thì việc bồi\nthường được thực hiện theo quy định của Chính phủ."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_boithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_96_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_96_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_96_2024",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_96_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_96_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_96_2024",
+      "target_id": "hanhviphaply_boithuong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

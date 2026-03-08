@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_169_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 169.",
+        "ma_dieu": "169",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 169.\n\nNhận quyền sử dụng đất about:blank\n. Người nhận quyền sử dụng đất được quy định như sau:\na) Hộ gia đình, cá nhân được nhận chuyển quyền sử dụng đất nông nghiệp thông qua chuyển đổi quyền\nsử dụng đất quy định tại  điểm b khoản 1 Điều 179 của Luật này ;\nb) Tổ chức kinh tế, hộ gia đình, cá nhân được nhận chuyển quyền sử dụng đất thông qua nhận chuyển\nnhượng quyền sử dụng đất, trừ trường hợp quy định tại  Điều 191 của Luật này ; người Việt Nam định\ncư ở nước ngoài được nhận chuyển quyền sử dụng đất thông qua nhận chuyển nhượng quyền sử dụng\nđất trong khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế. Doanh\nnghiệp có vốn đầu tư nước ngoài được nhận chuyển nhượng vốn đầu tư là giá trị quyền sử dụng đất\ntheo quy định của Chính phủ;\nc) Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư được nhận chuyển quyền sử dụng đất thông qua\nnhận tặng cho quyền sử dụng đất theo quy định tại  điểm c khoản 2 Điều 174 và điểm e khoản 1 Điều\n179 của Luật này , trừ trường hợp quy định tại  Điều 191 của Luật này ;\nd) Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư được nhận chuyển quyền sử dụng đất thông qua\nnhận thừa kế quyền sử dụng đất;\nđ) Người Việt Nam định cư ở nước ngoài thuộc diện được sở hữu nhà ở tại Việt Nam theo quy định của\npháp luật về nhà ở được nhận chuyển quyền sử dụng đất ở thông qua hình thức mua, thuê mua, nhận\nthừa kế, nhận tặng cho nhà ở gắn liền với quyền sử dụng đất ở hoặc được nhận quyền sử dụng đất ở\ntrong các dự án phát triển nhà ở;\ne) Tổ chức kinh tế, doanh nghiệp liên doanh nhận chuyển quyền sử dụng đất thông qua nhận góp vốn\nbằng quyền sử dụng đất;\ng) Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư, cơ sở tôn giáo, người Việt Nam định cư ở nước\nngoài được nhận quyền sử dụng đất thông qua việc Nhà nước giao đất; doanh nghiệp có vốn đầu tư\nnước ngoài nhận quyền sử dụng đất thông qua việc Nhà nước giao đất để thực hiện các dự án đầu tư\nxây dựng nhà ở để bán hoặc để bán kết hợp cho thuê;\nh) Tổ chức kinh tế, tổ chức sự nghiệp công lập tự chủ tài chính, hộ gia đình, cá nhân, người Việt Nam\nđịnh cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại\ngiao được nhận quyền sử dụng đất thông qua việc Nhà nước cho thuê đất;\ni) Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư, cơ sở tôn giáo được nhận quyền sử dụng đất thông\nqua việc Nhà nước công nhận quyền sử dụng đất đối với đất đang được sử dụng ổn định;\nk) Tổ chức, hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư\nnước ngoài được nhận quyền sử dụng đất theo kết quả hòa giải thành về tranh chấp đất đai được Ủy\nban nhân dân cấp có thẩm quyền công nhận; thỏa thuận trong hợp đồng thế chấp để xử lý nợ; quyết\nđịnh của cơ quan nhà nước có thẩm quyền về giải quyết tranh chấp đất đai, khiếu nại, tố cáo về đất\nđai, quyết định hoặc bản án của Tòa án nhân dân, quyết định thi hành án của cơ quan thi hành án đã\nđược thi hành; văn bản công nhận kết quả đấu giá quyền sử dụng đất phù hợp với pháp luật; văn bản\nvề việc chia tách quyền sử dụng đất phù hợp với pháp luật đối với hộ gia đình hoặc nhóm người có\nquyền sử dụng đất chung;\nl) Cộng đồng dân cư, cơ sở tôn giáo, được nhận quyền sử dụng đất theo kết quả hòa giải thành về tranh\nchấp đất đai được Ủy ban nhân dân cấp có thẩm quyền công nhận; quyết định của cơ quan nhà nước\ncó thẩm quyền về giải quyết tranh chấp đất đai, khiếu nại, tố cáo về đất đai, quyết định hoặc bản án\ncủa Tòa án nhân dân, quyết định thi hành án của cơ quan thi hành án đã được thi hành;\nm) Tổ chức là pháp nhân mới được hình thành thông qua việc chia tách hoặc sáp nhập theo quyết định\ncủa cơ quan, tổ chức có thẩm quyền hoặc văn bản về việc chia tách hoặc sáp nhập tổ chức kinh tế phù\nhợp với pháp luật được nhận quyền sử dụng đất từ các tổ chức là pháp nhân bị chia tách hoặc sáp nhập.\n2. Hộ gia đình, cá nhân được nhận chuyển nhượng quyền sử dụng đất không phụ thuộc vào nơi cư trú,\ntrừ trường hợp quy định tại  khoản 3 và khoản 4 Điều 191 và Điều 192 của Luật này . about:blank"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyenquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochucconomi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_cototonaogiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_cosotongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_tochucsungtiepclap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sự nghiệp công lập tự chủ tài chính"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepvonnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "hanhviphaply_nhanchuyenquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_tochucconomi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_cosotongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_tochucsungtiepclap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_doanhnghiepvonnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_169_2013",
+      "target_id": "chuthe_cototonaogiao",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

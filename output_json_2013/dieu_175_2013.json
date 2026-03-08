@@ -1,0 +1,197 @@
+{
+  "entities": [
+    {
+      "id": "dieu_175_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 175. Quyền và nghĩa vụ của tổ chức kinh tế, tổ chức sự nghiệp công lập sử dụng đất thuê trả tiền thuê đất hàng năm",
+        "ma_dieu": "175",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 175.\n\nQuyền và nghĩa vụ của tổ chức kinh tế, tổ chức sự nghiệp công lập sử dụng đất thuê trả\ntiền thuê đất hàng năm\n1. Tổ chức kinh tế, tổ chức sự nghiệp công lập được Nhà nước cho thuê đất thu tiền thuê đất hàng năm\ncó các quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ chung quy định tại  Điều 166 và Điều 170 của Luật này ;\nb) Thế chấp tài sản thuộc sở hữu của mình gắn liền với đất thuê tại các tổ chức tín dụng được phép\nhoạt động tại Việt Nam;\nc) Bán tài sản thuộc sở hữu của mình gắn liền với đất thuê khi có đủ điều kiện quy định tại Điều 189\ncủa Luật này; người mua tài sản được Nhà nước tiếp tục cho thuê đất theo mục đích đã được xác định;\nd) Góp vốn bằng tài sản thuộc sở hữu của mình gắn liền với đất thuê; người nhận góp vốn bằng tài sản\nđược Nhà nước tiếp tục cho thuê đất theo mục đích đã được xác định;\nđ) Cho thuê lại quyền sử dụng đất theo hình thức trả tiền thuê đất hàng năm đối với đất đã được xây\ndựng xong kết cấu hạ tầng trong trường hợp được phép đầu tư xây dựng kinh doanh kết cấu hạ tầng\nđối với đất khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế.\n2. Tổ chức kinh tế, tổ chức sự nghiệp công lập sử dụng đất thuê của tổ chức, hộ gia đình, cá nhân ngoài\nkhu công nghiệp, cụm công nghiệp, khu chế xuất thì có các quyền và nghĩa vụ theo quy định của pháp\nluật về dân sự."
+      }
+    },
+    {
+      "id": "chuthe_tochucdanhmuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_tochucsunghiepconglap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuesudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất thuê trả tiền thuê đất hàng năm"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "dieu_166_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 166",
+        "ma_dieu": "166",
+        "phien_ban": 2013
+      }
+    },
+    {
+      "id": "dieu_170_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 170",
+        "ma_dieu": "170",
+        "phien_ban": 2013
+      }
+    },
+    {
+      "id": "hanhviphaply_thechaptaisanganlienvoithuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thế chấp tài sản thuộc sở hữu của mình gắn liền với đất thuê"
+      }
+    },
+    {
+      "id": "chuthe_tochuctindung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tín dụng"
+      }
+    },
+    {
+      "id": "hanhviphaply_bantaisanganlienvoithuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bán tài sản thuộc sở hữu của mình gắn liền với đất thuê"
+      }
+    },
+    {
+      "id": "dieu_189_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 189",
+        "ma_dieu": "189",
+        "phien_ban": 2013
+      }
+    },
+    {
+      "id": "hanhviphaply_gopvontaisanganlienvoithuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Góp vốn bằng tài sản thuộc sở hữu của mình gắn liền với đất thuê"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuelaisudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê lại quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_phapluatdansu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Pháp luật về dân sự"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "chuthe_tochucdanhmuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "chuthe_tochucsunghiepconglap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "hanhviphaply_thuesudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "dieu_166_2013",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "dieu_170_2013",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "hanhviphaply_thechaptaisanganlienvoithuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "chuthe_tochuctindung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "hanhviphaply_bantaisanganlienvoithuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "dieu_189_2013",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "hanhviphaply_gopvontaisanganlienvoithuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "hanhviphaply_chothuelaisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2013",
+      "target_id": "khainiem_phapluatdansu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

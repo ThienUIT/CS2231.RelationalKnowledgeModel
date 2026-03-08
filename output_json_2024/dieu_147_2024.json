@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_147_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 147. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất thuộc phạm vi nhiều đơn vị hành chính cấp xã",
+        "ma_dieu": "147",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 147.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất thuộc phạm vi nhiều đơn vị hành chính cấp xã\n1. Trường hợp thửa đất thuộc phạm vi nhiều xã, phường, thị trấn nhưng cùng thuộc thẩm quyền cấp\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất của một cơ quan thì cấp\nmột Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất;\ntrong đó phải xác định từng phần diện tích thuộc phạm vi từng đơn vị hành chính cấp xã.\n2. Trường hợp thửa đất thuộc phạm vi nhiều xã, phường, thị trấn thuộc thẩm quyền cấp Giấy chứng\nnhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất của các cơ quan khác nhau thì cấp Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo từng thửa đất thuộc thẩm\nquyền của từng cơ quan cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với\nđất."
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_thuadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thửa đất"
+      }
+    },
+    {
+      "id": "khainiem_donvihanhchinhcapxa",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đơn vị hành chính cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_coquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_147_2024",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_147_2024",
+      "target_id": "khainiem_thuadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_147_2024",
+      "target_id": "khainiem_donvihanhchinhcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_147_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "target_id": "khainiem_giaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_147_2024",
+      "target_id": "chuthe_coquan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

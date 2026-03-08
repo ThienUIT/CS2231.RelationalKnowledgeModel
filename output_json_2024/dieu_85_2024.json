@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_85_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 85",
+        "ma_dieu": "85",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 85.\n\nThông báo thu hồi đất và chấp hành quyết định thu hồi đất vì mục đích quốc phòng, an\nninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng about:blank\n. Trước khi ban hành quyết định thu hồi đất, cơ quan nhà nước có thẩm quyền phải gửi văn bản thông\nbáo thu hồi đất cho người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và\nnghĩa vụ liên quan (nếu có) biết chậm nhất là 90 ngày đối với đất nông nghiệp và 180 ngày đối với đất\nphi nông nghiệp. Nội dung thông báo thu hồi đất bao gồm: lý do thu hồi đất; diện tích, vị trí khu đất\nthu hồi; tiến độ thu hồi đất; kế hoạch điều tra, khảo sát, đo đạc, kiểm đếm; kế hoạch di dời người dân\nkhỏi khu vực thu hồi đất; kế hoạch bồi thường, hỗ trợ, tái định cư.\n2. Trường hợp người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ\nliên quan trong khu vực thu hồi đất đồng ý để cơ quan nhà nước có thẩm quyền thu hồi đất trước thời\nhạn quy định tại khoản 1 Điều này thì Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất mà\nkhông phải chờ đến hết thời hạn quy định tại khoản 1 Điều này .\n3. Người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất có trách nhiệm phối hợp với đơn vị, tổ\nchức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư  trong quá trình điều tra, khảo sát, đo đạc, kiểm\nđếm, xây dựng phương án bồi thường, hỗ trợ, tái định cư.\n4. Khi quyết định thu hồi đất có hiệu lực thi hành và phương án bồi thường, hỗ trợ, tái định cư đã được\ncơ quan có thẩm quyền phê duyệt được công bố công khai, người có đất thu hồi, chủ sở hữu tài sản\ngắn liền với đất, người có quyền lợi và nghĩa vụ liên quan phải chấp hành quyết định thu hồi đất.\n5. Hiệu lực của thông báo thu hồi đất là 12 tháng tính từ ngày ban hành thông báo thu hồi đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_thongbaothuhoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thông báo thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chophanhquyetdinhthuhoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chấp hành quyết định thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có đất thu hồi"
+      }
+    },
+    {
+      "id": "chuthe_chusohuutaisanganlienvoidat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoicoquyenloivaonghialienquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có quyền lợi và nghĩa vụ liên quan"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoccothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước có thẩm quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_phoihopvoiquatrinhdieutra",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phối hợp với đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư trong quá trình điều tra, khảo sát, đo đạc, kiểm đếm, xây dựng phương án bồi thường, hỗ trợ, tái định cư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_85_2024",
+      "target_id": "hanhviphaply_thongbaothuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2024",
+      "target_id": "hanhviphaply_chophanhquyetdinhthuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2024",
+      "target_id": "chuthe_nguoicodatthuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2024",
+      "target_id": "chuthe_chusohuutaisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2024",
+      "target_id": "chuthe_nguoicoquyenloivaonghialienquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2024",
+      "target_id": "chuthe_coquannhanuoccothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2024",
+      "target_id": "hanhviphaply_phoihopvoiquatrinhdieutra",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

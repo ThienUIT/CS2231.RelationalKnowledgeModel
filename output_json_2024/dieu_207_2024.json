@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_207_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 207. Đất sử dụng vào mục đích công cộng; đất để thực hiện dự án đầu tư theo phương thức đối tác công tư",
+        "ma_dieu": "207",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 207.\n\nĐất sử dụng vào mục đích công cộng; đất để thực hiện dự án đầu tư theo phương thức\nđối tác công tư\n1. Việc sử dụng đất vào mục đích công cộng phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy\nhoạc h chuyên ngành có sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n2. Đất sử dụng vào mục đích công cộng phải phân định rõ diện tích đất sử dụng không có mục đích kinh\ndoanh và diện tích đất sử dụng có mục đích kinh doanh.\nĐối với diện tích đất sử dụng không có mục đích kinh doanh thì Nhà nước giao đất không thu tiền sử\ndụng đất theo quy định tại Điều 1 18 của Luật này ; đối với diện tích đất sử dụng có mục đích kinh\ndoanh thì Nhà nước cho thuê đất theo quy định tại Điều 120 của Luật này .\n3. Nhà nước giao đất hoặc cho thuê đất đối với nhà đầu tư để thực hiện dự án đầu tư theo phương thức\nđối tác công tư có sử dụng đất theo quy định của Luật này .\n4. Chế độ quản lý, sử dụng đất, nghĩa vụ tài chính để thực hiện dự án đầu tư theo phương thức đối tác\ncông tư phải tuân theo quy định của Luật này và Luật Đầu tư theo phương thức đối tác công tư .\n5. Ủy ban nhân dân cấp tỉnh có trách nhiệm bố trí quỹ đất, giao đất cho lực lượng Công an nhân dân\nkhi có yêu cầu để bảo đảm an ninh, trật tự trong khu vực đất sử dụng vào mục đích công cộng, đất để\nthực hiện dự án đầu tư theo phương thức đối tác công tư."
+      }
+    },
+    {
+      "id": "khainiem_datsudungvaomucdichcongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích công cộng"
+      }
+    },
+    {
+      "id": "khainiem_datdethuchiendaucutheophuongthucdoitaccongtu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất để thực hiện dự án đầu tư theo phương thức đối tác công tư"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_nhadautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà đầu tư"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_lucluongcongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Lực lượng Công an nhân dân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_207_2024",
+      "target_id": "khainiem_datsudungvaomucdichcongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2024",
+      "target_id": "khainiem_datdethuchiendaucutheophuongthucdoitaccongtu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2024",
+      "target_id": "chuthe_nhadautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2024",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2024",
+      "target_id": "chuthe_lucluongcongan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

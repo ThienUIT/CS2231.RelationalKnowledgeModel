@@ -1,0 +1,162 @@
+{
+  "entities": [
+    {
+      "id": "dieu_204_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 204. Đất sử dụng cho khu công nghệ cao",
+        "ma_dieu": "204",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 204.\n\nĐất sử dụng cho khu công nghệ cao\n1. Đất sử dụng cho khu công nghệ cao là đất phục vụ cho hoạt động công nghệ cao theo quy định của\npháp luật về công nghệ cao và pháp luật có liên quan, trong đó có đất khu nông nghiệp ứng dụng công\nnghệ cao, khu lâm nghiệp ứng dụng công nghệ cao . Việc sử dụng đất cho khu công nghệ cao phải phù\nhợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đã được cơ quan có thẩm quyền phê\nduyệt. about:blank\nKhi quy hoạch, thành lập khu công nghệ cao phải đồng thời lập quy hoạch, xây dựng khu nhà ở, công\ntrình công cộng nằm ngoài khu công nghệ cao để phục vụ đời sống chuyên gia, người lao động làm việc\ntrong khu công nghệ cao.\n2. Nhà nước cho thuê đất thu tiền thuê đất hằng năm hoặc thu tiền thuê đất một lần cho cả thời gian\nthuê để đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghệ cao. Thời hạn sử dụng đất trong\nkhu công nghệ cao theo thời hạn hoạt động của dự án đầu tư nhưng không quá 70 năm.\n3. Người sử dụng đất trong khu công nghệ cao phải sử dụng đất đúng mục đích đã được ghi trong quyết\nđịnh giao đất, hợp đồng thuê đất, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản\ngắn liền với đất và có các quyền, nghĩa vụ sau đây:\na) Trường hợp thuê lại đất trả tiền thuê đất một lần cho cả thời gian thuê thì có các quyền và nghĩa vụ\nquy định tại Điều 33 của Luật này ;\nb) Trường hợp thuê lại đất trả tiền thuê đất hằng năm thì có các quyền và nghĩa vụ quy định tại Điều 34\ncủa Luật này .\n4. Nhà nước khuyến khích cá nhân, tổ chức kinh tế, người gốc Việt Nam định cư ở nước ngoài, tổ chức\nkinh tế có vốn đầu tư nước ngoài đầu tư xây dựng kinh doanh kết cấu hạ tầng trong khu công nghệ cao\nvà sử dụng đất vào mục đích phát triển khoa học và công nghệ.\n5. Ủy ban nhân dân cấp tỉnh có trách nhiệm bố trí quỹ đất, giao đất để lực lượng Công an nhân dân bảo\nđảm an ninh, trật tự đối với khu công nghệ cao.\n6. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datkhucongnghecao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho khu công nghệ cao"
+      }
+    },
+    {
+      "id": "khainiem_hoatdongcongnghecao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hoạt động công nghệ cao"
+      }
+    },
+    {
+      "id": "khainiem_datkhunongnghiepungdungcongnghecao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất khu nông nghiệp ứng dụng công nghệ cao"
+      }
+    },
+    {
+      "id": "khainiem_datkhulimnghiepungdungcongnghecao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất khu lâm nghiệp ứng dụng công nghệ cao"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_congan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "lực lượng Công an nhân dân"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "khainiem_datkhucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "chuthe_congan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_204_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_datkhucongnghecao",
+      "target_id": "khainiem_hoatdongcongnghecao",
+      "relationship_type": "DINH_NGHIA"
+    }
+  ]
+}

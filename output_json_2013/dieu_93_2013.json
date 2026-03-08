@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_93_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 93. Chi trả tiền bồi thường, hỗ trợ, tái định cư",
+        "ma_dieu": "93",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 93.\n\nChi trả tiền bồi thường, hỗ trợ, tái định cư\n1. Trong thời hạn 30 ngày kể từ ngày quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền có\nhiệu lực thi hành, cơ quan, tổ chức có trách nhiệm bồi thường phải chi trả tiền bồi thường, hỗ trợ cho\nngười có đất thu hồi.\n2. Trường hợp cơ quan, tổ chức có trách nhiệm bồi thường chậm chi trả thì khi thanh toán tiền bồi\nthường, hỗ trợ cho người có đất thu hồi, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ\ntrợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi còn được thanh toán thêm\nmột khoản tiền bằng mức tiền chậm nộp theo quy định của  Luật quản lý thuế  tính trên số tiền chậm trả\nvà thời gian chậm trả.\n3. Trường hợp người có đất thu hồi không nhận tiền bồi thường, hỗ trợ theo phương án bồi thường,\nhỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì tiền bồi thường, hỗ trợ được gửi vào tài\nkhoản tạm giữ của Kho bạc nhà nước.\n4. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính\nvề đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa\nvụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n5. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_chitratienboithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chi trả tiền bồi thường"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_coquantochuccotrachnhiemboithuong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan, tổ chức có trách nhiệm bồi thường"
+      }
+    },
+    {
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có đất thu hồi"
+      }
+    },
+    {
+      "id": "khainiem_phuonganboithuonghotrotataidincu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phương án bồi thường, hỗ trợ, tái định cư"
+      }
+    },
+    {
+      "id": "chuthe_kho bạcnhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Kho bạc nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_93_2013",
+      "target_id": "hanhviphaply_chitratienboithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2013",
+      "target_id": "chuthe_coquantochuccotrachnhiemboithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2013",
+      "target_id": "chuthe_nguoicodatthuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2013",
+      "target_id": "khainiem_phuonganboithuonghotrotataidincu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2013",
+      "target_id": "chuthe_kho bạcnhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_259_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 259. Xử lý quyền sử dụng đất của hộ gia đình có trước ngày Luật này có hiệu lực thi hành",
+        "ma_dieu": "259",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 259.\n\nXử lý quyền sử dụng đất của hộ gia đình có trước ngày Luật này có hiệu lực thi hành\n1. Hộ gia đình sử dụng đất được xác định theo quy định của pháp luật về đất đai trước ngày Luật này\ncó hiệu lực thi hành thì được tham gia quan hệ pháp luật về đất đai với tư cách nhóm người sử dụng about:blank\nđất mà có chung quyền sử dụng đất quy định tại khoản 2 Điều 27 của Luật này .\nHộ gia đình sử dụng đất đã được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất, nhận\nchuyển quyền sử dụng đất trước ngày Luật này có hiệu lực thi hành thì có quyền và nghĩa vụ như\nquyền và nghĩa vụ của cá nhân sử dụng đất theo quy định của Luật này .\n2. Khi cơ quan nhà nước có thẩm quyền thực hiện giao đất, cho thuê đất cho hộ gia đình để thực hiện\nphương án bồi thường, hỗ trợ, tái định cư đã được phê duyệt thì phải ghi cụ thể các cá nhân là thành\nviên hộ gia đình có quyền sử dụng đất vào quyết định giao đất, cho thuê đất.\n3. Hộ gia đình được Nhà nước giao đất không thu tiền sử dụng đất, giao đất có thu tiền sử dụng đất,\ncho thuê đất trước ngày Luật này có hiệu lực thi hành thì được tiếp tục sử dụng đất trong thời hạn sử\ndụng đất còn lại. Khi hết thời hạn sử dụng đất thì được gia hạn sử dụng đất theo hình thức giao đất,\ncho thuê đất cho các cá nhân là thành viên hộ gia đình đó theo quy định của Luật này ."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "khainiem_quyen_su_dung_dat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_259_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_259_2024",
+      "target_id": "khainiem_quyen_su_dung_dat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_hogiadinh",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_hogiadinh",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_67_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 67. Kế hoạch sử dụng đất hằng năm cấp huyện",
+        "ma_dieu": "67",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 67.\n\nKế hoạch sử dụng đất hằng năm cấp huyện\n1. Căn cứ lập kế hoạch sử dụng đất hằng năm cấp huyện bao gồm:\na) Kế hoạch sử dụng đất cấp tỉnh; quy hoạch sử dụng đất cấp huyện; quy hoạch xây dựng ; quy hoạch\nđô thị đối với trường hợp không phải lập quy hoạch sử dụng đất cấp huyện; about:blank\nb) Hiện trạng sử dụng đất; kết quả thực hiện kế hoạch sử dụng đất năm trước;\nc) Nhu cầu, khả năng sử dụng đất của các ngành, lĩnh vực của các cấp, của các tổ chức; các công trình,\ndự án đã có chủ trương đầu tư;\nd) Khả năng đầu tư, huy động nguồn lực để thực hiện kế hoạch sử dụng đất.\n2. Tiêu chí lựa chọn các công trình, dự án ưu tiên trong kế hoạch sử dụng đất hằng năm cấp huyện bao\ngồm:\na) Bảo đảm quốc phòng, an ninh;\nb) Hiệu quả kinh tế, xã hội, môi trường;\nc) Tính khả thi của việc thực hiện.\n3. Nội dung kế hoạch sử dụng đất hằng năm cấp huyện bao gồm:\na) Diện tích các loại đất đã được phân bổ trong quy hoạch sử dụng đất cấp huyện và diện tích các loại\nđất theo nhu cầu sử dụng đất của cấp huyện, cấp xã trong năm kế hoạch và được xác định đến từng\nđơn vị hành chính cấp xã;\nb) Danh mục các công trình, dự án dự kiến thực hiện trong năm; dự án bố trí đất ở, đất sản xuất cho\nđồng bào dân tộc thiểu số (nếu có); diện tích đất để đấu giá quyền sử dụng đất, các dự án thu hồi đất\ntrong năm, dự án tái định cư, đất sản xuất dự kiến bồi thường cho người có đất thu hồi;\nc) Diện tích các loại đất, danh mục các công trình, dự án đã được xác định trong năm kế hoạch trước\nđược tiếp tục thực hiện theo quy định tại khoản 7 Điều 76 của Luật này ;\nd) Xác định diện tích các loại đất cần chuyển mục đích sử dụng đối với các loại đất phải xin phép, trừ\ntrường hợp quy định tại khoản 5 Điều 1 16 của Luật này ;\nđ) Giải pháp, nguồn lực thực hiện kế hoạch sử dụng đất.\n4. Dự án chưa có trong kế hoạch sử dụng đất hằng năm cấp huyện thuộc một trong các trường hợp sau\nđây thì được thực hiện mà không phải bổ sung vào kế hoạch sử dụng đất hằng năm cấp huyện:\na) Đã có quyết định đầu tư theo quy định của pháp luật về đầu tư công thuộc thẩm quyền quyết định\nchủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ, người đứng đầu Bộ, cơ quan trung ương, Hội\nđồng nhân dân cấp tỉnh;\nb) Đã có quyết định phê duyệt dự án đầu tư theo quy định của pháp luật về đầu tư theo phương thức đối\ntác công tư thuộc thẩm quyền quyết định chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ, người\nđứng đầu Bộ, cơ quan trung ương, Hội đồng nhân dân cấp tỉnh ;\nc) Đã có quyết định chấp thuận chủ trương đầu tư, quyết định chấp thuận chủ trương đầu tư đồng thời\nchấp thuận nhà đầu tư, quyết định chấp thuận nhà đầu tư theo quy định của pháp luật về đầu tư thuộc\nthẩm quyền quyết định chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ .\nd) Dự án có sử dụng đất phục vụ cho việc thu hồi đất quy định tại khoản 3 Điều 82 của Luật này .\n5. Xây dựng và cập nhật dữ liệu kế hoạch sử dụng đất hằng năm cấp huyện vào cơ sở dữ liệu quốc gia\nvề đất đai."
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất hằng năm cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdatcaptinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachxaydung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch xây dựng"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachdothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch đô thị"
+      }
+    },
+    {
+      "id": "khainiem_hientrangsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hiện trạng sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhduan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công trình, dự án"
+      }
+    },
+    {
+      "id": "khainiem_quyetdinhdautu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyết định đầu tư"
+      }
+    },
+    {
+      "id": "khainiem_quyetdinhduan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyết định phê duyệt dự án đầu tư"
+      }
+    },
+    {
+      "id": "khainiem_chutruongdautu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chủ trương đầu tư"
+      }
+    },
+    {
+      "id": "khainiem_dulieukehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dữ liệu kế hoạch sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_kehoachsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_quyhoachsudungdatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_quyhoachxaydung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_quyhoachdothi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_hientrangsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_congtrinhduan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_quyetdinhdautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_quyetdinhduan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_chutruongdautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_67_2024",
+      "target_id": "khainiem_dulieukehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

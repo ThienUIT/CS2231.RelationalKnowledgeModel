@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_29_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 29. Địa giới hành chính",
+        "ma_dieu": "29",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 29.\n\nĐịa giới hành chính\n1. Chính phủ chỉ đạo việc xác định địa giới hành chính, lập và quản lý hồ sơ địa giới hành chính các\ncấp trong phạm vi cả nước.\nBộ trưởng Bộ Nội vụ quy định về trình tự, thủ tục xác định địa giới hành chính, quản lý mốc địa giới và\nhồ sơ địa giới hành chính các cấp.\nBộ trưởng Bộ Tài nguyên và Môi trường quy định về kỹ thuật và định mức kinh tế - kỹ thuật trong việc\ncắm mốc địa giới hành chính, lập hồ sơ địa giới hành chính các cấp.\n2. Ủy ban nhân dân các cấp tổ chức thực hiện việc xác định địa giới hành chính trên thực địa và lập hồ\nsơ về địa giới hành chính trong phạm vi địa phương.\nỦy ban nhân dân cấp xã có trách nhiệm quản lý mốc địa giới hành chính trên thực địa tại địa phương;\ntrường hợp mốc địa giới hành chính bị mất, xê dịch hoặc hư hỏng phải kịp thời báo cáo Ủy ban nhân\ndân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Ủy ban nhân dân cấp huyện).\n3. Hồ sơ địa giới hành chính bao gồm tài liệu dạng giấy , dạng số thể hiện thông tin về việc thành lập,\nđiều chỉnh đơn vị hành chính và các mốc địa giới, đường địa giới của đơn vị hành chính đó.\nHồ sơ địa giới hành chính cấp dưới do Ủy ban nhân dân cấp trên trực tiếp xác nhận; hồ sơ địa giới\nhành chính tỉnh, thành phố trực thuộc trung ương do Bộ Nội vụ xác nhận.\nHồ sơ địa giới hành chính cấp nào được lưu trữ tại Ủy ban nhân dân cấp đó và Ủy ban nhân dân cấp\ntrên, Bộ Nội vụ, Bộ Tài nguyên và Môi trường.\n4. Tranh chấp địa giới hành chính giữa các đơn vị hành chính do Ủy ban nhân dân của các đơn vị hành\nchính đó cùng phối hợp giải quyết. Trường hợp không đạt được sự nhất trí về phân định địa giới hành\nchính hoặc việc giải quyết làm thay đổi địa giới hành chính thì thẩm quyền giải quyết được quy định\nnhư sau:\na) Trường hợp tranh chấp liên quan đến địa giới của đơn vị hành chính tỉnh, thành phố trực thuộc trung\nương thì Chính phủ trình Quốc hội quyết định;\nb) Trường hợp tranh chấp liên quan đến địa giới của đơn vị hành chính huyện, quận, thị xã, thành phố\nthuộc tỉnh; xã, phường, thị trấn thì Chính phủ trình Ủy ban thường vụ Quốc hội quyết định.\nBộ Tài nguyên và Môi trường, cơ quan quản lý đất đai của tỉnh, thành phố trực thuộc trung ương,\nhuyện, quận, thị xã, thành phố thuộc tỉnh có trách nhiệm cung cấp tài liệu cần thiết và phối hợp với cơ\nquan nhà nước có thẩm quyền để giải quyết tranh chấp địa giới hành chính. about:blank"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_botruongbonoivu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Nội vụ"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_hosođghc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hồ sơ địa giới hành chính"
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_ubtvqh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban thường vụ Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_botnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_cqqldđtinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan quản lý đất đai của tỉnh, thành phố trực thuộc trung ương"
+      }
+    },
+    {
+      "id": "chuthe_cqqldđhuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan quản lý đất đai của huyện, quận, thị xã, thành phố thuộc tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_botruongbonoivu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_botruongbotnmt",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_ubndcaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "khainiem_hosođghc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_ubtvqh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_botnmt",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_cqqldđtinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_29_2013",
+      "target_id": "chuthe_cqqldđhuyen",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_192_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 192.",
+        "ma_dieu": "192",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 192.\n\nTrường hợp hộ gia đình, cá nhân chuyển nhượng, tặng cho quyền sử dụng đất có điều\nkiện\n1. Hộ gia đình, cá nhân đang sinh sống xen kẽ trong phân khu bảo vệ nghiêm ngặt, phân khu phục hồi\nsinh thái thuộc rừng đặc dụng nhưng chưa có điều kiện chuyển ra khỏi phân khu đó thì chỉ được chuyển\nnhượng, tặng cho quyền sử dụng đất ở, đất rừng kết hợp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng\nthủy sản cho hộ gia đình, cá nhân sinh sống trong phân khu đó.\n2. Hộ gia đình, cá nhân được Nhà nước giao đất ở, đất sản xuất nông nghiệp trong khu vực rừng phòng\nhộ thì chỉ được chuyển nhượng, tặng cho quyền sử dụng đất ở, đất sản xuất nông nghiệp cho hộ gia\nđình, cá nhân đang sinh sống trong khu vực rừng phòng hộ đó.\n3. Hộ gia đình, cá nhân là dân tộc thiểu số sử dụng đất do Nhà nước giao đất theo chính sách hỗ trợ của\nNhà nước thì được chuyển nhượng, tặng cho quyền sử dụng đất sau 10 năm, kể từ ngày có quyết định\ngiao đất theo quy định của Chính phủ."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_quyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển nhượng"
+      }
+    },
+    {
+      "id": "hanhviphaply_tangcho",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tặng cho"
+      }
+    },
+    {
+      "id": "dieukien_dieukien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "có điều kiện"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_dantocthieuso",
+      "label": "ChuThe",
+      "properties": {
+        "name": "dân tộc thiểu số"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_192_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2013",
+      "target_id": "khainiem_quyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2013",
+      "target_id": "hanhviphaply_chuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2013",
+      "target_id": "hanhviphaply_tangcho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2013",
+      "target_id": "dieukien_dieukien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2013",
+      "target_id": "chuthe_dantocthieuso",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

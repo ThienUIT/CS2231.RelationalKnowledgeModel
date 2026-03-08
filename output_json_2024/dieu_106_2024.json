@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_106_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 106. Bồi thường thiệt hại đối với đất thuộc hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn khi xây dựng công trình, khu vực có hành lang bảo vệ an toàn",
+        "ma_dieu": "106",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 106.\n\nBồi thường thiệt hại đối với đất thuộc hành lang bảo vệ an toàn công trình, khu vực\nbảo vệ, vành đai an toàn khi xây dựng công trình, khu vực có hành lang bảo vệ an toàn about:blank\nKhi xây dựng công trình, khu vực có hành lang bảo vệ an toàn mà không thu hồi đất nằm trong phạm vi\nhành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn thì người sử dụng đất được bồi\nthường thiệt hại do hạn chế khả năng sử dụng đất, thiệt hại tài sản gắn liền với đất theo quy định của\nChính phủ."
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydungcongtrinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng công trình"
+      }
+    },
+    {
+      "id": "khainiem_datthuochanhlangbaoveantoan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất thuộc hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_boithuongthiethai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường thiệt hại"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_106_2024",
+      "target_id": "khainiem_datthuochanhlangbaoveantoan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2024",
+      "target_id": "hanhviphaply_xaydungcongtrinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2024",
+      "target_id": "hanhviphaply_boithuongthiethai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_106_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

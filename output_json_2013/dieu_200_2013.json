@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_200_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 200. Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai",
+        "ma_dieu": "200",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 200.\n\nHệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai\n1. Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai được sử dụng để đánh giá việc thi\nhành pháp luật về đất đai, hiệu quả quản lý và sử dụng đất đai, sự tác động của chính sách, pháp luật về\nđất đai đến kinh tế - xã hội và môi trường trên phạm vi cả nước và các địa phương.\n2. Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai được xây dựng dựa trên hệ thống\nthông tin đất đai và việc thu thập các thông tin khác từ quá trình thi hành pháp luật về đất đai trên phạm\nvi cả nước bao gồm:\na) Thông tin về quy hoạch, kế hoạch sử dụng đất; thống kê, kiểm kê đất đai; giá đất và thuế đất; giao\nđất, cho thuê đất, thu hồi đất, cho phép chuyển mục đích sử dụng đất, cấp Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; việc thực hiện các dự án đầu tư có sử\ndụng đất; việc chấp hành pháp luật về đất đai; kiểm tra, thanh tra và xử lý vi phạm về đất đai của các\ncơ quan hành chính;\nb) Thông tin về giải quyết tranh chấp, khiếu kiện về đất đai;\nc) Thông tin từ quá trình giám sát việc thực thi pháp luật về đất đai của Quốc hội và Hội đồng nhân dân\ncác cấp; Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận; các tổ chức khác có liên\nquan và người dân;\nd) Những thông tin cần thiết phải thu nhận bằng các giải pháp công nghệ gồm chụp ảnh mặt đất từ vệ\ntinh, máy bay và các phương tiện bay khác; điều tra thực địa và các phương tiện kỹ thuật khác;\nđ) Những thông tin cần thiết từ dữ liệu điều tra xã hội học về quản lý và sử dụng đất đai được thực hiện\ntừ các hoạt động nghiên cứu, điều tra, khảo sát khác nhau và thực hiện điều tra xã hội học bổ sung khi\ncần thiết.\n3. Cơ quan tài nguyên và môi trường có trách nhiệm quản lý hệ thống theo dõi và đánh giá; tổ chức thực\nhiện đánh giá việc thực thi pháp luật, hiệu quả quản lý và sử dụng đất đai, tác động của chính sách, pháp\nluật về đất đai đến kinh tế - xã hội và môi trường trên phạm vi cả nước và các địa phương; kết quả\nđánh giá được gửi định kỳ đến Chính phủ, Quốc hội.\n4. Cơ quan nhà nước lưu giữ thông tin quy định tại khoản 2 Điều này có trách nhiệm cung cấp đầy đủ,\nchính xác, kịp thời các thông tin cho cơ quan quản lý hệ thống theo dõi và đánh giá. Cơ quan tài nguyên\nvà môi trường có trách nhiệm cập nhật các thông tin trong hệ thống theo dõi, đánh giá vào hệ thống\nthông tin đất đai.\n5. Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai được công khai để các tổ chức, cá\nnhân tìm hiểu thông tin theo quy định của pháp luật. about:blank\n. Chính phủ quy định chi tiết về việc xây dựng và vận hành hệ thống theo dõi và đánh giá đối với quản\nlý và sử dụng đất đai."
+      }
+    },
+    {
+      "id": "khainiem_hethongtheodoivaocdanhgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquantainuyenvamontruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan tài nguyên và môi trường"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức, cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_200_2013",
+      "target_id": "khainiem_hethongtheodoivaocdanhgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2013",
+      "target_id": "chuthe_coquantainuyenvamontruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2013",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2013",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_200_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

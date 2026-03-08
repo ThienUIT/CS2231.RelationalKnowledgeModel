@@ -1,0 +1,292 @@
+{
+  "entities": [
+    {
+      "id": "dieu_10_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Phân loại đất",
+        "ma_dieu": "10",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 10.\n\nPhân loại đất\nCăn cứ vào mục đích sử dụng, đất đai được phân loại như sau:\n1. Nhóm đất nông nghiệp bao gồm các loại đất sau đây:\na) Đất trồng cây hàng năm gồm đất trồng lúa và đất trồng cây hàng năm khác;\nb) Đất trồng cây lâu năm;\nc) Đất rừng sản xuất;\nd) Đất rừng phòng hộ;\nđ) Đất rừng đặc dụng;\ne) Đất nuôi trồng thủy sản;\ng) Đất làm muối;\nh) Đất nông nghiệp khác gồm đất sử dụng để xây dựng nhà kính và các loại nhà khác phục vụ mục đích\ntrồng trọt, kể cả các hình thức trồng trọt không trực tiếp trên đất; xây dựng chuồng trại chăn nuôi gia\nsúc, gia cầm và các loại động vật khác được pháp luật cho phép; đất trồng trọt, chăn nuôi, nuôi trồng\nthủy sản cho mục đích học tập, nghiên cứu thí nghiệm; đất ươm tạo cây giống, con giống và đất trồng\nhoa, cây cảnh;\n2. Nhóm đất phi nông nghiệp bao gồm các loại đất sau đây:\na) Đất ở gồm đất ở tại nông thôn, đất ở tại đô thị;\nb) Đất xây dựng trụ sở cơ quan;\nc) Đất sử dụng vào mục đích quốc phòng, an ninh;\nd) Đất xây dựng công trình sự nghiệp gồm đất xây dựng trụ sở của tổ chức sự nghiệp; đất xây dựng cơ\nsở văn hóa, xã hội, y tế, giáo dục và đào tạo, thể dục thể thao, khoa học và công nghệ, ngoại giao và\ncông trình sự nghiệp khác;\nđ) Đất sản xuất, kinh doanh phi nông nghiệp gồm đất khu công nghiệp, cụm công nghiệp, khu chế\nxuất; đất thương mại, dịch vụ; đất cơ sở sản xuất phi nông nghiệp; đất sử dụng cho hoạt động khoáng\nsản; đất sản xuất vật liệu xây dựng, làm đồ gốm;\ne) Đất sử dụng vào mục đích công cộng gồm đất giao thông (gồm cảng hàng không, sân bay , cảng\nđường thủy nội địa, cảng hàng hải, hệ thống đường sắt, hệ thống đường bộ và công trình giao thông\nkhác); thủy lợi; đất có di tích lịch sử - văn hóa, danh lam thắng cảnh; đất sinh hoạt cộng đồng, khu vui\nchơi, giải trí công cộng; đất công trình năng lượng; đất công trình bưu chính, viễn thông; đất chợ; đất\nbãi thải, xử lý chất thải và đất công trình công cộng khác;\ng) Đất cơ sở tôn giáo, tín ngưỡng;\nh) Đất làm nghĩa trang, nghĩa địa, nhà tang lễ, nhà hỏa táng;\ni) Đất sông, ngòi, kênh, rạch, suối và mặt nước chuyên dùng; about:blank\nk) Đất phi nông nghiệp khác gồm đất làm nhà nghỉ, lán, trại cho người lao động trong cơ sở sản xuất;\nđất xây dựng kho và nhà để chứa nông sản, thuốc bảo vệ thực vật, phân bón, máy móc, công cụ phục vụ\ncho sản xuất nông nghiệp và đất xây dựng công trình khác của người sử dụng đất không nhằm mục\nđích kinh doanh mà công trình đó không gắn liền với đất ở;\n3. Nhóm đất chưa sử dụng gồm các loại đất chưa xác định mục đích sử dụng."
+      }
+    },
+    {
+      "id": "khainiem_datdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất đai"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datphiphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datchuasudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất chưa sử dụng"
+      }
+    },
+    {
+      "id": "khainiem_dattrongcayhangnam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng cây hàng năm"
+      }
+    },
+    {
+      "id": "khainiem_dattronglua",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng lúa"
+      }
+    },
+    {
+      "id": "khainiem_dattrongcaylaunam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng cây lâu năm"
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "khainiem_datnuoitrongthuysan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nuôi trồng thủy sản"
+      }
+    },
+    {
+      "id": "khainiem_datlammuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất làm muối"
+      }
+    },
+    {
+      "id": "khainiem_datonongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở tại nông thôn"
+      }
+    },
+    {
+      "id": "khainiem_odataidothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở tại đô thị"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungtrusocquan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng trụ sở cơ quan"
+      }
+    },
+    {
+      "id": "khainiem_datsudungvaomucdichquocphongan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungcongtrinhsunghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình sự nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sản xuất, kinh doanh phi nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datsudungvaomucdichcongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích công cộng"
+      }
+    },
+    {
+      "id": "khainiem_datcosotonggiaotinhnguong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cơ sở tôn giáo, tín ngưỡng"
+      }
+    },
+    {
+      "id": "khainiem_datlamnghiatrangnghiadianhatangle",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất làm nghĩa trang, nghĩa địa, nhà tang lễ, nhà hỏa táng"
+      }
+    },
+    {
+      "id": "khainiem_datsongngoikenhrachsuoivamatnuocchuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sông, ngòi, kênh, rạch, suối và mặt nước chuyên dùng"
+      }
+    },
+    {
+      "id": "khainiem_datphinongnghiepkhac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất phi nông nghiệp khác"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datphiphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_dattrongcayhangnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_dattronglua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_dattrongcaylaunam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datnuoitrongthuysan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datlammuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datonongthon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_odataidothi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datxaydungtrusocquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datsudungvaomucdichquocphongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datxaydungcongtrinhsunghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datsudungvaomucdichcongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datcosotonggiaotinhnguong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datlamnghiatrangnghiadianhatangle",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datsongngoikenhrachsuoivamatnuocchuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_10_2013",
+      "target_id": "khainiem_datphinongnghiepkhac",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

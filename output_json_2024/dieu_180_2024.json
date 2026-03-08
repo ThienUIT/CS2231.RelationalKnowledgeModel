@@ -1,0 +1,186 @@
+{
+  "entities": [
+    {
+      "id": "dieu_180_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 180. Đất nông nghiệp do tổ chức, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài sử dụng",
+        "ma_dieu": "180",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 180.\n\nĐất nông nghiệp do tổ chức, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế\ncó vốn đầu tư nước ngoài sử dụng\n1. Tổ chức kinh tế, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước\nngoài có nhu cầu sử dụng đất để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối thì\nđược Nhà nước xem xét cho thuê đất để thực hiện dự án đầu tư.\n2. Tổ chức kinh tế, đơn vị sự nghiệp công lập đã được Nhà nước giao đất, cho thuê đất trước ngày Luật\nnày có hiệu lực thi hành để sử dụng vào mục đích sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy\nsản, làm muối, trừ trường hợp quy định tại Điều 181 của Luật này  phải rà soát hiện trạng sử dụng đất,\nlập phương án sử dụng đất. Nội dung phương án sử dụng đất phải xác định rõ diện tích, ranh giới sử\ndụng, diện tích từng loại đất được giữ lại sử dụng, thời hạn sử dụng đất, diện tích đất bàn giao cho địa\nphương.\nỦy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc rà soát, phê duyệt phương án sử dụng đất; giao\nđất, cho thuê đất theo phương án sử dụng đất được phê duyệt; thu hồi diện tích đất không sử dụng, sử\ndụng không đúng mục đích, giao khoán, cho thuê, cho mượn trái pháp luật, bị lấn, bị chiếm để giao, cho about:blank\nthuê đối với tổ chức, cá nhân. Việc giao đất, cho thuê đất phải ưu tiên cá nhân là người dân tộc thiểu số\nkhông có đất hoặc thiếu đất sản xuất ở địa phương."
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "hanhviphaply_sudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_sanxuatnongnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sản xuất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_sanxuatlamnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sản xuất lâm nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_nuoitrongthuysan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nuôi trồng thủy sản"
+      }
+    },
+    {
+      "id": "hanhviphaply_lammuoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Làm muối"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_donvisunghieplapcong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoidantuocthieuso",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người dân tộc thiểu số"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "hanhviphaply_sudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "hanhviphaply_sanxuatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "hanhviphaply_sanxuatlamnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "hanhviphaply_nuoitrongthuysan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "hanhviphaply_lammuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "chuthe_donvisunghieplapcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2024",
+      "target_id": "chuthe_nguoidantuocthieuso",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

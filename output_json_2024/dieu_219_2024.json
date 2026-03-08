@@ -1,0 +1,165 @@
+{
+  "entities": [
+    {
+      "id": "dieu_219_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai",
+        "ma_dieu": "219",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 219.\n\nGóp quyền sử dụng đất, điều chỉnh lại đất đai\n1. Góp quyền sử dụng đất, điều chỉnh lại đất đai là phương thức sắp xếp lại đất đai trong một khu vực\nđất nhất định trên cơ sở sự đồng thuận của người sử dụng đất để điều chỉnh lại toàn bộ hoặc một phần\ndiện tích đất thuộc quyền sử dụng của mình trong khu vực đó theo phương án được cơ quan có thẩm\nquyền phê duyệt.\n2. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai được thực hiện trong các trường hợp sau đây:\na) Tập trung đất nông nghiệp để thực hiện sản xuất;\nb) Thực hiện dự án chỉnh trang, phát triển khu dân cư nông thôn, mở rộng, nâng cấp đường giao thông\nnông thôn;\nc) Thực hiện dự án chỉnh trang, phát triển đô thị; cải tạo, nâng cấp hoặc xây dựng lại các khu nhà chung\ncư; mở rộng, nâng cấp đường giao thông trong đô thị.\n3. Điều kiện để thực hiện góp quyền sử dụng đất, điều chỉnh lại đất đai quy định như sau:\na) Phù hợp với quy hoạch, kế hoạch sử dụng đất; quy hoạch xây dựng; quy hoạch đô thị  đã được cơ\nquan có thẩm quyền phê duyệt;\nb) Có phương án góp quyền sử dụng đất, điều chỉnh lại đất đai được người sử dụng đất thuộc khu vực\ndự kiến thực hiện đồng thuận và được Ủy ban nhân dân cấp tỉnh phê duyệt đối với trường hợp quy\nđịnh tại điểm c khoản 2 Điều này , được Ủy ban nhân dân cấp huyện phê duyệt đối với trường hợp quy\nđịnh tại điểm b khoản 2 Điều này .\n4. Phương án góp quyền sử dụng đất, điều chỉnh lại đất đai phải thể hiện các nội dung sau đây:\na) Hiện trạng sử dụng đất trong khu vực cần điều chỉnh lại và các bên góp quyền sử dụng đất;\nb) Phương án sắp xếp lại đất đai, trong đó phải thể hiện phương án thiết kế hạ tầng kỹ thuật, hạ tầng xã\nhội, hạ tầng môi trường, tỷ lệ diện tích đất mà người sử dụng đất đóng góp để xây dựng các công trình\nhạ tầng kỹ thuật, cung cấp dịch vụ công cộng;\nc) Vị trí, diện tích đất mà người sử dụng đất được nhận lại sau khi thực hiện phương án điều chỉnh đất\nđai. about:blank\n. Đối với diện tích đất do cơ quan, tổ chức của Nhà nước quản lý có trong khu vực thực hiện góp\nquyền sử dụng đất, điều chỉnh lại đất đai được sử dụng như sau:\na) Sử dụng để xây dựng, nâng cấp hệ thống hạ tầng, dịch vụ công cộng khu dân cư;\nb) Đấu giá quyền sử dụng đất đối với phần diện tích đất còn lại sau khi sử dụng đất theo điểm a khoản\nnày. Tiền thu được từ việc đấu giá quyền sử dụng đất được sử dụng để thực hiện dự án.\n6. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai phải có dự án đầu tư do cộng đồng người sử dụng\nđất tự thực hiện hoặc liên danh, liên kết với các nhà đầu tư theo quy định của pháp luật để thực hiện.\n7. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm sau đây:\na) Cung cấp thông tin về hiện trạng sử dụng đất, quy hoạch, kế hoạch sử dụng đất; quy hoạch xây\ndựng; quy hoạch đô thị  đã được cơ quan có thẩm quyền phê duyệt liên quan đến khu vực góp quyền sử\ndụng đất, điều chỉnh lại đất đai;\nb) Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo phương án góp\nquyền sử dụng đất, điều chỉnh lại đất đai được phê duyệt.\n8. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_gopquyensudungdatdieuchinhlaidatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Góp quyền sử dụng đất, điều chỉnh lại đất đai"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_taptrungdatnongnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tập trung đất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchienduan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện dự án"
+      }
+    },
+    {
+      "id": "dieukien_phuhopquyhoach",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch, kế hoạch sử dụng đất; quy hoạch xây dựng; quy hoạch đô thị đã được cơ quan có thẩm quyền phê duyệt"
+      }
+    },
+    {
+      "id": "dieukien_cophuongangopquyen",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có phương án góp quyền sử dụng đất, điều chỉnh lại đất đai được người sử dụng đất thuộc khu vực dự kiến thực hiện đồng thuận và được Ủy ban nhân dân cấp tỉnh phê duyệt (hoặc Ủy ban nhân dân cấp huyện)"
+      }
+    },
+    {
+      "id": "hanhviphaply_cungcapthongtin",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cung cấp thông tin về hiện trạng sử dụng đất, quy hoạch, kế hoạch sử dụng đất; quy hoạch xây dựng; quy hoạch đô thị đã được cơ quan có thẩm quyền phê duyệt"
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo phương án góp quyền sử dụng đất, điều chỉnh lại đất đai được phê duyệt"
+      }
+    },
+    {
+      "id": "hanhviphaply_quytrinhchitiets",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quy định chi tiết"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "khainiem_gopquyensudungdatdieuchinhlaidatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "chuthe_uybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "chuthe_uybanndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "hanhviphaply_taptrungdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "hanhviphaply_thuchienduan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "dieukien_phuhopquyhoach",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "dieukien_cophuongangopquyen",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "hanhviphaply_cungcapthongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_219_2024",
+      "target_id": "hanhviphaply_quytrinhchitiets",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_gopquyensudungdatdieuchinhlaidatdai",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

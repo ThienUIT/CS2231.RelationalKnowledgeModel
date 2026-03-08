@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_198_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 198. Giám sát của Quốc hội, Hội đồng nhân dân các cấp, Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận về việc quản lý và sử dụng đất đai",
+        "ma_dieu": "198",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 198.\n\nGiám sát của Quốc hội, Hội đồng nhân dân các cấp, Mặt trận Tổ quốc Việt Nam, các tổ\nchức thành viên của Mặt trận về việc quản lý và sử dụng đất đai\n1. Quốc hội, Hội đồng nhân dân các cấp thực hiện quyền giám sát về quản lý và sử dụng đất đai theo\nquy định của  Hiến pháp  và Luật hoạt động giám sát của Quốc hội , Luật tổ chức Hội đồng nhân dân và\nỦy ban nhân dân .\n2. Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận thực hiện quyền giám sát về quản lý\nvà sử dụng đất đai theo quy định của  Hiến pháp , Luật Mặt trận Tổ quốc Việt Nam  và quy định khác của\npháp luật có liên quan."
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_hoidongnhandancaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân các cấp"
+      }
+    },
+    {
+      "id": "chuthe_mattrotoquocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Mặt trận Tổ quốc Việt Nam"
+      }
+    },
+    {
+      "id": "chuthe_cactochucthanhvien",
+      "label": "ChuThe",
+      "properties": {
+        "name": "các tổ chức thành viên của Mặt trận"
+      }
+    },
+    {
+      "id": "hanhviphaply_giamsatvequanlyvasudungdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giám sát về quản lý và sử dụng đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_198_2013",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2013",
+      "target_id": "chuthe_hoidongnhandancaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2013",
+      "target_id": "chuthe_mattrotoquocvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2013",
+      "target_id": "chuthe_cactochucthanhvien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_198_2013",
+      "target_id": "hanhviphaply_giamsatvequanlyvasudungdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

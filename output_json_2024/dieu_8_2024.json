@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_8_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 8. Khuyến khích đầu tư vào sử dụng đất đai",
+        "ma_dieu": "8",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 8.\n\nKhuyến khích đầu tư vào sử dụng đất đai\n1. Nâng cao hiệu quả sử dụng đất.\n2. Bảo vệ, cải tạo, làm tăng độ màu mỡ của đất; xử lý đất, đất có mặt nước bị ô nhiễm, phục hồi đất bị\nthoái hóa.\n3. Lấn biển, đưa diện tích đất trống, đồi núi trọc, đất bãi bồi ven sông, ven biển, đất có mặt nước\nhoang hóa vào sử dụng theo quy định của Luật này .\n4. Tập trung đất đai để sản xuất nông nghiệp, lâm nghiệp quy mô lớn.\n5. Phát triển kết cấu hạ tầng để làm tăng giá trị của đất, phát triển công trình ngầm.\n6. Phát triển văn hóa, y tế, giáo dục và đào tạo, thể dục, thể thao, khoa học và công nghệ, môi trường."
+      }
+    },
+    {
+      "id": "hanhviphaply_nangcaohieuqua",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nâng cao hiệu quả sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_baovecaitao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo vệ, cải tạo, làm tăng độ màu mỡ của đất; xử lý đất, đất có mặt nước bị ô nhiễm, phục hồi đất bị thoái hóa"
+      }
+    },
+    {
+      "id": "hanhviphaply_lanbien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lấn biển, đưa diện tích đất trống, đồi núi trọc, đất bãi bồi ven sông, ven biển, đất có mặt nước hoang hóa vào sử dụng"
+      }
+    },
+    {
+      "id": "hanhviphaply_taptungdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tập trung đất đai để sản xuất nông nghiệp, lâm nghiệp quy mô lớn"
+      }
+    },
+    {
+      "id": "hanhviphaply_phattrienketcauhathang",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phát triển kết cấu hạ tầng để làm tăng giá trị của đất, phát triển công trình ngầm"
+      }
+    },
+    {
+      "id": "hanhviphaply_phattrienvanhhoa",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phát triển văn hóa, y tế, giáo dục và đào tạo, thể dục, thể thao, khoa học và công nghệ, môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_nangcaohieuqua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_baovecaitao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_lanbien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_taptungdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_phattrienketcauhathang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_phattrienvanhhoa",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

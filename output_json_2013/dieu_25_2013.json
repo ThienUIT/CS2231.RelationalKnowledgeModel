@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_25_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 25. Công chức địa chính ở xã, phường, thị trấn",
+        "ma_dieu": "25",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 25.\n\nCông chức địa chính ở xã, phường, thị trấn\n1. Xã, phường, thị trấn có công chức làm công tác địa chính theo quy định của  Luật cán bộ, công chức .\n2. Công chức địa chính ở xã, phường, thị trấn có trách nhiệm giúp Ủy ban nhân dân cấp xã trong việc\nquản lý đất đai tại địa phương."
+      }
+    },
+    {
+      "id": "khainiem_congchucdiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công chức địa chính"
+      }
+    },
+    {
+      "id": "chuthe_xaphuongthitran",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Xã, phường, thị trấn"
+      }
+    },
+    {
+      "id": "dieukien_luatcanbo",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Luật cán bộ, công chức"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quản lý đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_25_2013",
+      "target_id": "khainiem_congchucdiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_25_2013",
+      "target_id": "chuthe_xaphuongthitran",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_25_2013",
+      "target_id": "dieukien_luatcanbo",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_25_2013",
+      "target_id": "chuthe_uybannhandancapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_25_2013",
+      "target_id": "hanhviphaply_quanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

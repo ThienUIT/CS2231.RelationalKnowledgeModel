@@ -1,0 +1,376 @@
+{
+  "entities": [
+    {
+      "id": "dieu_3_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 3. Giải thích từ ngữ",
+        "ma_dieu": "3",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 3.\n\nGiải thích từ ngữ\nTrong Luật này , các từ ngữ dưới đây được hiểu như sau:\n1. Thửa đất  là phần diện tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả\ntrên hồ sơ.\n2. Quy hoạch sử dụng đất  là việc phân bổ và khoanh vùng đất đai theo không gian sử dụng cho các mục\ntiêu phát triển kinh tế - xã hội, quốc phòng, an ninh, bảo vệ môi trường và thích ứng biến đổi khí hậu\ntrên cơ sở tiềm năng đất đai và nhu cầu sử dụng đất của các ngành, lĩnh vực đối với từng vùng kinh tế\n- xã hội và đơn vị hành chính trong một khoảng thời gian xác định.\n3. Kế hoạch sử dụng đấ t là việc phân chia quy hoạch sử dụng đất theo thời gian để thực hiện trong kỳ\nquy hoạch sử dụng đất.\n4. Bản đồ địa chính  là bản đồ thể hiện các thửa đất và các yếu tố địa lý có liên quan, lập theo đơn vị\nhành chính xã, phường, thị trấn, được cơ quan nhà nước có thẩm quyền xác nhận.\n5. Bản đồ hiện trạng sử dụng đất  là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định,\nđược lập theo từng đơn vị hành chính.\n6. Bản đồ quy hoạch sử dụng đất  là bản đồ được lập tại thời điểm đầu kỳ quy hoạch, thể hiện sự phân\nbổ các loại đất tại thời điểm cuối kỳ của quy hoạch đó.\n7. Nhà nước giao quyền sử dụng đất  (sau đây gọi là Nhà nước giao đất) là việc Nhà nước ban hành\nquyết định giao đất để trao quyền sử dụng đất cho đối tượng có nhu cầu sử dụng đất.\n about:blank\n. Nhà nước cho thuê quyền sử dụng đất  (sau đây gọi là Nhà nước cho thuê đất) là việc Nhà nước\nquyết định trao quyền sử dụng đất cho đối tượng có nhu cầu sử dụng đất thông qua hợp đồng cho thuê\nquyền sử dụng đất.\n9. Nhà nước công nhận quyền sử dụng đất là việc Nhà nước trao quyền sử dụng đất cho người đang sử\ndụng đất ổn định mà không có nguồn gốc được Nhà nước giao đất, cho thuê đất thông qua việc cấp\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu đối\nvới thửa đất xác định.\n10. Chuyển quyền sử dụng đất  là việc chuyển giao quyền sử dụng đất từ người này sang người khác\nthông qua các hình thức chuyển đổi, chuyển nhượng, thừa kế, tặng cho quyền sử dụng đất và góp vốn\nbằng quyền sử dụng đất.\n11. Nhà nước thu hồi đất  là việc Nhà nước quyết định thu lại quyền sử dụng đất của người được Nhà\nnước trao quyền sử dụng đất hoặc thu lại đất của người sử dụng đất vi phạm pháp luật về đất đai.\n12. Bồi thường về đất  là việc Nhà nước trả lại giá trị quyền sử dụng đất đối với diện tích đất thu hồi\ncho người sử dụng đất.\n13. Chi phí đầu tư vào đất còn lại  bao gồm chi phí san lấp mặt bằng và chi phí khác liên quan trực tiếp\ncó căn cứ chứng minh đã đầu tư vào đất mà đến thời điểm Nhà nước thu hồi đất còn chưa thu hồi\nđược.\n14. Hỗ trợ khi Nhà nước thu hồi đất  là việc Nhà nước trợ giúp cho người có đất thu hồi để ổn định đời\nsống, sản xuất và phát triển.\n15. Đăng ký đất đai, nhà ở, tài sản khác gắn liền với đất  là việc kê khai và ghi nhận tình trạng pháp lý\nvề quyền sử dụng đất, quyền sở hữu nhà ở, tài sản khác gắn liền với đất và quyền quản lý đất đối với\nmột thửa đất vào hồ sơ địa chính.\n16. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất  là chứng\nthư pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu nhà ở, tài sản khác gắn liền với\nđất hợp pháp của người có quyền sử dụng đất, quyền sở hữu nhà ở và quyền sở hữu tài sản khác gắn\nliền với đất.\n17. Thống kê đất đai  là việc Nhà nước tổng hợp, đánh giá trên hồ sơ địa chính về hiện trạng sử dụng\nđất tại thời điểm thống kê và tình hình biến động đất đai giữa hai lần thống kê.\n18. Kiểm kê đất đai  là việc Nhà nước tổ chức điều tra, tổng hợp, đánh giá trên hồ sơ địa chính và trên\nthực địa về hiện trạng sử dụng đất tại thời điểm kiểm kê và tình hình biến động đất đai giữa hai lần\nkiểm kê.\n19. Giá đất  là giá trị của quyền sử dụng đất tính trên một đơn vị diện tích đất.\n20. Giá trị quyền sử dụng đất  là giá trị bằng tiền của quyền sử dụng đất đối với một diện tích đất xác\nđịnh trong thời hạn sử dụng đất xác định.\n21. Tiền sử dụng đất  là số tiền mà người sử dụng đất phải trả cho Nhà nước khi được Nhà nước giao\nđất có thu tiền sử dụng đất, cho phép chuyển mục đích sử dụng đất, công nhận quyền sử dụng đất.\n22. Hệ thống thông tin đất đai  là hệ thống tổng hợp các yếu tố hạ tầng kỹ thuật công nghệ thông tin,\nphần mềm, dữ liệu và quy trình, thủ tục được xây dựng để thu thập, lưu trữ, cập nhật, xử lý, phân tích,\ntổng hợp và truy xuất thông tin đất đai.\n23. Cơ sở dữ liệu đất đai là tập hợp các dữ liệu đất đai được sắp xếp, tổ chức để truy cập, khai thác,\nquản lý và cập nhật thông qua phương tiện điện tử.\n24. Tranh chấp đất đai  là tranh chấp về quyền, nghĩa vụ của người sử dụng đất giữa hai hoặc nhiều bên\ntrong quan hệ đất đai. about:blank\n. Hủy hoại đất  là hành vi làm biến dạng địa hình, làm suy giảm chất lượng đất, gây ô nhiễm đất, làm\nmất hoặc giảm khả năng sử dụng đất theo mục đích đã được xác định.\n26. Tổ chức sự nghiệp công lập  là tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị,\ntổ chức chính trị - xã hội thành lập, có chức năng thực hiện các hoạt động dịch vụ công theo quy định\ncủa pháp luật.\n27. Tổ chức kinh tế  bao gồm doanh nghiệp, hợp tác xã và tổ chức kinh tế khác theo quy định của pháp\nluật về dân sự, trừ doanh nghiệp có vốn đầu tư nước ngoài.\n28. Đất để xây dựng công trình ngầm là phần đất để xây dựng công trình trong lòng đất mà công trình\nnày không phải là phần ngầm của công trình xây dựng trên mặt đất.\n29. Hộ gia đình sử dụng đất  là những người có quan hệ hôn nhân, huyết thống, nuôi dưỡng theo quy\nđịnh của pháp luật về hôn nhân và gia đình, đang sống chung và có quyền sử dụng đất chung tại thời\nđiểm được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất; nhận chuyển quyền sử dụng\nđất.\n30. Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp là hộ gia đình, cá nhân đã được Nhà nước giao,\ncho thuê, công nhận quyền sử dụng đất nông nghiệp; nhận chuyển quyền sử dụng đất nông nghiệp và\ncó nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó."
+      }
+    },
+    {
+      "id": "khainiem_thuadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thửa đất"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_bandodiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bản đồ địa chính"
+      }
+    },
+    {
+      "id": "khainiem_bandohientrangsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bản đồ hiện trạng sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_bandoquyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bản đồ quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_nhanuocgiaoquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhà nước giao quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_nhanuocchothuequyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhà nước cho thuê quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_nhanuoccongnhanquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhà nước công nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_chuyenquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chuyển quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_nhanuocthuhoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_boithuongvedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bồi thường về đất"
+      }
+    },
+    {
+      "id": "khainiem_chiphidautuvaodatconlai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí đầu tư vào đất còn lại"
+      }
+    },
+    {
+      "id": "khainiem_hotrokhiNhanuocthuhoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hỗ trợ khi Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_dangkydatdainhaoataisankhacganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký đất đai, nhà ở, tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensudungdatquyensohuunhaoataisankhacganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_thongkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thống kê đất đai"
+      }
+    },
+    {
+      "id": "khainiem_kiemkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "khainiem_giadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giá đất"
+      }
+    },
+    {
+      "id": "khainiem_giatriquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giá trị quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_tiensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_hethongthongtindatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin đất đai"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieudatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu đất đai"
+      }
+    },
+    {
+      "id": "khainiem_tranhchapdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tranh chấp đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_huyhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hủy hoại đất"
+      }
+    },
+    {
+      "id": "chuthe_tochucsunghiepconglap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "khainiem_datdexaydungcongtrinhngam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất để xây dựng công trình ngầm"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinhsudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinhcanhantructiepsanxuatnongnghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_thuadat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_bandodiachinh",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_bandohientrangsudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_bandoquyhoachsudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_nhanuocgiaoquyensudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_nhanuocchothuequyensudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_nhanuoccongnhanquyensudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_chuyenquyensudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_nhanuocthuhoidat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_boithuongvedat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_chiphidautuvaodatconlai",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_hotrokhiNhanuocthuhoidat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_dangkydatdainhaoataisankhacganlienvoidat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_giaychungnhanquyensudungdatquyensohuunhaoataisankhacganlienvoidat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_thongkedatdai",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_kiemkedatdai",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_giadat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_giatriquyensudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_tiensudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_hethongthongtindatdai",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_cosodulieudatdai",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_tranhchapdatdai",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "hanhviphaply_huyhoidat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "chuthe_tochucsunghiepconglap",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "khainiem_datdexaydungcongtrinhngam",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "chuthe_hogiadinhsudungdat",
+      "relationship_type": "DINH_NGHIA"
+    },
+    {
+      "source_id": "dieu_3_2013",
+      "target_id": "chuthe_hogiadinhcanhantructiepsanxuatnongnghiep",
+      "relationship_type": "DINH_NGHIA"
+    }
+  ]
+}

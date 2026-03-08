@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_53_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 53",
+        "ma_dieu": "53",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 53.\n\nHoạt động nghiên cứu khoa học, giảng dạy , thực tập, du lịch sinh thái, nghỉ dưỡng, giải\ntrí và nuôi, trồng phát triển, thu hoạch cây dược liệu tr ong rừng đặc dụng” ;\nb) Sửa đổi, bổ sung  khoản 5  và bổ sung khoản 6 vào sau  khoản 5  như sau:\n“5. Được xây dựng công trình phục vụ du lịch sinh thái, nghỉ dưỡng, giải trí. Trình tự, thủ tục xây dựng,\nthẩm định và phê duyệt đề án du lịch sinh thái, nghỉ dưỡng, giải trí và quản lý xây dựng công trình phục\nvụ du lịch sinh thái, nghỉ dưỡng, giải trí trong rừng đặc dụng thực hiện theo Quy chế quản lý rừng và\nquy định khác của pháp luật có liên quan.\n6. Nuôi, trồng phát triển, thu hoạch cây dược liệu trong rừng đặc dụng quy định như sau:\na) Chủ rừng xây dựng phương án nuôi, trồng phát triển, thu hoạch cây dược liệu trong rừng đặc dụng\ntrình cơ quan có thẩm quyền phê duyệt;\n b) Chủ rừng tự tổ chức, hợp tác, liên kết hoặc cho tổ chức, cá nhân thuê môi trường rừng để nuôi,\ntrồng phát triển, thu hoạch cây dược liệu hoặc để tổ chức hoạt động nghiên cứu khoa học;\nc) Hoạt động nuôi, trồng phát triển, thu hoạch cây dược liệu trong rừng đặc dụng thực hiện theo Quy\nchế quản lý rừng và quy định khác của pháp luật có liên quan.”.\n8. Sửa đổi, bổ sung tên điều,  khoản 5  và bổ sung khoản 6 vào sau  khoản 5 Điều 56  như sau:\na) Sửa đổi, bổ sung tên  Điều 56  như sau:\n“"
+      }
+    },
+    {
+      "id": "hanhviphaply_nghiencuukhoahoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nghiên cứu khoa học"
+      }
+    },
+    {
+      "id": "hanhviphaply_giangday",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giảng dạy"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuctap",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực tập"
+      }
+    },
+    {
+      "id": "hanhviphaply_dulichsinhthai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Du lịch sinh thái"
+      }
+    },
+    {
+      "id": "hanhviphaply_nghiduong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nghỉ dưỡng"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaitri",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giải trí"
+      }
+    },
+    {
+      "id": "hanhviphaply_nuoitrongphattrienthuhoachcayduoclieu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nuôi, trồng phát triển, thu hoạch cây dược liệu"
+      }
+    },
+    {
+      "id": "chuthe_churung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ rừng"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_53_2024",
+      "target_id": "hanhviphaply_nghiencuukhoahoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2024",
+      "target_id": "hanhviphaply_giangday",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2024",
+      "target_id": "hanhviphaply_thuctap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2024",
+      "target_id": "hanhviphaply_dulichsinhthai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2024",
+      "target_id": "hanhviphaply_nghiduong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2024",
+      "target_id": "hanhviphaply_giaitri",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2024",
+      "target_id": "hanhviphaply_nuoitrongphattrienthuhoachcayduoclieu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2024",
+      "target_id": "chuthe_churung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_53_2024",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_85_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 85. Lập và thực hiện dự án tái định cư",
+        "ma_dieu": "85",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 85.\n\nLập và thực hiện dự án tái định cư\n1. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án\ntái định cư trước khi thu hồi đất.\n2. Khu tái định cư tập trung phải xây dựng cơ sở hạ tầng đồng bộ, bảo đảm tiêu chuẩn, quy chuẩn xây\ndựng, phù hợp với điều kiện, phong tục, tập quán của từng vùng, miền.\n3. Việc thu hồi đất ở chỉ được thực hiện sau khi hoàn thành xây dựng nhà ở hoặc cơ sở hạ tầng của khu\ntái định cư.\n4. Chính phủ quy định chi tiết điều này ."
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "hanhviphaply_lapvathuchienduantaidinhcu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập và thực hiện dự án tái định cư"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_khutaidinhcutaptrung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Khu tái định cư tập trung"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidato",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất ở"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_85_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2013",
+      "target_id": "hanhviphaply_lapvathuchienduantaidinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2013",
+      "target_id": "khainiem_khutaidinhcutaptrung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2013",
+      "target_id": "hanhviphaply_thuhoidato",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_85_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

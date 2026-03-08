@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_78_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 78. Bồi thường về đất, chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất nông nghiệp của tổ chức kinh tế, tổ chức sự nghiệp công lập tự chủ tài chính, cộng đồng dân cư, cơ sở tôn giáo",
+        "ma_dieu": "78",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 78.\n\nBồi thường về đất, chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất nông nghiệp\ncủa tổ chức kinh tế, tổ chức sự nghiệp công lập tự chủ tài chính, cộng đồng dân cư, cơ sở tôn giáo\n1. Tổ chức kinh tế đang sử dụng đất nông nghiệp được Nhà nước giao đất có thu tiền sử dụng đất, cho\nthuê đất trả tiền thuê đất một lần cho cả thời gian thuê, nhận chuyển nhượng quyền sử dụng đất khi\nNhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại  Điều 75 của Luật này  thì\nđược bồi thường về đất; mức bồi thường về đất được xác định theo thời hạn sử dụng đất còn lại.\n2. Tổ chức kinh tế, tổ chức sự nghiệp công lập tự chủ tài chính đang sử dụng đất nông nghiệp được Nhà\nnước cho thuê trả tiền thuê đất hàng năm khi Nhà nước thu hồi đất thì không được bồi thường về đất\nnhưng được bồi thường chi phí đầu tư vào đất còn lại nếu chi phí này không có nguồn gốc từ ngân\nsách nhà nước.\nTrường hợp đất nông nghiệp không phải là đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất là\nrừng tự nhiên của tổ chức kinh tế đã giao khoán cho hộ gia đình, cá nhân theo quy định của pháp luật\nkhi Nhà nước thu hồi đất thì hộ gia đình, cá nhân nhận khoán không được bồi thường về đất nhưng\nđược bồi thường chi phí đầu tư vào đất còn lại.\n3. Cộng đồng dân cư, cơ sở tôn giáo đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất mà có đủ\nđiều kiện được bồi thường quy định tại  Điều 75 của Luật này  thì được bồi thường về đất theo quy\nđịnh của Chính phủ."
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_sunghiep_cong_lap_tutaichinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sự nghiệp công lập tự chủ tài chính"
+      }
+    },
+    {
+      "id": "chuthe_congdong_dancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_coso_tongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ sở tôn giáo"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuoc_thuhoidatnongnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất nông nghiệp"
+      }
+    },
+    {
+      "id": "dieukien_dudieukienboithuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "đủ điều kiện được bồi thường quy định tại  Điều 75 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình, cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_78_2013",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_78_2013",
+      "target_id": "chuthe_tochuc_sunghiep_cong_lap_tutaichinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_78_2013",
+      "target_id": "chuthe_congdong_dancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_78_2013",
+      "target_id": "chuthe_coso_tongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_78_2013",
+      "target_id": "hanhviphaply_nhanuoc_thuhoidatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_78_2013",
+      "target_id": "dieukien_dudieukienboithuong",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_78_2013",
+      "target_id": "chuthe_hogiadinh_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

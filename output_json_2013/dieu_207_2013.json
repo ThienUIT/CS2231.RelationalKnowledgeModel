@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_207_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 207. Xử lý đối với người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ tr ong lĩnh vực đất đai",
+        "ma_dieu": "207",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 207.\n\nXử lý đối với người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ tr ong\nlĩnh vực đất đai\n1. Người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ thì tùy theo tính chất, mức độ vi\nphạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật đối với các\nhành vi vi phạm sau đây:\na) Lợi dụng chức vụ, quyền hạn làm trái với quy định của pháp luật trong giao đất, cho thuê đất,\nchuyển mục đích sử dụng đất, thu hồi đất, bồi thường, hỗ trợ, tái định cư, chuyển quyền sử dụng đất,\nthực hiện quy hoạch, kế hoạch sử dụng đất, xác định nghĩa vụ tài chính về đất đai, quản lý hồ sơ địa\nchính, ra quyết định hành chính trong quản lý đất đai;\nb) Thiếu trách nhiệm trong quản lý để xảy ra vi phạm pháp luật về đất đai hoặc có hành vi khác gây\nthiệt hại đến tài nguyên đất đai, quyền và nghĩa vụ của người sử dụng đất;\nc) Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin; vi phạm quy định trình tự, thủ tục\nhành chính; vi phạm quy định về báo cáo trong quản lý đất đai.\n2. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "chuthe_nguoicohanhvi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ"
+      }
+    },
+    {
+      "id": "hanhviphaply_viluatdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_loidungchucvu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lợi dụng chức vụ, quyền hạn làm trái với quy định của pháp luật trong giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất, bồi thường, hỗ trợ, tái định cư, chuyển quyền sử dụng đất, thực hiện quy hoạch, kế hoạch sử dụng đất, xác định nghĩa vụ tài chính về đất đai, quản lý hồ sơ địa chính, ra quyết định hành chính trong quản lý đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_thieutrachnhiem",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thiếu trách nhiệm trong quản lý để xảy ra vi phạm pháp luật về đất đai hoặc có hành vi khác gây thiệt hại đến tài nguyên đất đai, quyền và nghĩa vụ của người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_viphamquydinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin; vi phạm quy định trình tự, thủ tục hành chính; vi phạm quy định về báo cáo trong quản lý đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_207_2013",
+      "target_id": "chuthe_nguoicohanhvi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2013",
+      "target_id": "hanhviphaply_viluatdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2013",
+      "target_id": "hanhviphaply_loidungchucvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2013",
+      "target_id": "hanhviphaply_thieutrachnhiem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_207_2013",
+      "target_id": "hanhviphaply_viphamquydinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

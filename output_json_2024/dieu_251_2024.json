@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_251_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 251",
+        "ma_dieu": "251",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 251.\n\nBãi bỏ một số điều của các luật, nghị quyết của Quốc hội có liên quan đến đất đai\n1. Bãi bỏ một số điều của các luật có liên quan đến đất đai như sau:\na) Bãi bỏ khoản 3 Điều 36 và khoản 2 Điều 86 của Luật Quản lý, sử dụng tài sản công số\n15/2017/QH14  đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14  và Luật số\n07/2022/QH15 ;\nb) Bãi bỏ khoản 1 Điều 12 của Luật Đường sắt số 06/2017/QH14  đã được sửa đổi, bổ sung một số điều\ntheo Luật số 35/2018/QH14  và Luật số 16/2023/QH15 .\n2. Bãi bỏ Nghị quyết số  132/2020/QH14  ngày 17 tháng 1 1 năm 2020 của Quốc hội thí điểm một số\nchính sách để tháo gỡ vướng mắc, tồn đọng trong quản lý, sử dụng đất quốc phòng, an ninh kết hợp\nvới hoạt động lao động sản xuất, xây dựng kinh tế.\n Ể about:blank\nMục 2. HIỆU LỰC THI HÀNH, QUY  ĐỊNH CHUYỂN TIẾP"
+      }
+    },
+    {
+      "id": "hanhviphaply_baibo",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bãi bỏ"
+      }
+    },
+    {
+      "id": "khainiem_luat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Luật"
+      }
+    },
+    {
+      "id": "khainiem_nghiquyet",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nghị quyết"
+      }
+    },
+    {
+      "id": "khainiem_quocphonganninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quốc phòng, an ninh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_251_2024",
+      "target_id": "hanhviphaply_baibo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_251_2024",
+      "target_id": "khainiem_luat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_251_2024",
+      "target_id": "khainiem_nghiquyet",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_251_2024",
+      "target_id": "khainiem_quocphonganninh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

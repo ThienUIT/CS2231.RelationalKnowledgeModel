@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_24_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Quyền tiếp cận thông tin đất đai",
+        "ma_dieu": "24",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 24.\n\nQuyền tiếp cận thông tin đất đai\n1. Công dân được tiếp cận các thông tin đất đai sau đây:\na) Quy hoạch, kế hoạch sử dụng đất, các quy hoạch có liên quan đến sử dụng đất đã được cơ quan nhà\nnước có thẩm quyền quyết định, phê duyệt;\nb) Kết quả thống kê, kiểm kê đất đai;\nc) Giao đất, cho thuê đất;\nd) Bảng giá đất đã được công bố;\nđ) Phương án bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất đã được cơ quan có thẩm quyền\nphê duyệt;\ne) Kết quả thanh tra, kiểm tra, giải quyết tranh chấp đất đai; kết quả giải quyết khiếu nại, tố cáo về đất\nđai, kết quả xử lý vi phạm pháp luật về đất đai;\ng) Thủ tục hành chính về đất đai;\nh) Văn bản quy phạm pháp luật về đất đai;\ni) Các thông tin đất đai khác theo quy định của pháp luật.\n2. Việc tiếp cận thông tin đất đai thực hiện theo quy định của Luật này , pháp luật về tiếp cận thông tin\nvà quy định khác của pháp luật có liên quan."
+      }
+    },
+    {
+      "id": "chuthe_congdan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công dân"
+      }
+    },
+    {
+      "id": "khainiem_thongtindatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thông tin đất đai"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_ketquathongkekiemkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kết quả thống kê, kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_banggiaodat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bảng giá đất"
+      }
+    },
+    {
+      "id": "khainiem_phuonganboithuonghotrotaidinhcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phương án bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_ketquathanhtrakiemtragiaiquyettranhchapdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kết quả thanh tra, kiểm tra, giải quyết tranh chấp đất đai"
+      }
+    },
+    {
+      "id": "khainiem_ketquagiaiquyetkhieunaitocaovedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kết quả giải quyết khiếu nại, tố cáo về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_ketquaxulyviphamphapluatvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kết quả xử lý vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_thutuchanhchinhvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thủ tục hành chính về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_vanbanquyphamphapluatvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Văn bản quy phạm pháp luật về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "chuthe_congdan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_thongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_quyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_ketquathongkekiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_banggiaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_phuonganboithuonghotrotaidinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_ketquathanhtrakiemtragiaiquyettranhchapdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_ketquagiaiquyetkhieunaitocaovedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_ketquaxulyviphamphapluatvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_thutuchanhchinhvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2024",
+      "target_id": "khainiem_vanbanquyphamphapluatvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_21_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 21. Thực hiện quyền đại diện chủ sở hữu về đất đai",
+        "ma_dieu": "21",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 21.\n\nThực hiện quyền đại diện chủ sở hữu về đất đai\n1. Quốc hội ban hành luật, nghị quyết về đất đai; quyết định quy hoạch, kế hoạch sử dụng đất  cấp quốc\ngia; thực hiện quyền giám sát tối cao đối với việc quản lý và sử dụng đất đai trong phạm vi cả nước.\n2. Hội đồng nhân dân các cấp thực hiện quyền thông qua quy hoạch, kế hoạch sử dụng đất của địa\nphương mình trước khi trình cơ quan có thẩm quyền phê duyệt; thông qua bảng giá đất, việc thu hồi\nđất thực hiện các dự án phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng của địa phương theo\nthẩm quyền quy định tại Luật này; giám sát việc thi hành pháp luật về đất đai tại địa phương.\n3. Chính phủ, Ủy ban nhân dân các cấp thực hiện quyền đại diện chủ sở hữu về đất đai theo thẩm\nquyền quy định tại Luật này ."
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "hanhviphaply_banhanhluat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Ban hành luật, nghị quyết về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia"
+      }
+    },
+    {
+      "id": "hanhviphaply_giamsattoicao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện quyền giám sát tối cao đối với việc quản lý và sử dụng đất đai trong phạm vi cả nước"
+      }
+    },
+    {
+      "id": "chuthe_hoidongnhandancaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân các cấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_thongquaquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thông qua quy hoạch, kế hoạch sử dụng đất của địa phương mình trước khi trình cơ quan có thẩm quyền phê duyệt"
+      }
+    },
+    {
+      "id": "hanhviphaply_thongquabanggiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thông qua bảng giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất thực hiện các dự án phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng của địa phương theo thẩm quyền quy định tại Luật này"
+      }
+    },
+    {
+      "id": "hanhviphaply_giamsatviecthihanh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giám sát việc thi hành pháp luật về đất đai tại địa phương"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchienquyendaidien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện quyền đại diện chủ sở hữu về đất đai theo thẩm quyền quy định tại Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "hanhviphaply_banhanhluat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "hanhviphaply_quyetdinhquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "hanhviphaply_giamsattoicao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "chuthe_hoidongnhandancaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "hanhviphaply_thongquaquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "hanhviphaply_thongquabanggiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "hanhviphaply_giamsatviecthihanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "chuthe_ubndcaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_21_2013",
+      "target_id": "hanhviphaply_thuchienquyendaidien",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

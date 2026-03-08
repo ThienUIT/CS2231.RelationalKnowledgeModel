@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_176_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 176. Quyền và nghĩa vụ của tổ chức kinh tế nhận chuyển nhượng quyền sử dụng đất, chuyển mục đích sử dụng đất",
+        "ma_dieu": "176",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 176.\n\nQuyền và nghĩa vụ của tổ chức kinh tế nhận chuyển nhượng quyền sử dụng đất,\nchuyển mục đích sử dụng đất\n1. Tổ chức kinh tế nhận chuyển nhượng quyền sử dụng đất, chuyển mục đích sử dụng đất có quyền và\nnghĩa vụ chung quy định tại  Điều 166 và Điều 170 của Luật này .\n2. Tổ chức kinh tế nhận chuyển nhượng quyền sử dụng đất có nguồn gốc do được Nhà nước giao có\nthu tiền sử dụng đất hoặc Nhà nước cho thuê đất trả trước tiền một lần cho cả thời gian thuê mà tiền sử\ndụng đất, tiền thuê đất đã trả không có nguồn gốc từ ngân sách nhà nước thì có quyền và nghĩa vụ quy\nđịnh tại  khoản 2 Điều 174 của Luật này .\n3. Tổ chức kinh tế nhận chuyển nhượng quyền sử dụng đất nông nghiệp theo quy định của pháp luật thì\ncó các quyền và nghĩa vụ sau đây:\na) Trường hợp nhận chuyển nhượng và không chuyển mục đích sử dụng đất thì có quyền và nghĩa vụ\nquy định tại  khoản 2 Điều 174 của Luật này ;\nb) Trường hợp nhận chuyển nhượng và chuyển mục đích sử dụng đất mà thuộc trường hợp được Nhà\nnước giao đất có thu tiền sử dụng đất hoặc cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê\nthì có quyền và nghĩa vụ quy định tại  khoản 2 Điều 174 của Luật này ;\nc) Trường hợp nhận chuyển nhượng và chuyển mục đích sử dụng đất mà thuộc trường hợp được Nhà\nnước cho thuê đất thu tiền thuê đất hàng năm thì có quyền và nghĩa vụ quy định tại Điều 175 của Luật\nnày.\n4. Quyền và nghĩa vụ của tổ chức kinh tế sử dụng đất được cơ quan nhà nước có thẩm quyền cho phép\nchuyển mục đích sử dụng đất từ đất không thu tiền sử dụng đất sang đất có thu tiền sử dụng đất hoặc\ncho thuê đất được quy định như sau:\na) Trường hợp tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất thu\ntiền thuê đất một lần cho cả thời gian thuê thì có quyền và nghĩa vụ quy định tại khoản 2 Điều 174 của\nLuật này;\nb) Trường hợp tổ chức kinh tế được Nhà nước cho thuê đất thu tiền thuê đất hàng năm thì có quyền và\nnghĩa vụ quy định tại  khoản 1 Điều 175 của Luật này ."
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanchuyennhuongquyen_sudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "nhận chuyển nhượng quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdich_sudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_176_2013",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2013",
+      "target_id": "hanhviphaply_nhanchuyennhuongquyen_sudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_176_2013",
+      "target_id": "hanhviphaply_chuyenmucdich_sudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

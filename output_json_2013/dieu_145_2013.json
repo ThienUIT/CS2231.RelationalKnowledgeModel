@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_145_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 145. Đất xây dựng khu chung cư",
+        "ma_dieu": "145",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 145.\n\nĐất xây dựng khu chung cư\n1. Đất xây dựng khu chung cư bao gồm đất để xây dựng nhà chung cư, xây dựng các công trình phục\nvụ trực tiếp cho đời sống của những hộ gia đình trong nhà chung cư và các công trình phục vụ cộng\nđồng theo quy hoạch xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt.\n2. Việc quy hoạch đất xây dựng khu chung cư phải bảo đảm đồng bộ với quy hoạch các công trình công\ncộng, bảo vệ môi trường.\n3. Chính phủ quy định chi tiết chế độ sử dụng đất xây dựng khu chung cư."
+      }
+    },
+    {
+      "id": "khainiem_datxaydungkuchungcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng khu chung cư"
+      }
+    },
+    {
+      "id": "khainiem_nhachungcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà chung cư"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhphucvudoisong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "các công trình phục vụ trực tiếp cho đời sống"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinhtrongnhachungcu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "những hộ gia đình trong nhà chung cư"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhphucvucongdong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "các công trình phục vụ cộng đồng"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachxaydung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch xây dựng"
+      }
+    },
+    {
+      "id": "chuthe_quycannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan nhà nước có thẩm quyền"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachcaccongtrinhcongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch các công trình công cộng"
+      }
+    },
+    {
+      "id": "khainiem_baovemoitruong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bảo vệ môi trường"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quy định chi tiết chế độ sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "khainiem_datxaydungkuchungcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "khainiem_nhachungcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "khainiem_congtrinhphucvudoisong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "chuthe_hogiadinhtrongnhachungcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "khainiem_congtrinhphucvucongdong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "khainiem_quyhoachxaydung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "chuthe_quycannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "khainiem_quyhoachcaccongtrinhcongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "khainiem_baovemoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_145_2013",
+      "target_id": "hanhviphaply_quydinhchitiet",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

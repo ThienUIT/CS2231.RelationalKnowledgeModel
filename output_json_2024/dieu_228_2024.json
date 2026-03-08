@@ -1,0 +1,184 @@
+{
+  "entities": [
+    {
+      "id": "dieu_228_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 228. Trình tự, thủ tục giao đất, cho thuê đất đối với trường hợp giao đất, cho thuê đất không đấu giá quyền sử dụng đất, không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất và trường hợp giao đất, cho thuê đất thông qua đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất",
+        "ma_dieu": "228",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 228.\n\nTrình tự, thủ tục giao đất, cho thuê đất đối với trường hợp giao đất, cho thuê đất\nkhông đấu giá quyền sử dụng đất, không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử\ndụng đất và trường hợp giao đất, cho thuê đất thông qua đấu thầu lựa chọn nhà đầu tư thực hiện\ndự án có sử dụng đất about:blank\nCác trường hợp Nhà nước giao đất, cho thuê đất theo quy định tại Điều 124 và Điều 126 của Luật này\nthì thực hiện theo trình tự, thủ tục như sau:\n1. Tổ chức, cá nhân nộp hồ sơ đề nghị giao đất, cho thuê đất;\n2. Cơ quan có chức năng quản lý đất đai có trách nhiệm sau đây:\na) Rà soát, kiểm tra hồ sơ, tổ chức trích đo, trích lục; trường hợp tổ chức, cá nhân đề nghị giao đất, cho\nthuê đất còn thiếu các giấy tờ có liên quan thì hướng dẫn bổ sung giấy tờ;\nb) Đối với trường hợp áp dụng giá đất trong bảng giá đất để tính tiền sử dụng đất, tiền thuê đất thì cơ\nquan có chức năng quản lý đất đai lập hồ sơ trình Ủy ban nhân dân cấp có thẩm quyền ban hành quyết\nđịnh giao đất, cho thuê đất và trình ký Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn\nliền với đất;\nc) Đối với trường hợp xác định giá đất cụ thể để tính tiền sử dụng đất, tiền thuê đất thì cơ quan có\nchức năng quản lý đất đai lập hồ sơ trình Ủy ban nhân dân cấp có thẩm quyền ban hành quyết định\ngiao đất, cho thuê đất; tổ chức việc xác định giá đất, trình cơ quan có thẩm quyền phê duyệt giá đất\ntính tiền sử dụng đất, tiền thuê đất và trình ký Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài\nsản gắn liền với đất;\n3. Người sử dụng đất nộp tiền sử dụng đất, tiền thuê đất theo quy định của pháp luật; trường hợp được\ngiảm tiền sử dụng đất, tiền thuê đất thì cơ quan thu tiền sử dụng đất, tiền thuê đất thực hiện giảm tiền\nsử dụng đất, tiền thuê đất cho người sử dụng đất;\n4. Cơ quan có chức năng quản lý đất đai chuyển hồ sơ đến tổ chức đăng ký đất đai hoặc chi nhánh của\ntổ chức đăng ký đất đai để cập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính; ký hợp đồng thuê\nđất đối với trường hợp Nhà nước cho thuê đất; tổ chức bàn giao đất trên thực địa và trao Giấy chứng\nnhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất."
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_coquancochucnangquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có chức năng quản lý đất đai"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nophosodenghi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nộp hồ sơ đề nghị giao đất, cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_rasoatkiemtrahoso",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Rà soát, kiểm tra hồ sơ"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochuctrichdotrichluc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tổ chức trích đo, trích lục"
+      }
+    },
+    {
+      "id": "hanhviphaply_laphosotrinhubnd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập hồ sơ trình Ủy ban nhân dân cấp có thẩm quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochucxacdinhgiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tổ chức việc xác định giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_trinhcqcothamquyenpheduyetgiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Trình cơ quan có thẩm quyền phê duyệt giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_noptiensddvaothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nộp tiền sử dụng đất, tiền thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenhosodentochucdangky",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển hồ sơ đến tổ chức đăng ký đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_kyhopdongthuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Ký hợp đồng thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochucbangiaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tổ chức bàn giao đất trên thực địa"
+      }
+    },
+    {
+      "id": "hanhviphaply_traogiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Trao Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "chuthe_coquancochucnangquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_nophosodenghi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_rasoatkiemtrahoso",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_tochuctrichdotrichluc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_laphosotrinhubnd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_tochucxacdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_trinhcqcothamquyenpheduyetgiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_noptiensddvaothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_chuyenhosodentochucdangky",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_kyhopdongthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_tochucbangiaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_228_2024",
+      "target_id": "hanhviphaply_traogiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "entities": [
+    {
+      "id": "dieu_130_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 130. Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của hộ gia đình, cá nhân",
+        "ma_dieu": "130",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 130.\n\nHạn mức nhận chuyển quyền sử dụng đất nông nghiệp của hộ gia đình, cá nhân\n1. Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của hộ gia đình, cá nhân không quá 10 lần hạn\nmức giao đất nông nghiệp của hộ gia đình, cá nhân đối với mỗi loại đất quy định tại các  khoản 1, 2 và 3\nĐiều 129 của Luật này .\n2. Chính phủ quy định hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của hộ gia đình, cá nhân\nphù hợp với điều kiện cụ thể theo từng vùng và từng thời kỳ."
+      }
+    },
+    {
+      "id": "khainiem_hanmucnhanchuyenquyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hạn mức nhận chuyển quyền"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "dieu_129_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 129",
+        "ma_dieu": "129",
+        "phien_ban": 2013
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_130_2013",
+      "target_id": "khainiem_hanmucnhanchuyenquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_130_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_130_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_130_2013",
+      "target_id": "dieu_129_2013",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_130_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

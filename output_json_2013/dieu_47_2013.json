@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "id": "dieu_47_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 47. Tư vấn lập quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "47",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 47.\n\nTư vấn lập quy hoạch, kế hoạch sử dụng đất\n1. Trong quá trình lập quy hoạch, kế hoạch sử dụng đất, cơ quan chịu trách nhiệm chủ trì việc lập quy\nhoạch, kế hoạch sử dụng đất được thuê tư vấn lập quy hoạch, kế hoạch sử dụng đất.\n2. Chính phủ quy định điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng\nđất."
+      }
+    },
+    {
+      "id": "hanhviphaply_tuvanlapquydat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tư vấn lập quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_coquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan chịu trách nhiệm chủ trì việc lập quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "dieukien_dieukientochuccanhan",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_47_2013",
+      "target_id": "hanhviphaply_tuvanlapquydat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_47_2013",
+      "target_id": "chuthe_coquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_47_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_47_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "target_id": "dieukien_dieukientochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

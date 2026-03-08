@@ -1,0 +1,232 @@
+stt,question,ground_truth_answer,type,pure_llm_answer,retrieved_articles,num_retrieved
+I.1,"Thửa đất"" theo LĐĐ 2013 được giải thích như thế nào?","Là phần diện tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả trên hồ sơ. **(K1, Đ3, LĐĐ 2013\)**",Định nghĩa,"Thửa đất là phần diện tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả trên hồ sơ.
+",,0
+I.2,"So với LĐĐ 2013, LĐĐ 2024 định nghĩa ""Đất chuyên trồng lúa nước"" khác nhau ra sao?","LĐĐ 2013 không định nghĩa trực tiếp. LĐĐ 2024 định nghĩa là đất trồng từ 02 vụ lúa nước trở lên. **(K1, Đ182, LĐĐ 2024\)**",So sánh,"LĐĐ 2024 không định nghĩa ""Đất chuyên trồng lúa nước"". Thay vào đó, sử dụng khái niệm ""Đất trồng lúa"".
+",,0
+I.3,Đất lâm nghiệp được phân loại trong nhóm đất nào theo LĐĐ 2024?,"Thuộc **Nhóm đất nông nghiệp**. **(K2c, Đ9, LĐĐ 2024\)**",Phân loại,"Đất nông nghiệp.
+",,0
+I.4,"Chủ thể ""Hộ gia đình sử dụng đất"" còn tồn tại trong LĐĐ 2024 không?","**Không.** LĐĐ 2024 đã bỏ chủ thể ""Hộ gia đình"", quyền và nghĩa vụ được xác định cho các cá nhân thành viên. **(So sánh Đ5 LĐĐ 2013 & Đ4 LĐĐ 2024\)**",So sánh,"Có.
+",,0
+I.5,"Chuyển quyền sử dụng đất"" theo LĐĐ 2024 bao gồm những hình thức nào?","Gồm: chuyển đổi, chuyển nhượng, thừa kế, tặng cho, và góp vốn bằng quyền sử dụng đất. **(K12, Đ3, LĐĐ 2024\)**",Định nghĩa,"Chuyển quyền sử dụng đất theo Luật Đất đai 2024 bao gồm:
+
+*   Chuyển nhượng
+*   Cho thuê
+*   Cho thuê lại
+*   Góp vốn bằng quyền sử dụng đất
+*   Tặng cho
+*   Thế chấp, bảo lãnh
+",,0
+I.6,Đất sử dụng cho khu công nghệ cao thuộc nhóm đất nào theo LĐĐ 2024?,"Thuộc **Nhóm đất phi nông nghiệp** (loại đất sản xuất, kinh doanh phi nông nghiệp). **(K3đ, Đ9, LĐĐ 2024\)**",Phân loại,"Đất phi nông nghiệp.
+",,0
+I.7,"LĐĐ 2024 quy định về ""Sử dụng đất đa mục đích"" như thế nào so với LĐĐ 2013?","LĐĐ 2024 có quy định cụ thể tại **Điều 218**, cho phép kết hợp các loại đất (ví dụ: nông nghiệp kết hợp thương mại). LĐĐ 2013 không có quy định này.",So sánh,"LĐĐ 2024 quy định chi tiết và cụ thể hơn về điều kiện, nguyên tắc, thẩm quyền cho phép sử dụng đất đa mục đích so với LĐĐ 2013.
+",,0
+I.8,"Giá đất"" theo định nghĩa của LĐĐ 2024 là gì?","Là giá trị của quyền sử dụng đất tính bằng tiền trên một đơn vị diện tích đất. **(K19, Đ3, LĐĐ 2024\)**",Định nghĩa,"Giá đất theo định nghĩa của Luật Đất đai 2024 là giá trị bằng tiền của quyền sử dụng đất tính trên một đơn vị diện tích đất.
+",,0
+I.9,"Khái niệm ""Vùng phụ cận"" được giải thích như thế nào trong LĐĐ 2024?","Là vùng đất tiếp giáp với các điểm, tuyến kết nối giao thông có tiềm năng phát triển theo quy hoạch. **(K49, Đ3, LĐĐ 2024\)**",Định nghĩa,"Luật Đất đai 2024 không định nghĩa khái niệm ""vùng phụ cận"".
+",,0
+I.10,"Hủy hoại đất"" theo định nghĩa của LĐĐ 2013 là gì?","Là hành vi làm biến dạng địa hình, suy giảm chất lượng đất, gây ô nhiễm làm mất/giảm khả năng sử dụng đất. **(K25, Đ3, LĐĐ 2013\)**",Định nghĩa,"Hủy hoại đất là hành vi làm biến đổi xấu đi các tính chất vật lý, hóa học, sinh học của đất, làm giảm khả năng sử dụng đất theo mục đích đã được xác định.
+",,0
+II.1,Thẩm quyền giao đất cho tổ chức kinh tế có vốn đầu tư nước ngoài theo LĐĐ 2024 thuộc về cơ quan nào?,"Thuộc thẩm quyền của **Ủy ban nhân dân cấp tỉnh**. **(K1c, Đ123, LĐĐ 2024\)**",Tình huống,"Ủy ban nhân dân cấp tỉnh.
+",,0
+II.2,"Cá nhân muốn chuyển 0.6 hecta đất nông nghiệp sang đất thương mại, dịch vụ. Theo LĐĐ 2024, cơ quan nào quyết định?","**UBND cấp huyện** quyết định, nhưng phải có văn bản chấp thuận của **UBND cấp tỉnh** vì diện tích \> 0,5 ha. **(K2a, Đ123, LĐĐ 2024\)**",Tình huống,"Ủy ban nhân dân cấp tỉnh.
+",,0
+II.3,"Theo LĐĐ 2013, nếu đất trong kế hoạch hàng năm sau 3 năm chưa có quyết định thu hồi thì xử lý ra sao?","Cơ quan có thẩm quyền phải **điều chỉnh, hủy bỏ** và công bố công khai việc này. **(K3, Đ49, LĐĐ 2013\)**",Tình huống,"Đất trong kế hoạch sử dụng đất hàng năm đã được công bố mà sau 3 năm chưa có quyết định thu hồi đất thì cơ quan nhà nước có thẩm quyền phải điều chỉnh, hủy bỏ hoặc gia hạn kế hoạch sử dụng đất.
+",,0
+II.4,"Theo LĐĐ 2024, thời hạn tối đa để HĐND cấp tỉnh phải thông qua danh mục dự án thu hồi đất là khi nào?","Phải thông qua **trước khi** phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện. **(K5, Đ72, LĐĐ 2024\)**",Thủ tục,"Trước ngày 31 tháng 12 của năm trước năm kế hoạch sử dụng đất.
+",,0
+II.5,Kỳ quy hoạch sử dụng đất cấp huyện theo LĐĐ 2024 là bao nhiêu năm?,"Là **10 năm**. **(K3, Đ62, LĐĐ 2024\)**",Hỏi-Đáp,"5 năm.
+",,0
+II.6,"Theo LĐĐ 2024, cơ quan nào có thẩm quyền phê duyệt kế hoạch sử dụng đất cấp tỉnh?","**Chính phủ**. **(K2, Đ72, LĐĐ 2024\)**",Hỏi-Đáp,"Quốc hội.
+",,0
+II.7,Một dự án không có trong kế hoạch sử dụng đất hàng năm cấp huyện có được thực hiện không?,"**Có**, nếu thuộc các trường hợp đặc biệt như có quyết định đầu tư của Quốc hội, Thủ tướng Chính phủ... **(K4, Đ67, LĐĐ 2024\)**",Tình huống,"Không.
+",,0
+II.8,"Thẩm quyền cấp GCN lần đầu cho cá nhân, hộ gia đình theo LĐĐ 2024 thuộc về cơ quan nào?","Thuộc thẩm quyền của **UBND cấp huyện**. **(K1b, Đ136, LĐĐ 2024\)**",Hỏi-Đáp,"UBND cấp huyện.
+",,0
+II.9,Thẩm quyền cấp GCN cho tổ chức tôn giáo theo LĐĐ 2013 thuộc về ai?,"Thuộc thẩm quyền của **UBND cấp tỉnh**. **(K1, Đ105, LĐĐ 2013\)**",Hỏi-Đáp,"Ủy ban nhân dân cấp tỉnh.
+",,0
+II.10,Việc lấy ý kiến về quy hoạch sử dụng đất cấp huyện theo LĐĐ 2024 có bắt buộc không?,"**Có**, cơ quan lập quy hoạch có trách nhiệm lấy ý kiến các cơ quan, tổ chức, cá nhân liên quan. **(K3, Đ70, LĐĐ 2024\)**",Thủ tục,"Có.
+",,0
+II.11,Thời gian lấy ý kiến cho quy hoạch sử dụng đất cấp tỉnh theo LĐĐ 2024 là bao lâu?,"Là **45 ngày** kể từ ngày công khai thông tin. **(K2c, Đ70, LĐĐ 2024\)**",Thủ tục,"30 ngày.
+",,0
+II.12,"Theo LĐĐ 2013, cơ quan nào quyết định kế hoạch sử dụng đất cấp quốc gia?","**Quốc hội**. **(K1, Đ45, LĐĐ 2013\)**",Hỏi-Đáp,"Quốc hội.
+",,0
+II.13,LĐĐ 2024 quy định cơ quan nào chịu trách nhiệm lập kế hoạch sử dụng đất quốc gia?,"**Chính phủ** tổ chức lập. **(K1, Đ69, LĐĐ 2024\)**",Hỏi-Đáp,"Bộ Tài nguyên và Môi trường.
+",,0
+II.14,So sánh thời kỳ kế hoạch sử dụng đất cấp huyện giữa 2 luật?,"LĐĐ 2013 không quy định riêng. LĐĐ 2024 quy định kế hoạch sử dụng đất cấp huyện được lập **hằng năm**. **(K4, Đ62, LĐĐ 2024\)**",So sánh,"Luật Đất đai 2024 rút ngắn thời kỳ quy hoạch sử dụng đất cấp huyện từ 10 năm xuống 5 năm.
+",,0
+II.15,Cơ quan nào có thẩm quyền cho phép hộ gia đình chuyển mục đích sử dụng đất vườn sang đất ở theo LĐĐ 2024?,"**UBND cấp huyện**. **(K2a, Đ123, LĐĐ 2024\)**",Tình huống,"UBND cấp huyện.
+",,0
+II.16,Một dự án lấn biển có thuộc đối tượng phải lập quy hoạch sử dụng đất không?,"**Có**. Quy hoạch sử dụng đất của các địa phương có biển phải bao gồm cả khu vực lấn biển. **(K5, Đ69, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+II.17,"Theo LĐĐ 2013, thẩm quyền giao đất cho người Việt Nam định cư ở nước ngoài thuộc về ai?","**UBND cấp tỉnh**. **(K1a, Đ59, LĐĐ 2013\)**",Hỏi-Đáp,"Ủy ban nhân dân cấp tỉnh.
+",,0
+II.18,"Theo LĐĐ 2024, một dự án phát triển nhà ở có cần phù hợp với quy hoạch sử dụng đất không?","**Có**, việc giao đất, cho thuê đất để thực hiện dự án phải phù hợp với quy hoạch sử dụng đất cấp huyện đã được phê duyệt. **(Đ116, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+II.19,Thời gian công khai quy hoạch sử dụng đất theo LĐĐ 2024 là bao lâu?,"Phải được công khai trong **suốt kỳ quy hoạch**. **(K4b, Đ75, LĐĐ 2024\)**",Thủ tục,"Luật Đất đai 2024 không quy định cụ thể thời gian công khai quy hoạch sử dụng đất.
+",,0
+II.20,"Theo LĐĐ 2013, cơ quan nào có thẩm quyền giải quyết tranh chấp địa giới hành chính cấp tỉnh?","**Chính phủ** trình **Quốc hội** quyết định. **(K4a, Đ29, LĐĐ 2013\)**",Hỏi-Đáp,"Quốc hội.
+",,0
+II.21,Ai phê duyệt quy hoạch sử dụng đất quốc phòng theo LĐĐ 2024?,"**Chính phủ**. **(K2, Đ72, LĐĐ 2024\)**",Hỏi-Đáp,"Thủ tướng Chính phủ.
+",,0
+II.22,So sánh căn cứ lập quy hoạch cấp huyện giữa 2 luật?,"LĐĐ 2024 yêu cầu phải căn cứ vào **quy hoạch tỉnh** và **quy hoạch sử dụng đất cấp tỉnh**, chặt chẽ hơn LĐĐ 2013\. **(So sánh Đ40 LĐĐ 2013 & Đ66 LĐĐ 2024\)**",So sánh,"*   **Luật Quy hoạch đô thị 2009:** Căn cứ vào quy hoạch cấp trên, điều kiện tự nhiên, kinh tế - xã hội.
+*   **Luật Quy hoạch 2017:** Căn cứ vào quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh, yêu cầu phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh, bảo vệ môi trường và các yếu tố đặc thù của địa phương.
+",,0
+II.23,Việc điều chỉnh quy hoạch sử dụng đất có được phép làm thay đổi mục tiêu của quy hoạch không?,"**Không**. Việc điều chỉnh không được làm thay đổi mục tiêu của quy hoạch. **(K1c, Đ73, LĐĐ 2024\)**",Hỏi-Đáp,"Không.
+",,0
+II.24,"Theo LĐĐ 2024, UBND cấp xã có thẩm quyền giao đất, cho thuê đất không?","**Có**, nhưng chỉ cho thuê đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã. **(K3, Đ123, LĐĐ 2024\)**",Tình huống,"Không.
+",,0
+II.25,Kế hoạch sử dụng đất hàng năm cấp huyện được công bố khi nào?,"Sau khi được **UBND cấp tỉnh phê duyệt**. **(K2, Đ75, LĐĐ 2024\)**",Thủ tục,"Sau khi được UBND cấp tỉnh phê duyệt.
+",,0
+II.26,"Theo LĐĐ 2013, ai có thẩm quyền thu hồi đất nông nghiệp thuộc quỹ đất công ích của xã?","**UBND cấp huyện**. **(K2b, Đ66, LĐĐ 2013\)**",Hỏi-Đáp,"Ủy ban nhân dân cấp huyện.
+",,0
+II.27,Cơ quan nào có trách nhiệm quản lý đất chưa sử dụng tại các đảo chưa có người ở theo LĐĐ 2013?,"**UBND cấp tỉnh**. **(K2, Đ164, LĐĐ 2013\)**",Hỏi-Đáp,"Ủy ban nhân dân cấp tỉnh.
+",,0
+II.28,Thời gian lấy ý kiến cho kế hoạch sử dụng đất hằng năm cấp huyện theo LĐĐ 2024 là bao lâu?,"Là **20 ngày**. **(K3c, Đ70, LĐĐ 2024\)**",Thủ tục,"30 ngày.
+",,0
+II.29,"Theo LĐĐ 2024, việc điều chỉnh kế hoạch sử dụng đất được thực hiện khi nào?","Khi có sự điều chỉnh quy hoạch sử dụng đất hoặc có sự thay đổi về khả năng thực hiện kế hoạch. **(K7, Đ73, LĐĐ 2024\)**",Hỏi-Đáp,"Theo LĐĐ 2024, việc điều chỉnh kế hoạch sử dụng đất được thực hiện khi có một trong các căn cứ quy định tại Điều 49 của Luật này.
+",,0
+II.30,Thẩm quyền cấp GCN cho người nhận thừa kế quyền sử dụng đất theo LĐĐ 2024 thuộc về ai?,"**Tổ chức đăng ký đất đai** hoặc **Chi nhánh tổ chức đăng ký đất đai**. **(K2, Đ136, LĐĐ 2024\)**",Hỏi-Đáp,"Ủy ban nhân dân cấp tỉnh hoặc Ủy ban nhân dân cấp huyện.
+",,0
+III.1,"Theo LĐĐ 2024, thu hồi đất để xây dựng Nhà ở xã hội có phải là thu hồi vì lợi ích quốc gia, công cộng không?","**Có**. Đây là một trong các trường hợp thu hồi đất vì lợi ích quốc gia, công cộng. (Điểm mới so với LĐĐ 2013). **(K21, Đ79, LĐĐ 2024\)**",So sánh,"Có.
+",,0
+III.2,Thời hạn thông báo thu hồi đất cho người có đất nông nghiệp theo LĐĐ 2024 là bao lâu?,"Chậm nhất là **90 ngày**. (Tương tự LĐĐ 2013). **(K1, Đ85, LĐĐ 2024\)**",Thủ tục,"Chậm nhất là 90 ngày trước khi có quyết định thu hồi đất.
+",,0
+III.3,"Cá nhân thuê đất trả tiền hằng năm để sản xuất nông nghiệp, khi bị thu hồi đất có được bồi thường về đất không?","**Không** được bồi thường về đất. Được bồi thường chi phí đầu tư vào đất còn lại. (Tương tự LĐĐ 2013). **(K1c, Đ107, LĐĐ 2024\)**",Tình huống,"Không.
+",,0
+III.4,So sánh thời điểm tính giá đất cụ thể để bồi thường giữa 2 luật?,LĐĐ 2024: tại thời điểm **phê duyệt phương án bồi thường**. LĐĐ 2013: tại thời điểm **có quyết định thu hồi đất**. **(So sánh Đ114 LĐĐ 2013 & Đ91 LĐĐ 2024\)**,So sánh,"Luật Đất đai 2013: Thời điểm quyết định thu hồi đất.
+
+Luật Đất đai 2024: Thời điểm có quyết định thu hồi đất hoặc thời điểm có quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất.
+",,0
+III.5,"Theo LĐĐ 2013, hộ gia đình bị thu hồi đất ở không đủ điều kiện bồi thường, không còn chỗ ở khác thì xử lý ra sao?","Nhà nước bán, cho thuê, cho thuê mua nhà ở hoặc giao đất ở có thu tiền sử dụng đất. **(K2, Đ79, LĐĐ 2013\)**",Tình huống,"Được Nhà nước tạo điều kiện để có chỗ ở.
+",,0
+III.6,Đất sử dụng không đúng mục đích và đã bị xử phạt nhưng tiếp tục vi phạm có bị thu hồi không?,"**Có**. Đây là trường hợp thu hồi đất do vi phạm pháp luật. **(K1, Đ81, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+III.7,Thẩm quyền thu hồi đất của tổ chức trong nước do vi phạm pháp luật thuộc về ai theo LĐĐ 2024?,"**UBND cấp tỉnh**. **(K1, Đ83, LĐĐ 2024\)**",Hỏi-Đáp,"Ủy ban nhân dân cấp tỉnh.
+",,0
+III.8,"Theo LĐĐ 2024, người có đất thu hồi được bồi thường bằng đất khác mục đích có được không?","**Có**, nếu người đó có nhu cầu và địa phương có điều kiện về quỹ đất, quỹ nhà ở. **(K2, Đ91, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+III.9,Đất nông nghiệp do nhận khoán có được bồi thường về đất khi bị thu hồi không?,"**Không**, nhưng được bồi thường chi phí đầu tư vào đất còn lại. **(K1đ, Đ107, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+III.10,"Theo LĐĐ 2024, khu tái định cư cần đáp ứng những điều kiện tối thiểu nào?","Phải hoàn thiện hạ tầng kỹ thuật, hạ tầng xã hội, phù hợp với phong tục, tập quán của địa phương. **(K5, Đ91; K2, Đ110 LĐĐ 2024\)**",Hỏi-Đáp,"Theo Luật Đất đai 2024, khu tái định cư phải đáp ứng các điều kiện tối thiểu về:
+
+*   Quy hoạch, hạ tầng kỹ thuật, hạ tầng xã hội.
+*   Địa điểm phù hợp quy hoạch sử dụng đất.
+*   Điều kiện sống tốt hơn hoặc bằng nơi ở cũ.
+*   Phù hợp phong tục, tập quán, văn hóa của cộng đồng dân cư.
+*   Công khai, minh bạch thông tin.
+",,0
+III.11,Tài sản tạo lập trái quy định trên đất thu hồi có được bồi thường không?,"**Không**. **(K2, Đ105, LĐĐ 2024\)**",Tình huống,"Không được bồi thường.
+",,0
+III.12,So sánh nguyên tắc bồi thường giữa 2 luật?,"LĐĐ 2024 nhấn mạnh thêm nguyên tắc ""vì lợi ích chung, sự phát triển bền vững"", quan tâm đến đối tượng chính sách. **(So sánh Đ74 LĐĐ 2013 & Đ91 LĐĐ 2024\)**",So sánh,"Căn cứ phát sinh trách nhiệm bồi thường và mức bồi thường.
+",,0
+III.13,"Việc bồi thường, hỗ trợ, tái định cư phải hoàn thành trước thời điểm nào theo LĐĐ 2024?","Phải được hoàn thành **trước khi** có quyết định thu hồi đất. **(K6, Đ91, LĐĐ 2024\)**",Thủ tục,"Trước khi có quyết định thu hồi đất.
+",,0
+III.14,Hộ gia đình có nhiều thế hệ sống chung trên thửa đất ở bị thu hồi có được xem xét hỗ trợ thêm không?,"**Có**, được xem xét hỗ trợ để giao thêm đất ở có thu tiền sử dụng đất hoặc bán, cho thuê nhà ở. **(K4, Đ111, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+III.15,Thẩm quyền thu hồi đất ở của cá nhân do có nguy cơ sạt lở thuộc về ai theo LĐĐ 2013?,"**UBND cấp huyện**. **(K2, Đ66, LĐĐ 2013\)**",Hỏi-Đáp,"Ủy ban nhân dân cấp tỉnh.
+",,0
+III.16,"Mức hỗ trợ đào tạo, chuyển đổi nghề khi thu hồi đất nông nghiệp theo LĐĐ 2024 là bao nhiêu?","Bằng tiền không quá **05 lần** giá đất nông nghiệp cùng loại trong bảng giá đất của địa phương. **(K1, Đ109, LĐĐ 2024\)**",Hỏi-Đáp,"Mức hỗ trợ đào tạo, chuyển đổi nghề khi thu hồi đất nông nghiệp theo LĐĐ 2024 do UBND cấp tỉnh quy định.
+",,0
+III.17,Đất được giao không đúng thẩm quyền có được bồi thường khi nhà nước thu hồi không?,"**Không**. Đây là trường hợp thu hồi đất do vi phạm. **(K3, Đ81, LĐĐ 2024\)**",Tình huống,"Có thể được bồi thường.
+",,0
+III.18,Quyết định cưỡng chế thu hồi đất theo LĐĐ 2024 được ban hành khi nào?,"Sau khi đã vận động, thuyết phục nhưng người có đất thu hồi không chấp hành việc bàn giao đất. **(K7b, Đ87, LĐĐ 2024\)**",Thủ tục,"Sau 15 ngày kể từ ngày người có đất nhận được quyết định thu hồi đất.
+",,0
+III.19,"So sánh trường hợp thu hồi đất để phát triển KTXH vì lợi ích quốc gia, công cộng giữa 2 luật?","LĐĐ 2024 quy định chi tiết và bổ sung thêm 32 trường hợp cụ thể, rõ ràng hơn so với LĐĐ 2013\. **(So sánh Đ62 LĐĐ 2013 & Đ79 LĐĐ 2024\)**",So sánh,"**Luật Đất đai 2013:**
+
+*   Điều kiện: Dự án thuộc danh mục được Quốc hội quyết định hoặc HĐND cấp tỉnh thông qua.
+*   Bồi thường, hỗ trợ: Theo giá thị trường, có hỗ trợ tái định cư.
+
+**Luật Đất đai 2024:**
+
+*   Điều kiện: Bổ sung tiêu chí cụ thể, chặt chẽ hơn về lợi ích quốc gia, công cộng.
+*   Bồi thường, hỗ trợ: Ưu tiên tái định cư tại chỗ, đảm bảo sinh kế bền vững.
+",,0
+III.20,Người sử dụng đất có được tự thỏa thuận với chủ đầu tư để nhận chuyển nhượng thay vì bị thu hồi đất không?,"**Có**, đối với các dự án không thuộc trường hợp thu hồi đất tại Điều 79\. **(K1a, Đ127, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+III.21,Ai chịu trách nhiệm tổ chức lập và thực hiện dự án tái định cư?,"**UBND cấp tỉnh, UBND cấp huyện**. **(K1, Đ110, LĐĐ 2024\)**",Hỏi-Đáp,"Chủ đầu tư dự án hoặc tổ chức được giao trách nhiệm.
+",,0
+III.22,Đất thu hồi trong trường hợp chấm dứt dự án đầu tư có được bồi thường không?,"**Không được bồi thường về đất**. **(K3, Đ101; K1d, Đ82 LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+III.23,Việc bồi thường khi thu hồi đất có được thực hiện bằng tiền không?,"**Có**, nếu không có đất để bồi thường hoặc người bị thu hồi có nguyện vọng nhận tiền. **(K2, Đ91, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+III.24,Người có đất thu hồi chậm bàn giao mặt bằng có bị xử lý không?,"**Có**, có thể bị **cưỡng chế thu hồi đất**. **(Đ89, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+III.25,"Ai phê duyệt phương án bồi thường, hỗ trợ, tái định cư theo LĐĐ 2024?","**UBND cấp có thẩm quyền thu hồi đất**. **(K3c, Đ87, LĐĐ 2024\)**",Thủ tục,"Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất phê duyệt phương án bồi thường, hỗ trợ, tái định cư.
+",,0
+III.26,"Theo LĐĐ 2013, đất rừng sản xuất là rừng trồng bị thu hồi có được bồi thường không?","**Có**, được bồi thường về đất nếu đủ điều kiện. **(K1e, Đ75, LĐĐ 2013\)**",Tình huống,"Có.
+",,0
+III.27,Chi phí di chuyển tài sản khi thu hồi đất có được bồi thường không?,"**Có**, Nhà nước bồi thường chi phí để tháo dỡ, di chuyển, lắp đặt. **(K1, Đ104, LĐĐ 2024\)**",Hỏi-Đáp,"Có.
+",,0
+III.28,Đất nông nghiệp trong khu dân cư bị thu hồi có được bồi thường theo giá đất ở không?,"**Không**, được bồi thường theo giá đất nông nghiệp, nhưng được hỗ trợ thêm để ổn định đời sống. **(K2, Đ96; Đ108 LĐĐ 2024\)**",Tình huống,"Có thể, nếu có đủ điều kiện theo quy định pháp luật.
+",,0
+III.29,Nếu giá đất bồi thường thấp hơn giá đất trong khu tái định cư thì người dân phải làm gì?,"Phần chênh lệch đó sẽ được **hỗ trợ** hoặc được ghi nợ nghĩa vụ tài chính tùy trường hợp. **(K3, Đ111, LĐĐ 2024\)**",Tình huống,"Người dân phải bù thêm tiền.
+",,0
+III.30,"Thời hạn chi trả tiền bồi thường, hỗ trợ là bao lâu?","Trong thời hạn **30 ngày** kể từ ngày quyết định phê duyệt phương án có hiệu lực. **(K3a, Đ94, LĐĐ 2024\)**",Thủ tục,"Trong vòng 30 ngày kể từ ngày quyết định bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành.
+",,0
+IV.1,"Theo LĐĐ 2013, tổ chức kinh tế thuê đất trả tiền hằng năm có được thế chấp tài sản gắn liền với đất không?","**Có**, có quyền thế chấp tài sản thuộc sở hữu của mình gắn liền với đất thuê. **(K1b, Đ175, LĐĐ 2013\)**",Tình huống,"Có.
+",,0
+IV.2,"Theo LĐĐ 2024, cá nhân không trực tiếp sản xuất nông nghiệp nhận chuyển nhượng đất lúa quá hạn mức phải làm gì?","Phải **thành lập tổ chức kinh tế** và có phương án sử dụng đất trồng lúa được UBND cấp huyện phê duyệt. **(K7, Đ45, LĐĐ 2024\)**",So sánh,"Phải thành lập tổ chức kinh tế và có phương án sử dụng đất trồng lúa hiệu quả, khả thi.
+",,0
+IV.3,"Theo LĐĐ 2013, trường hợp nào hộ gia đình được chuyển đổi quyền sử dụng đất nông nghiệp?","Khi cần dồn điền, đổi thửa để thuận lợi cho sản xuất nông nghiệp trong cùng một xã, phường, thị trấn. **(Đ190, LĐĐ 2013\)**",Tình huống,"Theo LĐĐ 2013, hộ gia đình được chuyển đổi quyền sử dụng đất nông nghiệp trong cùng xã, phường, thị trấn để thuận lợi cho sản xuất nông nghiệp.
+",,0
+IV.4,Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất có được chuyển nhượng quyền sử dụng đất không?,"**Không**. **(K2, Đ32, LĐĐ 2024\)**",Tình huống,"Không.
+",,0
+IV.5,Người sử dụng đất có nghĩa vụ đăng ký đất đai không?,"**Có**. Đăng ký đất đai là **bắt buộc**. **(K1, Đ131, LĐĐ 2024\)**",Hỏi-Đáp,"Có.
+",,0
+IV.6,Người Việt Nam định cư ở nước ngoài có được nhận thừa kế quyền sử dụng đất ở tại Việt Nam không?,"**Có**, nếu thuộc đối tượng được sở hữu nhà ở tại Việt Nam. **(K1, Đ44, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+IV.7,So sánh quyền của người Việt Nam định cư ở nước ngoài giữa 2 luật?,"LĐĐ 2024 mở rộng quyền cho người Việt Nam định cư ở nước ngoài là công dân Việt Nam, có đầy đủ quyền như cá nhân trong nước. **(So sánh Đ186 LĐĐ 2013 & Đ4, Đ28, Đ44 LĐĐ 2024\)**",So sánh,"Quyền của người Việt Nam định cư ở nước ngoài được mở rộng và cụ thể hơn trong Luật Quốc tịch Việt Nam 2008 so với Luật Quốc tịch Việt Nam 1998.
+",,0
+IV.8,Cá nhân sử dụng đất có quyền để thừa kế QSDĐ không?,"**Có**, có quyền để thừa kế theo di chúc hoặc theo pháp luật. **(K1đ, Đ37, LĐĐ 2024\)**",Hỏi-Đáp,"Có.
+",,0
+IV.9,"Theo LĐĐ 2013, cá nhân thuê lại đất trong khu công nghiệp có được chuyển nhượng quyền sử dụng đất không?","**Có**, nếu thuê đất trả tiền một lần cho cả thời gian thuê. **(K3a, Đ149, LĐĐ 2013\)**",Tình huống,"Không.
+",,0
+IV.10,Người sử dụng đất có nghĩa vụ sử dụng đất đúng mục đích không?,"**Có**, đây là nghĩa vụ chung và là nguyên tắc hàng đầu. **(K1, Đ31; K1, Đ5 LĐĐ 2024\)**",Hỏi-Đáp,"Có.
+",,0
+IV.11,Tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất có được tặng cho QSDĐ không?,"**Có**, được tặng cho Nhà nước hoặc cộng đồng dân cư... **(K1d, Đ33, LĐĐ 2024\)**",Tình huống,"Không.
+",,0
+IV.12,"Theo LĐĐ 2024, việc công chứng, chứng thực hợp đồng chuyển nhượng QSDĐ có bắt buộc không?","**Có**, trừ trường hợp một bên là tổ chức kinh doanh bất động sản. **(K3, Đ27, LĐĐ 2024\)**",So sánh,"Có, trừ trường hợp chuyển nhượng quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất của vợ hoặc chồng cho vợ hoặc chồng; cha đẻ, mẹ đẻ chuyển nhượng cho con đẻ; cha nuôi, mẹ nuôi chuyển nhượng cho con nuôi hoặc ngược lại; anh ruột, chị ruột, em ruột chuyển nhượng cho nhau.
+",,0
+IV.13,Người sử dụng đất có được quyền khiếu nại về các hành vi vi phạm pháp luật đất đai không?,"**Có**. Đây là một trong các quyền chung của người sử dụng đất. **(K8, Đ26, LĐĐ 2024\)**",Hỏi-Đáp,"Có.
+",,0
+IV.14,Thời điểm được thực hiện quyền chuyển nhượng đất là khi nào?,"Khi có **Giấy chứng nhận**, trừ một số trường hợp ngoại lệ như nhận thừa kế. **(K1, Đ45, LĐĐ 2024\)**",Thủ tục,"Khi có Giấy chứng nhận quyền sử dụng đất.
+",,0
+IV.15,Người đang thuê đất của Nhà nước có được góp vốn bằng quyền sử dụng đất không?,"**Không**, chỉ được góp vốn bằng tài sản thuộc sở hữu của mình gắn liền với đất thuê. **(K1d, Đ34, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+IV.16,Nghĩa vụ tài chính của người sử dụng đất bao gồm những gì?,"Bao gồm tiền sử dụng đất, tiền thuê đất, các loại thuế, phí và lệ phí liên quan đến đất đai. **(K3, Đ31, LĐĐ 2024\)**",Hỏi-Đáp,"Nghĩa vụ tài chính của người sử dụng đất bao gồm:
+
+*   Tiền sử dụng đất
+*   Tiền thuê đất
+*   Thuế sử dụng đất
+*   Thuế thu nhập từ chuyển quyền sử dụng đất
+*   Lệ phí trước bạ
+*   Các khoản phí và lệ phí khác liên quan đến quản lý, sử dụng đất đai.
+",,0
+IV.17,"Theo LĐĐ 2013, cộng đồng dân cư có được thế chấp QSDĐ không?","**Không**. **(K3, Đ179, LĐĐ 2013\)**",Hỏi-Đáp,"Không.
+",,0
+IV.18,Người sử dụng đất có phải tuân thủ quy định về bảo vệ môi trường không?,"**Có**, đây là một trong các nghĩa vụ chung. **(K5, Đ31, LĐĐ 2024\)**",Hỏi-Đáp,"Có.
+",,0
+IV.19,"Tổ chức kinh tế được miễn tiền sử dụng đất, khi chuyển nhượng có phải nộp tiền không?","**Có**, phải nộp một khoản tiền tương ứng với số tiền đã được miễn, giảm. **(K3b, Đ33, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+IV.20,"Quyền đối với thửa đất liền kề (lối đi, cấp thoát nước) được quy định như thế nào?","Được xác lập theo thỏa thuận hoặc theo quy định của pháp luật và phải đăng ký biến động. **(Đ29, LĐĐ 2024\)**",Hỏi-Đáp,"Được quy định tại Điều 252, 253, 254 Bộ luật Dân sự 2015.
+",,0
+V.1,So sánh hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân giữa 2 luật?,LĐĐ 2024: không quá **15 lần** hạn mức giao. LĐĐ 2013: không quá **10 lần**. **(So sánh Đ130 LĐĐ 2013 & Đ177 LĐĐ 2024\)**,So sánh,"Luật Đất đai 2024 bỏ quy định về hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân. Luật Đất đai 2013 quy định hạn mức này.
+",,0
+V.2,"Theo LĐĐ 2013, hạn mức giao đất trồng cây lâu năm cho cá nhân ở xã đồng bằng là bao nhiêu?","Không quá **10 héc ta**. **(K2, Đ129, LĐĐ 2013\)**",Hỏi-Đáp,"Không quá 10 héc ta.
+",,0
+V.3,"Đất xây dựng công trình sự nghiệp kết hợp thương mại, dịch vụ thì hình thức sử dụng đất là gì?","Phải chuyển sang **thuê đất trả tiền hằng năm** đối với phần diện tích kết hợp đó. **(K3, Đ218, LĐĐ 2024\)**",Tình huống,"Thuê đất.
+",,0
+V.4,Hạn mức giao đất trồng cây hàng năm ở Đồng bằng sông Cửu Long theo LĐĐ 2024 là bao nhiêu?,"Không quá **03 héc ta** cho mỗi loại đất. **(K1a, Đ176, LĐĐ 2024\)**",Hỏi-Đáp,"Không quá 3 héc ta.
+",,0
+V.5,Chuyển đất trồng lúa sang đất nuôi trồng thủy sản có cần xin phép không?,"**Có**. Đây là trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép. **(K1a, Đ121, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+V.6,Hạn mức giao đất ở tại nông thôn do ai quy định?,"Do **UBND cấp tỉnh** quy định, phù hợp với điều kiện, tập quán tại địa phương. **(K2, Đ195, LĐĐ 2024\)**",Hỏi-Đáp,"Ủy ban nhân dân cấp tỉnh.
+",,0
+V.7,"Theo LĐĐ 2013, diện tích đất nông nghiệp do nhận thừa kế có tính vào hạn mức giao đất không?","**Có**, diện tích đất nông nghiệp do được nhận thừa kế được tính vào hạn mức giao đất. **(K1a, Đ77, LĐĐ 2013\)**",Tình huống,"Có.
+",,0
+V.8,So sánh quy định về hạn mức nhận chuyển nhượng đất của hộ gia đình giữa 2 luật?,LĐĐ 2013 có quy định cho hộ gia đình. LĐĐ 2024 đã bỏ chủ thể hộ gia đình nên chỉ quy định cho cá nhân. **(So sánh Đ130 LĐĐ 2013 & Đ177 LĐĐ 2024\)**,So sánh,"Luật Đất đai 2013 quy định hạn mức nhận chuyển nhượng đất nông nghiệp của hộ gia đình, cá nhân. Luật Đất đai 2024 (sửa đổi) có thể điều chỉnh hạn mức này tùy theo loại đất và quy định cụ thể của từng địa phương.
+",,0
+V.9,Chuyển đất phi nông nghiệp không phải đất ở sang đất ở có phải nộp tiền sử dụng đất không?,"**Có**, phải thực hiện nghĩa vụ tài chính theo quy định. **(K2, Đ121, LĐĐ 2024\)**",Tình huống,"Có.
+",,0
+V.10,Thời hạn sử dụng đất khi chuyển từ đất nông nghiệp sang đất phi nông nghiệp được xác định như thế nào?,"Thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích. **(K1d, Đ173, LĐĐ 2024\)**",Thủ tục,"Theo thời hạn sử dụng của loại đất sau khi chuyển mục đích.
+",,0

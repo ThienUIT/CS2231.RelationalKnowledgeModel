@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "id": "dieu_102_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 102. Bồi thường thiệt hại về nhà, nhà ở, công trình xây dựng gắn liền với đất khi Nhà nước thu hồi đất",
+        "ma_dieu": "102",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 102.\n\nBồi thường thiệt hại về nhà, nhà ở, công trình xây dựng gắn liền với đất khi Nhà nước\nthu hồi đất\n1. Đối với nhà ở, công trình phục vụ đời sống gắn liền với đất của hộ gia đình, cá nhân, người gốc Việt\nNam định cư ở nước ngoài mà phải tháo dỡ hoặc phá dỡ khi Nhà nước thu hồi đất thì chủ sở hữu nhà\nở, công trình đó được bồi thường bằng giá trị xây dựng mới của nhà ở, công trình có tiêu chuẩn kỹ\nthuật tương đương theo quy định của pháp luật có liên quan.\nChủ sở hữu nhà ở, công trình được sử dụng các nguyên vật liệu còn lại của nhà ở, công trình.\n2. Đối với nhà, công trình xây dựng gắn liền với đất không thuộc trường hợp quy định tại khoản 1\nĐiều này , khi Nhà nước thu hồi đất mà bị tháo dỡ hoặc phá dỡ toàn bộ hoặc một phần thì được bồi\nthường thiệt hại như sau:\na) Đối với nhà, công trình xây dựng bị tháo dỡ hoặc phá dỡ toàn bộ hoặc một phần mà phần còn lại\nkhông bảo đảm tiêu chuẩn kỹ thuật theo quy định của pháp luật thì bồi thường bằng giá trị xây dựng\nmới của nhà, công trình xây dựng có tiêu chuẩn kỹ thuật tương đương theo quy định của pháp luật về\nxây dựng;\nb) Đối với nhà, công trình xây dựng khác bị tháo dỡ hoặc phá dỡ không thuộc trường hợp quy định tại\nđiểm a khoản này thì được bồi thường thiệt hại theo thực tế.\n3. Đối với công trình hạ tầng kỹ thuật, hạ tầng xã hội gắn liền với đất đang sử dụng không thuộc\ntrường hợp quy định tại khoản 1 và khoản 2 Điều này thì mức bồi thường tính bằng giá trị xây dựng\nmới của công trình có tiêu chuẩn kỹ thuật tương đương theo quy định của pháp luật chuyên ngành.\n4. Ủy ban nhân dân cấp tỉnh ban hành đơn giá bồi thường thiệt hại thực tế về nhà, nhà ở, công trình xây\ndựng quy định tại Điều này để làm căn cứ tính bồi thường khi thu hồi đất; đơn giá bồi thường thiệt hại\nquy định tại Điều này bảo đảm phù hợp với giá thị trường và phải xem xét điều chỉnh khi có biến động\nđể làm căn cứ tính bồi thường khi thu hồi đất.\n5. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_boithuongthiethai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường thiệt hại"
+      }
+    },
+    {
+      "id": "khainiem_nhanhao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhà, nhà ở"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhxaydung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công trình xây dựng"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_102_2024",
+      "target_id": "hanhviphaply_boithuongthiethai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_102_2024",
+      "target_id": "khainiem_nhanhao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_102_2024",
+      "target_id": "khainiem_congtrinhxaydung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_102_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_102_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_102_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_102_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_102_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_102_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_162_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 162. Đất làm nghĩa trang, nghĩa địa",
+        "ma_dieu": "162",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 162.\n\nĐất làm nghĩa trang, nghĩa địa\n1. Đất làm nghĩa trang, nghĩa địa phải quy hoạch thành khu tập trung, phù hợp với quy hoạch sử dụng\nđất, xa khu dân cư, thuận tiện cho việc chôn cất, thăm viếng, hợp vệ sinh, bảo đảm môi trường và tiết\nkiệm đất.\n2. Ủy ban nhân dân cấp tỉnh quy định mức đất và chế độ quản lý việc xây dựng phần mộ, tượng đài, bia\ntưởng niệm trong nghĩa trang, nghĩa địa bảo đảm tiết kiệm và có chính sách khuyến khích việc an táng\nkhông sử dụng đất.\n3. Nghiêm cấm việc lập nghĩa trang, nghĩa địa trái với quy hoạch, kế hoạch sử dụng đất đã được cơ\nquan nhà nước có thẩm quyền phê duyệt."
+      }
+    },
+    {
+      "id": "khainiem_datlamnghiatrangnghiadia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất làm nghĩa trang, nghĩa địa"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_quydinhmucdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quy định mức đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chedoquanlyviecxaydungphanmo",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chế độ quản lý việc xây dựng phần mộ, tượng đài, bia tưởng niệm trong nghĩa trang, nghĩa địa"
+      }
+    },
+    {
+      "id": "hanhviphaply_nghiemcamvieclapnghiatrangnghiadiatrai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nghiêm cấm việc lập nghĩa trang, nghĩa địa trái với quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_162_2013",
+      "target_id": "khainiem_datlamnghiatrangnghiadia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_162_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "hanhviphaply_quydinhmucdat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "hanhviphaply_chedoquanlyviecxaydungphanmo",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_162_2013",
+      "target_id": "hanhviphaply_nghiemcamvieclapnghiatrangnghiadiatrai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

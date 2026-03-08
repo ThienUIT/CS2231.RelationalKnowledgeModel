@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_246_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 246",
+        "ma_dieu": "246",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 246.\n\nSửa đổi, bổ sung  khoản 4 Điều 106 của Luật Thi hành án dân sự số 26/2008/QH12  đã\nđược sửa đổi, bổ sung một số điều theo Luật số 64/2014/QH13, Luật số 23/2018/QH14, Luật số\n67/2020/QH14 và Luật số 03/2022/QH15\nSửa đổi, bổ sung khoản 4 Điều 106  như sau:\n“4. Trường hợp tài sản là quyền sử dụng đất, tài sản gắn liền với đất mà đủ điều kiện nhưng chưa được cấp giấy\nchứng nhận lần đầu thì cơ quan thi hành án có trách nhiệm đề nghị cơ quan có thẩm quyền thực hiện cấp Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất lần đầu cho người mua được tài sản thi\nhành án, người nhận tài sản thi hành án theo quy định của pháp luật.\nTrường hợp tài sản là quyền sử dụng đất, tài sản gắn liền với đất đã được cấp giấy chứng nhận mà không thu\nhồi được giấy chứng nhận đã cấp thì cơ quan thi hành án có trách nhiệm đề nghị cơ quan có thẩm quyền thực\nhiện thu hồi hoặc hủy giấy chứng nhận đã cấp và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản\ngắn liền với đất cho người mua được tài sản thi hành án, người nhận tài sản thi hành án theo quy định của pháp\nluật.”."
+      }
+    },
+    {
+      "id": "khainiem_quyen_su_dung_dat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_taisanganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_coquan_thi_hanh_an",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan thi hành án"
+      }
+    },
+    {
+      "id": "chuthe_coquan_co_tham_quyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận"
+      }
+    },
+    {
+      "id": "chuthe_nguoimuataisan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người mua được tài sản thi hành án"
+      }
+    },
+    {
+      "id": "chuthe_nguoinhantaisan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người nhận tài sản thi hành án"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_246_2024",
+      "target_id": "khainiem_quyen_su_dung_dat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_246_2024",
+      "target_id": "khainiem_taisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_246_2024",
+      "target_id": "chuthe_coquan_thi_hanh_an",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_246_2024",
+      "target_id": "chuthe_coquan_co_tham_quyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_246_2024",
+      "target_id": "khainiem_giaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_246_2024",
+      "target_id": "chuthe_nguoimuataisan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_246_2024",
+      "target_id": "chuthe_nguoinhantaisan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

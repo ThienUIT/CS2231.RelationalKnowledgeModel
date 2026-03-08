@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_105_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 105. Trường hợp không được bồi thường tài sản gắn liền với đất khi Nhà nước thu hồi đất",
+        "ma_dieu": "105",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 105.\n\nTrường hợp không được bồi thường tài sản gắn liền với đất khi Nhà nước thu hồi đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các khoản 1, 2, 4, 5\nvà 8 Điều 81 , điểm b và điểm c khoản 1 Điều 82 của Luật này .\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập trong thời hạn hiệu lực\ncủa thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của Luật này .\n3. Tài sản gắn liền với đất là phần công trình xây dựng theo giấy phép xây dựng có thời hạn theo pháp\nluật về xây dựng mà đến thời điểm thu hồi đất giấy phép đã hết thời hạn.\nChủ sở hữu tài sản quy định tại khoản này được hỗ trợ để tháo dỡ, phá dỡ, di dời.\n4. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình\nxác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm\nquyền."
+      }
+    },
+    {
+      "id": "khainiem_taisangganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "dieukien_khonguoctoithuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không được bồi thường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_105_2024",
+      "target_id": "khainiem_taisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2024",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_105_2024",
+      "target_id": "dieukien_khonguoctoithuong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

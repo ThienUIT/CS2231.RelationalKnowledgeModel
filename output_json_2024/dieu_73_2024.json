@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_73_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 73. Rà soát, điều chỉnh quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "73",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 73.\n\nRà soát, điều chỉnh quy hoạch, kế hoạch sử dụng đất\n1. Việc điều chỉnh quy hoạch, kế hoạch sử dụng đất thực hiện theo các nguyên tắc sau đây:\na) Việc điều chỉnh quy hoạch, kế hoạch sử dụng đất phải do cơ quan có thẩm quyền quyết định hoặc\nphê duyệt quy hoạch, kế hoạch sử dụng đất quyết định hoặc phê duyệt;\nb) Cơ quan có thẩm quyền tổ chức lập quy hoạch, kế hoạch sử dụng đất chịu trách nhiệm tổ chức lập\nđiều chỉnh quy hoạch, kế hoạch sử dụng đất;\nc) Việc điều chỉnh quy hoạch, kế hoạch sử dụng đất không làm thay đổi mục tiêu của quy hoạch, kế\nhoạch sử dụng đất;\nd) Việc điều chỉnh quy hoạch, kế hoạch sử dụng đất không làm thay đổi chỉ tiêu sử dụng đất đã được\nquy hoạch sử dụng đất cấp trên xác định, phân bổ;\nđ) Tuân thủ trình tự, thủ tục theo quy định của Luật này . about:blank\n. Cơ quan có thẩm quyền tổ chức lập quy hoạch có trách nhiệm tổ chức rà soát quy hoạch sử dụng đất\nđịnh kỳ 05 năm để điều chỉnh phù hợp với tình hình phát triển kinh tế - xã hội trong từng giai đoạn.\n3. Việc rà soát, điều chỉnh quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng, quy\nhoạch sử dụng đất an ninh thực hiện theo quy định của pháp luật về quy hoạch.\n4. Căn cứ điều chỉnh quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Do điều chỉnh quy hoạch cấp quốc gia, quy hoạch vùng , quy hoạch tỉnh, quy hoạch có tính chất kỹ\nthuật, chuyên ngành có sử dụng đất cấp quốc gia, liên tỉnh làm thay đổi cơ cấu sử dụng đất của cấp\ntỉnh;\nb) Do việc thành lập, nhập, chia, điều chỉnh địa giới đơn vị hành chính của đơn vị hành chính cấp tỉnh,\nđơn vị hành chính trực thuộc ;\nc) Do tác động của thiên tai, chiến tranh , yêu cầu bảo đảm quốc phòng, an ninh làm thay đổi mục đích,\ncơ cấu, vị trí, diện tích sử dụng đất.\n5. Căn cứ điều chỉnh quy hoạch sử dụng đất cấp huyện bao gồm:\na) Do điều chỉnh quy hoạch cấp trên trực tiếp làm thay đổi cơ cấu sử dụng đất của cấp huyện;\nb) Do việc thành lập, nhập, chia, điều chỉnh địa giới đơn vị hành chính của địa phương ;\nc) Do chiến tranh, yêu cầu bảo đảm quốc phòng, an ninh làm thay đổi mục đích, cơ cấu, vị trí, diện tích\nsử dụng đất;\nd) Do tác động của thiên tai, ứng phó sự cố về môi trường làm thay đổi mục đích sử dụng đất; việc triển\nkhai thực hiện quy hoạch tác động tiêu cực đến an sinh xã hội, môi trường sinh thái và ảnh hưởng đến\ncộng đồng;\nđ) Có biến động về nguồn lực thực hiện quy hoạch, hình thành dự án trọng điểm phục vụ lợi ích quốc\ngia, lợi ích công cộng làm thay đổi định hướng sử dụng đất.\n6. Việc điều chỉnh quy hoạch được thực hiện khi có một trong các căn cứ quy định tại khoản 4 và khoản\n5 Điều này và được cơ quan có thẩm quyền quyết định hoặc phê duyệt cho phép điều chỉnh.\n7. Việc điều chỉnh kế hoạch sử dụng đất được thực hiện khi có sự điều chỉnh quy hoạch sử dụng đất,\nquy hoạch đô thị hoặc có sự thay đổi về khả năng thực hiện kế hoạch sử dụng đất.\n8. Việc điều chỉnh quy hoạch, kế hoạch sử dụng đất thực hiện theo quy định tại các điều 64, 65, 66,  67,\n68, 69, 70,  71, 72 và 75 của Luật này .\n9. Cơ quan nhà nước, người có thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất của\ncấp nào thì có thẩm quyền quyết định, phê duyệt điều chỉnh quy hoạch, kế hoạch sử dụng đất của cấp\nđó."
+      }
+    },
+    {
+      "id": "hanhviphaply_rasoatdieuchinhquydat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Rà soát, điều chỉnh quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieuchinhkehoachsdđ",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều chỉnh kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quydatsdd",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsdd",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_coquancthamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có thẩm quyền"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_73_2024",
+      "target_id": "hanhviphaply_rasoatdieuchinhquydat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_73_2024",
+      "target_id": "hanhviphaply_dieuchinhkehoachsdđ",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_73_2024",
+      "target_id": "khainiem_quydatsdd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_73_2024",
+      "target_id": "khainiem_kehoachsdd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_73_2024",
+      "target_id": "chuthe_coquancthamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

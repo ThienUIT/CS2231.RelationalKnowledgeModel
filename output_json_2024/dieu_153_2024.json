@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_153_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 153.",
+        "ma_dieu": "153",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 153.\n\nCác khoản thu ngân sách từ đất đai\n1. Các khoản thu ngân sách từ đất đai bao gồm:\na) Tiền sử dụng đất;\nb) Tiền thuê đất;\nc) Tiền thu từ việc xử phạt vi phạm hành chính về đất đai;\nd) Tiền bồi thường cho Nhà nước khi gây thiệt hại trong quản lý, sử dụng đất đai;\nđ) Tiền sử dụng đất tăng thêm, tiền thuê đất tăng thêm đối với các dự án không đưa đất vào sử dụng,\nchậm tiến độ sử dụng;\ne) Thuế sử dụng đất;\ng) Thuế thu nhập từ chuyển quyền sử dụng đất;\nh) Phí và lệ phí trong quản lý, sử dụng đất đai;\ni) Khoản thu khác theo quy định của pháp luật.\n2. Tiền thuê đất hằng năm được áp dụng ổn định cho chu kỳ 05 năm tính từ thời điểm Nhà nước quyết\nđịnh cho thuê đất, cho phép chuyển mục đích sử dụng đất gắn với việc chuyển sang hình thức Nhà\nước cho thuê đất trả tiền thuê đất hằng năm.\nTiền thuê đất cho chu kỳ tiếp theo được tính căn cứ vào bảng giá đất của năm xác định tiền thuê đất\ntiếp theo. Trường hợp tiền thuê đất tăng so với chu kỳ trước thì tiền thuê đất phải nộp được điều chỉnh\nnhưng không quá tỷ lệ do Chính phủ quy định cho từng giai đoạn.\nTỷ lệ điều chỉnh do Chính phủ quy định cho từng giai đoạn không quá tổng chỉ số giá tiêu dùng (CPI)\nhằng năm cả nước của giai đoạn 05 năm trước đó.\n3. Chính phủ quy định chi tiết các điểm a, b, c, d, đ khoản 1 và khoản 2 Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_cacKhoanthungansachtudatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Các khoản thu ngân sách từ đất đai"
+      }
+    },
+    {
+      "id": "khainiem_tiensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_tienthuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_tienthuviecxuphatvihanhchinhvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền thu từ việc xử phạt vi phạm hành chính về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_tienboithuongchoNhanuockhigaythiethai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền bồi thường cho Nhà nước khi gây thiệt hại"
+      }
+    },
+    {
+      "id": "khainiem_tiensudungdattangthem",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền sử dụng đất tăng thêm"
+      }
+    },
+    {
+      "id": "khainiem_tienthuedattangthem",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền thuê đất tăng thêm"
+      }
+    },
+    {
+      "id": "khainiem_thuesudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thuế sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_thuthunhapchuyenquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thuế thu nhập từ chuyển quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_phivalephitrongquanlysudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phí và lệ phí trong quản lý, sử dụng đất đai"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_cacKhoanthungansachtudatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_tiensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_tienthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_tienthuviecxuphatvihanhchinhvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_tienboithuongchoNhanuockhigaythiethai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_tiensudungdattangthem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_tienthuedattangthem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_thuesudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_thuthunhapchuyenquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "khainiem_phivalephitrongquanlysudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_153_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

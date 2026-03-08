@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_22_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 22. Cơ quan có chức năng quản lý đất đai và công chức làm công tác địa chính ở cấp xã",
+        "ma_dieu": "22",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 22.\n\nCơ quan có chức năng quản lý đất đai và công chức làm công tác địa chính ở cấp xã\n1. Hệ thống cơ quan có chức năng quản lý đất đai được tổ chức thống nhất ở trung ương và địa\nphương.\n2. Cơ quan có chức năng quản lý nhà nước về đất đai ở trung ương là Bộ Tài nguyên và Môi trường.\n3. Cơ quan có chức năng quản lý đất đai ở địa phương được thành lập ở cấp tỉnh và ở cấp huyện.\n4. Tổ chức dịch vụ công về đất đai, bao gồm tổ chức đăng ký đất đai, tổ chức phát triển quỹ đất và các\ntổ chức dịch vụ công khác được thành lập và hoạt động theo quy định của Chính phủ.\n5. Ủy ban nhân dân cấp xã có công chức làm công tác địa chính theo quy định của  Luật Cán bộ, công\nchức . Công chức làm công tác địa chính có trách nhiệm giúp Ủy ban nhân dân cấp xã trong việc quản lý\nđất đai tại địa phương.\nMục 3. QUYỀN VÀ NGHĨA  VỤ CỦA  CÔNG DÂN ĐỐI VỚI ĐẤT  ĐAI"
+      }
+    },
+    {
+      "id": "chuthe_coquancochucnangquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có chức năng quản lý đất đai"
+      }
+    },
+    {
+      "id": "chuthe_congchuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công chức làm công tác địa chính ở cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_coquancochucnangquanlydatdaicaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có chức năng quản lý đất đai ở địa phương (cấp tỉnh)"
+      }
+    },
+    {
+      "id": "chuthe_coquancochucnangquanlydatdaicaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có chức năng quản lý đất đai ở địa phương (cấp huyện)"
+      }
+    },
+    {
+      "id": "chuthe_tochucdichvucongvedatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức dịch vụ công về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_tochucdangkydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức đăng ký đất đai"
+      }
+    },
+    {
+      "id": "chuthe_tochucphattrienquydat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức phát triển quỹ đất"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_22_2024",
+      "target_id": "chuthe_coquancochucnangquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2024",
+      "target_id": "chuthe_congchuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2024",
+      "target_id": "chuthe_botainguyenvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2024",
+      "target_id": "chuthe_coquancochucnangquanlydatdaicaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2024",
+      "target_id": "chuthe_coquancochucnangquanlydatdaicaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2024",
+      "target_id": "chuthe_tochucdichvucongvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2024",
+      "target_id": "chuthe_tochucdangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2024",
+      "target_id": "chuthe_tochucphattrienquydat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_22_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

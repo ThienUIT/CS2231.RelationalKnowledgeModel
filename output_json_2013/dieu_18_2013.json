@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_18_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 18. Nhà nước quyết định giá đất",
+        "ma_dieu": "18",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 18.\n\nNhà nước quyết định giá đất\n1. Nhà nước quy định nguyên tắc, phương pháp định giá đất.\n2. Nhà nước ban hành khung giá đất, bảng giá đất và quyết định giá đất cụ thể."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhgiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quydinhnguyentacphuongphap",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quy định nguyên tắc, phương pháp định giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_banhanhkhunggiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Ban hành khung giá đất, bảng giá đất"
+      }
+    },
+    {
+      "id": "khainiem_giadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giá đất"
+      }
+    },
+    {
+      "id": "khainiem_khunggiadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Khung giá đất"
+      }
+    },
+    {
+      "id": "khainiem_banggia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bảng giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định giá đất cụ thể"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_18_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2013",
+      "target_id": "hanhviphaply_quyetdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2013",
+      "target_id": "hanhviphaply_quydinhnguyentacphuongphap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2013",
+      "target_id": "hanhviphaply_banhanhkhunggiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2013",
+      "target_id": "khainiem_giadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2013",
+      "target_id": "khainiem_khunggiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2013",
+      "target_id": "khainiem_banggia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2013",
+      "target_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

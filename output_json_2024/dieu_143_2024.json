@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_143_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 143",
+        "ma_dieu": "143",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 143.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối\nvới đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục about:blank\nđích sử dụng đất khác nhau\n1. Đất giao cho chủ đầu tư để thực hiện dự án xây dựng khu đô thị, khu dân cư nông thôn mà trong dự\nán xác định có nhiều hạng mục công trình hoặc nhiều phần diện tích đất có mục đích sử dụng đất khác\nnhau theo quy định tại Điều 9 của Luật này  thì phải xác định rõ vị trí, diện tích theo từng mục đích sử\ndụng đất và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy\nđịnh như sau:\na) Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được thực hiện\nđối với từng thửa đất sử dụng vào mỗi mục đích, phù hợp với quy hoạch xây dựng chi tiết đã được cơ\nquan có thẩm quyền phê duyệt;\nb) Đối với phần diện tích đất sử dụng vào mục đích xây dựng công trình công cộng phục vụ cho lợi ích\nchung của cộng đồng trong và ngoài khu đô thị, khu dân cư nông thôn theo dự án đầu tư và quy hoạch\nxây dựng chi tiết đã được cơ quan có thẩm quyền phê duyệt thì bàn giao cho địa phương quản lý mà\nkhông cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nc) Trường hợp chung cư kết hợp với văn phòng, cơ sở thương mại, dịch vụ, nếu chủ đầu tư có nhu cầu\nvà đủ điều kiện thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với\nđất cho một hoặc nhiều căn hộ, văn phòng, cơ sở thương mại, dịch vụ thuộc sở hữu của chủ đầu tư.\n2. Đất giao cho chủ đầu tư để thực hiện dự án sản xuất, kinh doanh bao gồm nhiều phần diện tích đất\ncó mục đích sử dụng khác nhau thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản\ngắn liền với đất cho chủ đầu tư đối với toàn bộ diện tích đất đó, trong đó thể hiện rõ vị trí, diện tích đất\ncủa từng mục đích sử dụng đất theo quy định tại Điều 9 của Luật này . Trường hợp chủ đầu tư có nhu\ncầu thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa\nđất theo từng mục đích sử dụng, phù hợp với quy hoạch xây dựng chi tiết đã được phê duyệt."
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungkudothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng khu đô thị"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungkudanncunongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng khu dân cư nông thôn"
+      }
+    },
+    {
+      "id": "khainiem_duanxanxuatkinhdoanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án sản xuất, kinh doanh"
+      }
+    },
+    {
+      "id": "chuthe_chudautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ đầu tư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_143_2024",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_143_2024",
+      "target_id": "khainiem_datxaydungkudothi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_143_2024",
+      "target_id": "khainiem_datxaydungkudanncunongthon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_143_2024",
+      "target_id": "khainiem_duanxanxuatkinhdoanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_143_2024",
+      "target_id": "chuthe_chudautu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "entities": [
+    {
+      "id": "dieu_81_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai",
+        "ma_dieu": "81",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 81.\n\nCác trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n1. Sử dụng đất không đúng mục đích đã được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất\nvà đã bị xử phạt vi phạm hành chính về hành vi sử dụng đất không đúng mục đích mà tiếp tục vi phạm.\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp\ntục vi phạm.\n3. Đất được giao, cho thuê không đúng đối tượng hoặc không đúng thẩm quyền.\n4. Đất do nhận chuyển nhượng, nhận tặng cho từ người được Nhà nước giao đất, cho thuê đất mà\nngười được giao đất, cho thuê đất không được chuyển nhượng, tặng cho theo quy định của Luật này .\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n6. Người sử dụng đất không thực hiện nghĩa vụ tài chính với Nhà nước.\n7. Đất trồng cây hằng năm, đất nuôi trồng thủy sản không được sử dụng trong thời gian 12 tháng liên\ntục, đất trồng cây lâu năm không được sử dụng trong thời gian 18 tháng liên tục, đất trồng rừng không\nđược sử dụng trong thời gian 24 tháng liên tục và đã bị xử phạt vi phạm hành chính mà không đưa đất\nvào sử dụng theo thời hạn ghi trong quyết định xử phạt vi phạm hành chính;\n8. Đất được Nhà nước giao, cho thuê, cho phép chuyển mục đích sử dụng, công nhận quyền sử dụng\nđất, nhận chuyển nhượng quyền sử dụng đất để thực hiện dự án đầu tư mà không được sử dụng trong\nthời hạn 12 tháng liên tục kể từ khi nhận bàn giao đất trên thực địa hoặc tiến độ sử dụng đất chậm 24\ntháng so với tiến độ ghi trong dự án đầu tư; trường hợp không đưa đất vào sử dụng hoặc chậm tiến độ\nsử dụng đất so với tiến độ ghi trong dự án đầu tư thì chủ đầu tư được gia hạn sử dụng không quá 24\ntháng và phải nộp bổ sung cho Nhà nước khoản tiền tương ứng với mức tiền sử dụng đất, tiền thuê đất\nđối với thời gian được gia hạn; hết thời hạn được gia hạn mà chủ đầu tư vẫn chưa đưa đất vào sử dụng\nthì Nhà nước thu hồi đất mà không bồi thường về đất, tài sản gắn liền với đất và chi phí đầu tư vào\nđất còn lại.\n9. Các trường hợp quy định tại các khoản 6, 7 và 8 Điều này không áp dụng đối với trường hợp bất khả\nkháng.\n10. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_sddkhongdungmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất không đúng mục đích"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_huyhoaidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hủy hoại đất"
+      }
+    },
+    {
+      "id": "khainiem_datduocgiaochothue",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất được giao, cho thuê"
+      }
+    },
+    {
+      "id": "hanhviphaply_landatchiemdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lấn đất, chiếm đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongthuchiennghiavutaichinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không thực hiện nghĩa vụ tài chính"
+      }
+    },
+    {
+      "id": "khainiem_dattrongcayhangnam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng cây hằng năm"
+      }
+    },
+    {
+      "id": "khainiem_datnuoitrongthuysan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nuôi trồng thủy sản"
+      }
+    },
+    {
+      "id": "khainiem_dattrongcaylau",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng cây lâu năm"
+      }
+    },
+    {
+      "id": "khainiem_dattrongrung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng rừng"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongduadatvaosudung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không đưa đất vào sử dụng"
+      }
+    },
+    {
+      "id": "khainiem_duandautu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án đầu tư"
+      }
+    },
+    {
+      "id": "chetai_thuhoidat",
+      "label": "CheTai",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "hanhviphaply_sddkhongdungmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "hanhviphaply_huyhoaidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "khainiem_datduocgiaochothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "hanhviphaply_landatchiemdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "hanhviphaply_khongthuchiennghiavutaichinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "khainiem_dattrongcayhangnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "khainiem_datnuoitrongthuysan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "khainiem_dattrongcaylau",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "khainiem_dattrongrung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "hanhviphaply_khongduadatvaosudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "khainiem_duandautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_81_2024",
+      "target_id": "chetai_thuhoidat",
+      "relationship_type": "DAN_DEN"
+    }
+  ]
+}

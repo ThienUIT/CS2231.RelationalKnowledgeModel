@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_97_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 97. Bồi thường về đất khi Nhà nước thu hồi đất nông nghiệp của tổ chức kinh tế, cộng đồng dân cư, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc.",
+        "ma_dieu": "97",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 97.\n\nBồi thường về đất khi Nhà nước thu hồi đất nông nghiệp của tổ chức kinh tế, cộng\ndồng dân cư, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc about:blank\n. Tổ chức kinh tế đang sử dụng đất nông nghiệp được Nhà nước giao đất có thu tiền sử dụng đất, cho\nthuê đất thu tiền thuê đất một lần cho cả thời gian thuê, nhận chuyển nhượng quyền sử dụng đất khi\nNhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này  thì\nđược bồi thường về đất.\n2. Cộng đồng dân cư, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng đất nông nghiệp khi\nNhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này  thì\nđược bồi thường về đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_boiduongvedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bồi thường về đất"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_tochucdongnghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiaotructhuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức tôn giáo trực thuộc"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_97_2024",
+      "target_id": "khainiem_boiduongvedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_97_2024",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocthuhoidat",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocthuhoidat",
+      "target_id": "chuthe_tochucdongnghiep",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocthuhoidat",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocthuhoidat",
+      "target_id": "chuthe_tochuctongiao",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocthuhoidat",
+      "target_id": "chuthe_tochuctongiaotructhuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

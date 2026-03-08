@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_46_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 46",
+        "ma_dieu": "46",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 46.\n\nĐiều kiện bán tài sản gắn liền với đất, quyền thuê tr ong hợp đồng thuê đất được Nhà\nnước cho thuê đất thu tiền thuê đất hằng năm\n1. Tổ chức kinh tế, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư\nnước ngoài được bán tài sản gắn liền với đất được Nhà nước cho thuê đất thu tiền thuê đất hằng năm\nkhi có đủ các điều kiện sau đây:\na) Tài sản gắn liền với đất thuê được tạo lập hợp pháp và đã được đăng ký theo quy định của pháp luật;\nb) Đã hoàn thành việc xây dựng theo đúng quy hoạch xây dựng chi tiết và dự án đầu tư đã được phê\nduyệt, chấp thuận (nếu có), trừ trường hợp phải thực hiện theo bản án, quyết định của Tòa án đã có hiệu\nlực thi hành, quyết định cưỡng chế của cơ quan thi hành án dân sự hoặc kết luận của cơ quan nhà nước\ncó thẩm quyền về thanh tra, kiểm tra.\n2. Tổ chức kinh tế, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư\nnước ngoài được Nhà nước cho thuê đất trả tiền thuê đất hằng năm được bán tài sản gắn liền với đất\nvà quyền thuê trong hợp đồng thuê khi có đủ các điều kiện sau đây:\na) Các điều kiện quy định tại khoản 1 Điều này;\nb) Đã ứng trước tiền bồi thường, hỗ trợ, tái định cư mà chưa khấu trừ hết vào tiền thuê đất phải nộp.\n3. Người mua tài sản gắn liền với đất hoặc mua tài sản gắn liền với đất và quyền thuê trong hợp đồng\nthuê đất được tiếp tục sử dụng đất đúng mục đích trong thời hạn sử dụng đất còn lại, được tiếp tục\nkhấu trừ tiền đã ứng trước mà chưa được khấu trừ quy định tại điểm b khoản 2 Điều này và phải thực\nhiện thủ tục đăng ký đất đai theo quy định của Luật này .\n4. Trường hợp bán tài sản gắn liền với đất là công trình xây dựng mà đủ điều kiện tách thửa thì được\ntách thửa để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n5. Trường hợp được Nhà nước cho thuê đất trả tiền thuê đất hằng năm để thực hiện dự án xây dựng\nkinh doanh kết cấu hạ tầng thì được bán tài sản gắn liền với đất khi có đủ điều kiện quy định tại khoản\n1 Điều 45 của Luật này  và điều kiện khác theo quy định của Luật Kinh doanh bất động sản ."
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "dieukien_taisantrenladophap",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tài sản gắn liền với đất thuê được tạo lập hợp pháp và đã được đăng ký theo quy định của pháp luật"
+      }
+    },
+    {
+      "id": "dieukien_dahoanthanhxaydung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đã hoàn thành việc xây dựng theo đúng quy hoạch xây dựng chi tiết và dự án đầu tư đã được phê duyệt, chấp thuận (nếu có), trừ trường hợp phải thực hiện theo bản án, quyết định của Tòa án đã có hiệu lực thi hành, quyết định cưỡng chế của cơ quan thi hành án dân sự hoặc kết luận của cơ quan nhà nước có thẩm quyền về thanh tra, kiểm tra."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_46_2024",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_46_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_46_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_46_2024",
+      "target_id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_46_2024",
+      "target_id": "dieukien_taisantrenladophap",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_46_2024",
+      "target_id": "dieukien_dahoanthanhxaydung",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_247_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 247",
+        "ma_dieu": "247",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 247.\n\nSửa đổi, bổ sung  khoản 1 Điều 14 của Luật Thuế thu nhập cá nhân số 04/2007/QH12\nđã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13 và Luật số 71/2014/QH13\nSửa đổi, bổ sung khoản 1 Điều 14  như sau:\n“1. Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định là giá chuyển nhượng từng lần;\ntrường hợp chuyển nhượng quyền sử dụng đất thì thu nhập chịu thuế tính theo giá đất trong bảng giá\nđất.”."
+      }
+    },
+    {
+      "id": "dieukien_thunhapchiuthue",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Thu nhập chịu thuế"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhuongbatdongsan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển nhượng bất động sản"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhuongquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển nhượng quyền sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_247_2024",
+      "target_id": "dieukien_thunhapchiuthue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_247_2024",
+      "target_id": "hanhviphaply_chuyennhuongbatdongsan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_247_2024",
+      "target_id": "hanhviphaply_chuyennhuongquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

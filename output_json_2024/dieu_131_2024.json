@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_131_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 131. Nguyên tắc đăng ký đất đai, tài sản gắn liền với đất",
+        "ma_dieu": "131",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 131.\n\nNguyên tắc đăng ký đất đai, tài sản gắn liền với đất\n1. Đăng ký đất đai là bắt buộc đối với người sử dụng đất và người được giao đất để quản lý.\n2. Tài sản gắn liền với đất là nhà ở, công trình xây dựng được đăng ký theo yêu cầu của chủ sở hữu. about:blank\n. Đăng ký đất đai, tài sản gắn liền với đất bao gồm đăng ký lần đầu và đăng ký biến động, được thực\nhiện bằng hình thức đăng ký trên giấy hoặc đăng ký điện tử và có giá trị pháp lý như nhau.\n4. Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, người được giao đất để quản lý đã kê khai\nđăng ký được ghi vào hồ sơ địa chính và được xem xét cấp Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu tài sản gắn liền với đất nếu đủ điều kiện theo quy định của Luật này .\n5. Chính phủ quy định chi tiết việc đăng ký đất đai, tài sản gắn liền với đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_dangkydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đăng ký đất đai"
+      }
+    },
+    {
+      "id": "khainiem_taisangganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoiduocgiaodatdequanly",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người được giao đất để quản lý"
+      }
+    },
+    {
+      "id": "khainiem_nhano",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhà ở"
+      }
+    },
+    {
+      "id": "khainiem_congtrinhxaydung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công trình xây dựng"
+      }
+    },
+    {
+      "id": "chuthe_chusohuu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ sở hữu"
+      }
+    },
+    {
+      "id": "khainiem_dangkybiendong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký biến động"
+      }
+    },
+    {
+      "id": "khainiem_dangkygiay",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký trên giấy"
+      }
+    },
+    {
+      "id": "khainiem_dangkydientu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký điện tử"
+      }
+    },
+    {
+      "id": "khainiem_hosodiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hồ sơ địa chính"
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "hanhviphaply_dangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_taisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "chuthe_nguoiduocgiaodatdequanly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_nhano",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_congtrinhxaydung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "chuthe_chusohuu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_dangkybiendong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_dangkygiay",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_dangkydientu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_hosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_giaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_131_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

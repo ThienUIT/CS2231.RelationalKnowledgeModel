@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_14_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 14. Nhà nước quyết định mục đích sử dụng đất",
+        "ma_dieu": "14",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 14.\n\nNhà nước quyết định mục đích sử dụng đất\nNhà nước quyết định mục đích sử dụng đất thông qua quy hoạch sử dụng đất, kế hoạch sử dụng đất và\ncho phép chuyển mục đích sử dụng đất."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_mucdichsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quyết định mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_14_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_14_2013",
+      "target_id": "khainiem_mucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_quyetdinhmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_14_2013",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_14_2013",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_14_2013",
+      "target_id": "hanhviphaply_chuyenmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

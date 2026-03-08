@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_164_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 164",
+        "ma_dieu": "164",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 164.\n\nHạ tầng kỹ thuật công nghệ thông tin và phần mềm của Hệ thống thông tin quốc gia\nvề đất đai\n1. Hạ tầng kỹ thuật công nghệ thông tin được xây dựng ở trung ương và địa phương, bao gồm tập hợp\nthiết bị máy chủ, máy trạm, thiết bị kết nối mạng, hệ thống đường truyền, thiết bị bảo đảm an ninh, an\ntoàn, thiết bị lưu trữ, thiết bị ngoại vi và thiết bị khác.\n2. Phần mềm của Hệ thống thông tin quốc gia về đất đai bao gồm các phần mềm hệ thống, phần mềm\ntiện ích và phần mềm ứng dụng phục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia\nvề đất đai.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định các yêu cầu kỹ thuật đối với phần mềm ứng dụng\nphục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia về đất đai."
+      }
+    },
+    {
+      "id": "khainiem_hatangkythuatcongnghethongtin",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hạ tầng kỹ thuật công nghệ thông tin"
+      }
+    },
+    {
+      "id": "khainiem_phanmemhethongthongtinquocgiavedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phần mềm của Hệ thống thông tin quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotainguonvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieukhoahocvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cơ sở dữ liệu quốc gia về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_164_2024",
+      "target_id": "khainiem_hatangkythuatcongnghethongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_164_2024",
+      "target_id": "khainiem_phanmemhethongthongtinquocgiavedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_164_2024",
+      "target_id": "chuthe_botruongbotainguonvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_164_2024",
+      "target_id": "khainiem_cosodulieukhoahocvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

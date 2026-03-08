@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_234_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 234. Thanh tra, kiểm tra chuyên ngành đất đai, kiểm toán đất đai",
+        "ma_dieu": "234",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 234.\n\nThanh tra, kiểm tra chuyên ngành đất đai, kiểm toán đất đai\n1. Thanh tra chuyên ngành đất đai là hoạt động thanh tra của cơ quan nhà nước có thẩm quyền đối với\ncơ quan, tổ chức, cá nhân trong việc chấp hành pháp luật về đất đai , quy định về chuyên môn, kỹ thuật,\nquy\tắc  quản lý thuộc lĩnh vực đất đai.\n2. Kiểm tra chuyên ngành đất đai là hoạt động được thực hiện thường xuyên, liên tục của các cơ quan,\ntổ chức, đơn vị, cá nhân được giao nhiệm vụ quản lý đất đai nhằm đôn đốc thực hiện chủ trương, chính\nsách, pháp luật về đất đai; nhiệm vụ của cơ quan, tổ chức, cá nhân góp phần nâng cao hiệu lực, hiệu quả\nquản lý nhà nước; phát hiện, ngăn chặn và xử lý kịp thời các hành vi vi phạm trong quản lý, sử dụng đất\nđai.\n3. Trách nhiệm chỉ đạo, tổ chức thực hiện  thanh tra,  kiểm tra chuyên ngành đất đai được quy định như\nsau:\na) Bộ Tài nguyên và Môi trường chịu trách nhiệm chỉ đạo, tổ chức thực hiện  thanh tra,  kiểm tra chuyên\nngành đất đai trên phạm vi cả nước;\nb) Cơ quan có chức năng quản lý đất đai cấp tỉnh chịu trách nhiệm tổ chức thực hiện thanh tra, kiểm tra\nchuyên ngành đất đai ;\nc) Cơ quan có chức năng quản lý đất đai cấp huyện chịu trách nhiệm tổ chức kiểm tra chuyên ngành đất\nđai.\n4. Nội dung thanh tra, kiểm tra về đất đai bao gồm:\na) Thanh tra, kiểm tra việc chấp hành pháp luật về đất đai của Ủy ban nhân dân các cấp;\nb) Thanh tra, kiểm tra việc chấp hành pháp luật về đất đai của người sử dụng đất và của tổ chức, cá\nnhân khác có liên quan;\nc) Thanh tra, kiểm tra việc chấp hành các quy định về chuyên môn, nghiệp vụ, kỹ thuật, quy\tắc  quản lý\nthuộc lĩnh vực đất đai.\n5. Thanh tra , kiểm tra chuyên ngành đất đai  có các nhiệm vụ sau đây:\na) Thanh tra, kiểm tra việc chấp hành pháp luật của cơ quan nhà nước, người sử dụng đất trong việc\nquản lý, sử dụng đất đai;\nb) Đôn đốc thực hiện chủ trương, chính sách, pháp luật đất đai; phát hiện, ngăn chặn và xử lý theo thẩm\nquyền hoặc kiến nghị cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về đất đai.\n6. Nhiệm vụ, quyền hạn của Trưởng đoàn thanh tra, thanh tra viên, công chức làm công tác thanh tra về\nđất đai, quy trình, thủ tục tiến hành thanh tra về đất đai thực hiện theo quy định của pháp luật về thanh\ntra.\n7. Kiểm toán nhà nước thực hiện kiểm toán việc quản lý, sử dụng đất đai theo quy định của  Luật Kiểm\ntoán nhà nước  và quy định khác của pháp luật có liên quan.\n8. Chính phủ quy định chi tiết về kiểm tra chuyên ngành đất đai."
+      }
+    },
+    {
+      "id": "khainiem_thanhtrachuyennganhdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thanh tra chuyên ngành đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_coquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_kiemtrachuyennganhdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kiểm tra chuyên ngành đất đai"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhanlienquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức, cá nhân khác có liên quan"
+      }
+    },
+    {
+      "id": "khainiem_kiemtoannhanuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kiểm toán nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "khainiem_thanhtrachuyennganhdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "chuthe_coquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "khainiem_kiemtrachuyennganhdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "chuthe_tochuccanhanlienquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "khainiem_kiemtoannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_234_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

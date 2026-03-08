@@ -1,0 +1,184 @@
+{
+  "entities": [
+    {
+      "id": "dieu_59_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 59. Trách nhiệm tổ chức thực hiện thống kê, kiểm kê đất đai",
+        "ma_dieu": "59",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 59.\n\nTrách nhiệm tổ chức thực hiện thống kê, kiểm kê đất đai\n1. Ủy ban nhân dân các cấp tổ chức thực hiện và phê duyệt việc thống kê, kiểm kê đất đai của địa\nphương.\n2. Ủy ban nhân dân cấp xã, cấp huyện báo cáo Ủy ban nhân dân cấp trên trực tiếp về kết quả thống kê,\nkiểm kê đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm công bố kết quả thống kê đất đai và báo cáo Bộ Tài nguyên\nvà Môi trường trước ngày 31 tháng 3 của năm kế tiếp, trừ năm kiểm kê đất đai.\n4. Ủy ban nhân dân cấp tỉnh có trách nhiệm báo cáo Bộ Tài nguyên và Môi trường kết quả kiểm kê đất\nđai trước ngày 30 tháng 6 của năm kế tiếp của năm kiểm kê đất đai.\n5. Bộ Quốc phòng, Bộ Công an có trách nhiệm chủ trì, phối hợp với Ủy ban nhân dân cấp tỉnh thực\nhiện thống kê, kiểm kê đất quốc phòng, an ninh.\n6. Bộ Tài nguyên và Môi trường tổng hợp kết quả thống kê đất đai hằng năm của cả nước và công bố\ntrước ngày 30 tháng 6 hằng năm; tổng hợp báo cáo Thủ tướng Chính phủ và công bố kết quả kiểm kê\nđất đai 05 năm của cả nước trước ngày 30 tháng 9 của năm kế tiếp của năm kiểm kê đất đai.\n7. Bộ trưởng Bộ Tài nguyên và Môi trường, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định nội dung,\nhoạt động kiểm kê đất đai chuyên đề.\n8. Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết việc thống kê, kiểm kê đất đai và lập bản\nđồ hiện trạng sử dụng đất.\n9. Kinh phí thực hiện thống kê, kiểm kê đất đai do ngân sách nhà nước bảo đảm và được bố trí theo quy\nđịnh của pháp luật."
+      }
+    },
+    {
+      "id": "chuthe_ubndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchienthongke",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thực hiện thống kê"
+      }
+    },
+    {
+      "id": "hanhviphaply_pheduyetkiemke",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "phê duyệt việc kiểm kê"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "hanhviphaply_baocaoketqua",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "báo cáo kết quả thống kê, kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_congbo",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "công bố kết quả thống kê đất đai"
+      }
+    },
+    {
+      "id": "chuthe_botnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_ubndcaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "hanhviphaply_thuchienthongke",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "hanhviphaply_pheduyetkiemke",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "hanhviphaply_baocaoketqua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "hanhviphaply_congbo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_botnmt",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_botruongbotnmt",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_59_2024",
+      "target_id": "chuthe_chutichubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

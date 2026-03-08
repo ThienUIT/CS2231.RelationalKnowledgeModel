@@ -1,0 +1,122 @@
+{
+  "entities": [
+    {
+      "id": "dieu_99_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 99. Bồi thường về đất khi Nhà nước thu hồi đất phi nông nghiệp không phải là đất ở của hộ gia đình, cá nhân",
+        "ma_dieu": "99",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 99.\n\nBồi thường về đất khi Nhà nước thu hồi đất phi nông nghiệp không phải là đất ở của hộ\ngia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất phi nông nghiệp không phải là đất ở khi Nhà nước thu hồi\nđất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này  thì được bồi thường bằng\nđất có cùng mục đích sử dụng với loại đất thu hồi hoặc bằng tiền theo thời hạn sử dụng đất còn lại đối\nvới đất sử dụng có thời hạn hoặc bằng đất có mục đích sử dụng khác với loại đất thu hồi hoặc bằng nhà\nở.\n2. Hộ gia đình, cá nhân đang sử dụng đất phi nông nghiệp không phải là đất ở được Nhà nước cho thuê\nđất trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất khi Nhà nước thu hồi\nđất, nếu có đủ điều kiện được bồi thường quy định tại  Điều 95 của Luật này  thì được bồi thường về\nđất.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_datphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "dieukien_dudieukienboithuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này"
+      }
+    },
+    {
+      "id": "hanhviphaply_boithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường"
+      }
+    },
+    {
+      "id": "khainiem_datodung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_99_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_99_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_99_2024",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_hogiadinh",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_99_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_dudieukienboithuong",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieukien_dudieukienboithuong",
+      "target_id": "hanhviphaply_boithuong",
+      "relationship_type": "DAN_DEN"
+    },
+    {
+      "source_id": "dieu_99_2024",
+      "target_id": "khainiem_datodung",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

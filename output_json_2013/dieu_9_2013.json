@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_9_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 9. Khuyến khích đầu tư vào đất đai",
+        "ma_dieu": "9",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 9.\n\nKhuyến khích đầu tư vào đất đai\nNhà nước có chính sách khuyến khích người sử dụng đất đầu tư lao động, vật tư tiền vốn và áp dụng\nthành tựu khoa học, công nghệ vào các việc sau đây:\n1. Bảo vệ, cải tạo, làm tăng độ màu mỡ của đất; about:blank\n. Khai hoang, phục hóa, lấn biển, đưa diện tích đất trống, đồi núi trọc, đất có mặt nước hoang hóa vào\nsử dụng theo quy hoạch, kế hoạch sử dụng đất;\n3. Phát triển kết cấu hạ tầng để làm tăng giá trị của đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_dautulaodong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "đầu tư lao động"
+      }
+    },
+    {
+      "id": "hanhviphaply_dautuvattutienvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "đầu tư vật tư tiền vốn"
+      }
+    },
+    {
+      "id": "hanhviphaply_apdungthanhtuu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "áp dụng thành tựu khoa học, công nghệ"
+      }
+    },
+    {
+      "id": "hanhviphaply_baovecaitao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo vệ, cải tạo, làm tăng độ màu mỡ của đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_khaihoangphuchoa",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khai hoang, phục hóa, lấn biển, đưa diện tích đất trống, đồi núi trọc, đất có mặt nước hoang hóa vào sử dụng theo quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_phattrienketcauhathang",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phát triển kết cấu hạ tầng để làm tăng giá trị của đất"
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_9_2013",
+      "target_id": "hanhviphaply_dautulaodong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_9_2013",
+      "target_id": "hanhviphaply_dautuvattutienvon",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_9_2013",
+      "target_id": "hanhviphaply_apdungthanhtuu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_9_2013",
+      "target_id": "hanhviphaply_baovecaitao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_9_2013",
+      "target_id": "hanhviphaply_khaihoangphuchoa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_9_2013",
+      "target_id": "hanhviphaply_phattrienketcauhathang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_9_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

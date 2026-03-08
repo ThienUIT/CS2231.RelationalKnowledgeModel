@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_1_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 1. Phạm vi điều chỉnh",
+        "ma_dieu": "1",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 1.\n\nPhạm vi điều chỉnh\nLuật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở\nhữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và\nnghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ\nnghĩa Việt Nam."
+      }
+    },
+    {
+      "id": "khainiem_chedosohuu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chế độ sở hữu đất đai"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_congdan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "công dân"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyenhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền hạn"
+      }
+    },
+    {
+      "id": "khainiem_trachnhiem",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "trách nhiệm"
+      }
+    },
+    {
+      "id": "khainiem_chedoquanly",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chế độ quản lý và sử dụng đất đai"
+      }
+    },
+    {
+      "id": "khainiem_quyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền"
+      }
+    },
+    {
+      "id": "khainiem_nghiavu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nghĩa vụ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_1_2024",
+      "target_id": "khainiem_chedosohuu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2024",
+      "target_id": "chuthe_congdan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2024",
+      "target_id": "khainiem_quyenhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2024",
+      "target_id": "khainiem_trachnhiem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2024",
+      "target_id": "khainiem_chedoquanly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2024",
+      "target_id": "khainiem_quyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2024",
+      "target_id": "khainiem_nghiavu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

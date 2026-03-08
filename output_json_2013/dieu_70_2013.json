@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_70_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 70. Cưỡng chế thực hiện quyết định kiểm đếm bắt buộc",
+        "ma_dieu": "70",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 70.\n\nCưỡng chế thực hiện quyết định kiểm đếm bắt buộc\n1. Nguyên tắc cưỡng chế thực hiện quyết định kiểm đếm bắt buộc:\na) Việc cưỡng chế phải tiến hành công khai, dân chủ, khách quan, bảo đảm trật tự, an toàn, đúng quy\nđịnh của pháp luật;\nb) Thời điểm bắt đầu tiến hành cưỡng chế được thực hiện trong giờ hành chính.\n2. Cưỡng chế thực hiện quyết định kiểm đếm bắt buộc được thực hiện khi có đủ các điều kiện sau đây: about:blank\na) Người có đất thu hồi không chấp hành quyết định kiểm đếm bắt buộc sau khi Ủy ban nhân dân cấp\nxã, Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi có đất thu hồi và tổ chức làm nhiệm vụ bồi thường,\ngiải phóng mặt bằng đã vận động, thuyết phục;\nb) Quyết định cưỡng chế thực hiện quyết định kiểm đếm bắt buộc đã được niêm yết công khai tại trụ\nsở Ủy ban nhân dân cấp xã, tại địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi;\nc) Quyết định cưỡng chế thực hiện quyết định kiểm đếm bắt buộc đã có hiệu lực thi hành;\nd) Người bị cưỡng chế đã nhận được quyết định cưỡng chế có hiệu lực thi hành.\nTrường hợp người bị cưỡng chế từ chối không nhận quyết định cưỡng chế hoặc vắng mặt khi giao\nquyết định cưỡng chế thì Ủy ban nhân dân cấp xã lập biên bản.\n3. Chủ tịch Ủy ban nhân dân cấp huyện ban hành quyết định cưỡng chế thực hiện quyết định kiểm đếm\nbắt buộc và tổ chức thực hiện quyết định cưỡng chế.\n4. Trình tự, thủ tục thực hiện quyết định cưỡng chế kiểm đếm bắt buộc được quy định như sau:\na) Tổ chức được giao thực hiện cưỡng chế vận động, thuyết phục, đối thoại với người bị cưỡng chế;\nb) Trường hợp người bị cưỡng chế chấp hành quyết định cưỡng chế thì tổ chức được giao thực hiện\ncưỡng chế lập biên bản ghi nhận sự chấp hành và thực hiện điều tra, khảo sát, đo đạc, kiểm đếm.\nTrường hợp người bị cưỡng chế không chấp hành quyết định cưỡng chế thì tổ chức được giao thực\nhiện cưỡng chế thi hành quyết định cưỡng chế."
+      }
+    },
+    {
+      "id": "hanhviphaply_cuongchethuchienquyetdinhkiemdembatbuoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cưỡng chế thực hiện quyết định kiểm đếm bắt buộc"
+      }
+    },
+    {
+      "id": "kha niệm_nguyentaccuongchethuchienquyetdinhkiemdembatbuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nguyên tắc cưỡng chế thực hiện quyết định kiểm đếm bắt buộc"
+      }
+    },
+    {
+      "id": "dieukien_dieukienkhicuongchethuchienquyetdinhkiemdembatbuoc",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện khi cưỡng chế thực hiện quyết định kiểm đếm bắt buộc"
+      }
+    },
+    {
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có đất thu hồi"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_ubanmatrantochuocvietnamcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_tochucLamnhiembuboithuonggiaiphongmatbang",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng"
+      }
+    },
+    {
+      "id": "chuthe_ubanndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_chutichuybannhandancaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_tochucduocgiaothuchien",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức được giao thực hiện cưỡng chế"
+      }
+    },
+    {
+      "id": "chuthe_nguoibicuongche",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người bị cưỡng chế"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "hanhviphaply_cuongchethuchienquyetdinhkiemdembatbuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "kha niệm_nguyentaccuongchethuchienquyetdinhkiemdembatbuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "dieukien_dieukienkhicuongchethuchienquyetdinhkiemdembatbuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "chuthe_nguoicodatthuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "chuthe_uybanndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "chuthe_ubanmatrantochuocvietnamcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "chuthe_tochucLamnhiembuboithuonggiaiphongmatbang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "chuthe_ubanndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "chuthe_chutichuybannhandancaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "chuthe_tochucduocgiaothuchien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_70_2013",
+      "target_id": "chuthe_nguoibicuongche",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

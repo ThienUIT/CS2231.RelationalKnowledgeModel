@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_258_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 258. Giải quyết về thời hạn sử dụng đất khi Luật này có hiệu lực thi hành",
+        "ma_dieu": "258",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 258.\n\nGiải quyết về thời hạn sử dụng đất khi Luật này có hiệu lực thi hành\n1. Đối với đất được Nhà nước giao cho tổ chức kinh tế để tạo vốn xây dựng cơ sở hạ tầng theo dự án,\nđất có nguồn gốc trúng đấu giá quyền sử dụng đất trước ngày 01 tháng 7 năm 2004 của các tổ chức\nkinh tế sử dụng thì thời hạn sử dụng đất được xác định theo thời hạn được ghi trên quyết định giao đất.\nTrường hợp trong quyết định giao đất không ghi thời hạn thì thời hạn sử dụng đất được xác định theo\nthời hạn của loại đất được pháp luật quy định tại thời điểm giao đất.\n2. Trường hợp đất đã được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất mà đã hết\nthời hạn sử dụng đất nhưng đến trước ngày Luật này có hiệu lực thi hành cơ quan nhà nước có thẩm\nquyền chưa thu hồi đất thì được xem xét gia hạn sử dụng đất hoặc thu hồi đất theo quy định của Luật\nnày."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "khainiem_dat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_trungdaugiaquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "trúng đấu giá quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "công nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_giahansudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "gia hạn sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "khainiem_dat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "hanhviphaply_trungdaugiaquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "khainiem_quyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_258_2024",
+      "target_id": "hanhviphaply_giahansudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

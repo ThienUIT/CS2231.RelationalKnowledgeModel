@@ -1,0 +1,12 @@
+Điều 164.
+
+Hạ tầng kỹ thuật công nghệ thông tin và phần mềm của Hệ thống thông tin quốc gia
+về đất đai
+1. Hạ tầng kỹ thuật công nghệ thông tin được xây dựng ở trung ương và địa phương, bao gồm tập hợp
+thiết bị máy chủ, máy trạm, thiết bị kết nối mạng, hệ thống đường truyền, thiết bị bảo đảm an ninh, an
+toàn, thiết bị lưu trữ, thiết bị ngoại vi và thiết bị khác.
+2. Phần mềm của Hệ thống thông tin quốc gia về đất đai bao gồm các phần mềm hệ thống, phần mềm
+tiện ích và phần mềm ứng dụng phục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia
+về đất đai.
+3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định các yêu cầu kỹ thuật đối với phần mềm ứng dụng
+phục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia về đất đai.

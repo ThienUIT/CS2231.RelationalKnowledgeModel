@@ -1,0 +1,134 @@
+{
+  "entities": [
+    {
+      "id": "dieu_103_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 103. Bồi thường đối với cây trồng, vật nuôi",
+        "ma_dieu": "103",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 103.\n\nBồi thường đối với cây trồng, vật nuôi\nKhi Nhà nước thu hồi đất mà gây thiệt hại đối với cây trồng, vật nuôi thì việc bồi thường thực hiện\ntheo quy định sau đây: about:blank\n. Đối với cây hằng năm, mức bồi thường được tính bằng giá trị sản lượng của vụ thu hoạch đối với\ncây trồng đó. Giá trị sản lượng của vụ thu hoạch được tính theo năng suất của vụ cao nhất trong 03 năm\ntrước liền kề của loại cây trồng đó tại địa phương và đơn giá bồi thường ;\n2. Đối với cây lâu năm, mức bồi thường được tính theo giá trị thiệt hại thực tế của vườn cây .\nĐối với cây lâu năm là loại cho thu hoạch nhiều lần mà đang trong thời kỳ thu hoạch thì mức bồi\nthường được tính bằng sản lượng vườn cây còn chưa thu hoạch tương ứng với số năm còn lại trong chu\nkỳ thu hoạch và đơn giá bồi thường;\n3. Đối với cây trồng chưa thu hoạch nhưng có thể di chuyển đến địa điểm khác thì được bồi thường chi\nphí di chuyển và thiệt hại thực tế do phải di chuyển, phải trồng lại.\nĐối với cây rừng trồng bằng nguồn vốn ngân sách nhà nước, cây rừng tự nhiên giao cho tổ chức, hộ\ngia đình, cá nhân trồng, quản lý, chăm sóc, bảo vệ thì bồi thường theo giá trị thiệt hại thực tế của vườn\ncây; tiền bồi thường được phân chia cho người quản lý, chăm sóc, bảo vệ theo quy định của pháp luật\nvề lâm nghiệp;\n4. Khi Nhà nước thu hồi đất mà gây thiệt hại đối với vật nuôi là thủy sản hoặc vật nuôi khác mà không\nthể di chuyển thì được bồi thường thiệt hại thực tế theo mức bồi thường cụ thể do Ủy ban nhân dân\ncấp tỉnh quy định;\n5. Chủ sở hữu cây trồng, vật nuôi quy định tại các khoản 1, 2, 3 và 4 Điều này được tự thu hồi cây\ntrồng, vật nuôi trước khi bàn giao lại đất cho Nhà nước;\n6. Ủy ban nhân dân cấp tỉnh ban hành đơn giá bồi thường thiệt hại về cây trồng, vật nuôi theo quy trình\nsản xuất do Bộ Nông nghiệp và Phát triển nông thôn hoặc do địa phương ban hành theo quy định của\npháp luật; đơn giá bồi thường thiệt hại về cây trồng, vật nuôi quy định tại Điều này bảo đảm phù hợp\nvới giá thị trường và phải xem xét điều chỉnh khi có biến động để làm căn cứ tính bồi thường khi thu\nhồi đất."
+      }
+    },
+    {
+      "id": "khainiem_boithuong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bồi thường"
+      }
+    },
+    {
+      "id": "khainiem_caytrong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cây trồng"
+      }
+    },
+    {
+      "id": "khainiem_vatnuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Vật nuôi"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_103_2024",
+      "target_id": "khainiem_boithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_103_2024",
+      "target_id": "khainiem_caytrong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_103_2024",
+      "target_id": "khainiem_vatnuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_103_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "khainiem_boithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "target_id": "khainiem_caytrong",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "chuthe_hogiadinh",
+      "target_id": "khainiem_caytrong",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "target_id": "khainiem_caytrong",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "target_id": "khainiem_vatnuoi",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "chuthe_hogiadinh",
+      "target_id": "khainiem_vatnuoi",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "target_id": "khainiem_vatnuoi",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

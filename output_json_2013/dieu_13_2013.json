@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_13_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 13. Quyền của đại diện chủ sở hữu về đất đai",
+        "ma_dieu": "13",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 13.\n\nQuyền của đại diện chủ sở hữu về đất đai\n1. Quyết định quy hoạch sử dụng đất, kế hoạch sử dụng đất.\n2. Quyết định mục đích sử dụng đất. about:blank\n. Quy định hạn mức sử dụng đất, thời hạn sử dụng đất.\n4. Quyết định thu hồi đất, trưng dụng đất.\n5. Quyết định giá đất.\n6. Quyết định trao quyền sử dụng đất cho người sử dụng đất.\n7. Quyết định chính sách tài chính về đất đai.\n8. Quy định quyền và nghĩa vụ của người sử dụng đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhquyhoachsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định quy hoạch sử dụng đất, kế hoạch sử dụng đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định mục đích sử dụng đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_quydinhhanmucsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quy định hạn mức sử dụng đất, thời hạn sử dụng đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định thu hồi đất, trưng dụng đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhgiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định giá đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhtraoquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định trao quyền sử dụng đất cho người sử dụng đất."
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhchinhsachtaichinhvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định chính sách tài chính về đất đai."
+      }
+    },
+    {
+      "id": "hanhviphaply_quydinhquyennghiavunguoisudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quy định quyền và nghĩa vụ của người sử dụng đất."
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_13_2013",
+      "target_id": "hanhviphaply_quyetdinhquyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_13_2013",
+      "target_id": "hanhviphaply_quyetdinhmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_13_2013",
+      "target_id": "hanhviphaply_quydinhhanmucsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_13_2013",
+      "target_id": "hanhviphaply_quyetdinhthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_13_2013",
+      "target_id": "hanhviphaply_quyetdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_13_2013",
+      "target_id": "hanhviphaply_quyetdinhtraoquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_13_2013",
+      "target_id": "hanhviphaply_quyetdinhchinhsachtaichinhvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_13_2013",
+      "target_id": "hanhviphaply_quydinhquyennghiavunguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

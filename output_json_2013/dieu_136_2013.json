@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_136_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 136. Đất rừng phòng hộ",
+        "ma_dieu": "136",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 136.\n\nĐất rừng phòng hộ\n1. Nhà nước giao đất rừng phòng hộ cho tổ chức quản lý rừng phòng hộ để quản lý, bảo vệ, khoanh nuôi\ntái sinh rừng và trồng rừng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm\nquyền phê duyệt, được kết hợp sử dụng đất vào mục đích khác theo quy định của pháp luật về bảo vệ\nvà phát triển rừng.\n2. Tổ chức quản lý rừng phòng hộ giao khoán đất rừng phòng hộ cho hộ gia đình, cá nhân đang sinh\nsống tại đó để bảo vệ, phát triển rừng; Ủy ban nhân dân cấp huyện giao đất ở, đất sản xuất nông nghiệp\ncho hộ gia đình, cá nhân đó sử dụng.\n3. Tổ chức, hộ gia đình, cá nhân có nhu cầu, khả năng bảo vệ, phát triển rừng và đang sinh sống trong\nkhu vực rừng phòng hộ mà chưa có tổ chức quản lý và khu vực quy hoạch trồng rừng phòng hộ thì\nđược Nhà nước giao đất rừng phòng hộ để bảo vệ, phát triển rừng và được kết hợp sử dụng đất vào\nmục đích khác theo quy định của pháp luật về bảo vệ và phát triển rừng.\n4. Ủy ban nhân dân cấp tỉnh quyết định cho tổ chức kinh tế thuê đất rừng phòng hộ thuộc khu vực được\nkết hợp với kinh doanh cảnh quan, du lịch sinh thái - môi trường dưới tán rừng. about:blank\n. Cộng đồng dân cư được Nhà nước giao rừng phòng hộ theo quy định của  Luật bảo vệ và phát triển\nrừng  thì được giao đất rừng phòng hộ để bảo vệ, phát triển rừng; có quyền và nghĩa vụ theo quy định\ncủa Luật bảo vệ và phát triển rừng ."
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochucquanlyrungphongho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức quản lý rừng phòng hộ"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanlybaove",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quản lý, bảo vệ"
+      }
+    },
+    {
+      "id": "hanhviphaply_khoanhnuoitaisinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "khoanh nuôi tái sinh rừng"
+      }
+    },
+    {
+      "id": "hanhviphaply_trongrung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "trồng rừng"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_ubndcabhuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_conggdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_tochucquanlyrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "hanhviphaply_quanlybaove",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "hanhviphaply_khoanhnuoitaisinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "hanhviphaply_trongrung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_ubndcabhuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_conggdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

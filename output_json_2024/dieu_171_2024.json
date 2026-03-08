@@ -1,0 +1,244 @@
+{
+  "entities": [
+    {
+      "id": "dieu_171_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 171. Đất sử dụng ổn định lâu dài",
+        "ma_dieu": "171",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 171.\n\nĐất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này .\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được\nNhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này ; đất xây dựng công trình sự\nnghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này .\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này .\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_dato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "chuthe_tochucquanly",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức quản lý"
+      }
+    },
+    {
+      "id": "khainiem_datthuongmaidichvu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất thương mại, dịch vụ"
+      }
+    },
+    {
+      "id": "khainiem_datcososanxuatphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cơ sở sản xuất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungtrusocquan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng trụ sở cơ quan"
+      }
+    },
+    {
+      "id": "khainiem_datxaydungcongtrinhsunghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình sự nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_donvisunghiepclap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "khainiem_datquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "khainiem_dattinnguong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tín ngưỡng"
+      }
+    },
+    {
+      "id": "khainiem_dattongiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tôn giáo"
+      }
+    },
+    {
+      "id": "khainiem_datsudungvaomucdichcongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích công cộng"
+      }
+    },
+    {
+      "id": "khainiem_datnghiatrangnhatanglecosohoatang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng"
+      }
+    },
+    {
+      "id": "khainiem_datcosoluugiatrocot",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất cơ sở lưu giữ tro cốt"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_dato",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "chuthe_tochucquanly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datthuongmaidichvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datcososanxuatphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datxaydungtrusocquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datxaydungcongtrinhsunghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "chuthe_donvisunghiepclap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datquocphonganinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_dattinnguong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_dattongiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datsudungvaomucdichcongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datnghiatrangnhatanglecosohoatang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_171_2024",
+      "target_id": "khainiem_datcosoluugiatrocot",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

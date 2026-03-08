@@ -1,0 +1,128 @@
+{
+  "entities": [
+    {
+      "id": "dieu_61_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 61. Hệ thống quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "61",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 61.\n\nHệ thống quy hoạch, kế hoạch sử dụng đất\n1. Hệ thống quy hoạch, kế hoạch sử dụng đất bao gồm:\na) Quy hoạch, kế hoạch sử dụng đất quốc gia ;\nb) Quy hoạch, kế hoạch sử dụng đất cấp tỉnh;\nc) Quy hoạch sử dụng đất cấp huyện , kế hoạch sử dụng đất hằng năm cấp huyện;\nd) Quy hoạch sử dụng đất quốc phòng;\nđ) Quy hoạch sử dụng đất an ninh.\n2. Quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng và quy hoạch sử dụng đất an\nninh thuộc hệ thống quy hoạch quốc gia, thực hiện theo quy định của Luật này và pháp luật về quy\nhoạch. about:blank\n. Quy hoạch sử dụng đất cấp tỉnh và quy hoạch sử dụng đất cấp huyện là quy hoạch có tính chất kỹ\nthuật, chuyên ngành cụ thể hóa quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh."
+      }
+    },
+    {
+      "id": "khainiem_hethongquydinhkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdatcaptinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất hằng năm cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatquocphong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất quốc phòng"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatanninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất an ninh"
+      }
+    },
+    {
+      "id": "khainiem_hethongquyhoachquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống quy hoạch quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachcapquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch cấp quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachvung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch vùng"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachtinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_hethongquydinhkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachkehoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachkehoachsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachsudungdatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachsudungdatquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachsudungdatanninh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

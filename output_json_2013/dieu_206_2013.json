@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_206_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 206.",
+        "ma_dieu": "206",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 206.\n\nXử lý đối với người có hành vi vi phạm pháp luật về đất đai about:blank\n. Người có hành vi vi phạm pháp luật về đất đai thì tùy theo tính chất, mức độ vi phạm mà bị xử lý\nhành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.\n2. Người có hành vi vi phạm pháp luật về đất đai mà gây thiệt hại cho Nhà nước, cho người khác, ngoài\nviệc bị xử lý theo quy định của pháp luật còn phải bồi thường theo mức thiệt hại thực tế cho Nhà nước\nhoặc cho người bị thiệt hại."
+      }
+    },
+    {
+      "id": "chuthe_nguoicohanhviviphamphapluat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có hành vi vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_viphamphapluatvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoikhac",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người khác"
+      }
+    },
+    {
+      "id": "chetai_xulyhanhchinh",
+      "label": "CheTai",
+      "properties": {
+        "name": "xử lý hành chính"
+      }
+    },
+    {
+      "id": "chetai_truycuutrachnhiemhinhsu",
+      "label": "CheTai",
+      "properties": {
+        "name": "truy cứu trách nhiệm hình sự"
+      }
+    },
+    {
+      "id": "chetai_boithuongthiethai",
+      "label": "CheTai",
+      "properties": {
+        "name": "bồi thường theo mức thiệt hại thực tế"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_206_2013",
+      "target_id": "chuthe_nguoicohanhviviphamphapluat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_206_2013",
+      "target_id": "hanhviphaply_viphamphapluatvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_206_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_206_2013",
+      "target_id": "chuthe_nguoikhac",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_206_2013",
+      "target_id": "chetai_xulyhanhchinh",
+      "relationship_type": "DAN_DEN"
+    },
+    {
+      "source_id": "dieu_206_2013",
+      "target_id": "chetai_truycuutrachnhiemhinhsu",
+      "relationship_type": "DAN_DEN"
+    },
+    {
+      "source_id": "dieu_206_2013",
+      "target_id": "chetai_boithuongthiethai",
+      "relationship_type": "DAN_DEN"
+    }
+  ]
+}

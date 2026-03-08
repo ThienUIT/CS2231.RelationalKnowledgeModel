@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_154_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 154",
+        "ma_dieu": "154",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 154.\n\nCác khoản thu từ dịch vụ công về đất đai\n1. Dịch vụ cung cấp thông tin, dữ liệu về đất đai.\n2. Dịch vụ đo đạc địa chính.\n3. Dịch vụ đăng ký đất đai, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với\nđất.\n4. Dịch vụ tư vấn xác định giá đất.\n5. Dịch vụ khác theo quy định của pháp luật."
+      }
+    },
+    {
+      "id": "khainiem_khoanthuthudichvucongvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Các khoản thu từ dịch vụ công về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_cungcapthongtinvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ cung cấp thông tin, dữ liệu về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_dodacdiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ đo đạc địa chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_dangkyddatdaicapgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ đăng ký đất đai, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_tuvanxacdinhgiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ tư vấn xác định giá đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dichvukhac",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ khác theo quy định của pháp luật"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_154_2024",
+      "target_id": "khainiem_khoanthuthudichvucongvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_cungcapthongtinvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_dodacdiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_dangkyddatdaicapgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_tuvanxacdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_dichvukhac",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

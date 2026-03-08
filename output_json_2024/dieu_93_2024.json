@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_93_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 93",
+        "ma_dieu": "93",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 93.\n\nViệc tách nội dung bồi thường, hỗ trợ, tái định cư thành dự án độc lập và việc thu hồi\nđất, bồi thường, hỗ trợ, tái định cư đối với dự án đầu tư\nTrường hợp dự án bồi thường, hỗ trợ, tái định cư được tách ra thành dự án độc lập theo quy định của\npháp luật về đầu tư công thì việc thu hồi đất, bồi thường, hỗ trợ, tái định cư được thực hiện theo quy\nđịnh của Luật này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_tachnoidungboithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tách nội dung bồi thường, hỗ trợ, tái định cư thành dự án độc lập"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_boithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường"
+      }
+    },
+    {
+      "id": "hanhviphaply_hotro",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hỗ trợ"
+      }
+    },
+    {
+      "id": "hanhviphaply_taidinhcu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tái định cư"
+      }
+    },
+    {
+      "id": "khainiem_duanbotrothadinhcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án bồi thường, hỗ trợ, tái định cư"
+      }
+    },
+    {
+      "id": "dieukien_quyduocluat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Theo quy định của pháp luật về đầu tư công"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_93_2024",
+      "target_id": "hanhviphaply_tachnoidungboithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2024",
+      "target_id": "hanhviphaply_boithuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2024",
+      "target_id": "hanhviphaply_hotro",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2024",
+      "target_id": "hanhviphaply_taidinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2024",
+      "target_id": "khainiem_duanbotrothadinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_93_2024",
+      "target_id": "dieukien_quyduocluat",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_90_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 90. Bồi thường đối với cây trồng, vật nuôi",
+        "ma_dieu": "90",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 90.\n\nBồi thường đối với cây trồng, vật nuôi\n1. Khi Nhà nước thu hồi đất mà gây thiệt hại đối với cây trồng thì việc bồi thường thực hiện theo quy\nđịnh sau đây:\na) Đối với cây hàng năm, mức bồi thường được tính bằng giá trị sản lượng của vụ thu hoạch. Giá trị\nsản lượng của vụ thu hoạch được tính theo năng suất của vụ cao nhất trong 03 năm trước liền kề của\ncây trồng chính tại địa phương và giá trung bình tại thời điểm thu hồi đất;\nb) Đối với cây lâu năm, mức bồi thường được tính bằng giá trị hiện có của vườn cây theo giá ở địa\nphương tại thời điểm thu hồi đất mà không bao gồm giá trị quyền sử dụng đất;\nc) Đối với cây trồng chưa thu hoạch nhưng có thể di chuyển đến địa điểm khác thì được bồi thường chi\nphí di chuyển và thiệt hại thực tế do phải di chuyển, phải trồng lại; about:blank\nd) Đối với cây rừng trồng bằng nguồn vốn ngân sách nhà nước, cây rừng tự nhiên giao cho tổ chức, hộ\ngia đình, cá nhân trồng, quản lý, chăm sóc, bảo vệ thì bồi thường theo giá trị thiệt hại thực tế của vườn\ncây; tiền bồi thường được phân chia cho người quản lý, chăm sóc, bảo vệ theo quy định của pháp luật\nvề bảo vệ và phát triển rừng.\n2. Khi Nhà nước thu hồi đất mà gây thiệt hại đối với vật nuôi là thủy sản thì việc bồi thường thực hiện\ntheo quy định sau đây:\na) Đối với vật nuôi là thủy sản mà tại thời điểm thu hồi đất đã đến thời kỳ thu hoạch thì không phải bồi\nthường;\nb) Đối với vật nuôi là thủy sản mà tại thời điểm thu hồi đất chưa đến thời kỳ thu hoạch thì được bồi\nthường thiệt hại thực tế do phải thu hoạch sớm; trường hợp có thể di chuyển được thì được bồi thường\nchi phí di chuyển và thiệt hại do di chuyển gây ra; mức bồi thường cụ thể do Ủy ban nhân dân cấp tỉnh\nquy định."
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_caytrong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cây trồng"
+      }
+    },
+    {
+      "id": "khainiem_vatnuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "vật nuôi"
+      }
+    },
+    {
+      "id": "khainiem_boithuong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bồi thường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_90_2013",
+      "target_id": "khainiem_caytrong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_90_2013",
+      "target_id": "khainiem_vatnuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_90_2013",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_90_2013",
+      "target_id": "khainiem_boithuong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

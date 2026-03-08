@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_39_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 39. Quy hoạch, kế hoạch sử dụng đất cấp tỉnh",
+        "ma_dieu": "39",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 39.\n\nQuy hoạch, kế hoạch sử dụng đất cấp tỉnh\n1. Căn cứ lập quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Quy hoạch sử dụng đất cấp quốc gia;\nb) Quy hoạch tổng thể phát triển kinh tế - xã hội của vùng kinh tế - xã hội, của tỉnh, thành phố trực\nthuộc trung ương; chiến lược, quy hoạch phát triển ngành, lĩnh vực;\nc) Điều kiện tự nhiên, kinh tế - xã hội của tỉnh, thành phố trực thuộc trung ương;\nd) Hiện trạng sử dụng đất, tiềm năng đất đai và kết quả thực hiện quy hoạch sử dụng đất cấp tỉnh kỳ\ntrước;\nđ) Nhu cầu sử dụng đất của các ngành, lĩnh vực, của cấp tỉnh;\ne) Định mức sử dụng đất;\ng) Tiến bộ khoa học và công nghệ có liên quan đến việc sử dụng đất.\n2. Nội dung quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Định hướng sử dụng đất 10 năm; about:blank\nb) Xác định diện tích các loại đất đã được phân bổ trong quy hoạch sử dụng đất cấp quốc gia và diện\ntích các loại đất theo nhu cầu sử dụng đất cấp tỉnh;\nc) Xác định các khu vực sử dụng đất theo chức năng sử dụng;\nd) Xác định diện tích các loại đất quy định tại điểm b khoản này đến từng đơn vị hành chính cấp huyện;\nđ) Lập bản đồ quy hoạch sử dụng đất cấp tỉnh;\ne) Giải pháp thực hiện quy hoạch sử dụng đất.\n3. Căn cứ lập kế hoạch sử dụng đất cấp tỉnh bao gồm:\na) Kế hoạch sử dụng đất 05 năm cấp quốc gia; quy hoạch sử dụng đất cấp tỉnh;\nb) Kế hoạch phát triển kinh tế - xã hội 05 năm và hàng năm của cấp tỉnh;\nc) Nhu cầu sử dụng đất 05 năm của các ngành, lĩnh vực, của cấp tỉnh;\nd) Kết quả thực hiện kế hoạch sử dụng đất cấp tỉnh kỳ trước;\nđ) Khả năng đầu tư, huy động nguồn lực để thực hiện kế hoạch sử dụng đất.\n4. Nội dung kế hoạch sử dụng đất cấp tỉnh bao gồm:\na) Phân tích, đánh giá kết quả thực hiện kế hoạch sử dụng đất cấp tỉnh kỳ trước;\nb) Xác định diện tích các loại đất quy định tại điểm b khoản 2 Điều này trong kỳ kế hoạch sử dụng đất\ntheo từng năm và đến từng đơn vị hành chính cấp huyện;\nc) Xác định diện tích các loại đất cần chuyển mục đích sử dụng đất quy định tại các  điểm a, b, c, d và e\nkhoản 1 Điều 57 của Luật này  trong kỳ kế hoạch sử dụng đất theo từng năm và đến từng đơn vị hành\nchính cấp huyện;\nd) Xác định quy mô, địa điểm công trình, dự án cấp quốc gia và cấp tỉnh sử dụng đất vào các mục đích\nquy định tại  Điều 61 và Điều 62 của Luật này  thực hiện trong kỳ kế hoạch sử dụng đất theo từng năm\nvà đến từng đơn vị hành chính cấp huyện;\nĐối với dự án hạ tầng kỹ thuật, xây dựng, chỉnh trang khu đô thị, khu dân cư nông thôn thì phải đồng\nthời xác định vị trí, diện tích đất thu hồi trong vùng phụ cận để đấu giá quyền sử dụng đất thực hiện dự\nán nhà ở, thương mại, dịch vụ, sản xuất, kinh doanh;\nđ) Lập bản đồ kế hoạch sử dụng đất cấp tỉnh;\ne) Giải pháp thực hiện kế hoạch sử dụng đất."
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_datsudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_39_2013",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_39_2013",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_39_2013",
+      "target_id": "khainiem_datsudung",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

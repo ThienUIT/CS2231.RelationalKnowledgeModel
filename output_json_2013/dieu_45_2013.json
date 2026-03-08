@@ -1,0 +1,139 @@
+{
+  "entities": [
+    {
+      "id": "dieu_45_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 45. Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "45",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 45.\n\nThẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất\n1. Quốc hội quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia.\n2. Chính phủ phê duyệt quy hoạch, kế hoạch sử dụng đất cấp tỉnh; quy hoạch, kế hoạch sử dụng đất\nquốc phòng; quy hoạch, kế hoạch sử dụng đất an ninh.\nỦy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp thông qua quy hoạch, kế hoạch sử dụng\nđất cấp tỉnh trước khi trình Chính phủ phê duyệt.\n3. Ủy ban nhân dân cấp tỉnh phê duyệt quy hoạch, kế hoạch sử dụng đất cấp huyện.\nỦy ban nhân dân cấp huyện trình Hội đồng nhân dân cùng cấp thông qua quy hoạch sử dụng đất cấp\nhuyện trước khi trình Ủy ban nhân dân cấp tỉnh phê duyệt.\nỦy ban nhân dân cấp huyện trình Ủy ban nhân dân cấp tỉnh phê duyệt kế hoạch sử dụng đất hàng năm\ncủa cấp huyện. Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cấp tỉnh thông qua danh mục dự án\ncần thu hồi đất quy định tại  khoản 3 Điều 62 của Luật này  trước khi phê duyệt kế hoạch sử dụng đất\nhàng năm của cấp huyện."
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_pheduyetquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phê duyệt quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_hdndcungcap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân cùng cấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_thongquaquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thông qua quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "hanhviphaply_pheduyetquyhoachcaphuyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phê duyệt quy hoạch, kế hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "dieu_62_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 62",
+        "ma_dieu": "62",
+        "phien_ban": 2013,
+        "noi_dung": "khoản 3 Điều 62 của Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "hanhviphaply_quyetdinhquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "hanhviphaply_pheduyetquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_hdndcungcap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "hanhviphaply_thongquaquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "hanhviphaply_pheduyetquyhoachcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_45_2013",
+      "target_id": "dieu_62_2013",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_144_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 144. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh",
+        "ma_dieu": "144",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 144.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh\nViệc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh đã được xếp hạng hoặc được Ủy ban nhân dân cấp tỉnh đưa vào danh mục kiểm kê di tích theo quy định của pháp luật về di sản văn hóa được thực hiện như sau:\n1. Trường hợp đất chỉ do một cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình, cá nhân đang sử dụng thì Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp cho cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình, cá nhân đó;\n2. Trường hợp có nhiều người sử dụng đất, có nhiều loại đất khác nhau thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng người sử dụng đất. Người sử dụng đất phải tuân thủ các quy định của pháp luật về bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh."
+      }
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_datcoditichlichsuvanhoa",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      }
+    },
+    {
+      "id": "chuthe_coquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "dieukien_datduocxephang",
+      "label": "DieuKien",
+      "properties": {
+        "name": "đã được xếp hạng hoặc được Ủy ban nhân dân cấp tỉnh đưa vào danh mục kiểm kê di tích theo quy định của pháp luật về di sản văn hóa"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_144_2024",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_144_2024",
+      "target_id": "khainiem_datcoditichlichsuvanhoa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_coquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_144_2024",
+      "target_id": "dieukien_datduocxephang",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

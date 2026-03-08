@@ -1,0 +1,232 @@
+{
+  "entities": [
+    {
+      "id": "dieu_170_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 170. Nghĩa vụ chung của người sử dụng đất",
+        "ma_dieu": "170",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 170.\n\nNghĩa vụ chung của người sử dụng đất\n1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất\nvà chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân theo các quy định khác\ncủa pháp luật có liên quan.\n2. Thực hiện kê khai đăng ký đất đai; làm đầy đủ thủ tục khi chuyển đổi, chuyển nhượng, cho thuê, cho\nthuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất theo quy định\ncủa pháp luật.\n3. Thực hiện nghĩa vụ tài chính theo quy định của pháp luật.\n4. Thực hiện các biện pháp bảo vệ đất.\n5. Tuân theo các quy định về bảo vệ môi trường, không làm tổn hại đến lợi ích hợp pháp của người sử\ndụng đất có liên quan.\n6. Tuân theo các quy định của pháp luật về việc tìm thấy vật trong lòng đất.\n7. Giao lại đất khi Nhà nước có quyết định thu hồi đất, khi hết thời hạn sử dụng đất mà không được cơ\nquan nhà nước có thẩm quyền gia hạn sử dụng."
+      }
+    },
+    {
+      "id": "khainiem_nghiavuchung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nghĩa vụ chung"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_sudungdatdungmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất đúng mục đích"
+      }
+    },
+    {
+      "id": "hanhviphaply_keKhaiDangKyDatDai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Kê khai đăng ký đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyendoiquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển đổi quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhuongquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển nhượng quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuequyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuelaiquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê lại quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuekequyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thừa kế quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_tangchoquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tặng cho quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thechapquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thế chấp quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_gopvonbangquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Góp vốn bằng quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchiunghiavutaichinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện nghĩa vụ tài chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchienbienphapbaovedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện các biện pháp bảo vệ đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_tuanthubaoVemotruong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tuân theo các quy định về bảo vệ môi trường"
+      }
+    },
+    {
+      "id": "hanhviphaply_tuanthuviectimthayvattronglongdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tuân theo các quy định của pháp luật về việc tìm thấy vật trong lòng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaolaidatkhibithuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao lại đất khi Nhà nước có quyết định thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaolaidatkhihethochat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao lại đất khi hết thời hạn sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "khainiem_nghiavuchung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_sudungdatdungmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_keKhaiDangKyDatDai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_chuyendoiquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_chuyennhuongquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_chothuequyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_chothuelaiquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_thuekequyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_tangchoquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_thechapquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_gopvonbangquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_thuchiunghiavutaichinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_thuchienbienphapbaovedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_tuanthubaoVemotruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_tuanthuviectimthayvattronglongdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_giaolaidatkhibithuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_170_2013",
+      "target_id": "hanhviphaply_giaolaidatkhihethochat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

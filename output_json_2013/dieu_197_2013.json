@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_197_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 197. Thực hiện thủ tục hành chính về đất đai",
+        "ma_dieu": "197",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 197.\n\nThực hiện thủ tục hành chính về đất đai\n1. Bộ, ngành theo chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp trong chỉ đạo,\nhướng dẫn, kiểm tra việc thực hiện thủ tục hành chính về đất đai, bảo đảm thống nhất giữa thủ tục hành\nchính về đất đai với các thủ tục hành chính khác có liên quan.\n2. Ủy ban nhân dân các cấp có trách nhiệm chỉ đạo, hướng dẫn, kiểm tra và tổ chức thực hiện thủ tục\nhành chính tại địa phương; quy định việc phối hợp giữa các cơ quan có liên quan ở địa phương để giải\nquyết thủ tục hành chính về đất đai và các thủ tục hành chính khác có liên quan.\n3. Cơ quan có thẩm quyền giải quyết thủ tục hành chính về đất đai phải thực hiện đúng trình tự, thủ tục\ntheo quy định.\n4. Người sử dụng đất và người khác có liên quan có trách nhiệm thực hiện đầy đủ trình tự, thủ tục hành\nchính về đất đai và các nghĩa vụ tài chính theo quy định của pháp luật.\nChương 13.\nGIÁM SÁT , THANH TRA, GIẢI QUYẾT  TRANH CHẤP , KHIẾU NẠI, TỐ CÁO VÀ XỬ LÝ VI\nPHẠM PHÁP  LUẬT  VỀ ĐẤT  ĐAI\nMỤC 1. GIÁM SÁT , THEO DÕI VÀ ĐÁNH GIÁ VIỆC QUẢN LÝ, SỬ DỤNG ĐẤT  ĐAI"
+      }
+    },
+    {
+      "id": "chuthe_bonganh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ, ngành"
+      }
+    },
+    {
+      "id": "hanhviphaply_phoitrongchidao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "phối hợp trong chỉ đạo"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_chidaohuongdankiemtra",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chỉ đạo, hướng dẫn, kiểm tra"
+      }
+    },
+    {
+      "id": "khainiem_thutuchinhveDatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thủ tục hành chính về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoikhaccolienquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người khác có liên quan"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_197_2013",
+      "target_id": "chuthe_bonganh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2013",
+      "target_id": "hanhviphaply_phoitrongchidao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2013",
+      "target_id": "chuthe_ubndcaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2013",
+      "target_id": "hanhviphaply_chidaohuongdankiemtra",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2013",
+      "target_id": "khainiem_thutuchinhveDatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2013",
+      "target_id": "chuthe_coquancothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_197_2013",
+      "target_id": "chuthe_nguoikhaccolienquan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

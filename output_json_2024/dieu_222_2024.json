@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_222_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 222. Đưa đất chưa sử dụng vào sử dụng",
+        "ma_dieu": "222",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 222.\n\nĐưa đất chưa sử dụng vào sử dụng\n1. Căn cứ vào quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt, Ủy ban\nnhân dân các cấp có kế hoạch đưa đất chưa sử dụng vào sử dụng.\n2. Nhà nước khuyến khích tổ chức, cá nhân đầu tư để đưa đất chưa sử dụng vào sử dụng theo quy\nhoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n3. Đối với diện tích đất được quy hoạch sử dụng vào mục đích nông nghiệp thì ưu tiên giao cho cá nhân\ncư trú tại địa phương mà chưa được giao đất hoặc thiếu đất sản xuất.\n4. Nhà nước có chính sách đầu tư cơ sở hạ tầng đối với vùng biên giới, hải đảo, địa bàn có điều kiện\nkinh tế - xã hội khó khăn, địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng nhiều đất nhưng\nít dân để thực hiện kế hoạch đưa đất chưa sử dụng vào sử dụng; có chính sách miễn, giảm tiền sử dụng\nđất, tiền thuê đất đối với trường hợp giao đất, cho thuê đất chưa sử dụng để đưa vào sử dụng.\n5. Ủy ban nhân dân cấp tỉnh sử dụng nguồn kinh phí thu được từ nguồn thu khi cho phép chuyển mục\nđích đất trồng lúa sang sử dụng vào mục đích khác và nguồn kinh phí hợp pháp khác để phục vụ việc\ncải tạo, đưa đất chưa sử dụng vào sử dụng.\nChương XIV\nTHỦ TỤC HÀNH CHÍNH VỀ ĐẤT  ĐAI"
+      }
+    },
+    {
+      "id": "khainiem_datchuasudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất chưa sử dụng"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_222_2024",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_222_2024",
+      "target_id": "chuthe_ubndcaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_222_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_222_2024",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_222_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_222_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

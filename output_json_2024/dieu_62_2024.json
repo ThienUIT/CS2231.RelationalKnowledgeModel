@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_62_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 62. Thời kỳ quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "62",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 62.\n\nThời kỳ quy hoạch, kế hoạch sử dụng đất\n1. Thời kỳ, tầm nhìn quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng và quy hoạch\nsử dụng đất an ninh thực hiện theo quy định của Luật Quy hoạch .\n2. Thời kỳ, tầm nhìn quy hoạch sử dụng đất cấp tỉnh thống nhất với thời kỳ, tầm nhìn của quy hoạch\ntỉnh.\n3. Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là\n20 năm.\n4. Thời kỳ kế hoạch sử dụng đất quốc gia, kế hoạch sử dụng đất cấp tỉnh là 05 năm; kế hoạch sử dụng\nđất hằng năm cấp huyện được lập hằng năm."
+      }
+    },
+    {
+      "id": "khainiem_thờikiquyhoach",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thời kỳ quy hoạch"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatquocphong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch sử dụng đất quốc phòng"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatanninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch sử dụng đất an ninh"
+      }
+    },
+    {
+      "id": "khainiem_luatquyhoach",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Luật Quy hoạch"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcaptinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachtinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kế hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdatcaptinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kế hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kế hoạch sử dụng đất hằng năm cấp huyện"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_thờikiquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_quyhoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_quyhoachsudungdatquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_quyhoachsudungdatanninh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_luatquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_quyhoachsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_quyhoachtinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_quyhoachsudungdatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_kehoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_kehoachsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_62_2024",
+      "target_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "entities": [
+    {
+      "id": "dieu_241_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 241",
+        "ma_dieu": "241",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 241.\n\nTrách nhiệm tr ong việc phát hiện, ngăn chặn và xử lý vi phạm pháp luật về quản lý, sử\ndụng đất đai\n1. Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm sau đây:\na) Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm phát hiện,\nngăn chặn và xử lý kịp thời những vi phạm pháp luật về quản lý, sử dụng đất đai tại địa phương theo\nthẩm quyền;\nb) Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm thường xuyên kiểm tra, phát hiện, ngăn chặn và xử\nlý kịp thời theo thẩm quyền đối với các hành vi không đăng ký đất đai; lấn đất, chiếm đất, hủy hoại\nđất; sử dụng đất không đúng mục đích; chuyển, nhận quyền sử dụng đất không đúng pháp luật và hành\nvi vi phạm pháp luật đất đai khác của người sử dụng đất.\n2. Người đứng đầu cơ quan có chức năng quản lý đất đai cấp tỉnh, cấp huyện có trách nhiệm kiểm tra,\nđôn đốc, hướng dẫn việc thi hành công vụ của cán bộ, công chức; giải quyết kịp thời, đúng pháp luật, theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền giải quyết khiếu nại, tố cáo và kiến nghị của cá\nnhân, tổ chức và xử lý kịp thời những vi phạm pháp luật về quản lý, sử dụng đất đai tại địa phương theo\nthẩm quyền.\n3. Công chức làm công tác địa chính cấp xã; công chức, viên chức thuộc cơ quan quản lý đất đai các\ncấp khi thi hành công vụ có trách nhiệm phát hiện và đề xuất xử lý kịp thời các hành vi vi phạm pháp\nluật về đất đai."
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "hanhviphaply_phathiennganchanxulyvipham",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "phát hiện, ngăn chặn và xử lý vi phạm pháp luật về quản lý, sử dụng đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_kiemtraphathiennganchanxuly",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "kiểm tra, phát hiện, ngăn chặn và xử lý kịp thời"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongdangkydd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "không đăng ký đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_landatchiemdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "lấn đất, chiếm đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_huyhoaidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "hủy hoại đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_sudungkhongdungmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "sử dụng đất không đúng mục đích"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhanquyensddkhongdung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển, nhận quyền sử dụng đất không đúng pháp luật"
+      }
+    },
+    {
+      "id": "chuthe_nguoidungdaucoquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đứng đầu cơ quan có chức năng quản lý đất đai cấp tỉnh, cấp huyện"
+      }
+    },
+    {
+      "id": "hanhviphaply_kiemtradondochthihanhcongvu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "kiểm tra, đôn đốc, hướng dẫn việc thi hành công vụ của cán bộ, công chức"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaiquyettocao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giải quyết khiếu nại, tố cáo"
+      }
+    },
+    {
+      "id": "chuthe_congchuccapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công chức làm công tác địa chính cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_congchucvienchucquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "công chức, viên chức thuộc cơ quan quản lý đất đai các cấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_phathiendeixuatxulyvipham",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "phát hiện và đề xuất xử lý kịp thời các hành vi vi phạm pháp luật về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "chuthe_chutichubndcaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "chuthe_chutichubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "chuthe_chutichubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_phathiennganchanxulyvipham",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "chuthe_chutichubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_kiemtraphathiennganchanxuly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_khongdangkydd",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_landatchiemdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_huyhoaidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_sudungkhongdungmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_chuyennhanquyensddkhongdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "chuthe_nguoidungdaucoquan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_kiemtradondochthihanhcongvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_giaiquyettocao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "chuthe_congchuccapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "chuthe_congchucvienchucquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_241_2024",
+      "target_id": "hanhviphaply_phathiendeixuatxulyvipham",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

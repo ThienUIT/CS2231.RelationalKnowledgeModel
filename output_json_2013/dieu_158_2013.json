@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_158_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 158. Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh",
+        "ma_dieu": "158",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 158.\n\nĐất có di tích lịch sử - văn hóa, danh lam thắng cảnh\n1. Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh đã được xếp hạng hoặc được Ủy ban nhân dân\ncấp tỉnh quyết định bảo vệ thì phải được quản lý nghiêm ngặt theo quy định sau đây:\na) Đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh do tổ chức, hộ gia đình, cá nhân, cộng\nđồng dân cư trực tiếp quản lý theo quy định của pháp luật về di sản văn hóa thì tổ chức, hộ gia đình, cá\nnhân, cộng đồng dân cư đó chịu trách nhiệm chính trong việc sử dụng đất có di tích lịch sử - văn hóa,\ndanh lam thắng cảnh;\nb) Đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh không thuộc quy định tại điểm a khoản\nnày thì Ủy ban nhân dân cấp xã nơi có di tích lịch sử - văn hóa, danh lam thắng cảnh chịu trách nhiệm\nchính trong việc quản lý diện tích đất có di tích lịch sử - văn hóa, danh lam thắng cảnh; about:blank\nc) Đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh bị lấn, bị chiếm, sử dụng không đúng\nmục đích, sử dụng trái pháp luật thì Chủ tịch Ủy ban nhân dân cấp xã nơi có đất có trách nhiệm phát\nhiện, ngăn chặn và xử lý kịp thời.\n2. Trong trường hợp đặc biệt cần thiết phải sử dụng đất có di tích lịch sử - văn hóa, danh lam thắng\ncảnh vào mục đích khác thì việc chuyển mục đích phải phù hợp với quy hoạch, kế hoạch sử dụng đất đã\nđược cơ quan nhà nước có thẩm quyền phê duyệt và phải có văn bản chấp thuận của cơ quan nhà nước\ncó thẩm quyền quyết định xếp hạng đối với di tích lịch sử - văn hóa, danh lam thắng cảnh đó."
+      }
+    },
+    {
+      "id": "khainiem_datcoditichlichsuvanhoadanhlamthangcanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_chutichuybanndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_158_2013",
+      "target_id": "khainiem_datcoditichlichsuvanhoadanhlamthangcanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_uybanndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_chutichuybanndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

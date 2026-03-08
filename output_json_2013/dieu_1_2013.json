@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_1_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 1",
+        "ma_dieu": "1",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 1.\n\nPhạm vi điều chỉnh\nLuật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở\nhữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và\nnghĩa vụ của người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt\nNam."
+      }
+    },
+    {
+      "id": "khainiem_phamvidieuchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phạm vi điều chỉnh"
+      }
+    },
+    {
+      "id": "khainiem_chedosohuu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chế độ sở hữu đất đai"
+      }
+    },
+    {
+      "id": "khainiem_quyenhanvatrachnhiem",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_thongnhatquanly",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thống nhất quản lý về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_chedoquanlyvasudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chế độ quản lý và sử dụng đất đai"
+      }
+    },
+    {
+      "id": "khainiem_quyenvanghiavu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền và nghĩa vụ của người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_1_2013",
+      "target_id": "khainiem_phamvidieuchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2013",
+      "target_id": "khainiem_chedosohuu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2013",
+      "target_id": "khainiem_quyenhanvatrachnhiem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2013",
+      "target_id": "khainiem_thongnhatquanly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2013",
+      "target_id": "khainiem_chedoquanlyvasudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_1_2013",
+      "target_id": "khainiem_quyenvanghiavu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

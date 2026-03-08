@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_224_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 224. Nguyên tắc thực hiện thủ tục hành chính về đất đai",
+        "ma_dieu": "224",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 224.\n\nNguyên tắc thực hiện thủ tục hành chính về đất đai\n1. Bảo đảm sự bình đẳng, khách quan, công khai, minh bạch và có sự phối hợp chặt chẽ, kịp thời, chính\nxác giữa các cơ quan có thẩm quyền trong quá trình giải quyết thủ tục hành chính.\n2. Bảo đảm phương thức thực hiện đơn giản, dễ hiểu, dễ thực hiện, lồng ghép trong việc giải quyết thủ\ntục hành chính về đất đai, tiết kiệm thời gian, chi phí, công sức của tổ chức, cá nhân và cơ quan có\nthẩm quyền góp phần cải cách thủ tục hành chính.\n3. Tổ chức, cá nhân yêu cầu thực hiện thủ tục hành chính về đất đai chịu trách nhiệm trước pháp luật về\ntính chính xác, trung thực của nội dung kê khai và các giấy tờ trong hồ sơ đã nộp.\n4. Các thủ tục hành chính về đất đai được thực hiện bằng hình thức trực tiếp, qua hệ thống bưu chính\nhoặc trên môi trường điện tử và có giá trị pháp lý như nhau .\n5. Cơ quan giải quyết thủ tục hành chính về đất đai chịu trách nhiệm thực hiện đúng thẩm quyền và\nthời gian theo quy định của pháp luật, không chịu trách nhiệm về những nội dung trong các văn bản,\ngiấy tờ có trong hồ sơ đã được cơ quan, người có thẩm quyền khác chấp thuận, thẩm định, phê duyệt\nhoặc giải quyết trước đó."
+      }
+    },
+    {
+      "id": "khainiem_nguyentacthucthuthutuchinhveđatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nguyên tắc thực hiện thủ tục hành chính về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquanthamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaiquyetthutuchanhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giải quyết thủ tục hành chính"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_coquangiaiquyetthutuchanhchinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan giải quyết thủ tục hành chính"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_224_2024",
+      "target_id": "khainiem_nguyentacthucthuthutuchinhveđatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_224_2024",
+      "target_id": "chuthe_coquanthamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_224_2024",
+      "target_id": "hanhviphaply_giaiquyetthutuchanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_224_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_224_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_224_2024",
+      "target_id": "chuthe_coquangiaiquyetthutuchanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

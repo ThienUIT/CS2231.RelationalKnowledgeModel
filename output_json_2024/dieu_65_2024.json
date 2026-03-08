@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_65_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 65. Quy hoạch sử dụng đất cấp tỉnh",
+        "ma_dieu": "65",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 65.\n\nQuy hoạch sử dụng đất cấp tỉnh\n1. Căn cứ lập quy hoạch sử dụng đất cấp tỉnh bao gồm: about:blank\na) Quy hoạch, kế hoạch sử dụng đất quốc gia;\nb) Các quy hoạch cấp quốc gia, quy hoạch vùng; quy hoạch có tính chất kỹ thuật, chuyên ngành có sử\ndụng đất cấp quốc gia, liên tỉnh;\nc) Quy hoạch tỉnh;\nd) Điều kiện tự nhiên, kinh tế, xã hội của đơn vị hành chính cấp tỉnh;\nđ) Hiện trạng sử dụng đất, biến động đất đai, chất lượng đất, tiềm năng đất đai và kết quả thực hiện\nquy hoạch sử dụng đất kỳ trước của tỉnh;\ne) Nhu cầu, khả năng sử dụng đất của các ngành, lĩnh vực, địa phương; nguồn lực đầu tư công và các\nnguồn lực khác;\ng) Tiến bộ khoa học và công nghệ có liên quan đến việc sử dụng đất.\n2. Nội dung quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Định hướng sử dụng đất được xác định trong quy hoạch tỉnh, tầm nhìn đáp ứng yêu cầu phát triển\nkinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất quốc gia và chỉ tiêu sử\ndụng đất theo nhu cầu sử dụng đất cấp tỉnh;\nc) Xác định chỉ tiêu sử dụng đất quy định tại điểm b khoản này đến từng đơn vị hành chính cấp huyện;\nd) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông\nnghiệp;\nđ) Khoanh vùng các khu vực sử dụng đất cần quản lý nghiêm ngặt, gồm: đất trồng lúa, đất rừng đặc\ndụng, đất rừng phòng hộ, đất rừng sản xuất là rừng tự nhiên;\ne) Phân kỳ quy hoạch sử dụng cho từng kỳ kế hoạch 05 năm theo các nội dung quy định tại các điểm b,\nc, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n3. Lập bản đồ quy hoạch sử dụng đất cấp tỉnh; xây dựng và cập nhật dữ liệu quy hoạch sử dụng đất cấp\ntỉnh vào cơ sở dữ liệu quốc gia về đất đai.\n4. Các tỉnh không phải là thành phố trực thuộc Trung ương không phải lập kế hoạch sử dụng đất cấp\ntỉnh nhưng phải phân kỳ quy hoạch sử dụng đất cho từng kỳ kế hoạch 05 năm theo quy định tại điểm e\nkhoản 2 Điều này .\n5. Thành phố trực thuộc Trung ương đã có quy hoạch chung được phê duyệt theo quy định của  pháp\nluật về quy hoạch đô thị  thì không phải lập quy hoạch sử dụng đất cấp tỉnh mà căn cứ quy hoạch chung\nđể lập kế hoạch sử dụng đất cấp tỉnh.\nTrường hợp quy hoạch chung được phê duyệt sau khi phê duyệt quy hoạch sử dụng đất cấp tỉnh mà làm\nthay đổi chỉ tiêu sử dụng đất trong quy hoạch sử dụng đất cấp tỉnh thì không phải thực hiện điều chỉnh\nquy hoạch sử dụng đất cấp tỉnh mà căn cứ quy hoạch chung để lập kế hoạch sử dụng đất cấp tỉnh.\n6. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcaptinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachtinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_dinhhuongsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Định hướng sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_chitieuSudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chỉ tiêu sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_khuvucLanbien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Khu vực lấn biển"
+      }
+    },
+    {
+      "id": "khainiem_dattronglua",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng lúa"
+      }
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuatlarungtunhien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất là rừng tự nhiên"
+      }
+    },
+    {
+      "id": "khainiem_kehoach05nam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch 05 năm"
+      }
+    },
+    {
+      "id": "chuthe_chinphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_quyhoachsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_quyhoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_kehoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_quyhoachtinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_dinhhuongsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_chitieuSudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_khuvucLanbien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_dattronglua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_datrungsanxuatlarungtunhien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "khainiem_kehoach05nam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_65_2024",
+      "target_id": "chuthe_chinphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

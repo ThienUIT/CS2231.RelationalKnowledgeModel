@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_30_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 30. Bản đồ hành chính",
+        "ma_dieu": "30",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 30.\n\nBản đồ hành chính\n1. Bản đồ hành chính của địa phương nào thì được lập trên cơ sở bản đồ địa giới hành chính của địa\nphương đó.\n2. Việc lập bản đồ hành chính được thực hiện theo quy định sau đây:\na) Bộ Tài nguyên và Môi trường chỉ đạo, hướng dẫn việc lập bản đồ hành chính các cấp trong phạm vi\ncả nước và tổ chức thực hiện việc lập bản đồ hành chính toàn quốc, tỉnh, thành phố trực thuộc trung\nương;\nb) Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp\ntỉnh) tổ chức thực hiện việc lập bản đồ hành chính huyện, quận, thị xã, thành phố thuộc tỉnh.\nMỤC 2. ĐIỀU TRA  CƠ BẢN VỀ ĐẤT  ĐAI"
+      }
+    },
+    {
+      "id": "khainiem_bandohanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bản đồ hành chính"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenvamitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapTinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_30_2013",
+      "target_id": "khainiem_bandohanhchinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2013",
+      "target_id": "chuthe_botainguyenvamitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_30_2013",
+      "target_id": "chuthe_ubndcapTinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

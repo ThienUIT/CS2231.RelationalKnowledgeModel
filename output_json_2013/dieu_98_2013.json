@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_98_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 98. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+        "ma_dieu": "98",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 98.\n\nNguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản\nkhác gắn liền với đất about:blank\n. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất được cấp\ntheo từng thửa đất. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng\nmột xã, phường, thị trấn mà có yêu cầu thì được cấp một Giấy chứng nhận quyền sử dụng đất, quyền\nsở hữu nhà ở và tài sản khác gắn liền với đất chung cho các thửa đất đó.\n2. Thửa đất có nhiều người chung quyền sử dụng đất, nhiều người sở hữu chung nhà ở, tài sản khác\ngắn liền với đất thì Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền\nvới đất phải ghi đầy đủ tên của những người có chung quyền sử dụng đất, người sở hữu chung nhà ở,\ntài sản khác gắn liền với đất và cấp cho mỗi người 01 Giấy chứng nhận; trường hợp các chủ sử dụng,\nchủ sở hữu có yêu cầu thì cấp chung một Giấy chứng nhận và trao cho người đại diện.\n3. Người sử dụng đất, chủ sở hữu nhà ở, tài sản khác gắn liền với đất được nhận Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất sau khi đã hoàn thành nghĩa vụ\ntài chính theo quy định của pháp luật.\nTrường hợp người sử dụng đất, chủ sở hữu nhà ở, tài sản khác gắn liền với đất không thuộc đối tượng\nphải thực hiện nghĩa vụ tài chính hoặc được miễn, được ghi nợ nghĩa vụ tài chính và trường hợp thuê\nđất trả tiền thuê đất hàng năm thì được nhận Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở\nvà tài sản khác gắn liền với đất ngay sau khi cơ quan có thẩm quyền cấp.\n4. Trường hợp quyền sử dụng đất hoặc quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền\nvới đất hoặc quyền sở hữu nhà ở và tài sản khác gắn liền với đất là tài sản chung của vợ và chồng thì\nphải ghi cả họ, tên vợ và họ, tên chồng vào Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở\nvà tài sản khác gắn liền với đất, trừ trường hợp vợ và chồng có thỏa thuận ghi tên một người.\nTrường hợp quyền sử dụng đất hoặc quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền\nvới đất hoặc quyền sở hữu nhà ở và tài sản khác gắn liền với đất là tài sản chung của vợ và chồng mà\nGiấy chứng nhận đã cấp chỉ ghi họ, tên của vợ hoặc chồng thì được cấp đổi sang Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất để ghi cả họ, tên vợ và họ, tên\nchồng nếu có yêu cầu.\n5. Trường hợp có sự chênh lệch diện tích giữa số liệu đo đạc thực tế với số liệu ghi trên giấy tờ quy\nđịnh tại  Điều 100 của Luật này  hoặc Giấy chứng nhận đã cấp mà ranh giới thửa đất đang sử dụng\nkhông thay đổi so với ranh giới thửa đất tại thời điểm có giấy tờ về quyền sử dụng đất, không có tranh\nchấp với những người sử dụng đất liền kề thì khi cấp hoặc cấp đổi Giấy chứng nhận quyền sử dụng\nđất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất diện tích đất được xác định theo số liệu đo đạc\nthực tế. Người sử dụng đất không phải nộp tiền sử dụng đất đối với phần diện tích chênh lệch nhiều\nhơn nếu có.\nTrường hợp đo đạc lại mà ranh giới thửa đất có thay đổi so với ranh giới thửa đất tại thời điểm có giấy\ntờ về quyền sử dụng đất và diện tích đất đo đạc thực tế nhiều hơn diện tích ghi trên giấy tờ về quyền\nsử dụng đất thì phần diện tích chênh lệch nhiều hơn (nếu có) được xem xét cấp Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo quy định tại Điều 99 của\nLuật này ."
+      }
+    },
+    {
+      "id": "khainiem_giaychungnhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisohuu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sở hữu chung nhà ở, tài sản khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_vochong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Vợ và chồng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_98_2013",
+      "target_id": "khainiem_giaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_98_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_98_2013",
+      "target_id": "chuthe_nguoisohuu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_98_2013",
+      "target_id": "chuthe_vochong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

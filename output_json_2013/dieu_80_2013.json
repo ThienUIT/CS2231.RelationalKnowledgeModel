@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "id": "dieu_80_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 80. Bồi thường về đất, chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất phi nông nghiệp không phải là đất ở của hộ gia đình, cá nhân",
+        "ma_dieu": "80",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 80.\n\nBồi thường về đất, chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất phi nông nghiệp không phải là đất ở của hộ gia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất phi nông nghiệp không phải là đất ở khi Nhà nước thu hồi\nđất, nếu có đủ điều kiện được bồi thường quy định tại  Điều 75 của Luật này  thì được bồi thường bằng\nđất có cùng mục đích sử dụng; trường hợp không có đất để bồi thường thì được bồi thường bằng tiền\ntheo thời hạn sử dụng đất còn lại đối với đất sử dụng có thời hạn.\n2. Hộ gia đình, cá nhân đang sử dụng đất phi nông nghiệp không phải là đất ở được Nhà nước cho thuê\nđất thu tiền thuê đất hàng năm; cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê nhưng được\nmiễn tiền thuê đất, khi Nhà nước thu hồi đất thì không được bồi thường về đất nhưng được bồi\nthường chi phí đầu tư vào đất còn lại, trừ trường hợp hộ gia đình, cá nhân sử dụng đất do thực hiện\nchính sách đối với người có công với cách mạng.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_nhanuocchothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước cho thuê đất"
+      }
+    },
+    {
+      "id": "dieu_75_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 75 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_80_2013",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_80_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_80_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_80_2013",
+      "target_id": "dieu_75_2013",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_80_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

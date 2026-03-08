@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_252_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 252",
+        "ma_dieu": "252",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 252.\n\nHiệu lực thi hành\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 và\nkhoản 3 Điều này .\n2. Điều 190 và Điều 248 của Luật này  có hiệu lực thi hành từ ngày 01 tháng 4 năm 2024.\n3. Việc lập, phê duyệt quy hoạch sử dụng đất được tiếp tục thực hiện theo quy định của Nghị quyết số\n61/2022/QH15  ngày 16 tháng 6 năm 2022 của Quốc hội về tiếp tục tăng cường hiệu lực, hiệu quả thực\nhiện chính sách, pháp luật về quy hoạch và một số giải pháp tháo gỡ khó khăn, vướng mắc, đẩy nhanh\ntiến độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021 - 2030.\nKhoản 9 Điều 60 của Luật này  có hiệu lực thi hành từ ngày Nghị quyết số 61/2022/QH15  hết hiệu lực.\n4. Luật Đất đai số 45/2013/QH13  đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14\n(sau đây gọi là Luật Đất đai số 45/2013/QH13 ) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+      }
+    },
+    {
+      "id": "dieuluat_luatdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Luật này"
+      }
+    },
+    {
+      "id": "dieuluat_190_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 190 của Luật này"
+      }
+    },
+    {
+      "id": "dieuluat_248_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 248 của Luật này"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "dieuluat_nghiquyetsocuaso612022qh15",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Nghị quyết số 61/2022/QH15"
+      }
+    },
+    {
+      "id": "dieuluat_60_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 60 của Luật này"
+      }
+    },
+    {
+      "id": "dieuluat_luatdatdaiso452013qh13",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Luật Đất đai số 45/2013/QH13"
+      }
+    },
+    {
+      "id": "dieuluat_luatso352018qh14",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Luật số 35/2018/QH14"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_252_2024",
+      "target_id": "dieuluat_luatdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_252_2024",
+      "target_id": "dieuluat_190_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_252_2024",
+      "target_id": "dieuluat_248_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_252_2024",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_252_2024",
+      "target_id": "dieuluat_nghiquyetsocuaso612022qh15",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_252_2024",
+      "target_id": "dieuluat_60_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_252_2024",
+      "target_id": "dieuluat_luatdatdaiso452013qh13",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_252_2024",
+      "target_id": "dieuluat_luatso352018qh14",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

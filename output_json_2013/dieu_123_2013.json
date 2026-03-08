@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_123_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 123",
+        "ma_dieu": "123",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 123.\n\nDịch vụ công điện tử tr ong lĩnh vực đất đai\n1. Các dịch vụ công điện tử được thực hiện gồm đăng ký đất đai, tài sản gắn liền với đất; thực hiện các\ngiao dịch về đất đai và tài sản gắn liền với đất; cung cấp thông tin, dữ liệu về đất đai.\n2. Cơ quan quản lý đất đai có trách nhiệm thực hiện các dịch vụ công quy định tại khoản 1 Điều này;\ncung cấp các dịch vụ thuận tiện, đơn giản, an toàn cho tổ chức và cá nhân trên môi trường mạng."
+      }
+    },
+    {
+      "id": "khainiem_dichvucongdientu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dịch vụ công điện tử"
+      }
+    },
+    {
+      "id": "hanhviphaply_dangkydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "đăng ký đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodichdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thực hiện các giao dịch về đất đai và tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_cungcapthongtindatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cung cấp thông tin, dữ liệu về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_coquanquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan quản lý đất đai"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_123_2013",
+      "target_id": "khainiem_dichvucongdientu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2013",
+      "target_id": "hanhviphaply_dangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2013",
+      "target_id": "hanhviphaply_giaodichdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2013",
+      "target_id": "hanhviphaply_cungcapthongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2013",
+      "target_id": "chuthe_coquanquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_123_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_123_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_28_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 28",
+        "ma_dieu": "28",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 28.\n\nTrách nhiệm của Nhà nước tr ong việc xây dựng, cung cấp thông tin đất đai about:blank\n. Xây dựng, quản lý hệ thống thông tin đất đai và bảo đảm quyền tiếp cận của tổ chức, cá nhân đối với\nhệ thống thông tin đất đai.\n2. Công bố kịp thời, công khai thông tin thuộc hệ thống thông tin đất đai cho tổ chức, cá nhân, trừ\nnhững thông tin thuộc bí mật theo quy định của pháp luật.\n3. Thông báo quyết định hành chính, hành vi hành chính trong lĩnh vực quản lý đất đai cho tổ chức, cá\nnhân bị ảnh hưởng quyền và lợi ích hợp pháp.\n4. Cơ quan nhà nước, người có thẩm quyền trong quản lý, sử dụng đất đai có trách nhiệm tạo điều kiện,\ncung cấp thông tin về đất đai cho tổ chức, cá nhân theo quy định của pháp luật."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_xaydungquanlythongtindatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng, quản lý hệ thống thông tin đất đai"
+      }
+    },
+    {
+      "id": "khainiem_thongtindatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thông tin đất đai"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_tiepcancapthongtin",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tiếp cận, cung cấp thông tin"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoicothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có thẩm quyền"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_28_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_28_2013",
+      "target_id": "hanhviphaply_xaydungquanlythongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_28_2013",
+      "target_id": "khainiem_thongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_28_2013",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_28_2013",
+      "target_id": "hanhviphaply_tiepcancapthongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_28_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_28_2013",
+      "target_id": "chuthe_nguoicothamquyen",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

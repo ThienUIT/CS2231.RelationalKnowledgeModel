@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_188_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 188. Đất có mặt nước là ao, hồ, đầm",
+        "ma_dieu": "188",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 188.\n\nĐất có mặt nước là ao, hồ, đầm\n1. Đất có mặt nước là ao, hồ, đầm được Nhà nước giao theo hạn mức đối với cá nhân để sử dụng vào\nmục đích nuôi trồng thủy sản, sản xuất nông nghiệp.\nĐất có mặt nước là ao, hồ, đầm được Nhà nước cho thuê đối với tổ chức kinh tế, cá nhân, người gốc\nViệt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài để thực hiện dự án đầu tư\nnuôi trồng thủy sản, sản xuất nông nghiệp hoặc nông nghiệp kết hợp với mục đích phi nông nghiệp.\nViệc sử dụng đất phải bảo đảm cảnh quan, bảo vệ môi trường, bảo vệ tài nguyên nước.\n2. Đối với đất có mặt nước là hồ, đầm thuộc địa bàn nhiều xã, phường, thị trấn thì việc sử dụng do Ủy\nban nhân dân cấp huyện quyết định. Đối với hồ, đầm thuộc địa bàn nhiều huyện, quận, thị xã, thành\nphố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương thì việc sử dụng do Ủy ban nhân dân\ncấp tỉnh quyết định.\n3. Tổ chức kinh tế, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư\nnước ngoài được Nhà nước giao đất, cho thuê đất để san lấp hoặc đào hồ, đầm tạo không gian thu, trữ\nnước, tạo cảnh quan thì phải được phép của cơ quan nhà nước có thẩm quyền và phải đánh giá tác động\nmôi trường theo quy định của pháp luật về bảo vệ môi trường."
+      }
+    },
+    {
+      "id": "khainiem_datcomatnuoclaaohodam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có mặt nước là ao, hồ, đầm"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_tochucKinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocVietNamdinhcuonnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochucKinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_uybanNDcấphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_uybanNDcấptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_188_2024",
+      "target_id": "khainiem_datcomatnuoclaaohodam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_188_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_188_2024",
+      "target_id": "chuthe_tochucKinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_188_2024",
+      "target_id": "chuthe_nguoigocVietNamdinhcuonnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_188_2024",
+      "target_id": "chuthe_tochucKinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_188_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_188_2024",
+      "target_id": "chuthe_uybanNDcấphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_188_2024",
+      "target_id": "chuthe_uybanNDcấptinh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

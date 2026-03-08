@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_17_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 17. Bảo đảm của Nhà nước đối với người sử dụng đất",
+        "ma_dieu": "17",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 17.\n\nBảo đảm của Nhà nước đối với người sử dụng đất\n1. Nhà nước bảo hộ quyền sử dụng đất và tài sản gắn liền với đất hợp pháp của người sử dụng đất.\n2. Nhà nước không thừa nhận việc đòi lại đất đã được giao theo quy định của Nhà nước cho người khác\nsử dụng trong quá trình thực hiện chính sách đất đai của Nhà nước Việt Nam dân chủ cộng hòa, Chính\nphủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt\nNam."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_baohoquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "bảo hộ quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_taisanganlienvoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongthuanhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "không thừa nhận việc đòi lại đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_17_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_17_2024",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_baohoquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_taisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_khongthuanhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "id": "dieu_51_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 51. Giải quyết phát sinh về quy hoạch, kế hoạch sử dụng đất sau khi Luật này có hiệu lực thi hành",
+        "ma_dieu": "51",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 51.\n\nGiải quyết phát sinh về quy hoạch, kế hoạch sử dụng đất sau khi Luật này có hiệu lực\nthi hành\n1. Đối với quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền quyết định, phê\nduyệt trước ngày Luật này có hiệu lực thi hành thì phải rà soát, điều tra bổ sung để điều chỉnh quy\nhoạch, kế hoạch sử dụng đất cho phù hợp với quy định của Luật này khi lập kế hoạch sử dụng đất 05\nnăm (2016 - 2020).\n2. Khi Luật này có hiệu lực thi hành mà quy hoạch, kế hoạch sử dụng đất cấp huyện chưa được cơ quan\nnhà nước có thẩm quyền phê duyệt thì việc thu hồi đất, giao đất, cho thuê đất, công nhận quyền sử\ndụng đất, chuyển mục đích sử dụng đất căn cứ vào kế hoạch sử dụng đất cấp tỉnh và danh mục dự án\nphục vụ phát triển kinh tế - xã hội của cấp huyện do Ủy ban nhân dân cấp huyện tổng hợp trình Ủy ban\nnhân dân cấp tỉnh quyết định.\nViệc phê duyệt quy hoạch, kế hoạch sử dụng đất cấp huyện phải hoàn thành chậm nhất 01 năm kể từ\nngày Luật này có hiệu lực thi hành.\nChương 5.\nGIAO ĐẤT , CHO THUÊ ĐẤT , CHUYỂN MỤC ĐÍCH SỬ DỤNG ĐẤT"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieuchinhquyhoachkehach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "điều chỉnh quy hoạch, kế hoạch"
+      }
+    },
+    {
+      "id": "khainiem_kehachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "công nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_pheduyetquyhoachkehach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "phê duyệt quy hoạch, kế hoạch"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "khainiem_quyhoachkehachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "hanhviphaply_dieuchinhquyhoachkehach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "khainiem_kehachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_51_2013",
+      "target_id": "hanhviphaply_pheduyetquyhoachkehach",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

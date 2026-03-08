@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_184_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 184. Đất rừng sản xuất",
+        "ma_dieu": "184",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 184.\n\nĐất rừng sản xuất\n1. Nhà nước giao đất rừng sản xuất không thu tiền sử dụng đất cho các đối tượng sau đây:\na) Cá nhân trực tiếp sản xuất nông nghiệp thường trú trên địa bàn cấp xã nơi có đất rừng sản xuất là\nrừng trồng đối với diện tích đất trong hạn mức giao đất quy định tại điểm b khoản 3 Điều 176 của Luật about:blank\nnày; đối với phần diện tích đất rừng sản xuất là rừng trồng vượt hạn mức giao đất thì phải chuyển sang\nthuê đất;\nb) Cộng đồng dân cư trên địa bàn cấp xã nơi có đất rừng sản xuất mà có nhu cầu, khả năng bảo vệ,\nphát triển rừng;\nc) Đơn vị thuộc lực lượng vũ trang nhân dân đóng trên địa bàn cấp xã nơi có đất rừng sản xuất mà có\nnhu cầu, khả năng bảo vệ, phát triển rừng;\nd) Ban quản lý rừng đặc dụng, ban quản lý rừng phòng hộ đối với diện tích đất rừng sản xuất xen kẽ\ntrong diện tích đất rừng đặc dụng, đất rừng phòng hộ.\n2. Nhà nước cho tổ chức kinh tế, doanh nghiệp thuộc lực lượng vũ trang nhân dân, cá nhân thuê đất\nrừng sản xuất theo quy định của Luật này .\n3. Người được Nhà nước cho thuê đất rừng sản xuất là rừng tự nhiên không được chuyển nhượng, cho\nthuê lại, thế chấp, góp vốn bằng quyền sử dụng đất và quyền thuê trong hợp đồng thuê đất trả tiền thuê\nđất hằng năm.\n4. Các đối tượng quy định tại khoản 1 và khoản 2 Điều này được xây dựng công trình kết cấu hạ tầng\nphục vụ bảo vệ, phát triển rừng theo quy định của pháp luật về lâm nghiệp.\n5. Nhà nước cho tổ chức kinh tế có vốn đầu tư nước ngoài thuê đất rừng sản xuất để thực hiện dự án\ntrồng rừng sản xuất."
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "chuthe_donvithuoclucluongvutrangnhandan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị thuộc lực lượng vũ trang nhân dân"
+      }
+    },
+    {
+      "id": "chuthe_banquanlyrungdacdung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng đặc dụng"
+      }
+    },
+    {
+      "id": "chuthe_banquanlyrungphongho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng phòng hộ"
+      }
+    },
+    {
+      "id": "chuthe_tochucchinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepthuoclucluongvutrangnhandan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp thuộc lực lượng vũ trang nhân dân"
+      }
+    },
+    {
+      "id": "chuthe_tochucchinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_184_2024",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2024",
+      "target_id": "chuthe_donvithuoclucluongvutrangnhandan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2024",
+      "target_id": "chuthe_banquanlyrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2024",
+      "target_id": "chuthe_banquanlyrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2024",
+      "target_id": "chuthe_tochucchinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2024",
+      "target_id": "chuthe_doanhnghiepthuoclucluongvutrangnhandan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_184_2024",
+      "target_id": "chuthe_tochucchinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

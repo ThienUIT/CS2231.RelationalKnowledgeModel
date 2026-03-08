@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_206_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 206. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp",
+        "ma_dieu": "206",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 206.\n\nĐất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp\n1. Đất thương mại, dịch vụ bao gồm đất xây dựng cơ sở kinh doanh thương mại, dịch vụ và các công\ntrình khác phục vụ cho kinh doanh, thương mại, dịch vụ.\nĐất cơ sở sản xuất phi nông nghiệp bao gồm đất xây dựng các cơ sở sản xuất phi nông nghiệp nằm\nngoài khu công nghiệp, cụm công nghiệp. about:blank\n. Việc sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp phải phù hợp với quy\nhoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn\nđã được cơ quan có thẩm quyền phê duyệt và các quy định về bảo vệ môi trường.\n3. Tổ chức kinh tế, cá nhân sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp thông\nqua hình thức Nhà nước cho thuê đất; nhận chuyển quyền sử dụng đất, thuê đất, thuê lại đất, nhận góp\nvốn bằng quyền sử dụng đất của tổ chức kinh tế, cá nhân khác, người gốc Việt Nam định cư ở nước\nngoài; thuê lại đất gắn với kết cấu hạ tầng của tổ chức kinh tế có vốn đầu tư nước ngoài.\nNgười gốc Việt Nam định cư ở nước ngoài sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi\nnông nghiệp thông qua hình thức Nhà nước cho thuê đất; thuê đất, thuê lại đất của tổ chức kinh tế, cá\nnhân, người gốc Việt Nam định cư ở nước ngoài ; thuê lại đất gắn với kết cấu hạ tầng của tổ chức kinh\ntế có vốn đầu tư nước ngoài. Người gốc Việt Nam định cư ở nước ngoài thuộc đối tượng quy định tại\nkhoản 1 Điều 44 của Luật này  được nhận thừa kế, được tặng cho quyền sử dụng đất để làm mặt bằng\nxây dựng cơ sở thương mại, dịch vụ, cơ sở sản xuất phi nông nghiệp.\nTổ chức kinh tế có vốn đầu tư nước ngoài sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi\nnông nghiệp thông qua hình thức Nhà nước cho thuê đất; thuê đất, thuê lại đất của tổ chức kinh tế,\nngười gốc Việt Nam định cư ở nước ngoài ; thuê lại đất gắn với kết cấu hạ tầng của tổ chức kinh tế có\nvốn đầu tư nước ngoài; nhận góp vốn bằng quyền sử dụng đất của tổ chức kinh tế, tổ chức kinh tế có\nvốn đầu tư nước ngoài khác, người gốc Việt Nam định cư ở nước ngoài."
+      }
+    },
+    {
+      "id": "khainiem_datthuongmaidichvu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất thương mại, dịch vụ"
+      }
+    },
+    {
+      "id": "khainiem_datcososanxuatphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cơ sở sản xuất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdincuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_206_2024",
+      "target_id": "khainiem_datthuongmaidichvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_206_2024",
+      "target_id": "khainiem_datcososanxuatphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_206_2024",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_206_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_206_2024",
+      "target_id": "chuthe_nguoigocvietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_206_2024",
+      "target_id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_163_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 163. Đất sông, ngòi, kênh, rạch, suối và mặt nước chuyên dùng",
+        "ma_dieu": "163",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 163.\n\nĐất sông, ngòi, kênh, rạch, suối và mặt nước chuyên dùng\n1. Căn cứ vào mục đích sử dụng chủ yếu đã xác định, đất sông, ngòi, kênh, rạch, suối và mặt nước\nchuyên dùng được quản lý và sử dụng theo quy định sau đây:\na) Nhà nước giao cho tổ chức để quản lý kết hợp sử dụng, khai thác đất có mặt nước chuyên dùng vào\nmục đích phi nông nghiệp hoặc phi nông nghiệp kết hợp với nuôi trồng và khai thác thủy sản; about:blank\nb) Nhà nước cho thuê đất sông, ngòi, kênh, rạch, suối thu tiền thuê đất hàng năm đối với tổ chức kinh\ntế, hộ gia đình, cá nhân để nuôi trồng thủy sản;\nc) Nhà nước cho thuê đất sông, ngòi, kênh, rạch, suối thu tiền thuê đất hàng năm đối với người Việt\nNam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài để thực hiện dự án đầu tư nuôi\ntrồng thủy sản.\n2. Việc khai thác, sử dụng đất sông, ngòi, kênh, rạch, suối và mặt nước chuyên dùng phải bảo đảm\nkhông ảnh hưởng đến mục đích sử dụng chủ yếu đã được xác định; phải tuân theo quy định về kỹ thuật\ncủa các ngành, lĩnh vực có liên quan và các quy định về bảo vệ cảnh quan, môi trường; không làm cản\ntrở dòng chảy tự nhiên; không gây cản trở giao thông đường thủy ."
+      }
+    },
+    {
+      "id": "khainiem_datsongngoikênhrachsuoivamatnuocchuyendung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sông, ngòi, kênh, rạch, suối và mặt nước chuyên dùng"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_tochucdoanhnghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdincuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_163_2013",
+      "target_id": "khainiem_datsongngoikênhrachsuoivamatnuocchuyendung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2013",
+      "target_id": "chuthe_tochucdoanhnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2013",
+      "target_id": "chuthe_nguoivietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_163_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "entities": [
+    {
+      "id": "dieu_10_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Xác định loại đất",
+        "ma_dieu": "10",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 10.\n\nXác định loại đất\n1. Việc xác định loại đất dựa trên một trong các căn cứ sau đây:\na) Giấy chứng nhận quyền sử dụng đất; Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở;\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; Giấy chứng\nnhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này  đối với trường hợp chưa được\ncấp giấy chứng nhận quy định tại điểm a khoản này;\nc) Quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất của cơ quan nhà nước có\nthẩm quyền đối với trường hợp chưa được cấp giấy chứng nhận quy định tại điểm a khoản này .\n2. Đối với trường hợp không có giấy tờ quy định tại khoản 1 Điều này và trường hợp loại đất xác định\ntrên giấy tờ đã cấp khác với phân loại đất theo quy định của Luật này hoặc khác với hiện trạng sử dụng\nđất thì việc xác định loại đất thực hiện theo quy định của Chính phủ."
+      }
+    },
+    {
+      "id": "khainiem_loainguoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Loại đất"
+      }
+    },
+    {
+      "id": "dieu_11_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Hành vi bị nghiêm cấm trong lĩnh vực đất đai",
+        "ma_dieu": "11",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 1 1. Hành vi bị nghiêm cấm tr ong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu\nvề thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất. about:blank\n. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm\nquyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo\nquy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai."
+      }
+    },
+    {
+      "id": "hanhviphaply_landat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lấn đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chiemdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chiếm đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_huyhoaidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hủy hoại đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_viphamquyphamphapluat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_viphamchinnsach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số"
+      }
+    },
+    {
+      "id": "hanhviphaply_loidungchucvu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongcungcapthongtin",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongngancchanxuly",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongthuchiendung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_sddatkhongdangky",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongthuchiennghiavu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước"
+      }
+    },
+    {
+      "id": "hanhviphaply_cantrogaykhokhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật"
+      }
+    },
+    {
+      "id": "hanhviphaply_phânbietdoixu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phân biệt đối xử về giới trong quản lý, sử dụng đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_10_2024",
+      "target_id": "khainiem_loainguoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_landat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_chiemdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_huyhoaidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_viphamquyphamphapluat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_viphamchinnsach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_loidungchucvu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_khongcungcapthongtin",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_khongngancchanxuly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_khongthuchiendung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_sddatkhongdangky",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_khongthuchiennghiavu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_cantrogaykhokhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_11_2024",
+      "target_id": "hanhviphaply_phânbietdoixu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

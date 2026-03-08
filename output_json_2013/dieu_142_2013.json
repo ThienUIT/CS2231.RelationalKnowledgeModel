@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_142_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 142. Đất sử dụng cho kinh tế trang trại",
+        "ma_dieu": "142",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 142.\n\nĐất sử dụng cho kinh tế trang trại\n1. Nhà nước khuyến khích hình thức kinh tế trang trại của hộ gia đình, cá nhân nhằm khai thác có hiệu\nquả đất đai để phát triển sản xuất, mở rộng quy mô và nâng cao hiệu quả sử dụng đất trong sản xuất\nnông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối gắn với dịch vụ, chế biến và tiêu thụ sản phẩm\nnông nghiệp.\n2. Đất sử dụng cho kinh tế trang trại gồm đất được Nhà nước giao không thu tiền sử dụng đất trong\nhạn mức giao đất cho hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy\nsản, làm muối quy định tại  Điều 129 của Luật này ; đất do Nhà nước cho thuê; đất do thuê, nhận chuyển\nnhượng, nhận thừa kế, được tặng cho; đất do nhận khoán của tổ chức; đất do hộ gia đình, cá nhân góp.\n3. Hộ gia đình, cá nhân sử dụng đất làm kinh tế trang trại được chuyển đổi mục đích sử dụng các loại\nđất theo quy định của pháp luật.\n4. Hộ gia đình, cá nhân đang sử dụng đất làm kinh tế trang trại phù hợp quy hoạch, kế hoạch sử dụng\nđất đã được cơ quan nhà nước có thẩm quyền phê duyệt, không có tranh chấp thì được tiếp tục sử dụng\ntheo quy định sau đây:\na) Trường hợp đất được giao không thu tiền sử dụng đất trong hạn mức cho hộ gia đình, cá nhân trực\ntiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối quy định tại  khoản 1 Điều 54 của\nLuật này  thì được tiếp tục sử dụng theo quy định tại  khoản 1 Điều 126 của Luật này ;\nb) Trường hợp đất được giao không thu tiền sử dụng đất cho hộ gia đình, cá nhân không trực tiếp sản\nxuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối khi hết thời hạn được giao thì phải\nchuyển sang thuê đất; about:blank\nc) Trường hợp sử dụng đất do được Nhà nước cho thuê, nhận chuyển nhượng, được thừa kế, được tặng\ncho, nhận khoán của tổ chức; do hộ gia đình, cá nhân góp vốn thì được tiếp tục sử dụng theo quy định\ncủa Luật này .\n5. Nghiêm cấm việc lợi dụng hình thức kinh tế trang trại để bao chiếm, tích tụ đất đai không vì mục\nđích sản xuất.\nMỤC 3. ĐẤT  PHI NÔNG NGHIỆP"
+      }
+    },
+    {
+      "id": "khainiem_datkinhtetrangtrai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho kinh tế trang trại"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "dieukien_quyhoachkesoachdatsudung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_khongcotranhchap",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không có tranh chấp"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_142_2013",
+      "target_id": "khainiem_datkinhtetrangtrai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_142_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_142_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_142_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_142_2013",
+      "target_id": "dieukien_quyhoachkesoachdatsudung",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_142_2013",
+      "target_id": "dieukien_khongcotranhchap",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "entities": [
+    {
+      "id": "dieu_138_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 138. Đất làm muối",
+        "ma_dieu": "138",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 138.\n\nĐất làm muối\n1. Đất làm muối được Nhà nước giao cho hộ gia đình, cá nhân trong hạn mức giao đất tại địa phương\nđể sản xuất muối. Trường hợp sử dụng vượt hạn mức thì phải chuyển sang thuê đất.\nĐất làm muối được Nhà nước cho thuê đối với tổ chức kinh tế, người Việt Nam định cư ở nước ngoài,\ndoanh nghiệp có vốn đầu tư nước ngoài để thực hiện dự án đầu tư sản xuất muối.\n2. Những vùng đất làm muối có năng suất, chất lượng cao phải được bảo vệ và ưu tiên cho việc sản\nxuất muối.\n3. Nhà nước khuyến khích việc sử dụng những vùng đất có khả năng làm muối để sản xuất muối phục\nvụ cho nhu cầu công nghiệp và đời sống."
+      }
+    },
+    {
+      "id": "khainiem_datlammuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất làm muối"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhvi_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_hanmucgiaodat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hạn mức giao đất"
+      }
+    },
+    {
+      "id": "hanhvi_sanxuatmuoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sản xuất muối"
+      }
+    },
+    {
+      "id": "hanhvi_chuesangthuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển sang thuê đất"
+      }
+    },
+    {
+      "id": "hanhvi_thuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_tochickinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "khainiem_dautusanxuatmuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án đầu tư sản xuất muối"
+      }
+    },
+    {
+      "id": "khainiem_vungdatlammuoiconangsuatchatluongcao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Vùng đất làm muối có năng suất, chất lượng cao"
+      }
+    },
+    {
+      "id": "hanhvi_baove",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo vệ"
+      }
+    },
+    {
+      "id": "hanhvi_uutiensanxuatmuoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Ưu tiên cho việc sản xuất muối"
+      }
+    },
+    {
+      "id": "hanhvi_khuyenkhich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khuyến khích"
+      }
+    },
+    {
+      "id": "khainiem_vungdatcokhananglammuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Vùng đất có khả năng làm muối"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "khainiem_datlammuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "hanhvi_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhvi_giaodat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhvi_giaodat",
+      "target_id": "khainiem_hanmucgiaodat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhvi_giaodat",
+      "target_id": "hanhvi_sanxuatmuoi",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhvi_sanxuatmuoi",
+      "target_id": "hanhvi_chuesangthuedat",
+      "relationship_type": "DAN_DEN"
+    },
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "hanhvi_thuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhvi_thuedat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "chuthe_tochickinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhvi_thuedat",
+      "target_id": "khainiem_dautusanxuatmuoi",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "khainiem_vungdatlammuoiconangsuatchatluongcao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhvi_baove",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhvi_uutiensanxuatmuoi",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_138_2013",
+      "target_id": "hanhvi_khuyenkhich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhvi_khuyenkhich",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhvi_khuyenkhich",
+      "target_id": "khainiem_vungdatcokhananglammuoi",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhvi_khuyenkhich",
+      "target_id": "hanhvi_sanxuatmuoi",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

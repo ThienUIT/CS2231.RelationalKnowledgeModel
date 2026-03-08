@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_84_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 84. Hỗ trợ đào tạo, chuyển đổi nghề, tìm kiếm việc làm cho hộ gia đình, cá nhân khi Nhà nước thu hồi đất",
+        "ma_dieu": "84",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 84.\n\nHỗ trợ đào tạo, chuyển đổi nghề, tìm kiếm việc làm cho hộ gia đình, cá nhân khi Nhà\nnước thu hồi đất\n1. Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp, khi Nhà nước thu hồi đất nông nghiệp mà\nkhông có đất nông nghiệp để bồi thường thì ngoài việc được bồi thường bằng tiền còn được hỗ trợ đào\ntạo, chuyển đổi nghề, tìm kiếm việc làm.\nTrường hợp người được hỗ trợ đào tạo chuyển đổi nghề, tìm kiếm việc làm trong độ tuổi lao động có\nnhu cầu được đào tạo nghề thì được nhận vào các cơ sở đào tạo nghề; được tư vấn hỗ trợ tìm kiếm\nviệc làm, vay vốn tín dụng ưu đãi để phát triển sản xuất, kinh doanh. about:blank\n. Đối với hộ gia đình, cá nhân sử dụng đất ở kết hợp kinh doanh dịch vụ mà nguồn thu nhập chính là\ntừ hoạt động kinh doanh dịch vụ, khi Nhà nước thu hồi đất mà phải di chuyển chỗ ở thì được vay vốn\ntín dụng ưu đãi để phát triển sản xuất, kinh doanh; trường hợp người có đất thu hồi còn trong độ tuổi\nlao động thì được hỗ trợ đào tạo, chuyển đổi nghề, tìm kiếm việc làm.\n3. Căn cứ vào kế hoạch sử dụng đất hàng năm của cấp huyện, Ủy ban nhân dân cấp tỉnh, Ủy ban nhân\ndân cấp huyện có trách nhiệm tổ chức lập và thực hiện phương án đào tạo, chuyển đổi nghề, hỗ trợ tìm\nkiếm việc làm cho người có đất thu hồi là đất nông nghiệp, đất ở kết hợp kinh doanh dịch vụ. Phương\nán đào tạo, chuyển đổi nghề, hỗ trợ tìm kiếm việc làm được lập và phê duyệt đồng thời với phương án\nbồi thường, hỗ trợ, tái định cư.\nTrong quá trình lập phương án đào tạo, chuyển đổi nghề, hỗ trợ tìm kiếm việc làm, Ủy ban nhân dân\ncấp tỉnh, Ủy ban nhân dân cấp huyện phải tổ chức lấy ý kiến và có trách nhiệm tiếp thu, giải trình ý\nkiến của người có đất thu hồi."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_daotaochenghie",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đào tạo, chuyển đổi nghề"
+      }
+    },
+    {
+      "id": "hanhviphaply_timkiemvieclam",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tìm kiếm việc làm"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_84_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2013",
+      "target_id": "hanhviphaply_daotaochenghie",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_84_2013",
+      "target_id": "hanhviphaply_timkiemvieclam",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_61_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 61. Thu hồi đất vì mục đích quốc phòng, an ninh",
+        "ma_dieu": "61",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 61.\n\nThu hồi đất vì mục đích quốc phòng, an ninh\nNhà nước thu hồi đất vì mục đích quốc phòng, an ninh trong các trường hợp sau đây:\n1. Làm nơi đóng quân, trụ sở làm việc;\n2. Xây dựng căn cứ quân sự;\n3. Xây dựng công trình phòng thủ quốc gia, trận địa và công trình đặc biệt về quốc phòng, an ninh;\n4. Xây dựng ga, cảng quân sự; about:blank\n. Xây dựng công trình công nghiệp, khoa học và công nghệ, văn hóa, thể thao phục vụ trực tiếp cho\nquốc phòng, an ninh;\n6. Xây dựng kho tàng của lực lượng vũ trang nhân dân;\n7. Làm trường bắn, thao trường, bãi thử vũ khí, bãi hủy vũ khí;\n8. Xây dựng cơ sở đào tạo, trung tâm huấn luyện, bệnh viện, nhà an dưỡng của lực lượng vũ trang nhân\ndân;\n9. Xây dựng nhà công vụ của lực lượng vũ trang nhân dân;\n10. Xây dựng cơ sở giam giữ, cơ sở giáo dục do Bộ Quốc phòng, Bộ Công an quản lý."
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_mucdichquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Mục đích quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_61_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_61_2013",
+      "target_id": "khainiem_mucdichquocphonganinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

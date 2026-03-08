@@ -1,0 +1,124 @@
+{
+  "entities": [
+    {
+      "id": "dieu_165_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 165. Cơ sở dữ liệu quốc gia về đất đai",
+        "ma_dieu": "165",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 165.\n\nCơ sở dữ liệu quốc gia về đất đai\n1. Cơ sở dữ liệu quốc gia về đất đai bao gồm các thành phần sau đây:\na) Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai;\nb) Cơ sở dữ liệu địa chính;\nc) Cơ sở dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất;\nd) Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất;\nđ) Cơ sở dữ liệu giá đất;\ne) Cơ sở dữ liệu thống kê, kiểm kê đất đai;\ng) Cơ sở dữ liệu về thanh tra, kiểm tra, tiếp công dân, giải quyết tranh chấp, khiếu nại, tố cáo về đất\nđai;\nh) Cơ sở dữ liệu khác liên quan đến đất đai. about:blank\n. Cơ sở dữ liệu quốc gia về đất đai được xây dựng đồng bộ, thống nhất theo tiêu chuẩn, quy chuẩn\nquốc gia trong phạm vi cả nước.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về nội dung, cấu trúc và kiểu thông tin cơ sở dữ\nliệu quốc gia về đất đai."
+      }
+    },
+    {
+      "id": "khainiem_cosodulieudatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_vanbanquyphamphapluat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Văn bản quy phạm pháp luật"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieudiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu địa chính"
+      }
+    },
+    {
+      "id": "khainiem_dieutradanhgiabaove",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_giadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giá đất"
+      }
+    },
+    {
+      "id": "khainiem_thongkekiemkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thống kê, kiểm kê đất đai"
+      }
+    },
+    {
+      "id": "khainiem_thanhtrakientratiepcongdan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thanh tra, kiểm tra, tiếp công dân, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_botruongbotainguon",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_165_2024",
+      "target_id": "khainiem_cosodulieudatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_165_2024",
+      "target_id": "khainiem_vanbanquyphamphapluat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_165_2024",
+      "target_id": "khainiem_cosodulieudiachinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_165_2024",
+      "target_id": "khainiem_dieutradanhgiabaove",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_165_2024",
+      "target_id": "khainiem_quyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_165_2024",
+      "target_id": "khainiem_giadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_165_2024",
+      "target_id": "khainiem_thongkekiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_165_2024",
+      "target_id": "khainiem_thanhtrakientratiepcongdan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_165_2024",
+      "target_id": "chuthe_botruongbotainguon",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

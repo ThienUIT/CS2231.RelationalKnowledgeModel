@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "id": "dieu_190_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 190. Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp",
+        "ma_dieu": "190",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 190.\n\nĐiều kiện chuyển đổi quyền sử dụng đất nông nghiệp\nHộ gia đình, cá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển\nnhượng, nhận thừa kế, được tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển\nđổi quyền sử dụng đất nông nghiệp trong cùng xã, phường, thị trấn cho hộ gia đình, cá nhân khác để about:blank\nthuận lợi cho sản xuất nông nghiệp và không phải nộp thuế thu nhập từ việc chuyển đổi quyền sử dụng\nđất và lệ phí trước bạ."
+      }
+    },
+    {
+      "id": "dieukien_chuyendoiquyensudungdatnongnghiep",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển đổi quyền sử dụng đất nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_190_2013",
+      "target_id": "dieukien_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_190_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_190_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_190_2013",
+      "target_id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

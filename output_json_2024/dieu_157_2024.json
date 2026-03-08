@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_157_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 157. Miễn, giảm tiền sử dụng đất, tiền thuê đất",
+        "ma_dieu": "157",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 157.\n\nMiễn, giảm tiền sử dụng đất, tiền thuê đất\n1. Việc miễn, giảm tiền sử dụng đất, tiền thuê đất được thực hiện trong các trường hợp sau đây:\na) Sử dụng đất vào mục đích sản xuất, kinh doanh thuộc lĩnh vực ưu đãi đầu tư hoặc tại địa bàn ưu đãi\nđầu tư theo quy định của pháp luật về đầu tư và pháp luật có liên quan, trừ trường hợp sử dụng đất xây\ndựng nhà ở thương mại, sử dụng đất thương mại, dịch vụ;\nb) Sử dụng đất để thực hiện chính sách nhà ở, đất ở đối với người có công với cách mạng, thương binh\nhoặc bệnh binh không có khả năng lao động, hộ gia đình liệt sĩ không còn lao động chính, người nghèo;\nsử dụng đất để thực hiện dự án đầu tư xây dựng nhà ở xã hội, nhà lưu trú công nhân trong khu công\nnghiệp, nhà ở cho lực lượng vũ trang nhân dân, cải tạo, xây dựng lại nhà chung cư theo quy định của\npháp luật về nhà ở; đất ở cho người phải di dời khi Nhà nước thu hồi đất do có nguy cơ đe dọa tính\nmạng con người; đất ở cho các đối tượng quy định tại điểm a và điểm b khoản 3 Điều 124 của Luật này\nđang công tác tại các xã biên giới, hải đảo hoặc huyện đảo không có đơn vị hành chính cấp xã thuộc\nvùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.\nc) Đồng bào dân tộc thiểu số sử dụng đất được miễn, giảm tiền sử dụng đất, tiền thuê đất theo quy\nđịnh của Chính phủ;\nd) Sử dụng đất của đơn vị sự nghiệp công lập theo quy định tại điểm c khoản 3 Điều 120 của Luật này ;\nđ) Sử dụng đất xây dựng kết cấu hạ tầng cảng hàng không, sân bay; đất xây dựng cơ sở, công trình\ncung cấp dịch vụ hàng không; đất để làm bãi đỗ xe, xưởng bảo dưỡng phục vụ hoạt động vận tải hành\nkhách công cộng; đất xây dựng công trình trên mặt đất phục vụ cho việc vận hành, khai thác sử dụng\ncông trình ngầm;\ne) Sử dụng đất xây dựng kết cấu hạ tầng đường sắt chuyên dùng; đất xây dựng công trình công nghiệp\nđường sắt; đất xây dựng công trình phụ trợ khác trực tiếp phục vụ công tác chạy tàu, đón tiễn hành\nkhách, xếp dỡ hàng hóa của đường sắt;\ng) Sử dụng đất để thực hiện dự án đầu tư theo phương thức đối tác công tư;\nh) Sử dụng đất làm mặt bằng xây dựng trụ sở, sân phơi, nhà kho, nhà xưởng sản xuất; xây dựng cơ sở\ndịch vụ trực tiếp phục vụ sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối của hợp tác\nxã, liên hiệp hợp tác xã;\ni) Sử dụng đất xây dựng công trình cấp nước sạch và thoát nước, xử lý nước thải tại khu vực đô thị và\nnông thôn;\nk) Sử dụng đất không phải đất quốc phòng, an ninh cho mục đích quốc phòng, an ninh của doanh\nnghiệp quân đội, công an;\nl) Giao đất ở đối với hộ gia đình, cá nhân khi Nhà nước thu hồi đất gắn liền với nhà ở phải di chuyển\nchỗ ở mà không đủ điều kiện được bồi thường về đất ở và không có chỗ ở nào khác trong địa bàn đơn\nvị hành chính cấp xã nơi có đất thu hồi;\n2. Chính phủ quy định các trường hợp khác được miễn, giảm tiền sử dụng đất, tiền thuê đất chưa được\nquy định tại khoản 1 Điều này sau khi được sự đồng ý của Ủy ban Thường vụ Quốc hội.\n3. Đối với trường hợp được miễn tiền sử dụng đất, tiền thuê đất thì không phải thực hiện thủ tục xác\nđịnh giá đất, tính tiền sử dụng đất, tiền thuê đất được miễn. Người sử dụng đất được miễn tiền sử\ndụng đất, tiền thuê đất không phải thực hiện thủ tục đề nghị miễn tiền sử dụng đất, tiền thuê đất.\n4. Chính phủ quy định chi tiết Điều này . about:blank\nMục 2. GIÁ ĐẤT"
+      }
+    },
+    {
+      "id": "hanhviphaply_mien_giam_tien_su_dung_dat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Miễn, giảm tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thue_dat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoicocongvoicachmang",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có công với cách mạng"
+      }
+    },
+    {
+      "id": "chuthe_thuongbinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thương binh"
+      }
+    },
+    {
+      "id": "chuthe_benhbinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bệnh binh"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinhlietsi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình liệt sĩ"
+      }
+    },
+    {
+      "id": "chuthe_nguoingheo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người nghèo"
+      }
+    },
+    {
+      "id": "chuthe_dongbaodantoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đồng bào dân tộc thiểu số"
+      }
+    },
+    {
+      "id": "chuthe_donvisungiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "hanhviphaply_mien_giam_tien_su_dung_dat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "hanhviphaply_thue_dat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "chuthe_nguoicocongvoicachmang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "chuthe_thuongbinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "chuthe_benhbinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "chuthe_hogiadinhlietsi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "chuthe_nguoingheo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "chuthe_dongbaodantoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "chuthe_donvisungiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_157_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

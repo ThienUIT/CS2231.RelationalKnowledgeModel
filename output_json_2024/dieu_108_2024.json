@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_108_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 108. Hỗ trợ khi Nhà nước thu hồi đất",
+        "ma_dieu": "108",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 108.\n\nHỗ trợ khi Nhà nước thu hồi đất\n1. Hỗ trợ khi Nhà nước thu hồi đất bao gồm:\na) Hỗ trợ ổn định đời sống;\nb) Hỗ trợ ổn định sản xuất, kinh doanh;\nc) Hỗ trợ di dời vật nuôi;\nd) Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm;\nđ) Hỗ trợ tái định cư đối với trường hợp quy định tại khoản 8 Điều 111 của Luật này ;\ne) Hỗ trợ để tháo dỡ, phá dỡ, di dời theo quy định tại khoản 3 Điều 105 của Luật này .\n2. Ngoài việc hỗ trợ quy định tại khoản 1 Điều này , căn cứ vào tình hình thực tế tại địa phương, Ủy ban\nnhân dân cấp tỉnh quyết định biện pháp, mức hỗ trợ khác để bảo đảm có chỗ ở, ổn định đời sống, sản\nxuất đối với người có đất thu hồi, chủ sở hữu tài sản cho từng dự án cụ thể.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_hotrokhiNhannuocthuhoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hỗ trợ khi Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_hotroondinhdoisong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hỗ trợ ổn định đời sống"
+      }
+    },
+    {
+      "id": "hanhviphaply_hotroondinhsanxuatkinhdoanh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hỗ trợ ổn định sản xuất, kinh doanh"
+      }
+    },
+    {
+      "id": "hanhviphaply_hotrodidoivatnuoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hỗ trợ di dời vật nuôi"
+      }
+    },
+    {
+      "id": "hanhviphaply_hotrodaotaochuyendoingevatimkiemvieclam",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm"
+      }
+    },
+    {
+      "id": "hanhviphaply_hotrotaidinhcu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hỗ trợ tái định cư"
+      }
+    },
+    {
+      "id": "hanhviphaply_hotrothaodoPhadoDoidoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hỗ trợ để tháo dỡ, phá dỡ, di dời"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_108_2024",
+      "target_id": "khainiem_hotrokhiNhannuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotroondinhdoisong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotroondinhsanxuatkinhdoanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotrodidoivatnuoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotrodaotaochuyendoingevatimkiemvieclam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotrotaidinhcu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotrothaodoPhadoDoidoi",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

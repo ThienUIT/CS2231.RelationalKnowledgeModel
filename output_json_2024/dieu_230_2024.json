@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_230_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 230. Giám sát của Quốc hội, Mặt trận Tổ quốc Việt Nam, Hội đồng nhân dân các cấp đối với việc quản lý, sử dụng đất đai",
+        "ma_dieu": "230",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 230.\n\nGiám sát của Quốc hội, Mặt trận Tổ quốc Việt Nam, Hội đồng nhân dân các cấp đối\nvới việc quản lý, sử dụng đất đai\nQuốc hội, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, Hội đồng nhân dân các\ncấp thực hiện quyền giám sát đối với việc quản lý, sử dụng đất đai theo quy định của Hiến pháp , Luật\nHoạt động giám sát của Quốc hội và Hội đồng nhân dân , Luật Mặt trận Tổ quốc Việt Nam  và Luật Tổ\nchức chính quyền địa phương ."
+      }
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
+    },
+    {
+      "id": "chuthe_mattrotoquocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Mặt trận Tổ quốc Việt Nam"
+      }
+    },
+    {
+      "id": "chuthe_hoidongnhandancaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân các cấp"
+      }
+    },
+    {
+      "id": "hanhviphaply_giamsatviecquanlysudungdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giám sát đối với việc quản lý, sử dụng đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_230_2024",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_230_2024",
+      "target_id": "chuthe_mattrotoquocvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_230_2024",
+      "target_id": "chuthe_hoidongnhandancaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_230_2024",
+      "target_id": "hanhviphaply_giamsatviecquanlysudungdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

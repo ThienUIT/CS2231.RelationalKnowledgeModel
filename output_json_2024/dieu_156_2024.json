@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_156_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 156. Nộp tiền sử dụng đất, tiền thuê đất khi chuyển mục đích sử dụng đất, gia hạn sử dụng đất, điều chỉnh thời hạn sử dụng đất",
+        "ma_dieu": "156",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 156.\n\nNộp tiền sử dụng đất, tiền thuê đất khi chuyển mục đích sử dụng đất, gia hạn sử dụng\nđất, điều chỉnh thời hạn sử dụng đất\n1. Khi chuyển mục đích sử dụng đất quy định tại các điểm b, c, d, đ, e và g khoản 1 Điều 121 của Luật\nnày thì người sử dụng đất phải nộp tiền sử dụng đất, tiền thuê đất theo quy định sau đây:\na) Nộp tiền sử dụng đất, tiền thuê đất trả một lần cho cả thời gian thuê bằng mức chênh lệch giữa tiền\nsử dụng đất, tiền thuê đất của loại đất sau khi chuyển mục đích sử dụng đất và tiền sử dụng đất, tiền\nthuê đất của loại đất trước khi chuyển mục đích sử dụng đất cho thời gian sử dụng đất còn lại;\nb) Nộp tiền thuê đất hằng năm theo loại đất sau khi chuyển mục đích sử dụng đất.\n2. Khi được gia hạn sử dụng đất, điều chỉnh thời hạn sử dụng đất mà người sử dụng đất thuộc đối\ntượng nộp tiền sử dụng đất, tiền thuê đất thì phải nộp tiền sử dụng đất, tiền thuê đất đối với thời gian about:blank\nđược gia hạn, được điều chỉnh.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_noptiensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nộp tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_nopthuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nộp tiền thuê đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_giahansudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Gia hạn sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều chỉnh thời hạn sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_156_2024",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_156_2024",
+      "target_id": "hanhviphaply_noptiensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_156_2024",
+      "target_id": "hanhviphaply_nopthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_156_2024",
+      "target_id": "hanhviphaply_giahansudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_156_2024",
+      "target_id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

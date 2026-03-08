@@ -1,0 +1,15 @@
+Điều 121.
+
+Cơ sở dữ liệu đất đai quốc gia
+1. Cơ sở dữ liệu đất đai quốc gia được xây dựng thống nhất trong phạm vi cả nước.
+2. Cơ sở dữ liệu đất đai quốc gia gồm các thành phần:
+a) Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai;
+b) Cơ sở dữ liệu địa chính;
+c) Cơ sở dữ liệu điều tra cơ bản về đất đai;
+d) Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất;
+đ) Cơ sở dữ liệu giá đất;
+e) Cơ sở dữ liệu thống kê, kiểm kê đất đai;
+g) Cơ sở dữ liệu về thanh tra, kiểm tra, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai;
+h) Cơ sở dữ liệu khác liên quan đến đất đai.
+3. Nội dung, cấu trúc và kiểu thông tin cơ sở dữ liệu đất đai được thực hiện theo quy định của Bộ
+trưởng Bộ Tài nguyên và Môi trường.

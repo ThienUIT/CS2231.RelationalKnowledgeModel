@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_180_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 180",
+        "ma_dieu": "180",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 180.\n\nQuyền và nghĩa vụ của hộ gia đình, cá nhân chuyển mục đích sử dụng đất từ loại đất\nkhông thu tiền sử dụng đất sang loại đất có thu tiền sử dụng đất hoặc thuê đất about:blank\n. Hộ gia đình, cá nhân chuyển mục đích sử dụng đất từ loại đất không thu tiền sử dụng đất sang loại\nđất có thu tiền sử dụng đất hoặc thuê đất có quyền và nghĩa vụ chung quy định tại  Điều 166 và Điều\n170 của Luật này .\n2. Quyền và nghĩa vụ của hộ gia đình, cá nhân sử dụng đất được cơ quan nhà nước có thẩm quyền cho\nphép chuyển mục đích sử dụng đất từ đất không thu tiền sử dụng đất sang đất có thu tiền sử dụng đất\nhoặc thuê đất được quy định như sau:\na) Trường hợp được Nhà nước giao đất có thu tiền sử dụng đất hoặc thuê đất thu tiền thuê đất một lần\ncho cả thời gian thuê thì có quyền và nghĩa vụ quy định tại  khoản 1 Điều 179 của Luật này ;\nb) Trường hợp được Nhà nước cho thuê đất thu tiền thuê đất hàng năm thì có quyền và nghĩa vụ quy\nđịnh tại  khoản 2 Điều 179 của Luật này ."
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_datkhongthutien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "đất không thu tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_datcothutien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "đất có thu tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_thuedat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "thuê đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_180_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_180_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "target_id": "dieukien_datkhongthutien",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "target_id": "dieukien_datcothutien",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "target_id": "dieukien_thuedat",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

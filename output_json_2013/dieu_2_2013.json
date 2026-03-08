@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "id": "dieu_2_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 2",
+        "ma_dieu": "2",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 2.\n\nĐối tượng áp dụng\n1. Cơ quan nhà nước thực hiện quyền hạn và trách nhiệm đại diện chủ sở hữu toàn dân về đất đai, thực\nhiện nhiệm vụ thống nhất quản lý nhà nước về đất đai.\n2. Người sử dụng đất.\n3. Các đối tượng khác có liên quan đến việc quản lý, sử dụng đất."
+      }
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_doituongkhac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Các đối tượng khác"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_2_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_2_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_2_2013",
+      "target_id": "khainiem_doituongkhac",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

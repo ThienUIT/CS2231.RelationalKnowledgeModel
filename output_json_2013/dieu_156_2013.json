@@ -1,0 +1,112 @@
+{
+  "entities": [
+    {
+      "id": "dieu_156_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 156. Đất cảng hàng không, sân bay dân dụng",
+        "ma_dieu": "156",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 156.\n\nĐất cảng hàng không, sân bay dân dụng\n1. Đất phục vụ cho hoạt động hàng không dân dụng tại cảng hàng không, sân bay bao gồm:\na) Đất xây dựng trụ sở các cơ quan quản lý nhà nước hoạt động thường xuyên tại cảng hàng không, sân\nbay;\nb) Đất xây dựng các hạng mục thuộc kết cấu hạ tầng cảng hàng không, sân bay gồm đất để xây dựng\nđường cất hạ cánh, đường lăn, sân đỗ tàu bay , cơ sở bảo đảm hoạt động bay , bảo đảm an ninh hàng\nkhông, khẩn nguy sân bay , hàng rào, đường công vụ, đường giao thông nội cảng và các công trình, khu\nphụ trợ khác của sân bay;\nc) Đất xây dựng cơ sở, công trình phục vụ kinh doanh dịch vụ hàng không tại cảng hàng không, sân\nbay;\nd) Đất xây dựng công trình phục vụ kinh doanh dịch vụ phi hàng không.\n2. Cảng vụ hàng không được Ủy ban nhân dân cấp tỉnh giao đất theo quy hoạch, kế hoạch sử dụng đất\nvà quy hoạch cảng hàng không, sân bay đã được cơ quan nhà nước có thẩm quyền phê duyệt. Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất phục vụ hoạt động\nhàng không dân dụng tại cảng hàng không, sân bay được cấp cho Cảng vụ hàng không.\n3. Căn cứ vào quy hoạch, kế hoạch sử dụng đất được cơ quan quản lý nhà nước về hàng không dân\ndụng phê duyệt, Cảng vụ hàng không giao đất không thu tiền sử dụng đất, cho thuê đất theo quy định\nsau đây:\na) Giao đất không thu tiền sử dụng đất đối với đất quy định tại điểm a và điểm b khoản 1 Điều này;\nb) Cho thuê đất trả tiền thuê đất hàng năm đối với đất quy định tại điểm c và điểm d khoản 1 Điều này .\nViệc tính tiền thuê đất và thu tiền thuê đất được thực hiện theo quy định của Luật này .\n4. Tổ chức, cá nhân sử dụng đất tại cảng hàng không, sân bay có các quyền và nghĩa vụ sau đây:\na) Sử dụng đất đúng mục đích; không được chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử\ndụng đất, thế chấp, góp vốn bằng quyền sử dụng đất;\nb) Được dùng tài sản thuộc sở hữu của mình gắn liền với đất thuê để thế chấp tại tổ chức tín dụng\nđược phép hoạt động tại Việt Nam; được bán, cho thuê tài sản, góp vốn bằng tài sản thuộc sở hữu của\nmình gắn liền với đất thuê.\n5. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datcanghangkhongsanbay",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cảng hàng không, sân bay dân dụng"
+      }
+    },
+    {
+      "id": "chuthe_cangvuhangkhong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cảng vụ hàng không"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "dieukien_quyhoachkehoach",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất và quy hoạch cảng hàng không, sân bay đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      }
+    },
+    {
+      "id": "khainiem_quyenquyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_156_2013",
+      "target_id": "khainiem_datcanghangkhongsanbay",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_156_2013",
+      "target_id": "chuthe_cangvuhangkhong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_156_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_156_2013",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_156_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_156_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_cangvuhangkhong",
+      "target_id": "dieukien_quyhoachkehoach",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_156_2013",
+      "target_id": "khainiem_quyenquyen",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

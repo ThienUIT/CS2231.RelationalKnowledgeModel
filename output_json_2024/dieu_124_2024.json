@@ -1,0 +1,400 @@
+{
+  "entities": [
+    {
+      "id": "dieu_124_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 124. Các trường hợp giao đất, cho thuê đất không đấu giá quyền sử dụng đất, không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất",
+        "ma_dieu": "124",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 124.\n\nCác trường hợp giao đất, cho thuê đất không đấu giá quyền sử dụng đất, không đấu\nthầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất\n1. Giao đất không thu tiền sử dụng đất quy định tại Điều 1 18 của Luật này , giao đất có thu tiền sử dụng\nđất quy định tại Điều 1 19 mà được miễn tiền sử dụng đất, cho thuê đất quy định tại Điều 120  mà được\nmiễn tiền thuê đất, trừ trường hợp pháp luật quản lý ngành, lĩnh vực quy định phải xác định số lượng\nnhà đầu tư quan tâm.\n2. Giao đất, cho thuê đất để thực hiện các dự án thuộc trường hợp Nhà nước thu hồi đất quy định tại\nĐiều 79 của Luật này  mà thuộc một trong các trường hợp sau đây:\na) Sử dụng vốn đầu tư công theo quy định của pháp luật về đầu tư công;\nb) Dự án đầu tư theo phương thức đối tác công tư theo quy định của pháp luật về đầu tư theo phương\nthức đối tác công tư.\n3. Giao đất có thu tiền sử dụng đất, cho thuê đất trong các trường hợp sau đây:\na) Giao đất ở cho cán bộ, công chức, viên chức, sĩ quan tại ngũ, quân nhân chuyên nghiệp, công chức\nquốc phòng, công nhân và viên chức quốc phòng, sĩ quan, hạ sĩ quan, công nhân công an, người làm\ncông tác cơ yếu và người làm công tác khác trong tổ chức cơ yếu hưởng lương từ ngân sách nhà nước\nmà chưa được giao đất ở, nhà ở;\nb) Giao đất ở cho cá nhân là giáo viên, nhân viên y tế đang công tác tại các xã biên giới, hải đảo thuộc\nvùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn nhưng\nchưa có đất ở, nhà ở tại nơi công tác hoặc chưa được hưởng chính sách hỗ trợ về nhà ở theo quy định\ncủa pháp luật về nhà ở;\nc) Giao đất ở cho cá nhân thường trú tại xã mà không có đất ở và chưa được Nhà nước giao đất ở hoặc\nchưa được hưởng chính sách hỗ trợ về nhà ở theo quy định của pháp luật về nhà ở;\nd) Giao đất ở cho cá nhân thường trú tại thị trấn thuộc vùng có điều kiện kinh tế - xã hội khó khăn,\nvùng có điều kiện kinh tế - xã hội đặc biệt khó khăn mà không có đất ở và chưa được Nhà nước giao\nđất ở;\nđ) Cho thuê đất làm mặt bằng sản xuất, kinh doanh đối với người được Nhà nước cho thuê đất thu tiền\nthuê đất hằng năm nhưng phải di dời ra khỏi vị trí cũ do ô nhiễm môi trường theo quy định của pháp about:blank\nluật; hỗ trợ cho thuê đất để tiếp tục sản xuất, kinh doanh đối với trường hợp thu hồi đất cơ sở sản xuất\nphi nông nghiệp của người đang sử dụng;\ne) Cho thuê đất đối với cá nhân có nhu cầu sử dụng diện tích đất nông nghiệp vượt hạn mức được giao\nquy định tại  Điều 176 của Luật này ; cho thuê đất đối với cá nhân là người dân tộc thiểu số theo quy\nđịnh tại  điểm d khoản 2 và điểm b khoản 3 Điều 16 của Luật này ;\ng) Cho thuê đất đối với đơn vị sự nghiệp công lập lựa chọn hình thức thuê đất;\nh) Cho thuê đất đối với tổ chức nước ngoài có chức năng ngoại giao sử dụng đất để xây dựng trụ sở\nlàm việc;\ni) Cho thuê đất đối với đơn vị vũ trang nhân dân sử dụng đất để sản xuất nông nghiệp, lâm nghiệp, nuôi\ntrồng thủy sản, làm muối hoặc sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối kết\nhợp với nhiệm vụ quốc phòng, an ninh;\nk) Cho thuê đất sử dụng vào mục đích hoạt động khoáng sản đối với trường hợp đã được cơ quan nhà\nnước có thẩm quyền cấp phép;\nl) Giao đất, cho thuê đất cho tổ chức, hộ gia đình, cá nhân, người gốc Việt Nam định cư ở nước ngoài\ndo được bồi thường bằng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan,\ndo được hỗ trợ tái định cư theo quy định của Luật này;\nm) Giao đất, cho thuê đất cho người sử dụng đất bị thu hồi đất sản xuất, kinh doanh theo quy định tại\nĐiều 78 và Điều 79 của Luật này  mà tại thời điểm thu hồi đất còn thời hạn sử dụng đất và người sử\ndụng đất có nhu cầu sử dụng đất tại vị trí khác để tiếp tục sản xuất, kinh doanh;\nn) Giao đất, cho thuê đất đối với các thửa đất nhỏ hẹp, nằm xen kẹt theo quy định của Chính phủ;\no) Giao đất, cho thuê đất theo quyết định giải quyết tranh chấp đất đai, khiếu nại về đất đai của cơ\nquan có thẩm quyền đã có hiệu lực thi hành;\np) Các trường hợp khác do Thủ tướng Chính phủ quyết định.\n4. Người sử dụng đất chuyển mục đích sử dụng đất thuộc trường hợp quy định tại Điều 121 của Luật\nnày.\n5. Giao đất, cho thuê đất để thực hiện các dự án thuộc trường hợp Nhà nước thu hồi đất theo quy định\ntại Điều 79 của Luật này  mà không sử dụng vốn quy định tại khoản 2 Điều này trong trường hợp có nhà\nđầu tư quan tâm mà chỉ có một nhà đầu tư đáp ứng điều kiện mời quan tâm đối với dự án phải xác định\nsố lượng nhà đầu tư quan tâm theo quy định của pháp luật về đấu thầu, pháp luật quản lý ngành, lĩnh\nvực.\n6. Trường hợp đất đưa ra đấu giá quyền sử dụng đất 02 lần không thành thuộc trường hợp quy định tại\nđiểm b khoản 6 Điều 125 của Luật này  hoặc không có người tham gia. Thời gian giao đất, cho thuê đất\ntrong trường hợp này chỉ được thực hiện trong vòng 12 tháng kể từ ngày đấu giá không thành lần 2.\n7. Tổ chức kinh tế có vốn đầu tư nước ngoài nhận chuyển nhượng dự án bất động sản theo quy định\ncủa pháp luật về kinh doanh bất động sản.\n8. Chính phủ quy định chi tiết về giao đất, cho thuê đất đối với các trường hợp quy định tại Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_giaodat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "khainiem_chothuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoidautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà đầu tư"
+      }
+    },
+    {
+      "id": "dieukien_khongdaugia",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không đấu giá quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_khongdauthau",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không đấu thầu lựa chọn nhà đầu tư"
+      }
+    },
+    {
+      "id": "dieu_118_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 118 của Luật này"
+      }
+    },
+    {
+      "id": "dieu_119_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 119 của Luật này"
+      }
+    },
+    {
+      "id": "dieu_120_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 120 của Luật này"
+      }
+    },
+    {
+      "id": "dieu_79_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 79 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_canbocongchucvienchuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cán bộ, công chức, viên chức"
+      }
+    },
+    {
+      "id": "chuthe_siquantaingu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Sĩ quan tại ngũ"
+      }
+    },
+    {
+      "id": "chuthe_quannhanchuyennghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quân nhân chuyên nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_congchucquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công chức quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_congnhanvienchucquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công nhân và viên chức quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_siquanhasiquancongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Sĩ quan, hạ sĩ quan, công nhân công an"
+      }
+    },
+    {
+      "id": "chuthe_nguoilamcongtaccoyeu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người làm công tác cơ yếu"
+      }
+    },
+    {
+      "id": "chuthe_giaoviennhanvienyte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Giáo viên, nhân viên y tế"
+      }
+    },
+    {
+      "id": "chuthe_canhanthuongtru",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân thường trú"
+      }
+    },
+    {
+      "id": "chuthe_nguoiduocnhanuocchothue",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người được Nhà nước cho thuê đất"
+      }
+    },
+    {
+      "id": "dieu_176_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 176 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_nguoidantoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người dân tộc thiểu số"
+      }
+    },
+    {
+      "id": "dieu_16_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 16 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_donvisungghieplap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_donvivutranngnhandan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị vũ trang nhân dân"
+      }
+    },
+    {
+      "id": "chuthe_tochuchogiadinhcanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, hộ gia đình, cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdatbithuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất bị thu hồi đất"
+      }
+    },
+    {
+      "id": "dieu_78_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 78 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "dieu_121_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 121 của Luật này"
+      }
+    },
+    {
+      "id": "dieu_125_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 125 của Luật này"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "khainiem_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "khainiem_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_nhanuoidautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieukien_khongdaugia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieukien_khongdauthau",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieu_118_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieu_119_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieu_120_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieu_79_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_canbocongchucvienchuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_siquantaingu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_quannhanchuyennghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_congchucquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_congnhanvienchucquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_siquanhasiquancongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_nguoilamcongtaccoyeu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_giaoviennhanvienyte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_canhanthuongtru",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_nguoiduocnhanuocchothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieu_176_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_nguoidantoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieu_16_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_donvisungghieplap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_tochucnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_donvivutranngnhandan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_tochuchogiadinhcanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_nguoigocvietnam",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_nguoisudungdatbithuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieu_78_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieu_121_2024",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_124_2024",
+      "target_id": "dieu_125_2024",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

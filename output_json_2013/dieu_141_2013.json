@@ -1,0 +1,196 @@
+{
+  "entities": [
+    {
+      "id": "dieu_141_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 141. Đất bãi bồi ven sông, ven biển",
+        "ma_dieu": "141",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 141.\n\nĐất bãi bồi ven sông, ven biển\n1. Đất bãi bồi ven sông, ven biển bao gồm đất bãi bồi ven sông, đất cù lao trên sông, đất bãi bồi ven\nbiển và đất cù lao trên biển.\n2. Đất bãi bồi ven sông, ven biển thuộc địa phận xã, phường, thị trấn nào thì do Ủy ban nhân dân cấp\nxã đó quản lý.\nĐất bãi bồi ven sông, ven biển thường xuyên được bồi tụ hoặc thường bị sạt lở do Ủy ban nhân dân\ncấp huyện quản lý và bảo vệ.\n3. Đất bãi bồi ven sông, ven biển được Nhà nước cho thuê đối với tổ chức kinh tế, hộ gia đình, cá\nnhân, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài để thực hiện dự\nán đầu tư sản xuất, kinh doanh nông nghiệp, phi nông nghiệp.\n4. Hộ gia đình, cá nhân đã được Nhà nước giao đất bãi bồi ven sông, ven biển trước ngày Luật này có\nhiệu lực thi hành để sử dụng vào mục đích nông nghiệp thì được tiếp tục sử dụng trong thời hạn giao\nđất còn lại. Khi hết thời hạn giao đất, nếu có nhu cầu sử dụng đất, phù hợp với quy hoạch, kế hoạch sử\ndụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt và không vi phạm pháp luật về đất đai\nthì Nhà nước xem xét cho thuê đất.\n5. Nhà nước khuyến khích tổ chức kinh tế, hộ gia đình, cá nhân đầu tư đưa đất bãi bồi ven sông, ven\nbiển vào sử dụng.\n6. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_datbaiboivenSongvenbien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất bãi bồi ven sông, ven biển"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_tochucKinhTe",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_nguoiVietNamdinhcuonuocto",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_chothue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê"
+      }
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_quanly",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý"
+      }
+    },
+    {
+      "id": "hanhviphaply_baove",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo vệ"
+      }
+    },
+    {
+      "id": "hanhviphaply_khuyenkhichdautu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khuyến khích đầu tư"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "khainiem_datbaiboivenSongvenbien",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "chuthe_tochucKinhTe",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "chuthe_nguoiVietNamdinhcuonuocto",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "hanhviphaply_chothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "hanhviphaply_quanly",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "hanhviphaply_baove",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_141_2013",
+      "target_id": "hanhviphaply_khuyenkhichdautu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

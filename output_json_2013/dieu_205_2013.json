@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_205_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 205. Giải quyết tố cáo về đất đai",
+        "ma_dieu": "205",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 205.\n\nGiải quyết tố cáo về đất đai\n1. Cá nhân có quyền tố cáo vi phạm pháp luật về quản lý và sử dụng đất đai.\n2. Việc giải quyết tố cáo vi phạm pháp luật về quản lý và sử dụng đất đai thực hiện theo quy định của pháp luật về tố cáo."
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "hanhviphaply_tocao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tố cáo vi phạm pháp luật"
+      }
+    },
+    {
+      "id": "khainiem_datdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất đai"
+      }
+    },
+    {
+      "id": "khainiem_viemphapluat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Vi phạm pháp luật"
+      }
+    },
+    {
+      "id": "khainiem_quanlyvasudungdatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quản lý và sử dụng đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_205_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_205_2013",
+      "target_id": "hanhviphaply_tocao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_tocao",
+      "target_id": "khainiem_viemphapluat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_viemphapluat",
+      "target_id": "khainiem_quanlyvasudungdatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "khainiem_quanlyvasudungdatdai",
+      "target_id": "khainiem_datdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

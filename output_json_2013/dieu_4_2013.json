@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_4_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 4. Sở hữu đất đai",
+        "ma_dieu": "4",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 4.\n\nSở hữu đất đai\nĐất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này ."
+      }
+    },
+    {
+      "id": "khainiem_sodathai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Sở hữu đất đai"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_quyennguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_4_2013",
+      "target_id": "khainiem_sodathai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2013",
+      "target_id": "khainiem_quyennguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_4_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

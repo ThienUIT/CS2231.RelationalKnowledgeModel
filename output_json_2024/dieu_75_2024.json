@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_75_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 75. Công bố công khai quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "75",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 75.\n\nCông bố công khai quy hoạch, kế hoạch sử dụng đất\n1. Việc công bố công khai quy hoạch sử dụng đất quốc gia thực hiện theo quy định của pháp luật về quy\nhoạch. about:blank\n. Kế hoạch sử dụng đất quốc gia; quy hoạch, kế hoạch sử dụng đất cấp tỉnh; quy hoạch sử dụng đất\ncấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện sau khi được cơ quan nhà nước có thẩm quyền\nquyết định, phê duyệt phải được công bố công khai.\n3. Trách nhiệm công bố công khai quy hoạch, kế hoạch sử dụng đất được quy định như sau:\na) Bộ Tài nguyên và Môi trường có trách nhiệm công bố công khai quy hoạch, kế hoạch sử dụng đất\nquốc gia tại trụ sở cơ quan và trên cổng thông tin điện tử của Bộ Tài nguyên và Môi trường;\nb) Ủy ban nhân dân cấp tỉnh có trách nhiệm công bố công khai quy hoạch, kế hoạch sử dụng đất cấp\ntỉnh tại trụ sở cơ quan và trên cổng thông tin điện tử của Ủy ban nhân dân cấp tỉnh;\nc) Ủy ban nhân dân cấp huyện có trách nhiệm công bố công khai quy hoạch sử dụng đất cấp huyện, kế\nhoạch sử dụng đất hằng năm cấp huyện tại trụ sở cơ quan, trên cổng thông tin điện tử của Ủy ban nhân\ndân cấp huyện và công bố công khai nội dung quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất\nhằng năm cấp huyện có liên quan đến xã, phường, thị trấn tại trụ sở Ủy ban nhân dân cấp xã; Ủy ban\nnhân dân cấp xã có trách nhiệm công bố công khai đến người dân, người sử dụng đất tại địa bàn xã.\n4. Thời điểm, thời hạn phải công bố công khai quy hoạch, kế hoạch sử dụng đất theo quy định sau đây:\na) Chậm nhất là 15 ngày kể từ ngày được cơ quan nhà nước có thẩm quyền quyết định, phê duyệt thì\nquy hoạch, kế hoạch sử dụng đất phải được công bố công khai;\nb) Quy hoạch, kế hoạch sử dụng đất phải được công khai trong suốt kỳ quy hoạch, kế hoạch sử dụng\nđất.\n5. Tài liệu công bố công khai quy hoạch, kế hoạch sử dụng đất bao gồm:\na) Văn bản phê duyệt quy hoạch, kế hoạch sử dụng đất;\nb) Báo cáo thuyết minh về quy hoạch, kế hoạch sử dụng đất đã được phê duyệt;\nc) Bản đồ về quy hoạch sử dụng đất đã được phê duyệt."
+      }
+    },
+    {
+      "id": "hanhviphaply_congbo",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Công bố công khai"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenvamotruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_75_2024",
+      "target_id": "hanhviphaply_congbo",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_75_2024",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_75_2024",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_75_2024",
+      "target_id": "chuthe_botainguyenvamotruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_75_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_75_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_75_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

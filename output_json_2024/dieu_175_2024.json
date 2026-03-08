@@ -1,0 +1,132 @@
+{
+  "entities": [
+    {
+      "id": "dieu_175_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 175. Điều chỉnh thời hạn sử dụng đất của dự án đầu tư",
+        "ma_dieu": "175",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 175.\n\nĐiều chỉnh thời hạn sử dụng đất của dự án đầu tư\n1. Việc điều chỉnh thời hạn sử dụng đất đối với dự án đầu tư có sử dụng đất khi chưa hết thời hạn sử\ndụng đất phải đáp ứng các điều kiện sau đây:\na) Phù hợp với quy hoạch sử dụng đất cấp huyện;\nb) Có văn bản đề nghị điều chỉnh thời hạn sử dụng đất của dự án đầu tư;\nc) Đã hoàn thành nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật;\nd) Không thuộc trường hợp thu hồi đất quy định tại Điều 81 của Luật này ;\nđ) Có văn bản của cơ quan có thẩm quyền về việc điều chỉnh dự án đầu tư theo quy định của pháp luật\nmà có thay đổi thời hạn hoạt động của dự án đầu tư;\ne) Đáp ứng các điều kiện về môi trường theo quy định của pháp luật về bảo vệ môi trường.\n2. Thời hạn sử dụng đất của dự án sau khi được điều chỉnh không quá thời hạn quy định tại điểm c\nkhoản 1 Điều 172 của Luật này .\nMục 2. CHẾ ĐỘ SỬ DỤNG ĐẤT"
+      }
+    },
+    {
+      "id": "kha niệm_dieuchinhthoihansudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Điều chỉnh thời hạn sử dụng đất"
+      }
+    },
+    {
+      "id": "kha niệm_duandautu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án đầu tư"
+      }
+    },
+    {
+      "id": "dieukien_phuhopquyhoachsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "dieukien_covanbandenghidieuchinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có văn bản đề nghị điều chỉnh thời hạn sử dụng đất của dự án đầu tư"
+      }
+    },
+    {
+      "id": "dieukien_hoanthanhnghiavutaichinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đã hoàn thành nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật"
+      }
+    },
+    {
+      "id": "dieukien_khongthuocthuhoi",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không thuộc trường hợp thu hồi đất quy định tại Điều 81 của Luật này"
+      }
+    },
+    {
+      "id": "dieukien_covanbancoquanthamquyen",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có văn bản của cơ quan có thẩm quyền về việc điều chỉnh dự án đầu tư theo quy định của pháp luật mà có thay đổi thời hạn hoạt động của dự án đầu tư"
+      }
+    },
+    {
+      "id": "dieukien_dapunungdieukienmoitruong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đáp ứng các điều kiện về môi trường theo quy định của pháp luật về bảo vệ môi trường"
+      }
+    },
+    {
+      "id": "dieu_81_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 81 của Luật này",
+        "ma_dieu": "81",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 81 của Luật này (tham chiếu)"
+      }
+    },
+    {
+      "id": "dieu_172_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 172 của Luật này",
+        "ma_dieu": "172",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 172 của Luật này (tham chiếu)"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_175_2024",
+      "target_id": "kha niệm_dieuchinhthoihansudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2024",
+      "target_id": "kha niệm_duandautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_175_2024",
+      "target_id": "dieukien_phuhopquyhoachsudungdat",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_175_2024",
+      "target_id": "dieukien_covanbandenghidieuchinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_175_2024",
+      "target_id": "dieukien_hoanthanhnghiavutaichinh",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_175_2024",
+      "target_id": "dieukien_khongthuocthuhoi",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_175_2024",
+      "target_id": "dieukien_covanbancoquanthamquyen",
+      "relationship_type": "YEU_CAU"
+    },
+    {
+      "source_id": "dieu_175_2024",
+      "target_id": "dieukien_dapunungdieukienmoitruong",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

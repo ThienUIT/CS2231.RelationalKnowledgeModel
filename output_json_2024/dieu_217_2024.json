@@ -1,0 +1,196 @@
+{
+  "entities": [
+    {
+      "id": "dieu_217_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 217. Đất do cơ quan, tổ chức của Nhà nước quản lý",
+        "ma_dieu": "217",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 217.\n\nĐất do cơ quan, tổ chức của Nhà nước quản lý\n1. Đất do cơ quan, tổ chức của Nhà nước quản lý là đất chưa giao, chưa cho thuê hoặc đã được giao đất\nđể quản lý, bao gồm:\na) Đất sử dụng vào mục đích công cộng;\nb) Đất sông, ngòi, kênh, rạch, suối, ao, hồ, đầm, phá;\nc) Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt;\nd) Đất có mặt nước chuyên dùng;\nđ) Đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất;\ne) Đất do Nhà nước thu hồi và giao cho tổ chức phát triển quỹ đất quản lý;\ng) Đất do Nhà nước thu hồi và giao Ủy ban nhân dân cấp xã quản lý trong các trường hợp tại điểm đ\nkhoản 1 và khoản 3 Điều 82 ; khoản 2 Điều 82  tại khu vực nông thôn; khoản 5 Điều 86 ; điểm e khoản 2\nĐiều 181 của Luật này ;\nh) Đất giao lại, chuyển quyền sử dụng đất của tổ chức nước ngoài có chức năng ngoại giao khi không\ncó nhu cầu sử dụng đất thực hiện trên cơ sở điều ước quốc tế, thỏa thuận quốc tế và quy định của pháp\nluật có liên quan;\ni) Đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn;\nk) Đất chưa sử dụng.\n2. Cơ quan, tổ chức của Nhà nước được giao quản lý quỹ đất quy định tại khoản 1 Điều này có trách\nnhiệm quản lý, bảo toàn diện tích đất được giao quản lý; việc sử dụng quỹ đất nêu trên thực hiện theo\nchế độ sử dụng đất tương ứng theo quy định của Luật này ."
+      }
+    },
+    {
+      "id": "chuthe_coquantochuccuanhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan, tổ chức của Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_dat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất"
+      }
+    },
+    {
+      "id": "khainiem_datchuagiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất chưa giao"
+      }
+    },
+    {
+      "id": "khainiem_datchuachothue",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất chưa cho thuê"
+      }
+    },
+    {
+      "id": "khainiem_datsudungvaomucdichcongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích công cộng"
+      }
+    },
+    {
+      "id": "khainiem_datsongngoikênhrachsuoiaohodampha",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sông, ngòi, kênh, rạch, suối, ao, hồ, đầm, phá"
+      }
+    },
+    {
+      "id": "khainiem_datnghiatrangnhatanglecosohoatang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng"
+      }
+    },
+    {
+      "id": "khainiem_datcosoluutgitrocot",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cơ sở lưu giữ tro cốt"
+      }
+    },
+    {
+      "id": "khainiem_datcomatnuocchuyendung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có mặt nước chuyên dùng"
+      }
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng sản xuất"
+      }
+    },
+    {
+      "id": "khainiem_datdonhanuocthuhoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất do Nhà nước thu hồi"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiepsudungvaomucdichcongich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp sử dụng vào mục đích công ích"
+      }
+    },
+    {
+      "id": "khainiem_datchuasudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất chưa sử dụng"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "chuthe_coquantochuccuanhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_dat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datchuagiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datchuachothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datsudungvaomucdichcongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datsongngoikênhrachsuoiaohodampha",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datnghiatrangnhatanglecosohoatang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datcosoluutgitrocot",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datcomatnuocchuyendung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datdonhanuocthuhoi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datnongnghiepsudungvaomucdichcongich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_217_2024",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

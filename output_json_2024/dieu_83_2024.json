@@ -1,0 +1,280 @@
+{
+  "entities": [
+    {
+      "id": "dieu_83_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 83. Thẩm quyền thu hồi đất và xử lý trường hợp thu hồi đất, tài sản gắn liền với đất là tài sản công",
+        "ma_dieu": "83",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 83.\n\nThẩm quyền thu hồi đất và xử lý trường hợp thu hồi đất, tài sản gắn liền với đất là tài\nsản công\n1. Ủy ban nhân dân cấp tỉnh quyết định thu hồi đất đối với tổ chức trong nước, tổ chức tôn giáo, tổ\nchức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức nước ngoài có chức năng\nngoại giao, tổ chức kinh tế có vốn đầu tư nước ngoài thuộc trường hợp quy định tại  Điều 81 và Điều 82\ncủa Luật này . about:blank\n. Ủy ban nhân dân cấp huyện quyết định thu hồi đất trong các trường hợp sau đây:\na) Thu hồi đất thuộc trường hợp quy định tại  Điều 78 và Điều 79 của Luật này  không phân biệt người\nsử dụng đất, tổ chức, cá nhân đang quản lý, chiếm hữu đất;\nb) Thu hồi đất đối với hộ gia đình, cá nhân, cộng đồng dân cư thuộc trường hợp quy định tại Điều 81\nvà Điều 82 của Luật này .\n3. Trường hợp quyền sử dụng đất và tài sản gắn liền với đất là tài sản công thuộc các trường hợp thu\nhồi đất theo quy định của Luật này thì không phải thực hiện việc sắp xếp lại, xử lý tài sản công theo quy\nđịnh của pháp luật về quản lý, sử dụng tài sản công."
+      }
+    },
+    {
+      "id": "chuthe_uybanndancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuctrongnuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức trong nước"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo"
+      }
+    },
+    {
+      "id": "chuthe_tochuctongiaotructhuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo trực thuộc"
+      }
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
+    },
+    {
+      "id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
+    },
+    {
+      "id": "dieu_81_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 81",
+        "ma_dieu": "81",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 81 của Luật này"
+      }
+    },
+    {
+      "id": "dieu_82_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 82",
+        "ma_dieu": "82",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 82 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_uybanndancaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "dieu_78_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 78",
+        "ma_dieu": "78",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 78 của Luật này"
+      }
+    },
+    {
+      "id": "dieu_79_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 79",
+        "ma_dieu": "79",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 79 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "khainiem_quyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_taisanganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "khainiem_taisancong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tài sản công"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_uybanndancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_tochuctrongnuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_tochuctongiao",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_tochuctongiaotructhuoc",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "dieu_81_2024",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "dieu_82_2024",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_uybanndancaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "dieu_78_2024",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "dieu_79_2024",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "AP_DUNG_FOR"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "khainiem_quyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "khainiem_taisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_83_2024",
+      "target_id": "khainiem_taisancong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_245_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 245",
+        "ma_dieu": "245",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 245.\n\nSửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số\n77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số\n47/2019/QH14 và Nghị quyết số 96/2023/QH15\n1. Sửa đổi, bổ sung  điểm h khoản 3 Điều 19  như sau:\n“h) Thông qua quy hoạch sử dụng đất của tỉnh trước khi trình Thủ tướng Chính phủ phê duyệt; quyết\nđịnh biện pháp quản lý, sử dụng đất đai, tài nguyên nước, tài nguyên khoáng sản, nguồn lợi ở vùng\nbiển, vùng trời, tài nguyên thiên nhiên khác, bảo vệ môi trường trong phạm vi được phân quyền.”.\n2. Sửa đổi, bổ sung  điểm a khoản 2 Điều 26  như sau:\n“a) Thông qua kế hoạch phát triển kinh tế - xã hội trung hạn và hằng năm của huyện, quy hoạch sử dụng\nđất của huyện trước khi trình Ủy ban nhân dân cấp tỉnh phê duyệt;”.\n3. Sửa đổi, bổ sung  khoản 2 Điều 40  như sau:\n“2. Thông qua kế hoạch sử dụng đất của thành phố trực thuộc Trung ương theo quy định của Luật Đất\nđai trước khi trình Thủ tướng Chính phủ phê duyệt.”.\n4. Bổ sung khoản 2a vào sau  khoản 2 Điều 42  như sau:\n“2a. Phê duyệt quy hoạch, kế hoạch sử dụng đất của huyện trực thuộc theo quy định của Luật Đất đai.”.\n5. Sửa đổi, bổ sung  Điều 129  như sau:\n“"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "khainiem_kếhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_huyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "huyện"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_thanhphotructhuoctrunguong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "thành phố trực thuộc Trung ương"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_245_2024",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_245_2024",
+      "target_id": "chuthe_tinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_245_2024",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_245_2024",
+      "target_id": "khainiem_kếhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_245_2024",
+      "target_id": "chuthe_huyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_245_2024",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_245_2024",
+      "target_id": "chuthe_thanhphotructhuoctrunguong",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

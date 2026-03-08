@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "id": "dieu_42_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 42. Trách nhiệm tổ chức lập quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "42",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 42.\n\nTrách nhiệm tổ chức lập quy hoạch, kế hoạch sử dụng đất\n1. Chính phủ tổ chức lập quy hoạch, kế hoạch sử dụng đất cấp quốc gia. Bộ Tài nguyên và Môi trường\nchủ trì giúp Chính phủ trong việc lập quy hoạch, kế hoạch sử dụng đất cấp quốc gia.\n2. Ủy ban nhân dân cấp tỉnh tổ chức lập quy hoạch, kế hoạch sử dụng đất cấp tỉnh; Ủy ban nhân dân\ncấp huyện tổ chức lập quy hoạch, kế hoạch sử dụng đất cấp huyện. about:blank\nCơ quan quản lý đất đai cấp tỉnh, cấp huyện chủ trì giúp Ủy ban nhân dân cùng cấp trong việc lập quy\nhoạch, kế hoạch sử dụng đất.\n3. Bộ Quốc phòng tổ chức lập quy hoạch, kế hoạch sử dụng đất quốc phòng; Bộ Công an tổ chức lập\nquy hoạch, kế hoạch sử dụng đất an ninh.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_tochuclapquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tổ chức lập quy hoạch"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_botainguyenvmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_coquanquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan quản lý đất đai cấp tỉnh, cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
+    },
+    {
+      "id": "khainiem_quydinhchitiet",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy định chi tiết"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "hanhviphaply_tochuclapquyhoach",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "chuthe_botainguyenvmoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "chuthe_coquanquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_42_2013",
+      "target_id": "khainiem_quydinhchitiet",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

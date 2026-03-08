@@ -1,0 +1,100 @@
+{
+  "entities": [
+    {
+      "id": "dieu_5_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 5. Nguyên tắc sử dụng đất",
+        "ma_dieu": "5",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 5.\n\nNguyên tắc sử dụng đất\n1. Đúng mục đích sử dụng đất.\n2. Bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.\n3. Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ\nthực vật, phân hóa học làm ô nhiễm, thoái hóa đất.\n4. Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của\nLuật này và quy định khác của pháp luật có liên quan; không xâm phạm quyền, lợi ích hợp pháp của\nngười sử dụng đất liền kề và xung quanh."
+      }
+    },
+    {
+      "id": "khainiem_nguyentacsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nguyên tắc sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_dungmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đúng mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_sudungdatbenvungtietkiemhieuqua",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_baovedatbaovemoitruongthichungbiendoikhihau",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu"
+      }
+    },
+    {
+      "id": "hanhviphaply_khonglamdungthuocbaovethucvatphanhoahoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không được lạm dụng thuốc bảo vệ thực vật, phân hóa học làm ô nhiễm, thoái hóa đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchienquyennghiavunguoihanquyennghiavucuasdungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongxamphamquyenloiichhopnguoisudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không xâm phạm quyền, lợi ích hợp pháp của người sử dụng đất liền kề và xung quanh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_5_2024",
+      "target_id": "khainiem_nguyentacsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_dungmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_sudungdatbenvungtietkiemhieuqua",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_baovedatbaovemoitruongthichungbiendoikhihau",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_khonglamdungthuocbaovethucvatphanhoahoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_thuchienquyennghiavunguoihanquyennghiavucuasdungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_khongxamphamquyenloiichhopnguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

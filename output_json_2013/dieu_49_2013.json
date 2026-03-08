@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_49_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 49. Thực hiện quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "49",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 49.\n\nThực hiện quy hoạch, kế hoạch sử dụng đất\n1. Chính phủ tổ chức, chỉ đạo việc thực hiện quy hoạch, kế hoạch sử dụng đất cấp quốc gia. about:blank\nThủ tướng Chính phủ phân bổ chỉ tiêu sử dụng đất cho các tỉnh, thành phố trực thuộc trung ương, Bộ\nQuốc phòng, Bộ Công an trên cơ sở các chỉ tiêu sử dụng đất cấp quốc gia đã được Quốc hội quyết\nđịnh.\nỦy ban nhân dân cấp tỉnh, cấp huyện có trách nhiệm thực hiện quy hoạch, kế hoạch sử dụng đất của địa\nphương.\nỦy ban nhân dân cấp xã có trách nhiệm thực hiện quy hoạch, kế hoạch sử dụng đất trên địa bàn cấp xã.\nBộ Quốc phòng, Bộ Công an có trách nhiệm thực hiện quy hoạch, kế hoạch sử dụng đất quốc phòng, an\nninh.\n2. Trường hợp quy hoạch sử dụng đất đã được công bố mà chưa có kế hoạch sử dụng đất hàng năm\ncấp huyện thì người sử dụng đất được tiếp tục sử dụng và được thực hiện các quyền của người sử dụng\nđất theo quy định của pháp luật.\nTrường hợp đã có kế hoạch sử dụng đất hàng năm của cấp huyện thì người sử dụng đất trong khu vực\nphải chuyển mục đích sử dụng đất và thu hồi đất theo kế hoạch được tiếp tục thực hiện các quyền của\nngười sử dụng đất nhưng không được xây dựng mới nhà ở, công trình, trồng cây lâu năm; nếu người\nsử dụng đất có nhu cầu cải tạo, sửa chữa nhà ở, công trình hiện có thì phải được cơ quan nhà nước có\nthẩm quyền cho phép theo quy định của pháp luật.\n3. Diện tích đất ghi trong kế hoạch sử dụng đất hàng năm của cấp huyện đã được công bố phải thu hồi\nđể thực hiện dự án hoặc phải chuyển mục đích sử dụng đất mà sau 03 năm chưa có quyết định thu hồi\nđất hoặc chưa được phép chuyển mục đích sử dụng đất thì cơ quan nhà nước có thẩm quyền phê duyệt\nkế hoạch sử dụng đất phải điều chỉnh, hủy bỏ và phải công bố việc điều chỉnh, hủy bỏ việc thu hồi hoặc\nchuyển mục đích đối với phần diện tích đất ghi trong kế hoạch sử dụng đất.\nTrường hợp cơ quan nhà nước có thẩm quyền phê duyệt kế hoạch sử dụng đất không điều chỉnh, hủy\nbỏ hoặc có điều chỉnh, hủy bỏ nhưng không công bố việc điều chỉnh, hủy bỏ thì người sử dụng đất\nkhông bị hạn chế về quyền theo quy định tại khoản 2 Điều này .\n4. Khi kết thúc kỳ quy hoạch sử dụng đất mà các chỉ tiêu quy hoạch sử dụng đất chưa thực hiện hết thì\nvẫn được tiếp tục thực hiện đến khi quy hoạch sử dụng đất kỳ tiếp theo được cơ quan nhà nước có\nthẩm quyền quyết định, phê duyệt.\n5. Chính phủ quy định chi tiết việc tổ chức thực hiện quy hoạch, kế hoạch sử dụng đất."
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_tinhthanhphotructhuoctrung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tỉnh, thành phố trực thuộc trung ương"
+      }
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "khainiem_quyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "chuthe_tinhthanhphotructhuoctrung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "chuthe_uybannhandancaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "chuthe_uybannhandancapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_49_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

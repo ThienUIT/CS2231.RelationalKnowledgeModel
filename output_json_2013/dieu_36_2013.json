@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_36_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 36. Hệ thống quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "36",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 36.\n\nHệ thống quy hoạch, kế hoạch sử dụng đất\n1. Quy hoạch, kế hoạch sử dụng đất cấp quốc gia.\n2. Quy hoạch, kế hoạch sử dụng đất cấp tỉnh.\n3. Quy hoạch, kế hoạch sử dụng đất cấp huyện.\n4. Quy hoạch, kế hoạch sử dụng đất quốc phòng.\n5. Quy hoạch, kế hoạch sử dụng đất an ninh."
+      }
+    },
+    {
+      "id": "khainiem_hethongquyhoachkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống quy hoạch, kế hoạch sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdatcapquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất cấp quốc gia"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdatcaptinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdatcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdatquocphong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất quốc phòng"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdatanninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất an ninh"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_36_2013",
+      "target_id": "khainiem_hethongquyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_36_2013",
+      "target_id": "khainiem_quyhoachkehoachsudungdatcapquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_36_2013",
+      "target_id": "khainiem_quyhoachkehoachsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_36_2013",
+      "target_id": "khainiem_quyhoachkehoachsudungdatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_36_2013",
+      "target_id": "khainiem_quyhoachkehoachsudungdatquocphong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_36_2013",
+      "target_id": "khainiem_quyhoachkehoachsudungdatanninh",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

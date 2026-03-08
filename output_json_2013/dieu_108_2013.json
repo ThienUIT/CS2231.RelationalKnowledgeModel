@@ -1,0 +1,184 @@
+{
+  "entities": [
+    {
+      "id": "dieu_108_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 108. Căn cứ, thời điểm tính tiền sử dụng đất, tiền thuê đất",
+        "ma_dieu": "108",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 108.\n\nCăn cứ, thời điểm tính tiền sử dụng đất, tiền thuê đất\n1. Căn cứ tính tiền sử dụng đất:\na) Diện tích đất được giao, được chuyển mục đích sử dụng, được công nhận quyền sử dụng đất;\nb) Mục đích sử dụng đất;\nc) Giá đất theo quy định tại  Điều 1 14 của Luật này ; trường hợp đấu giá quyền sử dụng đất thì giá đất là\ngiá trúng đấu giá.\n2. Căn cứ tính tiền cho thuê đất:\na) Diện tích đất cho thuê;\nb) Thời hạn cho thuê đất;\nc) Đơn giá thuê đất; trường hợp đấu giá quyền thuê đất thì giá đất thuê là đơn giá trúng đấu giá;\nd) Hình thức Nhà nước cho thuê đất thu tiền thuê đất hàng năm hoặc cho thuê đất thu tiền thuê đất một\nlần cho cả thời gian thuê.\n3. Thời điểm tính thu tiền sử dụng đất, tiền thuê đất là thời điểm Nhà nước quyết định giao đất, cho\nthuê đất, cho phép chuyển mục đích sử dụng đất, công nhận quyền sử dụng đất."
+      }
+    },
+    {
+      "id": "khainiem_tiensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_tienthuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_dientichdatduocgiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Diện tích đất được giao"
+      }
+    },
+    {
+      "id": "khainiem_dientichdatduocchuyenmucdich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Diện tích đất được chuyển mục đích sử dụng"
+      }
+    },
+    {
+      "id": "khainiem_dientichdatduoccongnhanquyensudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Diện tích đất được công nhận quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_mucdichsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_giadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giá đất"
+      }
+    },
+    {
+      "id": "khainiem_daugiaquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đấu giá quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_dientichdatchothue",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Diện tích đất cho thuê"
+      }
+    },
+    {
+      "id": "khainiem_thoihanthuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thời hạn cho thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_dongiathuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đơn giá thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_daugiaquyenthuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đấu giá quyền thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_hinhthucnhanuocchothuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hình thức Nhà nước cho thuê đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_tiensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_tienthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_dientichdatduocgiao",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_dientichdatduocchuyenmucdich",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_dientichdatduoccongnhanquyensudung",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_mucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_giadat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_daugiaquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_dientichdatchothue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_thoihanthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_dongiathuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_daugiaquyenthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "khainiem_hinhthucnhanuocchothuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_108_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

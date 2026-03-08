@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_192_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 192. Tập trung đất nông nghiệp",
+        "ma_dieu": "192",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 192.\n\nTập trung đất nông nghiệp\n1. Tập trung đất nông nghiệp  là việc tăng diện tích đất nông nghiệp để tổ chức sản xuất thông qua các\nphương thức sau đây:\na) Chuyển đổi quyền sử dụng đất nông nghiệp theo phương án dồn điền, đổi thửa ;\nb) Thuê quyền sử dụng đất;\nc) Hợp tác sản xuất, kinh doanh bằng quyền sử dụng đất.\n2. Việc tập trung đất nông nghiệp phải bảo đảm các nguyên tắc sau đây:\na) Bảo đảm công khai, minh bạch, tự nguyện, dân chủ, công bằng; about:blank\nb) Bảo đảm quyền, lợi ích hợp pháp của Nhà nước, người sử dụng đất và của tổ chức, cá nhân có liên\nquan; không ảnh hưởng đến quốc phòng, an ninh;\nc) Tuân thủ quy định của pháp luật về đất đai, pháp luật về dân sự và quy định khác của pháp luật có\nliên quan; phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt;\nd) Phù hợp với đặc điểm về đất đai, địa hình, khí hậu, văn hóa, quá trình chuyển dịch lao động, chuyển\nđổi nghề, việc làm ở nông thôn của từng vùng, từng khu vực, từng địa phương và phù hợp với nhu cầu\ncủa thị trường .\n3. Nhà nước có chính sách khuyến khích tổ chức, cá nhân thực hiện tập trung đất để sản xuất nông\nnghiệp; ứng dụng khoa học, công nghệ để sử dụng tiết kiệm, hiệu quả quỹ đất đã tập trung.\nKinh phí cho công tác đo đạc, chỉnh lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu tài sản gắn liền với đất để thực hiện dồn điền, đổi thửa nhằm tập trung đất để sản xuất\nnông nghiệp do ngân sách nhà nước bảo đảm.\n4. Tổ chức kinh tế, cá nhân thực hiện việc tập trung đất nông nghiệp phải lập phương án sử dụng đất\ngửi Ủy ban nhân dân cấp xã để theo dõi. Trường hợp trong phương án sử dụng đất mà có thay đổi mục\nđích sử dụng đất trong nội bộ nhóm đất nông nghiệp thì phải thỏa thuận với người sử dụng đất về việc\nhoàn trả đất nông nghiệp sau khi đã tham gia tập trung đất đai. Trường hợp tập trung đất nông nghiệp\nmà phải điều chỉnh lại quyền sử dụng đất thì thực hiện theo quy định tại Điều 219 của Luật này .\n5. Ủy ban nhân dân các cấp có trách nhiệm tuyên truyền, phổ biến chính sách, pháp luật, hướng dẫn, hỗ\ntrợ các bên trong việc thực hiện tập trung đất nông nghiệp và bảo đảm ổn định quy hoạch đối với diện\ntích đất nông nghiệp đã tập trung.\n6. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "khainiem_taptungdatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tập trung đất nông nghiệp"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyendoiquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển đổi quyền sử dụng đất nông nghiệp theo phương án dồn điền, đổi thửa"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuequyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_hoptacsanxuatkinhdoanh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hợp tác sản xuất, kinh doanh bằng quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức, cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_tochucconomi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
+    },
+    {
+      "id": "chuthe_ubanndancapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_ubanndancaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "khainiem_taptungdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "hanhviphaply_chuyendoiquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "hanhviphaply_thuequyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "hanhviphaply_hoptacsanxuatkinhdoanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "chuthe_tochucconomi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "chuthe_ubanndancapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "chuthe_ubanndancaccap",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_192_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "entities": [
+    {
+      "id": "dieu_120_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 120. Hệ thống thông tin đất đai",
+        "ma_dieu": "120",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 120.\n\nHệ thống thông tin đất đai\n1. Hệ thống thông tin đất đai được thiết kế tổng thể và xây dựng thành một hệ thống thống nhất trên\nphạm vi cả nước, phục vụ đa mục tiêu; theo tiêu chuẩn, quy chuẩn quốc gia, quốc tế được công nhận tại\nViệt Nam.\n2. Hệ thống thông tin đất đai gồm các thành phần cơ bản sau đây:\na) Hạ tầng kỹ thuật công nghệ thông tin đất đai;\nb) Hệ thống phần mềm hệ điều hành, phần mềm hệ thống và phần mềm ứng dụng;\nc) Cơ sở dữ liệu đất đai quốc gia."
+      }
+    },
+    {
+      "id": "khainiem_hethongthongtindatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin đất đai"
+      }
+    },
+    {
+      "id": "khainiem_hatangkythuatcongnghethongtindatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hạ tầng kỹ thuật công nghệ thông tin đất đai"
+      }
+    },
+    {
+      "id": "khainiem_hethongphanmemhedieuhanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống phần mềm hệ điều hành, phần mềm hệ thống và phần mềm ứng dụng"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieudatdaiquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu đất đai quốc gia"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_120_2013",
+      "target_id": "khainiem_hethongthongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2013",
+      "target_id": "khainiem_hatangkythuatcongnghethongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2013",
+      "target_id": "khainiem_hethongphanmemhedieuhanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_120_2013",
+      "target_id": "khainiem_cosodulieudatdaiquocgia",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

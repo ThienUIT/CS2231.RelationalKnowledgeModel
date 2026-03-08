@@ -1,0 +1,126 @@
+{
+  "entities": [
+    {
+      "id": "dieu_8_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Người chịu trách nhiệm trước Nhà nước đối với đất được giao để quản lý",
+        "ma_dieu": "8",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 8.\n\nNgười chịu trách nhiệm trước Nhà nước đối với đất được giao để quản lý\n1. Người đứng đầu của tổ chức chịu trách nhiệm đối với việc quản lý đất trong các trường hợp sau đây:\na) Tổ chức được giao quản lý công trình công cộng, gồm công trình đường giao thông, cầu, cống, vỉa\nhè, hệ thống cấp nước, hệ thống thoát nước, hệ thống công trình thủy lợi, đê, đập; quảng trường, tượng\nđài, bia tưởng niệm;\nb) Tổ chức kinh tế được giao quản lý diện tích đất để thực hiện dự án đầu tư theo hình thức xây dựng -\nchuyển giao (BT) và các hình thức khác theo quy định của pháp luật về đầu tư;\nc) Tổ chức được giao quản lý đất có mặt nước của các sông và đất có mặt nước chuyên dùng;\nd) Tổ chức được giao quản lý quỹ đất đã thu hồi theo quyết định của cơ quan nhà nước có thẩm quyền.\n2. Chủ tịch Ủy ban nhân dân cấp xã chịu trách nhiệm đối với việc quản lý đất sử dụng vào mục đích\ncông cộng được giao để quản lý, đất chưa giao, đất chưa cho thuê tại địa phương.\n3. Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm đối với việc quản\nlý đất chưa sử dụng tại các đảo chưa có người ở thuộc địa phương.\n4. Người đại diện cho cộng đồng dân cư là người chịu trách nhiệm đối với đất được giao cho cộng\nđồng dân cư quản lý."
+      }
+    },
+    {
+      "id": "chuthe_nguoidungdaucuatochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đứng đầu của tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
+    },
+    {
+      "id": "chuthe_tochucduocgiaoquanlycongtrinhcongcong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức được giao quản lý công trình công cộng"
+      }
+    },
+    {
+      "id": "chuthe_tochucduocgiaoquanlydientichdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế được giao quản lý diện tích đất"
+      }
+    },
+    {
+      "id": "chuthe_tochucduocgiaoquanlydatcomatnuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức được giao quản lý đất có mặt nước"
+      }
+    },
+    {
+      "id": "chuthe_tochucduocgiaoquanlyquydat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức được giao quản lý quỹ đất"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_chutichubndtinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương"
+      }
+    },
+    {
+      "id": "chuthe_nguoidaidiencongdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đại diện cho cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "khainiem_datduocgiaodemanage",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất được giao để quản lý"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_8_2013",
+      "target_id": "chuthe_nguoidungdaucuatochuc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2013",
+      "target_id": "chuthe_tochucduocgiaoquanlycongtrinhcongcong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2013",
+      "target_id": "chuthe_tochucduocgiaoquanlydientichdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2013",
+      "target_id": "chuthe_tochucduocgiaoquanlydatcomatnuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2013",
+      "target_id": "chuthe_tochucduocgiaoquanlyquydat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2013",
+      "target_id": "chuthe_chutichubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2013",
+      "target_id": "chuthe_chutichubndtinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_8_2013",
+      "target_id": "chuthe_nguoidaidiencongdongdancu",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

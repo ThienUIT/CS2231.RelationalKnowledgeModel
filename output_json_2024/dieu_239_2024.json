@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_239_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 239. Xử lý đối với người có hành vi vi phạm pháp luật về đất đai",
+        "ma_dieu": "239",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 239.\n\nXử lý đối với người có hành vi vi phạm pháp luật về đất đai\nNgười có hành vi vi phạm pháp luật về đất đai thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ\nluật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi\nthường theo quy định của pháp luật."
+      }
+    },
+    {
+      "id": "chuthe_nguoicohanhvi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có hành vi vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_vihamphapluat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "vi phạm pháp luật về đất đai"
+      }
+    },
+    {
+      "id": "chetai_xulykyluat",
+      "label": "CheTai",
+      "properties": {
+        "name": "xử lý kỷ luật"
+      }
+    },
+    {
+      "id": "chetai_xulyvihamhanhchinh",
+      "label": "CheTai",
+      "properties": {
+        "name": "xử lý vi phạm hành chính"
+      }
+    },
+    {
+      "id": "chetai_truycuutrachnhiemhinhsu",
+      "label": "CheTai",
+      "properties": {
+        "name": "truy cứu trách nhiệm hình sự"
+      }
+    },
+    {
+      "id": "chetai_boithuong",
+      "label": "CheTai",
+      "properties": {
+        "name": "bồi thường"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_239_2024",
+      "target_id": "chuthe_nguoicohanhvi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_239_2024",
+      "target_id": "hanhviphaply_vihamphapluat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_239_2024",
+      "target_id": "chetai_xulykyluat",
+      "relationship_type": "DAN_DEN"
+    },
+    {
+      "source_id": "dieu_239_2024",
+      "target_id": "chetai_xulyvihamhanhchinh",
+      "relationship_type": "DAN_DEN"
+    },
+    {
+      "source_id": "dieu_239_2024",
+      "target_id": "chetai_truycuutrachnhiemhinhsu",
+      "relationship_type": "DAN_DEN"
+    },
+    {
+      "source_id": "dieu_239_2024",
+      "target_id": "chetai_boithuong",
+      "relationship_type": "DAN_DEN"
+    }
+  ]
+}

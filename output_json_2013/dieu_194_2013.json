@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_194_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 194. Điều kiện chuyển nhượng quyền sử dụng đất trong thực hiện dự án đầu tư xây dựng kinh doanh nhà ở; dự án đầu tư xây dựng kết cấu hạ tầng để chuyển nhượng hoặc cho thuê",
+        "ma_dieu": "194",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 194.\n\nĐiều kiện chuyển nhượng quyền sử dụng đất tr ong thực hiện dự án đầu tư xây dựng\nkinh doanh nhà ở; dự án đầu tư xây dựng kết cấu hạ tầng để chuyển nhượng hoặc cho thuê\n1. Việc chuyển nhượng quyền sử dụng đất trong dự án đầu tư xây dựng kinh doanh nhà ở được thực\nhiện theo quy định sau đây: about:blank\na) Ủy ban nhân dân cấp tỉnh căn cứ vào quy định của Chính phủ về điều kiện loại đô thị để cho phép\nchủ đầu tư dự án đầu tư xây dựng kinh doanh nhà ở được chuyển nhượng quyền sử dụng đất dưới hình\nthức phân lô sau khi đã hoàn thành đầu tư xây dựng kết cấu hạ tầng và nghĩa vụ tài chính về đất đai;\nb) Đối với các dự án đầu tư xây dựng kinh doanh nhà ở thì được chuyển nhượng quyền sử dụng đất\ngắn với việc chuyển nhượng toàn bộ hoặc một phần dự án khi đã có Giấy chứng nhận. Người nhận\nchuyển nhượng quyền sử dụng đất phải thực hiện dự án đầu tư đúng theo tiến độ đã được phê duyệt.\n2. Việc chuyển nhượng quyền sử dụng đất gắn với chuyển nhượng toàn bộ dự án đầu tư xây dựng kết\ncấu hạ tầng để chuyển nhượng hoặc cho thuê phải đáp ứng các điều kiện sau đây:\na) Có đủ các điều kiện quy định tại  khoản 1 Điều 188 của Luật này ;\nb) Dự án phải xây dựng xong các công trình hạ tầng kỹ thuật tương ứng theo tiến độ ghi trong dự án đã\nđược phê duyệt.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
+    },
+    {
+      "id": "dieukien_chuyennhuongquyen",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện chuyển nhượng quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chuyennhuongquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển nhượng quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_uybanndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_chudautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ đầu tư dự án đầu tư xây dựng kinh doanh nhà ở"
+      }
+    },
+    {
+      "id": "chuthe_nguoinhanchuyennhuong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người nhận chuyển nhượng quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_giaychungnhan",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đã có Giấy chứng nhận"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_194_2013",
+      "target_id": "dieukien_chuyennhuongquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_194_2013",
+      "target_id": "hanhviphaply_chuyennhuongquyen",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_194_2013",
+      "target_id": "chuthe_uybanndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_194_2013",
+      "target_id": "chuthe_chudautu",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_194_2013",
+      "target_id": "chuthe_nguoinhanchuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_194_2013",
+      "target_id": "dieukien_giaychungnhan",
+      "relationship_type": "YEU_CAU"
+    }
+  ]
+}

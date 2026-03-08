@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_19_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 19",
+        "ma_dieu": "19",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 19.\n\nNhà nước quyết định chính sách tài chính về đất đai about:blank\n. Nhà nước quyết định chính sách thu, chi tài chính về đất đai.\n2. Nhà nước điều tiết phần giá trị tăng thêm từ đất mà không do đầu tư của người sử dụng đất mang lại\nthông qua chính sách thuế, tiền sử dụng đất, tiền thuê đất, đầu tư cơ sở hạ tầng và chính sách hỗ trợ\ncho người có đất thu hồi."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_chinhsachtaichinhvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chính sách tài chính về đất đai"
+      }
+    },
+    {
+      "id": "hanhviphaply_quyetdinhchinhsachthuchi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định chính sách thu, chi tài chính"
+      }
+    },
+    {
+      "id": "hanhviphaply_dieutietgiatritangthem",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tiết phần giá trị tăng thêm"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_chinhsachthue",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chính sách thuế"
+      }
+    },
+    {
+      "id": "khainiem_tiensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_tienthuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền thuê đất"
+      }
+    },
+    {
+      "id": "khainiem_dautucosohatang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đầu tư cơ sở hạ tầng"
+      }
+    },
+    {
+      "id": "khainiem_chinhsachhotro",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chính sách hỗ trợ"
+      }
+    },
+    {
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có đất thu hồi"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_19_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_19_2013",
+      "target_id": "khainiem_chinhsachtaichinhvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_quyetdinhchinhsachthuchi",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_dieutietgiatritangthem",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "AP_DUNG_CHO"
+    },
+    {
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_chinhsachthue",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_tiensudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_tienthuedat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_dautucosohatang",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_chinhsachhotro",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "chuthe_nguoicodatthuhoi",
+      "relationship_type": "AP_DUNG_CHO"
+    }
+  ]
+}

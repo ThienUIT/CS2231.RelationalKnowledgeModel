@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_18_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 18. Trách nhiệm của Nhà nước trong việc cung cấp thông tin đất đai",
+        "ma_dieu": "18",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 18.\n\nTrách nhiệm của Nhà nước tr ong việc cung cấp thông tin đất đai\n1. Bảo đảm quyền tiếp cận của người sử dụng đất và tổ chức, cá nhân khác đối với Hệ thống thông tin\nquốc gia về đất đai theo quy định của pháp luật; ưu tiên lựa chọn hình thức phù hợp với phong tục, tập\nquán và văn hóa truyền thống của từng dân tộc, từng vùng.\n2. Công bố kịp thời, công khai thông tin thuộc Hệ thống thông tin quốc gia về đất đai cho người sử\ndụng đất và tổ chức, cá nhân khác, trừ những thông tin thuộc bí mật nhà nước theo quy định của pháp\nluật. about:blank\n. Thông báo quyết định hành chính, hành vi hành chính trong lĩnh vực quản lý đất đai đến người sử\ndụng đất và tổ chức, cá nhân khác bị ảnh hưởng quyền và lợi ích hợp pháp."
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_thongtindatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thông tin đất đai"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức, cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_hethongthongtinquocgiadatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin quốc gia về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_18_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2024",
+      "target_id": "khainiem_thongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2024",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_18_2024",
+      "target_id": "khainiem_hethongthongtinquocgiadatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}

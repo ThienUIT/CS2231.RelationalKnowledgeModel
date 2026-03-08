@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "id": "dieu_24_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 24. Cơ quan quản lý đất đai",
+        "ma_dieu": "24",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 24.\n\nCơ quan quản lý đất đai\n1. Hệ thống tổ chức cơ quan quản lý đất đai được tổ chức thống nhất từ trung ương đến địa phương.\n2. Cơ quan quản lý nhà nước về đất đai ở trung ương là Bộ Tài nguyên và Môi trường.\nCơ quan quản lý đất đai ở địa phương được thành lập ở tỉnh, thành phố trực thuộc trung ương và ở\nhuyện, quận, thị xã, thành phố thuộc tỉnh; tổ chức dịch vụ công về đất đai được thành lập và hoạt động\ntheo quy định của Chính phủ."
+      }
+    },
+    {
+      "id": "khainiem_coquanquanlydatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ quan quản lý đất đai"
+      }
+    },
+    {
+      "id": "khainiem_hethongtochuccoquanquanlydatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống tổ chức cơ quan quản lý đất đai"
+      }
+    },
+    {
+      "id": "khainiem_coquanquanlynhanuocvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ quan quản lý nhà nước về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_botainnguyenvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
+    },
+    {
+      "id": "khainiem_coquanquanlydatdaiođiaophuong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ quan quản lý đất đai ở địa phương"
+      }
+    },
+    {
+      "id": "khainiem_tochucdichvucongvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tổ chức dịch vụ công về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_24_2013",
+      "target_id": "khainiem_coquanquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2013",
+      "target_id": "khainiem_hethongtochuccoquanquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2013",
+      "target_id": "khainiem_coquanquanlynhanuocvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2013",
+      "target_id": "chuthe_botainnguyenvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2013",
+      "target_id": "khainiem_coquanquanlydatdaiođiaophuong",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_24_2013",
+      "target_id": "khainiem_tochucdichvucongvedatdai",
+      "relationship_type": "QUY_DINH_VE"
+    }
+  ]
+}
