@@ -46,7 +46,6 @@ except RuntimeError as e:
     st.error(f"Không thể khởi động ứng dụng. {e}")
     st.stop()
 
-@st.cache_data(show_spinner=False)
 def retrieval_pipeline(_query: str, initial_k: int = 20, final_k: int = 5):
     """
     Thực hiện pipeline truy xuất hoàn chỉnh: Search -> Rerank.

@@ -26,7 +26,6 @@ class GeminiProvider(BaseLLM):
 
     def __init__(self):
         api_key = os.getenv("GOOGLE_API_KEY")
-
         if not api_key:
             raise ValueError("GOOGLE_API_KEY not configured")
 
@@ -207,7 +206,7 @@ class LLMClient:
 
 if __name__ == "__main__":
 
-    llm = LLMClient(default_provider="ollama")
+    llm = LLMClient(default_provider="gemini")
 
     prompt = "Luật đất đai 2024 có hiệu lực khi nào?"
 
